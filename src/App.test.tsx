@@ -172,3 +172,74 @@ describe("child's Today schedule", () => {
     expect(await screen.findByText(/No schedule is set up for this level yet/)).toBeInTheDocument()
   })
 })
+
+describe('playing a lesson from Today', () => {
+  const MONDAY = new Date(2026, 9, 12, 10, 0)
+
+  it('plays the on-screen activities, saves progress, and ticks the block when finished', async () => {
+    vi.useFakeTimers({ toFake: ['Date'] })
+    vi.setSystemTime(MONDAY)
+    const ctx = setup('/')
+    await ctx.app.getState().load()
+    const child = await ctx.app.getState().addChild({ name: 'Ada', avatar: '🦊', grade: 'prek' })
+    const { user } = ctx
+
+    await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await user.click(await screen.findByRole('link', { name: /Start Number app time/ }))
+    expect(await screen.findByRole('heading', { name: 'Counting game' })).toBeInTheDocument()
+    expect(screen.getByText('Activity 1 of 3')).toBeInTheDocument()
+
+    // Activity 1: count the apples (one wrong answer first).
+    await user.click(screen.getByRole('button', { name: '2' }))
+    await user.click(screen.getByRole('button', { name: '3' }))
+    await user.click(screen.getByRole('button', { name: 'Next' }))
+
+    // Activity 2: count the stars.
+    expect(screen.getByText('Activity 2 of 3')).toBeInTheDocument()
+    await user.click(screen.getByRole('button', { name: '5' }))
+    await user.click(screen.getByRole('button', { name: 'Next' }))
+
+    // Activity 3: find seven, then finish.
+    await user.click(screen.getByRole('button', { name: '7' }))
+    await user.click(screen.getByRole('button', { name: 'All done!' }))
+
+    // Back on Today with the block ticked and the meter updated.
+    expect(await screen.findByRole('heading', { name: 'Monday' })).toBeInTheDocument()
+    expect(await screen.findByRole('checkbox', { name: /Number app time/ })).toBeChecked()
+    expect(screen.getByText(/App time today: 10 of 20 min/)).toBeInTheDocument()
+
+    const records = await ctx.progress.getProgress(child.id)
+    expect(records.map((r) => r.activityId).sort()).toEqual(['pk-count-apples', 'pk-count-stars', 'pk-find-seven'])
+    expect(records.find((r) => r.activityId === 'pk-count-apples')).toMatchObject({ status: 'done', attempts: 2, lessonId: 'pk-numbers-app', lessonVersion: 1 })
+  })
+
+  it('adds up attempts across repeat play-throughs', async () => {
+    const stores = newStores()
+    await stores.app.getState().load()
+    const child = await stores.app.getState().addChild({ name: 'Bo', avatar: '🐼', grade: 'prek' })
+    const input = { childId: child.id, lessonId: 'l', lessonVersion: 1, activityId: 'a', attempts: 2, timeSpentSec: 10 }
+    await stores.app.getState().recordActivity(input)
+    await stores.app.getState().recordActivity({ ...input, attempts: 1, timeSpentSec: 5 })
+    const [record] = await stores.progress.getProgress(child.id)
+    expect(record).toMatchObject({ attempts: 3, timeSpentSec: 15, status: 'done' })
+  })
+
+  it('does not offer Start for hands-on blocks, and sends bad lesson links home', async () => {
+    vi.useFakeTimers({ toFake: ['Date'] })
+    vi.setSystemTime(MONDAY)
+    const ctx = setup('/')
+    await ctx.app.getState().load()
+    await ctx.app.getState().addChild({ name: 'Ada', avatar: '🦊', grade: 'prek' })
+    await ctx.user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await screen.findByRole('heading', { name: 'Monday' })
+    expect(screen.getAllByRole('link', { name: /^Start / })).toHaveLength(2) // the two app-time blocks only
+  })
+
+  it('redirects a lesson link with an unknown lesson back to the child page', async () => {
+    const stores = newStores()
+    await stores.app.getState().load()
+    const child = await stores.app.getState().addChild({ name: 'Cy', avatar: '🐸', grade: 'prek' })
+    mount(stores, `/child/${child.id}/lesson/nope`)
+    expect(await screen.findByRole('heading', { name: /Hi, Cy!/ })).toBeInTheDocument()
+  })
+})

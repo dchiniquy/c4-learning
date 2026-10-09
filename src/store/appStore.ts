@@ -7,6 +7,15 @@ import type { Child, ExportData, NewChild, PinRecord, ScheduleCheck } from './ty
 export const MAX_PIN_ATTEMPTS = 5
 export const LOCKOUT_MS = 30_000
 
+export type ActivityRecordInput = {
+  childId: string
+  lessonId: string
+  lessonVersion: number
+  activityId: string
+  attempts: number
+  timeSpentSec: number
+}
+
 export type UnlockResult = 'ok' | 'wrong' | 'locked'
 
 export type AppState = {
@@ -25,6 +34,8 @@ export type AppState = {
   addChild(input: NewChild): Promise<Child>
   updateChild(id: string, patch: Partial<NewChild>): Promise<void>
   deleteChild(id: string): Promise<void>
+  /** Marks an activity done and adds this play-through's attempts and time to any earlier totals. */
+  recordActivity(input: ActivityRecordInput): Promise<void>
   loadChecks(childId: string, date: string): Promise<ScheduleCheck[]>
   setBlockDone(childId: string, date: string, blockKey: string, done: boolean): Promise<void>
   exportData(): Promise<ExportData>
@@ -87,6 +98,19 @@ export function createAppStore(progress: ProgressStore) {
     async deleteChild(id) {
       await progress.deleteChild(id)
       set({ children: await progress.listChildren() })
+    },
+
+    async recordActivity({ childId, lessonId, lessonVersion, activityId, attempts, timeSpentSec }) {
+      const earlier = (await progress.getProgress(childId)).find((r) => r.activityId === activityId)
+      const now = Date.now()
+      await progress.putProgress({
+        childId, activityId, lessonId, lessonVersion,
+        status: 'done',
+        attempts: (earlier?.attempts ?? 0) + attempts,
+        timeSpentSec: (earlier?.timeSpentSec ?? 0) + timeSpentSec,
+        completedAt: now,
+        updatedAt: now,
+      })
     },
 
     loadChecks: (childId, date) => progress.getChecks(childId, date),

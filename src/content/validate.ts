@@ -1,3 +1,4 @@
+import { isInteractive, PAYLOAD_SCHEMAS } from '../activities/payloads.ts'
 import { SCREEN_BUDGET_MINUTES, type ContentBundle } from './schema.ts'
 
 const toMinutes = (hhmm: string) => {
@@ -68,8 +69,17 @@ export function validateContent(bundle: ContentBundle): string[] {
       if (act.mode === 'offline' && act.leadBy === 'app') {
         errors.push(`activity "${act.id}" in "${lesson.id}" is offline but led by the app`)
       }
-      if (act.mode === 'screen' && !act.audio && (lesson.grade === 'prek' || lesson.grade === 'k')) {
-        errors.push(`screen activity "${act.id}" in "${lesson.id}" needs audio (non-readers)`)
+      if (act.mode === 'screen' && !act.audio && !act.prompt && (lesson.grade === 'prek' || lesson.grade === 'k')) {
+        errors.push(`screen activity "${act.id}" in "${lesson.id}" needs a prompt or audio (non-readers)`)
+      }
+      if (act.mode === 'screen' && isInteractive(act.type)) {
+        if (!act.prompt) errors.push(`interactive activity "${act.id}" in "${lesson.id}" needs a prompt`)
+        const parsed = PAYLOAD_SCHEMAS[act.type].safeParse(act.payload)
+        if (!parsed.success) {
+          for (const issue of parsed.error.issues) {
+            errors.push(`activity "${act.id}" in "${lesson.id}": payload.${issue.path.join('.')}: ${issue.message}`)
+          }
+        }
       }
     }
   }

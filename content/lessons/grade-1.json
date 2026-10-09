@@ -17,9 +17,25 @@
         "leadBy": "app",
         "title": "Fill the ten-frame",
         "minutes": 15,
+        "prompt": "Some counters are already in the ten-frame. Tap the empty spots to make ten.",
         "materials": [],
         "parentPrompts": [],
-        "payload": {}
+        "payload": {
+          "rounds": [
+            {
+              "start": 8
+            },
+            {
+              "start": 7
+            },
+            {
+              "start": 9
+            },
+            {
+              "start": 6
+            }
+          ]
+        }
       },
       {
         "id": "g1-make-ten-hands",
@@ -88,9 +104,57 @@
         "leadBy": "app",
         "title": "Sort words by sh, ch, th",
         "minutes": 15,
+        "prompt": "Tap a word, then tap the sounds it starts or ends with.",
         "materials": [],
         "parentPrompts": [],
-        "payload": {}
+        "payload": {
+          "categories": [
+            {
+              "id": "sh",
+              "label": "sh"
+            },
+            {
+              "id": "ch",
+              "label": "ch"
+            },
+            {
+              "id": "th",
+              "label": "th"
+            }
+          ],
+          "items": [
+            {
+              "id": "ship",
+              "label": "ship",
+              "categoryId": "sh"
+            },
+            {
+              "id": "fish",
+              "label": "fish",
+              "categoryId": "sh"
+            },
+            {
+              "id": "chop",
+              "label": "chop",
+              "categoryId": "ch"
+            },
+            {
+              "id": "much",
+              "label": "much",
+              "categoryId": "ch"
+            },
+            {
+              "id": "thin",
+              "label": "thin",
+              "categoryId": "th"
+            },
+            {
+              "id": "bath",
+              "label": "bath",
+              "categoryId": "th"
+            }
+          ]
+        }
       },
       {
         "id": "g1-digraphs-hands",

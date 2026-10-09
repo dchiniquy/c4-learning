@@ -1,4 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
+import { Link } from 'react-router-dom'
+import { isInteractive } from '../../activities/payloads.ts'
 import { useContent } from '../../content/context.ts'
 import { formatTime, isoWeekday, localDateString, planDay, templateForGrade } from '../../schedule/engine.ts'
 import { useApp } from '../../store/appStore.ts'
@@ -73,6 +75,13 @@ export default function TodaySchedule({ child }: { child: Child }) {
                     {block.mode === 'screen' ? 'on a screen' : 'away from the screen'}
                   </span>
                 </label>
+                {lesson && block.mode === 'screen' && lesson.activities.some((a) => a.mode === 'screen' && isInteractive(a.type)) && (
+                  <p>
+                    <Link className="big-button start" to={`/child/${child.id}/lesson/${lesson.id}?block=${encodeURIComponent(key)}`}>
+                      Start {block.label}
+                    </Link>
+                  </p>
+                )}
                 {lesson && (
                   <details>
                     <summary>For the grown-up: {lesson.title}</summary>

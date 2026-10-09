@@ -38,7 +38,8 @@
       "subject": "math",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Number app time"
+      "label": "Number app time",
+      "lessonId": "pk-numbers-app"
     },
     {
       "day": 1,
@@ -93,7 +94,8 @@
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Story and music app time"
+      "label": "Rhyme app time",
+      "lessonId": "pk-rhyme-app"
     },
     {
       "day": 2,
@@ -126,10 +128,11 @@
       "day": 2,
       "start": "09:35",
       "minutes": 10,
-      "subject": "math",
+      "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Number app time"
+      "label": "Letter app time",
+      "lessonId": "pk-letters-app"
     },
     {
       "day": 2,
@@ -184,7 +187,8 @@
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Story and music app time"
+      "label": "Rhyme app time",
+      "lessonId": "pk-rhyme-app"
     },
     {
       "day": 3,
@@ -221,7 +225,8 @@
       "subject": "math",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Number app time"
+      "label": "Number app time",
+      "lessonId": "pk-numbers-app"
     },
     {
       "day": 3,
@@ -276,7 +281,8 @@
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Story and music app time"
+      "label": "Rhyme app time",
+      "lessonId": "pk-rhyme-app"
     },
     {
       "day": 4,
@@ -309,10 +315,11 @@
       "day": 4,
       "start": "09:35",
       "minutes": 10,
-      "subject": "math",
+      "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Number app time"
+      "label": "Letter app time",
+      "lessonId": "pk-letters-app"
     },
     {
       "day": 4,
@@ -367,7 +374,8 @@
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Story and music app time"
+      "label": "Rhyme app time",
+      "lessonId": "pk-rhyme-app"
     },
     {
       "day": 5,
@@ -404,7 +412,8 @@
       "subject": "math",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Number app time"
+      "label": "Number app time",
+      "lessonId": "pk-numbers-app"
     },
     {
       "day": 5,
@@ -459,7 +468,8 @@
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Story and music app time"
+      "label": "Rhyme app time",
+      "lessonId": "pk-rhyme-app"
     }
   ]
 }

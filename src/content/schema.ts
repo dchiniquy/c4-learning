@@ -83,7 +83,9 @@ export const ActivitySchema = z.object({
   minutes: z.number().int().positive(),
   materials: z.array(z.string()).default([]),
   parentPrompts: z.array(z.string()).default([]),
-  /** Asset path under public/audio. Required for screen activities (audio-first UI). */
+  /** Instruction shown on screen and spoken aloud (recorded clip if `audio` exists, else browser speech). */
+  prompt: z.string().min(1).optional(),
+  /** Recorded narration under public/audio, e.g. "pk/count-apples.mp3". Optional: speech is the fallback. */
   audio: z.string().optional(),
   payload: z.record(z.string(), z.unknown()).default({}),
 })

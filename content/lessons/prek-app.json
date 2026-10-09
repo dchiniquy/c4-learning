@@ -1,0 +1,208 @@
+[
+  {
+    "id": "pk-numbers-app",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "title": "Counting game",
+    "version": 1,
+    "skillIds": [
+      "pk-count-objects"
+    ],
+    "activities": [
+      {
+        "id": "pk-count-apples",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many apples?",
+        "minutes": 10,
+        "prompt": "Count the apples. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "stem": "🍎🍎🍎",
+          "choices": [
+            {
+              "id": "two",
+              "label": "2"
+            },
+            {
+              "id": "three",
+              "label": "3"
+            },
+            {
+              "id": "five",
+              "label": "5"
+            }
+          ],
+          "correctId": "three"
+        }
+      },
+      {
+        "id": "pk-count-stars",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many stars?",
+        "minutes": 10,
+        "prompt": "Count the stars. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "stem": "⭐⭐⭐⭐⭐",
+          "choices": [
+            {
+              "id": "four",
+              "label": "4"
+            },
+            {
+              "id": "five",
+              "label": "5"
+            },
+            {
+              "id": "six",
+              "label": "6"
+            }
+          ],
+          "correctId": "five"
+        }
+      },
+      {
+        "id": "pk-find-seven",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find the number",
+        "minutes": 10,
+        "prompt": "Tap the number seven.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 1,
+          "max": 10,
+          "target": 7
+        }
+      }
+    ]
+  },
+  {
+    "id": "pk-letters-app",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "title": "Letter sounds game",
+    "version": 1,
+    "skillIds": [
+      "pk-letter-sounds"
+    ],
+    "activities": [
+      {
+        "id": "pk-hear-letters",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the letters",
+        "minutes": 10,
+        "prompt": "Tap each letter to hear its name.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "a",
+              "label": "A"
+            },
+            {
+              "id": "b",
+              "label": "B"
+            },
+            {
+              "id": "c",
+              "label": "C"
+            },
+            {
+              "id": "d",
+              "label": "D"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "pk-rhyme-app",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "title": "Rhyme game",
+    "version": 1,
+    "skillIds": [
+      "pk-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "pk-rhyme-cat",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which one rhymes?",
+        "minutes": 10,
+        "prompt": "Which word rhymes with cat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "hat",
+              "label": "hat",
+              "emoji": "🎩"
+            },
+            {
+              "id": "dog",
+              "label": "dog",
+              "emoji": "🐶"
+            },
+            {
+              "id": "sun",
+              "label": "sun",
+              "emoji": "☀️"
+            }
+          ],
+          "correctId": "hat"
+        }
+      },
+      {
+        "id": "pk-rhyme-bee",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which one rhymes?",
+        "minutes": 10,
+        "prompt": "Which word rhymes with bee?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "cup",
+              "label": "cup",
+              "emoji": "🥤"
+            },
+            {
+              "id": "tree",
+              "label": "tree",
+              "emoji": "🌳"
+            },
+            {
+              "id": "bed",
+              "label": "bed",
+              "emoji": "🛏️"
+            }
+          ],
+          "correctId": "tree"
+        }
+      }
+    ]
+  }
+]

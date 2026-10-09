@@ -57,7 +57,31 @@ describe('validateContent', () => {
     const b = bundle()
     b.lessons[0].grade = 'prek'
     b.lessons[0].activities[0] = { ...b.lessons[0].activities[0], mode: 'screen', leadBy: 'app', type: 'tap-to-hear' }
-    expect(validateContent(b).some((e) => e.includes('needs audio'))).toBe(true)
+    expect(validateContent(b).some((e) => e.includes('needs a prompt or audio'))).toBe(true)
+  })
+
+  it('accepts a spoken prompt in place of recorded audio', () => {
+    const b = bundle()
+    b.lessons[0].grade = 'prek'
+    b.schedules[0].grade = 'prek'
+    b.lessons[0].activities[0] = {
+      ...b.lessons[0].activities[0], mode: 'screen', leadBy: 'app', type: 'multiple-choice',
+      prompt: 'How many?',
+      payload: { choices: [{ id: 'a', label: '2' }, { id: 'b', label: '3' }], correctId: 'b' },
+    }
+    expect(validateContent(b)).toEqual([])
+  })
+
+  it('checks payloads of interactive screen activities', () => {
+    const b = bundle()
+    b.lessons[0].activities[0] = {
+      ...b.lessons[0].activities[0], mode: 'screen', leadBy: 'app', type: 'multiple-choice',
+      prompt: 'How many?',
+      payload: { choices: [{ id: 'a', label: '2' }, { id: 'b', label: '3' }], correctId: 'zzz' },
+    }
+    expect(validateContent(b).some((e) => e.includes('payload.correctId'))).toBe(true)
+    b.lessons[0].activities[0].prompt = undefined
+    expect(validateContent(b).some((e) => e.includes('needs a prompt'))).toBe(true)
   })
 
   it('rejects offline activities led by the app', () => {
