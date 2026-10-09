@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ccss-math-1-g-a-1",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.1.G.A.1",
+    "description": "Distinguish between defining attributes (e.g., triangles are closed and three-sided) versus non-defining attributes (e.g., color, orientation, overall size); build and draw shapes to possess defining attributes.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/Math/Content/1/G/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-1-g-a-2",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.1.G.A.2",
+    "description": "Compose two-dimensional shapes (rectangles, squares, trapezoids, triangles, half-circles, and quarter-circles) or three-dimensional shapes (cubes, right rectangular prisms, right circular cones, and right circular cylinders) to create a composite shape, and compose new shapes from the composite shape.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/Math/Content/1/G/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-1-g-a-3",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.1.G.A.3",
+    "description": "Partition circles and rectangles into two and four equal shares, describe the shares using the words halves, fourths, and quarters, and use the phrases half of, fourth of, and quarter of. Describe the whole as two of, or four of the shares. Understand for these examples that decomposing into more equal shares creates smaller shares.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/Math/Content/1/G/",
+    "verified": true
+  }
+]

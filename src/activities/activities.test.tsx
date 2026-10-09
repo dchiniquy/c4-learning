@@ -167,9 +167,9 @@ describe('bad input', () => {
 
 describe('shipped content', () => {
   it('renders every on-screen activity without an error', async () => {
-    const { loadContentBundle } = await import('../content/load.ts')
+    const { default: bundle } = await import('virtual:c4-content/all')
     const { isInteractive } = await import('./payloads.ts')
-    const screens = loadContentBundle().lessons.flatMap((l) => l.activities).filter((a) => a.mode === 'screen' && isInteractive(a.type))
+    const screens = bundle.lessons.flatMap((l) => l.activities).filter((a) => a.mode === 'screen' && isInteractive(a.type))
     expect(screens.length).toBeGreaterThanOrEqual(8)
     for (const a of screens) {
       const { unmount } = render(<ActivityPlayer activity={a} autoRead={false} onSolved={() => {}} />)

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ccss-ela-ri-3-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.1",
+    "description": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.2",
+    "description": "Determine the main idea of a text; recount the key details and explain how they support the main idea.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.3",
+    "description": "Describe the relationship between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text, using language that pertains to time, sequence, and cause/effect.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.4",
+    "description": "Determine the meaning of general academic and domain-specific words and phrases in a text relevant to a grade 3 topic or subject area.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.5",
+    "description": "Use text features and search tools (e.g., key words, sidebars, hyperlinks) to locate information relevant to a given topic efficiently.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.6",
+    "description": "Distinguish their own point of view from that of the author of a text.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.7",
+    "description": "Use information gained from illustrations (e.g., maps, photographs) and the words in a text to demonstrate understanding of the text (e.g., where, when, why, and how key events occur).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-8",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.8",
+    "description": "Describe the logical connection between particular sentences and paragraphs in a text (e.g., comparison, cause/effect, first/second/third in a sequence).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-9",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.9",
+    "description": "Compare and contrast the most important points and key details presented in two texts on the same topic.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-3-10",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.3.10",
+    "description": "By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical texts, at the high end of the grades 2-3 text complexity band independently and proficiently.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/3/",
+    "verified": true
+  }
+]

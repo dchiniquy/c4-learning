@@ -1,0 +1,841 @@
+[
+  {
+    "id": "k-w2-line-letters-i-l-t",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Line letters I, L and T",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-line-letters-i-l-t-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make letters from straight lines",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "pencil",
+          "craft sticks or straws",
+          "salt tray (optional)"
+        ],
+        "parentPrompts": [
+          "Show capital I (one standing line), capital L (a standing line and a sleeping line at the bottom) and capital T (a sleeping line across the top, a standing line down the middle).",
+          "Build each letter on the table using craft sticks or straws. Name each one.",
+          "Then write each on paper. Say the strokes aloud as they go: \"down\" for standing lines, \"across\" for sleeping lines.",
+          "Ask: \"Which letter has just one line?\" Look for: they can name I, L and T and write at least one."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-line-letters-e-f-h",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Line letters E, F and H",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-line-letters-e-f-h-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "More straight-line letters",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "pencil",
+          "craft sticks or straws"
+        ],
+        "parentPrompts": [
+          "Review I, L and T by building one with sticks. Then show capital H (two standing lines with a sleeping line between), E and F.",
+          "Build E, F and H with sticks. Ask: \"What is the same about E and F? What is different?\" (E has one more bar.)",
+          "Write each letter on paper with a big pencil or marker, one row each.",
+          "Look for: they can tell E from F and know that H has a bar in the middle. Letters do not need to be neat."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-big-air-letters",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Big arm letters",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-big-air-letters-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Skywriting and table writing",
+        "minutes": 10,
+        "materials": [
+          "a table or a large paper on the floor",
+          "a damp washcloth (optional)"
+        ],
+        "parentPrompts": [
+          "Stand beside your child. Write a letter big in the air with your arm: start at the top, say the strokes aloud.",
+          "Have them skywrite the same letter 3 times. Try I, L, T, H, E, F.",
+          "Then write the letters with a wet finger on the table or a baking tray. They disappear, so try again freely.",
+          "Ask: \"Which letter do you want me to guess?\" Write one in the air and let them guess. Look for: confident, slow, top-first strokes."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-curve-letters-c-o",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Round letters C and O",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-curve-letters-c-o-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make C and O",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "pencil",
+          "pipe cleaners or yarn",
+          "salt tray (optional)"
+        ],
+        "parentPrompts": [
+          "Bend a pipe cleaner into a circle (O) and then open it to make a C. Ask: \"What is different?\" (C has a gap.)",
+          "Trace both letters with a pointer finger, going around the same way each time.",
+          "Write a row of O and a row of C. Practice lowercase c and o the same way: they look like small versions.",
+          "Look for: the C is open and the O is closed. Name the letters as you go."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-lowercase-round-letters",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Small round letters",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-lowercase-round-letters-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write small c, o and a",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "pencil",
+          "a highlighter or colored crayon"
+        ],
+        "parentPrompts": [
+          "Draw a start dot on paper and show how to begin small c at the dot and curve around. Do the same for o.",
+          "For small a: draw a small round c shape and then a short standing line on its right side. Go slowly, step by step.",
+          "Have your child write a row each of c, o and a. Circle the one they think is best with a highlighter.",
+          "Ask: \"Which one is your favorite and why?\" Look for: letters that stay roughly the same size and start at the top."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-hopscotch-to-20",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Hop to 20",
+    "version": 1,
+    "skillIds": [
+      "k-count-by-ones"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-hopscotch-to-20-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Number path to 20",
+        "minutes": 20,
+        "materials": [
+          "painter's tape or chalk",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Make a path of 20 squares on the floor or driveway and write the numbers 1 to 20 (adults can write them for the child).",
+          "Hop and count together, one number per hop, from 1 to 20.",
+          "Now start in the middle: \"Start at 7 and keep going.\" Try starting at 12, then 15.",
+          "Look for: counting in order without skipping, and starting from a number other than 1. Stumbles are fine; just count it again together."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-count-scattered",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Count scattered things",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-count-scattered-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count a messy pile",
+        "minutes": 20,
+        "materials": [
+          "15 to 20 small things like blocks or buttons",
+          "two bowls"
+        ],
+        "parentPrompts": [
+          "Spread 12 things out on the table. Ask: \"How can we count them so we do not miss any?\"",
+          "Show the trick: move each counted item from the table into a bowl as you count it.",
+          "Let them count a pile of 15, then 18. Count a line of 10 and a circle of 10 too.",
+          "Look for: a plan for keeping track, and the right total. Safety: small items are a choking hazard for babies and toddlers, so keep them away from younger siblings and out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-write-numbers-0-to-10",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Writing numbers 0 to 10",
+    "version": 1,
+    "skillIds": [
+      "k-numerals"
+    ],
+    "activities": [
+      {
+        "id": "k-write-numbers-0-to-10-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write numerals in a tray",
+        "minutes": 20,
+        "materials": [
+          "a baking tray with salt, sand or flour (about half a centimeter deep)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Write the numeral 1 in the tray with your finger, starting at the top. Let your child copy it.",
+          "Do 2, 3, 4 and 5 slowly. Say the number and the amount each time: \"3 is this many\" (hold up 3 fingers).",
+          "Introduce 0: \"Zero means none.\" Put 0 things in the tray. Do 6 to 10 as time allows, on paper or in the tray.",
+          "Look for: recognizable numerals. Backward numerals are very common at this age; just show the correct direction and keep going."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-more-fewer-same",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "More, fewer or the same",
+    "version": 1,
+    "skillIds": [
+      "k-compare-groups"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-more-fewer-same-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare two groups",
+        "minutes": 20,
+        "materials": [
+          "2 plates",
+          "about 12 small things like crackers or blocks"
+        ],
+        "parentPrompts": [
+          "Check for food allergies before using any snack food.",
+          "Put 3 things on one plate and 5 on the other. Ask: \"Which plate has more? How could we check?\"",
+          "Match them up one to one, a pair at a time. The extra ones show which has more.",
+          "Use the words: more, fewer (or less) and the same. Try 4 and 4, then 6 and 2, then 5 and 3.",
+          "Look for: they can pick the plate with more and use the word 'fewer' or 'less' for the other, with matching or counting."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-make-them-same",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Make the groups the same",
+    "version": 1,
+    "skillIds": [
+      "k-compare-groups"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-make-them-same-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Add or take away to make them equal",
+        "minutes": 20,
+        "materials": [
+          "about 15 small things",
+          "2 trays or plates"
+        ],
+        "parentPrompts": [
+          "Put 4 things on one tray and 6 on the other. Ask: \"Are they the same? How can we make them the same?\"",
+          "Let them try: take 2 from the bigger group, or add 2 to the smaller group. Count to check.",
+          "Try a new pair, like 2 and 5. Ask: \"Which way do you want to fix it?\"",
+          "Look for: any workable way to even them. There is more than one right answer."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-questions-about-story",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Questions about the story",
+    "version": 1,
+    "skillIds": [
+      "k-story-questions"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-questions-about-story-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ask and answer questions",
+        "minutes": 20,
+        "materials": [
+          "a picture book you have not read yet"
+        ],
+        "parentPrompts": [
+          "Look at the cover and ask: \"What do you think this story will be about?\" Read the first few pages.",
+          "Pause and ask: \"Who is in the story? What did they do?\" Let your child answer in a sentence.",
+          "Ask your child to ask you a question too. Say: \"You are the teacher now.\"",
+          "Look for: they can answer a who/what question and sometimes ask one. Praise questions."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-characters-setting",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Characters and setting",
+    "version": 1,
+    "skillIds": [
+      "k-story-elements"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-characters-setting-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Who, where and what happened",
+        "minutes": 20,
+        "materials": [
+          "a picture book with a clear story",
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Read the story. Afterward ask: \"Who are the characters? Where does the story happen?\"",
+          "Ask: \"What is one big thing that happens?\"",
+          "Draw three small boxes on a paper: who, where, what happened. Let them draw in each one.",
+          "Look for: they can name a character, a place and an event. Use the pictures to help."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-retell-story",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Retell a story",
+    "version": 1,
+    "skillIds": [
+      "k-retell"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-retell-story-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Beginning, middle and end",
+        "minutes": 20,
+        "materials": [
+          "a familiar folktale such as The Three Little Pigs or The Little Red Hen (any telling; the tales are very old and widely retold)",
+          "3 sheets of paper"
+        ],
+        "parentPrompts": [
+          "Read the story or tell it in your own words. Draw three boxes labeled first, next, last.",
+          "Ask your child to tell you what happened first. Draw or write a quick note in the first box. Repeat for next and last.",
+          "Use the boxes to have them retell the whole story in order.",
+          "Look for: events in the right order, with some key details like names of characters."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-poems-and-stories",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Stories and poems",
+    "version": 1,
+    "skillIds": [
+      "k-text-types"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-poems-and-stories-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare a story and a poem",
+        "minutes": 20,
+        "materials": [
+          "a storybook",
+          "a short rhyming poem or nursery rhyme from a book (many traditional rhymes are free to use)"
+        ],
+        "parentPrompts": [
+          "Read a short story. Say: \"This is a story. It has characters and things happen.\"",
+          "Read a short poem or a nursery rhyme. Say: \"This is a poem. It often has rhymes and a beat.\" Clap the beat together.",
+          "Ask: \"Is this one a story or a poem? How can you tell?\" Show two short pieces and let them sort them.",
+          "Look for: they can tell which one sounds like a poem (rhymes, beat) and which tells a story."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-pictures-tell",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "What the pictures show",
+    "version": 1,
+    "skillIds": [
+      "k-illustrations"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-pictures-tell-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Pictures and the story",
+        "minutes": 20,
+        "materials": [
+          "a picture book"
+        ],
+        "parentPrompts": [
+          "Read a page and ask: \"What does the picture show that the words do not say?\"",
+          "Choose a picture and ask: \"What moment in the story is this?\"",
+          "Cover the pictures on one page and ask your child to draw what they think it looks like. Then compare with the real picture.",
+          "Look for: they connect a picture to the part of the story it shows."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-weather-chart",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Our weather chart",
+    "version": 1,
+    "skillIds": [
+      "k-weather-observe"
+    ],
+    "activities": [
+      {
+        "id": "k-weather-chart-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Start a weather chart",
+        "minutes": 25,
+        "materials": [
+          "paper with 5 boxes (one per day of the week) or a calendar page",
+          "crayons",
+          "a window or a safe spot outside"
+        ],
+        "parentPrompts": [
+          "Look outside together. Say what you see: sunny, cloudy, rainy, windy, snowy. Feel the air outside if safe.",
+          "Draw a symbol for today in the first box: a sun, a cloud, raindrops, and so on.",
+          "Say: \"We will do this every day and look for patterns.\"",
+          "Look for: they can describe the weather in a few words and draw a symbol. Keep the chart for the rest of the unit; add a box each day."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-weather-and-clothes",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Weather and what we wear",
+    "version": 1,
+    "skillIds": [
+      "k-weather-forecast"
+    ],
+    "activities": [
+      {
+        "id": "k-weather-and-clothes-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Why we check the weather",
+        "minutes": 25,
+        "materials": [
+          "a weather forecast (from a phone, TV or newspaper)",
+          "a few clothes: a rain jacket, a hat, a coat or other"
+        ],
+        "parentPrompts": [
+          "Look at or listen to a weather forecast for tomorrow. Say: \"A forecast tells us what weather may come, so we can be ready.\"",
+          "Ask: \"What should we wear if it will rain? If it will be very hot? If it will be cold?\" Let them pick clothes.",
+          "Dress a toy or draw a person for tomorrow's weather.",
+          "Look for: they connect the weather to what to wear or bring, and say why a forecast helps."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-weather-patterns",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Weather patterns",
+    "version": 1,
+    "skillIds": [
+      "k-weather-observe"
+    ],
+    "activities": [
+      {
+        "id": "k-weather-patterns-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Look back at the chart",
+        "minutes": 25,
+        "materials": [
+          "the weather chart",
+          "a pencil",
+          "stickers (optional)"
+        ],
+        "parentPrompts": [
+          "Look at the chart so far. Count how many days were sunny, cloudy and rainy. Make tally marks.",
+          "Ask: \"Which was most? Which was least?\"",
+          "Ask: \"What do you think tomorrow will be like? Why do you think so?\"",
+          "Look for: they can say what happened most often. If you have only a few days, count them. Predictions can be wrong, and that is fine."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-community-helpers",
+    "grade": "k",
+    "subject": "social-studies",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "People who help",
+    "version": 1,
+    "skillIds": [
+      "k-helpers"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-community-helpers-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Helpers in our community",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "crayons",
+          "dress-up items (optional)"
+        ],
+        "parentPrompts": [
+          "Ask: \"Who helps us in our community?\" (a doctor, a bus driver, a teacher, a librarian, a firefighter and many others).",
+          "Pick one helper and act out their job. Guess each other's helpers.",
+          "Ask: \"How does this helper make our day better?\"",
+          "Look for: they can name a helper and what they do. Include helpers from your own family or neighborhood."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-rules-keep-us-safe",
+    "grade": "k",
+    "subject": "social-studies",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Rules that keep us safe",
+    "version": 1,
+    "skillIds": [
+      "k-rules"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-rules-keep-us-safe-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Safety rules",
+        "minutes": 25,
+        "materials": [
+          "a toy car or a pretend street made with tape",
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Make a street on the floor. Ask: \"What do we do at a crosswalk? In a car? On a bike?\" (hold a grown-up's hand, look both ways, wear a seatbelt or helmet).",
+          "Act out each safe choice with a toy.",
+          "Talk about a rule at a place in your community, like a library (quiet voices).",
+          "Look for: they know safety rules and why they matter."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-letter-sculpture",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Playdough letters",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-letter-sculpture-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sculpt a letter",
+        "minutes": 20,
+        "materials": [
+          "playdough",
+          "a letter card"
+        ],
+        "parentPrompts": [
+          "Roll playdough into ropes. Make the first letter of your child's name.",
+          "Make another letter from the alphabet in the app.",
+          "Decorate the letter with beads or pressed patterns (adult supervision for small items).",
+          "Look for: a recognizable letter. Say the sound it makes."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-shape-pictures",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Shape pictures",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-shape-pictures-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Torn paper shapes",
+        "minutes": 20,
+        "materials": [
+          "colored paper",
+          "glue",
+          "a blank sheet"
+        ],
+        "parentPrompts": [
+          "Tear or cut (with safe scissors, adult supervising) paper into shapes: circles, squares and triangles.",
+          "Arrange them into a picture of a house, a robot or a bug.",
+          "Glue them down. Name the shapes you used.",
+          "Look for: they can name some shapes and put them together creatively."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-kitchen-band",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Kitchen band",
+    "version": 1,
+    "skillIds": [
+      "k-music-rhythm"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-kitchen-band-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a beat",
+        "minutes": 20,
+        "materials": [
+          "pots, bowls, wooden spoons"
+        ],
+        "parentPrompts": [
+          "Set up pots and spoons. Show how to play soft and loud.",
+          "Play a steady beat while you chant a rhyme.",
+          "Switch leader. Ask: \"Can you play fast? Slow?\"",
+          "Look for: they keep a steady beat and try fast and slow. Watch the volume and protect ears."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-leaf-prints",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Leaf and nature prints",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-leaf-prints-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Print with leaves",
+        "minutes": 20,
+        "materials": [
+          "leaves or flowers",
+          "paper",
+          "paint",
+          "a brush or sponge"
+        ],
+        "parentPrompts": [
+          "Collect a few leaves outside. Wash hands after.",
+          "Paint one side of a leaf and press it onto paper.",
+          "Print more leaves in different colors.",
+          "Look for: they notice the veins on the leaf and the shapes. Do not collect unknown berries or mushrooms."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w2-story-scene",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 2,
+    "title": "Draw a story scene",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w2-story-scene-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw a scene from a story",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons",
+          "a favorite story"
+        ],
+        "parentPrompts": [
+          "Pick a favorite moment from a story you read.",
+          "Draw it with the characters and place. Add details.",
+          "Tell the story of the picture to you.",
+          "Look for: they include a character, a place and an action. Write a title for them."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

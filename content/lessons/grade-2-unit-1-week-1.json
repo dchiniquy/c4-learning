@@ -1,0 +1,519 @@
+[
+  {
+    "id": "g2-w1-short-vowel-sort",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Short vowel sort",
+    "version": 1,
+    "skillIds": [
+      "g2-short-vowels"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-short-vowel-sort-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Short vowel sort",
+        "minutes": 25,
+        "materials": [
+          "index cards or scraps of paper",
+          "pencil",
+          "5 sheets of paper or 5 bowls"
+        ],
+        "parentPrompts": [
+          "Write one vowel (a, e, i, o, u) at the top of each of 5 sheets. Say each short sound with your child: apple, egg, itch, octopus, up.",
+          "Write 15 simple words on cards, 3 for each vowel (for example: map, bed, pig, hot, sun, hat, net, lid, dog, mud, cap, pen, zip, box, bus). Mix them up.",
+          "Your child reads each card aloud, says the vowel sound, and places it on the matching sheet. Ask: \"How do you know which sound the vowel makes?\"",
+          "Finish by having your child say a new word for each vowel and write one of them. Check: they can read most cards without long pauses and match the vowel sound correctly."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-magic-e-a",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Silent e makes a say its name",
+    "version": 1,
+    "skillIds": [
+      "g2-silent-e"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-magic-e-a-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Silent e makes a say its name",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "a small card with the letter e",
+          "scissors (child-safe)"
+        ],
+        "parentPrompts": [
+          "Write the word \"cap\" and have your child read it. Then place the e card at the end to make \"cape.\" Ask: \"What happened to the vowel sound?\" (The a now says its name, and the e stays silent.)",
+          "Try more pairs the same way: tap/tape, mad/made, hat/hate, can/cane, plan/plane. Your child reads each pair aloud.",
+          "Write 6 a_e words on a page (cake, gate, name, lake, game, wave) and have your child draw a small line under each a_e pattern, then read the list twice.",
+          "Have your child write 3 sentences, each using one a_e word. Read them together. Check: they can tell you the e is silent and changes the sound of the a."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-magic-e-ioue",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Silent e with i, o, and u",
+    "version": 1,
+    "skillIds": [
+      "g2-silent-e"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-magic-e-ioue-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Silent e with i, o, and u",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "a card with the letter e"
+        ],
+        "parentPrompts": [
+          "Review: say \"cap, cape.\" Tell your child silent e works with the other vowels too.",
+          "Use the e card on these pairs and read each aloud: kit/kite, hop/hope, cub/cube, bit/bite, not/note, cut/cute, rod/rode.",
+          "Make three columns (i_e, o_e, u_e). Say a word, your child writes it in the right column: bike, nose, tube, five, bone, mule, slide, stone.",
+          "Play \"say it, spell it, change it\": you say \"hop,\" they spell it, then add an e and say the new word. Check: they correctly say the long vowel sound for at least 6 of 8 words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-reread-for-fluency",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Read it again, smoother",
+    "version": 1,
+    "skillIds": [
+      "g2-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-reread-for-fluency-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read it again, smoother",
+        "minutes": 25,
+        "materials": [
+          "pencil",
+          "paper for a reading chart"
+        ],
+        "parentPrompts": [
+          "Read this short passage aloud once slowly while your child follows: \"Ben has a red kite. The wind is strong today. Ben runs up the hill and lets go of the string. The kite goes up, up, up! It dips and spins like a bird. Ben smiles.\" Write it out on paper first if you want your child to read from the page.",
+          "Your child reads it aloud. Mark any word that was tricky with a small dot. Help with those words, then have them read it again.",
+          "Read it a third time, this time asking your child to sound like they are telling a friend a story: pause at periods, and let their voice show the excitement at \"up, up, up!\"",
+          "On the chart, draw a smile for each read that felt smoother. Ask: \"What changed from the first read to the third?\" Check: reading gets smoother and more expressive with each reread."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-write-what-happened",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Write what happened",
+    "version": 1,
+    "skillIds": [
+      "g2-narrative-writing"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-write-what-happened-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write what happened",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons or markers"
+        ],
+        "parentPrompts": [
+          "Ask your child to tell you about something they did recently, such as a trip, a game, or a meal. Listen for first, next, and last.",
+          "Draw three boxes on the page and label them First, Next, and Last. Have your child sketch each part of their event.",
+          "Under each picture, your child writes one or two sentences using the words first, next, and last. Remind them to start with a capital letter and end with a period. Add one detail that tells how they felt.",
+          "Read it aloud together. Ask: \"Does it have a beginning, a middle, and an ending?\" Check: they use time-order words and at least one feeling word."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-doubles",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Doubles facts",
+    "version": 1,
+    "skillIds": [
+      "g2-fact-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-doubles-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Doubles facts",
+        "minutes": 25,
+        "materials": [
+          "10 small counters (buttons, coins, or dried beans)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Show 3 counters in a row and 3 more under them. Ask: \"What is 3 + 3?\" Explain that doubles are two of the same number.",
+          "Have your child make and say doubles from 1 + 1 to 10 + 10 using counters, then write each fact on paper (for example, 7 + 7 = 14). Keep counters away from young siblings and mouths.",
+          "Play \"double it\": say a number from 1 to 10 and your child says the double fast. Do 10 rounds.",
+          "Ask: \"Which doubles are easy for you? Which are hard?\" Check: they can answer most doubles up to 10 + 10 without counting by ones."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-make-ten",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Make ten to add",
+    "version": 1,
+    "skillIds": [
+      "g2-fact-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-make-ten-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make ten to add",
+        "minutes": 25,
+        "materials": [
+          "a ten-frame drawn on paper (2 rows of 5 boxes)",
+          "15 counters",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Put 8 counters on the ten-frame. Ask: \"How many more to make ten?\" (2)",
+          "Show 8 + 5. Move 2 counters from the 5 to fill the frame, leaving 3 more. Say: \"8 + 2 is 10, and 10 + 3 is 13.\"",
+          "Try 9 + 4, 7 + 6, and 8 + 7 the same way. Your child moves counters and says the steps out loud.",
+          "Ask them to try one without counters. Check: they can break apart one number to make ten, then add the rest."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-doubles-plus-one",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Near doubles",
+    "version": 1,
+    "skillIds": [
+      "g2-fact-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-doubles-plus-one-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Near doubles",
+        "minutes": 25,
+        "materials": [
+          "counters",
+          "paper",
+          "pencil",
+          "dice (optional)"
+        ],
+        "parentPrompts": [
+          "Review a double, such as 6 + 6 = 12. Then ask: \"If 6 + 6 is 12, what is 6 + 7?\" (One more, so 13.)",
+          "Practice near doubles: 5 + 6, 7 + 8, 8 + 9, 4 + 5. Use counters to show the double and then add one more.",
+          "Roll a die twice (or choose two numbers) and decide if the facts are a double, a near double, or neither. Solve them.",
+          "Check: they use a known double to solve a near-double fact."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-odd-even",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Odd and even numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-odd-even"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-odd-even-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Odd and even numbers",
+        "minutes": 25,
+        "materials": [
+          "20 small objects (buttons or paper squares)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Show 6 objects. Have your child make pairs. If none are left over, the number is even. Do the same with 7: one is left over, so 7 is odd.",
+          "Test numbers from 1 to 20. Your child pairs the objects and records each number in an Odd or Even column.",
+          "Look for a pattern: ask, \"What digits do even numbers end in?\" (0, 2, 4, 6, 8)",
+          "Challenge: \"Is 17 odd or even? How do you know?\" Check: they can use pairing or the last digit to decide."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-story-problems-20",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Story problems",
+    "version": 1,
+    "skillIds": [
+      "g2-word-problems"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-story-problems-20-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Story problems",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "counters or drawings"
+        ],
+        "parentPrompts": [
+          "Read aloud: \"Sam has 9 stickers. He gets 6 more. How many does he have now?\" Have your child act it out with counters and write a number sentence: 9 + 6 = 15.",
+          "Read a take-away story: \"There are 14 birds on a fence. 5 fly away. How many are left?\" Draw it and write 14 - 5 = 9.",
+          "Take turns making up your own story problems with real things at home. Your child solves yours and you solve theirs.",
+          "Ask: \"How did you know whether to add or subtract?\" Check: they match the story to the right operation and write an equation."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-property-hunt",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Property hunt and sort",
+    "version": 1,
+    "skillIds": [
+      "g2-properties"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-property-hunt-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Property hunt and sort",
+        "minutes": 25,
+        "materials": [
+          "10 to 15 household items (a spoon, a sponge, a rock, a cup, a sock, a coin, a leaf)",
+          "2 sheets of paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Place the items on a table. Ask: \"How would you describe each one?\" Collect words like hard, soft, rough, smooth, bendy, shiny.",
+          "Choose a property, such as hard or soft. Your child sorts the items into two groups. Ask: \"What did you notice?\"",
+          "Sort again by a different property, such as shiny or dull, or bendy or stiff. Note that the same item can go in different groups.",
+          "Ask: \"Which property helps us decide what an object is good for?\" Check: they use properties to describe and sort materials."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-float-or-sink",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Float or sink",
+    "version": 1,
+    "skillIds": [
+      "g2-properties"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-float-or-sink-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Float or sink",
+        "minutes": 25,
+        "materials": [
+          "a large bowl or tub of water",
+          "small objects (cork, coin, plastic spoon, sponge, rock, wooden block)",
+          "paper and pencil",
+          "towel"
+        ],
+        "parentPrompts": [
+          "Set up the water on a towel. Ask your child to predict whether each object will float or sink and record the predictions.",
+          "Test one object at a time, then note the result. Stay with the water and never leave a child alone near it.",
+          "Compare predictions to results. Ask: \"What do the floaters have in common?\" Remember that size alone does not decide it. A big ship floats and a small pebble sinks.",
+          "Check: they can say that materials have properties that affect whether they float."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-absorb-test",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Which material soaks up water?",
+    "version": 1,
+    "skillIds": [
+      "g2-test-materials"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-absorb-test-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Which material soaks up water?",
+        "minutes": 25,
+        "materials": [
+          "paper towel",
+          "foil",
+          "cloth scrap",
+          "plastic wrap",
+          "a tray",
+          "a spoon and water",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Put each material on a tray. Ask which will soak up water best, and record the guesses.",
+          "Place the same amount of water (one spoon) on each material and watch what happens.",
+          "Record which materials absorbed water and which let it sit on top. Look at the data table together.",
+          "Ask: \"Which material would you use to clean a spill? Why?\" Check: they pick a material based on test results."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-map-of-my-room",
+    "grade": "2",
+    "subject": "social-studies",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "A map of my room",
+    "version": 1,
+    "skillIds": [
+      "g2-map-skills"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-map-of-my-room-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "A map of my room",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons",
+          "small objects (toy, book, cup)"
+        ],
+        "parentPrompts": [
+          "Stand at the doorway of a room. Ask your child to look down from above in their mind, as a bird would. Explain that a map is a drawing of a place from above.",
+          "Place a few objects on the floor. Draw the room as a big rectangle on paper, then draw simple shapes for the bed, door, and window.",
+          "Add a title, then draw a small box with a key that shows what each shape means.",
+          "Ask: \"Where is the door on your map?\" Check: they can place objects on a map in the right spot and explain the key."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w1-map-symbols-key",
+    "grade": "2",
+    "subject": "social-studies",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Symbols and keys",
+    "version": 1,
+    "skillIds": [
+      "g2-map-skills"
+    ],
+    "activities": [
+      {
+        "id": "g2-w1-map-symbols-key-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Symbols and keys",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Show a map from a book or print one. Point to the symbols and the key. Explain that a symbol is a small picture that stands for a real thing.",
+          "Have your child make a map of a make-believe island with 5 symbols (a tree, a house, a lake, a road, a bridge) and a key to explain them.",
+          "Swap maps with a family member who has to find three things using only the key.",
+          "Check: they can use a map key to find a place and make symbols that make sense."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

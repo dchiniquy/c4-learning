@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ccss-ela-rl-3-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.1",
+    "description": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-3-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.2",
+    "description": "Recount stories, including fables, folktales, and myths from diverse cultures; determine the central message, lesson, or moral and explain how it is conveyed through key details in the text.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-3-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.3",
+    "description": "Describe characters in a story (e.g., their traits, motivations, or feelings) and explain how their actions contribute to the sequence of events",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-3-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.4",
+    "description": "Determine the meaning of words and phrases as they are used in a text, distinguishing literal from nonliteral language.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-3-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.5",
+    "description": "Refer to parts of stories, dramas, and poems when writing or speaking about a text, using terms such as chapter, scene, and stanza; describe how each successive part builds on earlier sections.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-3-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.6",
+    "description": "Distinguish their own point of view from that of the narrator or those of the characters.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-3-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.7",
+    "description": "Explain how specific aspects of a text's illustrations contribute to what is conveyed by the words in a story (e.g., create mood, emphasize aspects of a character or setting)",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-3-9",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.9",
+    "description": "Compare and contrast the themes, settings, and plots of stories written by the same author about the same or similar characters (e.g., in books from a series)",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-3-10",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.3.10",
+    "description": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, at the high end of the grades 2-3 text complexity band independently and proficiently.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/3/",
+    "verified": true
+  }
+]

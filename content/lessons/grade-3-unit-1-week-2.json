@@ -1,0 +1,711 @@
+[
+  {
+    "id": "g3-r06-central-message",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "What is the story really about?",
+    "version": 1,
+    "skillIds": [
+      "g3-central-message"
+    ],
+    "activities": [
+      {
+        "id": "g3-r06-central-message-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Topic or message? Sort and say",
+        "minutes": 30,
+        "materials": [
+          "The Tortoise and the Hare (reread from week 1)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Reread or retell The Tortoise and the Hare. Explain: the topic is what a story is about in a few words (a race). The central message, or moral, is the lesson the story teaches.",
+          "Write two headings: Topic and Message. Help your child write the topic (a race). Then ask: \"What lesson does the tortoise's win teach?\" A good answer: steady effort can beat showing off, or do not be too sure of yourself.",
+          "Ask: \"Which details in the story show that message?\" Find at least two (the hare's bragging, his nap, the tortoise never stopping).",
+          "Say the message as a full sentence beginning \"This story teaches that...\". More than one wording can be right if the details support it.",
+          "You will know they got it when they can say the difference between topic and message and back the message with story details."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r07-message-from-details",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Finding the message in the details",
+    "version": 1,
+    "skillIds": [
+      "g3-central-message"
+    ],
+    "activities": [
+      {
+        "id": "g3-r07-message-from-details-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Key details chart: The Crow and the Pitcher",
+        "minutes": 30,
+        "materials": [
+          "The Crow and the Pitcher (book, online text, or retell it)",
+          "a clear cup with a little water",
+          "a handful of small, clean pebbles or marbles (supervise young siblings)",
+          "paper"
+        ],
+        "parentPrompts": [
+          "Read or tell the fable. Outline: a thirsty crow finds a pitcher with a little water at the bottom, too low for its beak; it drops pebbles in one at a time; the water rises and the crow finally drinks. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Try the pebble idea: drop pebbles into the cup with a little water and watch the level rise. Ask: \"Why does the water go up?\" (The pebbles take up space, so the water has to move up.)",
+          "Make a three-row chart: Key detail, Key detail, Message. Have your child list two key details (the crow could not reach the water; it kept dropping pebbles) and then the message.",
+          "Ask: \"How does the crow's patience and clever thinking show the message?\" A possible message: with thinking and patience you can solve problems.",
+          "You will know they got it when the message they write is supported by the details in the chart."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r08-folktale-stone-soup",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Folktales from many places",
+    "version": 1,
+    "skillIds": [
+      "g3-central-message"
+    ],
+    "activities": [
+      {
+        "id": "g3-r08-folktale-stone-soup-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Retell and find the message: Stone Soup",
+        "minutes": 30,
+        "materials": [
+          "a version of Stone Soup from the library or retell it",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Explain that folktales are old stories passed along by word of mouth in many cultures, and that versions of Stone Soup are told in several countries. Read one version or retell: hungry travelers come to a village where people say they have no food to share; the travelers start a pot with water and a stone and say it will make a great soup; curious villagers add a little of something, and soon everyone shares a big meal.",
+          "Ask: \"What was the problem? What did the travelers do? How did the villagers change from the beginning to the end?\"",
+          "Have your child write the message in one sentence, using two details as proof (for example, sharing a little makes enough for everyone).",
+          "Optional: ask a grandparent, neighbor, or friend which folktale or story they remember hearing as a child, and write the title on a list for the library.",
+          "You will know they got it when they retell the events in order and state a message that matches the details."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r09-same-message-two-stories",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Two stories, one lesson",
+    "version": 1,
+    "skillIds": [
+      "g3-central-message"
+    ],
+    "activities": [
+      {
+        "id": "g3-r09-same-message-two-stories-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare The Goose That Laid the Golden Eggs and The Dog and His Reflection",
+        "minutes": 30,
+        "materials": [
+          "both fables (book, online text, or retell)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Tell the first fable. Outline: a farmer has a goose that lays one golden egg each day; he wants all the gold at once, so he cuts the goose open and finds nothing inside. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Tell the second. Outline: a dog carries a bone across a bridge, sees his reflection in the water, thinks it is another dog with a bigger bone, barks to grab it, and drops his own bone into the water.",
+          "Draw two columns. Under each fable, have your child write the characters and the problem. Then ask: \"What message is the same in both?\" (Being greedy can make you lose what you already have.)",
+          "Ask: \"How are the stories different even though the lesson is similar?\" (Different animals, different events.)",
+          "You will know they got it when they name a message shared by both stories and point to a detail in each that supports it."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r10-retell",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Retell with the beginning, middle and end",
+    "version": 1,
+    "skillIds": [
+      "g3-retell"
+    ],
+    "activities": [
+      {
+        "id": "g3-r10-retell-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Retell it for an audience: The Town Mouse and the Country Mouse",
+        "minutes": 30,
+        "materials": [
+          "the fable (book, online text, or retell)",
+          "3 index cards or paper",
+          "phone or recorder (optional)"
+        ],
+        "parentPrompts": [
+          "Read or tell the fable. Outline: a country mouse shares plain but plentiful food with a town mouse; the town mouse invites the country mouse to a fancy house with rich food, but they keep having to run and hide from people and a cat; the country mouse goes home, saying he prefers his simple, peaceful life. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "On three cards write Beginning, Middle, End. Help your child jot a few key words on each card, no full sentences needed.",
+          "Teach retelling words: first, next, then, finally. Have them retell the story to you, a family member, or a stuffed animal using the cards. Record it if you like, then listen back.",
+          "Ask: \"Did your retelling include the message? What would you add or leave out?\"",
+          "You will know they got it when the retelling is in order, uses the story's main events, and ends with the message."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr04-plan",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Plan the writing",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-intro"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr04-plan-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make an opinion plan chart",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "reasons list from last time"
+        ],
+        "parentPrompts": [
+          "Draw a chart with four boxes: Introduction (topic and opinion), Reason 1 and detail, Reason 2 and detail, Ending. Explain that this is the organization of the piece, like a skeleton.",
+          "Have your child fill in each box with words and short phrases. Help them put the strongest reason first or last.",
+          "Tell it out loud in order, using the chart as a guide. Ask: \"Does the order make sense to the listener?\"",
+          "Make changes: swap a reason, add a detail, or fix the opinion sentence so it fits the plan.",
+          "You will know they got it when the chart has all four parts and the order makes sense when read aloud."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr05-linking-words",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Linking words that connect",
+    "version": 1,
+    "skillIds": [
+      "g3-linking-words"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr05-linking-words-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Join sentences with because, since, therefore and for example",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "a list of short sentence pairs (see steps)"
+        ],
+        "parentPrompts": [
+          "Explain: linking words connect an opinion to its reasons. Useful ones: because, since, therefore, for example. Write them on a card for the writing area.",
+          "Say two short sentences and have your child join them: \"I love autumn. The leaves change colors.\" becomes \"I love autumn because the leaves change colors.\" Do this with four pairs.",
+          "Try \"for example\" to add a detail: \"Autumn has fun activities. For example, we jump in leaf piles.\" Check that it makes sense.",
+          "Have them reread their plan and add one linking word to each reason.",
+          "You will know they got it when each reason in the plan is joined to the opinion with a fitting linking word."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr06-draft",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Write the first draft",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-draft"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr06-draft-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "First draft from the plan",
+        "minutes": 25,
+        "materials": [
+          "plan chart",
+          "lined paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Look at the plan together. Remind them to write in paragraphs or clear groups: introduction, reasons with details, ending. Skip lines to leave room for changes later.",
+          "Have them write the introduction and first reason. Stop and read it aloud. Praise one specific thing: \"I like how you used because here.\"",
+          "Let them keep writing on their own. If they get stuck, ask a question rather than giving the words: \"What is a detail you could add here?\"",
+          "Do not fix spelling or punctuation yet. The goal today is to get all the ideas on paper.",
+          "You will know they got it when the draft has an introduction, at least two reasons with details, and linking words, even if the ending is not written yet."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-ww03-prefixes-un-re",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Prefixes un- and re-",
+    "version": 1,
+    "skillIds": [
+      "g3-prefixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-ww03-prefixes-un-re-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build words with prefix cards",
+        "minutes": 25,
+        "materials": [
+          "cards or paper slips",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Write the prefixes un- and re- on two cards and write base words on others: happy, lock, fair, kind, do, play, write, build. Explain: a prefix is a word part at the start that changes a meaning. Un- means not or the opposite of, and re- means again.",
+          "Have your child place a prefix card in front of each base word and say the new word and its meaning: unhappy means not happy, rewrite means write again. Some combinations do not make words (like rekind), so ask which ones are real.",
+          "Write a sentence using three of the new words. Read them aloud.",
+          "Find re- and un- words around the house or in a book and add them to a list.",
+          "You will know they got it when they explain the meaning of each prefix and use new words correctly."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-ww04-prefixes-dis-pre-mis",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Prefixes dis-, pre- and mis-",
+    "version": 1,
+    "skillIds": [
+      "g3-prefixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-ww04-prefixes-dis-pre-mis-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Prefix meaning match",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "dictionary (print or digital)"
+        ],
+        "parentPrompts": [
+          "Introduce the meanings: dis- means not or the opposite (dislike, disagree), pre- means before (preheat, preview), mis- means wrongly (misspell, misplace).",
+          "Write six words on paper: dislike, disagree, preheat, preview, misspell, misplace. Have your child cover the prefix and say the base word, then read the whole word and explain what it means.",
+          "Have them match each word to a meaning: before heating, to see ahead of time, to put in the wrong place, and so on.",
+          "Look up preview or misplace in a dictionary and read the definition together. Ask: \"How does the prefix help you figure out the meaning?\"",
+          "You will know they got it when they can use a prefix as a clue to define a word they have not seen before."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m06-round-to-hundred",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Rounding to the nearest 100",
+    "version": 1,
+    "skillIds": [
+      "g3-round"
+    ],
+    "activities": [
+      {
+        "id": "g3-m06-round-to-hundred-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Round with a hundreds hill",
+        "minutes": 35,
+        "materials": [
+          "paper",
+          "pencil",
+          "number line drawn from 300 to 400"
+        ],
+        "parentPrompts": [
+          "Review rounding to the nearest 10. Then draw a number line from 300 to 400 with 350 marked in the middle. Place 327 and 378 on it.",
+          "Explain: to round to the nearest hundred, look at the tens digit. 5 or more, round up; less than 5, stay. Check with 327 (300) and 378 (400).",
+          "Have them round ten numbers (for example, 142, 289, 450, 507, 666, 849, 951).",
+          "Ask: \"What happens with 950? With 999?\" (They round to 1,000.)",
+          "You will know they got it when they round to the nearest hundred and explain which digit they checked."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m07-add-no-regroup",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Add three-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g3-add-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-m07-add-no-regroup-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Add with place value pieces",
+        "minutes": 35,
+        "materials": [
+          "place value pieces from lesson 1",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Pose 243 + 125. Build 243 with pieces and then build 125 and put them together. Add each place: ones first (3 + 5), then tens (4 + 2), then hundreds (2 + 1).",
+          "Write the problem vertically with the digits lined up by place, and show the result 368 matches the pieces.",
+          "Solve three more without regrouping (for example, 312 + 456, 521 + 143, 604 + 205), using pieces for the first and paper only after.",
+          "Ask: \"Why do we line the numbers up by place value?\"",
+          "You will know they got it when they line up the digits, add each place correctly, and explain why."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m08-add-regroup-ones",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Add with regrouping ones",
+    "version": 1,
+    "skillIds": [
+      "g3-add-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-m08-add-regroup-ones-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Trade ten ones for a ten",
+        "minutes": 35,
+        "materials": [
+          "place value pieces",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Pose 247 + 135. Build both numbers. Add the ones: 7 + 5 = 12, which is too many for one place. Trade 10 ones for 1 ten, and leave 2 ones.",
+          "Write the problem vertically and show the small 1 written above the tens column. Continue: tens 4 + 3 + 1 = 8, hundreds 2 + 1 = 3. Answer: 382.",
+          "Try three more problems, such as 358 + 216 and 129 + 345. Have your child say each regrouping out loud.",
+          "Ask: \"Is the answer reasonable?\" Round each number to the nearest hundred (200 + 100 = 300) and check the answer is close.",
+          "You will know they got it when they regroup correctly and check with an estimate."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m09-add-regroup-more",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Add with regrouping tens",
+    "version": 1,
+    "skillIds": [
+      "g3-add-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-m09-add-regroup-more-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Regroup tens and hundreds",
+        "minutes": 35,
+        "materials": [
+          "place value pieces (optional)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Pose 286 + 147. Ones: 6 + 7 = 13, so regroup 1 ten. Tens: 8 + 4 + 1 = 13 tens, so regroup 1 hundred and 3 tens. Hundreds: 2 + 1 + 1 = 4. Answer: 433.",
+          "Have your child solve 365 + 278 and 458 + 367 on their own, explaining each step to you aloud.",
+          "Try a problem where regrouping makes a thousand: 650 + 450. Ask: \"What did you notice?\" (10 hundreds make 1,000.)",
+          "Check each with an estimate by rounding to the nearest hundred.",
+          "You will know they got it when they get the correct sums and talk through regrouping in both places."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m10-add-word-problems",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Addition story problems",
+    "version": 1,
+    "skillIds": [
+      "g3-add-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-m10-add-word-problems-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write and solve addition stories",
+        "minutes": 35,
+        "materials": [
+          "paper",
+          "pencil",
+          "play money or coins (optional)"
+        ],
+        "parentPrompts": [
+          "Read a story: \"A library has 346 picture books and 278 chapter books. How many books in all?\" Draw a quick picture or bar model. Solve and write the sentence answer: 346 + 278 = 624.",
+          "Have your child write their own addition story using three-digit numbers about something they know, such as a pet shop, a farm, or a toy store.",
+          "Swap stories. Solve each other's and check with a rounded estimate.",
+          "Ask: \"What words in the story told you to add?\" (In all, total, altogether, together.)",
+          "You will know they got it when they write a sensible story problem and solve one correctly with an estimate."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s04-unbalanced-forces",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Unbalanced forces change motion",
+    "version": 1,
+    "skillIds": [
+      "g3-balanced-forces"
+    ],
+    "activities": [
+      {
+        "id": "g3-s04-unbalanced-forces-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ramp and toy car push test",
+        "minutes": 40,
+        "materials": [
+          "a toy car",
+          "a board or large book propped as a ramp",
+          "a tape measure",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Review: balanced forces do not change motion. Unbalanced forces do. When one force is bigger, the object speeds up, slows down, or changes direction.",
+          "Set up a ramp and place a toy car at the top. Let it go and see what happens. Ask: \"What force pulls it down?\" (Gravity.)",
+          "Give the car a small push down the ramp, then a stronger push. Measure how far it goes each time. Do two tries for each push.",
+          "Record results in a table. Ask: \"What did a bigger push do to the motion?\"",
+          "You will know they got it when they say that a stronger push changes the motion more, and show it with their data."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s05-friction-fair-test",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "A fair test of surfaces",
+    "version": 1,
+    "skillIds": [
+      "g3-balanced-forces"
+    ],
+    "activities": [
+      {
+        "id": "g3-s05-friction-fair-test-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Which surface slows the car most?",
+        "minutes": 40,
+        "materials": [
+          "a toy car",
+          "a ramp",
+          "3 surfaces (smooth floor, towel, sandpaper or a rough mat)",
+          "a tape measure",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Explain: a fair test changes only one thing and keeps all else the same. Here we change the surface and keep the ramp height and car the same.",
+          "Predict which surface will stop the car soonest. Have your child write the prediction first.",
+          "Release the car from the same spot each time. Measure the distance traveled on each surface. Do each one twice and record both.",
+          "Compare the results with the prediction. Ask: \"What force made the car stop? How do you know the test was fair?\"",
+          "You will know they got it when they say the test changed one thing and the data show which surface caused the most friction."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s06-gravity",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Gravity pulls things down",
+    "version": 1,
+    "skillIds": [
+      "g3-forces"
+    ],
+    "activities": [
+      {
+        "id": "g3-s06-gravity-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Drop, toss and observe",
+        "minutes": 40,
+        "materials": [
+          "a ball",
+          "a sheet of paper",
+          "a book",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Explain: gravity is a pull from Earth that pulls things toward the ground. Toss a ball gently upward. Ask: \"What do you notice about where it goes?\" It goes up, slows, then comes back down.",
+          "Drop a flat sheet of paper and a book from the same height. Ask: \"Which hits the ground first? Why?\" The paper is slowed more by the air. Then crumple the paper and drop it with the book, and compare again.",
+          "Draw an arrow showing the direction gravity pulls. Ask: \"Does gravity act on things that are not moving?\"",
+          "Write one sentence about gravity and one about what the air does.",
+          "You will know they got it when they say that gravity pulls things down and can use the crumpled-paper test as evidence that air also matters."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-so03-directions",
+    "grade": "3",
+    "subject": "social-studies",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Directions on a map",
+    "version": 1,
+    "skillIds": [
+      "g3-directions"
+    ],
+    "activities": [
+      {
+        "id": "g3-so03-directions-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "North, south, east and west",
+        "minutes": 40,
+        "materials": [
+          "paper",
+          "pencil",
+          "a compass or compass app",
+          "a sheet of paper with N, S, E, W written on it"
+        ],
+        "parentPrompts": [
+          "Explain: the cardinal directions are north, south, east, and west. A compass rose on a map shows them. The Sun rises in the east and sets in the west.",
+          "Go outside with a compass (or use a phone compass). Find north. Tape or place papers labeled N, S, E, W on the ground to match.",
+          "Give directions: \"Walk toward the east.\" \"What is south of the tree?\" Switch roles.",
+          "Draw a compass rose on a piece of paper. Then use it on a room map: \"What is north of the table?\"",
+          "You will know they got it when they find the four directions and use them to describe locations on a map."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-so04-neighborhood-map",
+    "grade": "3",
+    "subject": "social-studies",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Places in a community",
+    "version": 1,
+    "skillIds": [
+      "g3-map-basics"
+    ],
+    "activities": [
+      {
+        "id": "g3-so04-neighborhood-map-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Map places in your neighborhood",
+        "minutes": 40,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons",
+          "a street map of your area if you have one (paper or screen)"
+        ],
+        "parentPrompts": [
+          "Talk about places in your community: homes, school or library, stores, parks, places for worship, fire station, bus stop. Not every community has the same places.",
+          "Have your child draw a map of the area near your home. Include at least five places, a compass rose, and a key.",
+          "Ask: \"Which places do you go to most often? Which are close, and which are far?\"",
+          "Use the map to give directions from your home to one place using words like north, left, and next to.",
+          "You will know they got it when the map shows places in their community with a key and a compass rose."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

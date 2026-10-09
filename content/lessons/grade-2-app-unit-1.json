@@ -1,0 +1,4407 @@
+[
+  {
+    "id": "g2-app-lit-01",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Short vowel review",
+    "version": 1,
+    "skillIds": [
+      "g2-short-vowels"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-01-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the short vowels",
+        "minutes": 4,
+        "prompt": "Tap each word to hear it. Listen for the short vowel sound.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "w0",
+              "label": "cat"
+            },
+            {
+              "id": "w1",
+              "label": "pet"
+            },
+            {
+              "id": "w2",
+              "label": "sit"
+            },
+            {
+              "id": "w3",
+              "label": "hop"
+            },
+            {
+              "id": "w4",
+              "label": "cup"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-01-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Short i",
+        "minutes": 5,
+        "prompt": "Which word has the short i sound?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "sit"
+            },
+            {
+              "id": "c1",
+              "label": "soap"
+            },
+            {
+              "id": "c2",
+              "label": "seed"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-01-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Short a or short o",
+        "minutes": 5,
+        "prompt": "Sort each word by its vowel sound.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "short a"
+            },
+            {
+              "id": "k1",
+              "label": "short o"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "cat",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "hop",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "map",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "pot",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "bag",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "dog",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-02",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Silent e with a",
+    "version": 1,
+    "skillIds": [
+      "g2-silent-e"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-02-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Long a words",
+        "minutes": 4,
+        "prompt": "Tap each word to hear it. In these words, the vowel says its name.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "w0",
+              "label": "cake"
+            },
+            {
+              "id": "w1",
+              "label": "gate"
+            },
+            {
+              "id": "w2",
+              "label": "make"
+            },
+            {
+              "id": "w3",
+              "label": "name"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-02-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Add the silent e",
+        "minutes": 5,
+        "prompt": "Add a silent e to the word cap. Which word do you make?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "cape"
+            },
+            {
+              "id": "c1",
+              "label": "cab"
+            },
+            {
+              "id": "c2",
+              "label": "cat"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-02-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Short a or long a",
+        "minutes": 5,
+        "prompt": "Sort the words by whether the vowel sound is short or long.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "short a"
+            },
+            {
+              "id": "k1",
+              "label": "long a"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "cap",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "cape",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "map",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "make",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "hat",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "gate",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-03",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Game: Silent e with i, o, and u",
+    "version": 1,
+    "skillIds": [
+      "g2-silent-e"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-03-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Say its name",
+        "minutes": 5,
+        "prompt": "Which word says the name of the letter i?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "kit"
+            },
+            {
+              "id": "c1",
+              "label": "kite"
+            },
+            {
+              "id": "c2",
+              "label": "kick"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-lit-03-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Add the e",
+        "minutes": 5,
+        "prompt": "Add a silent e to hop. What new word do you make?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "hope"
+            },
+            {
+              "id": "c1",
+              "label": "hoop"
+            },
+            {
+              "id": "c2",
+              "label": "hip"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-03-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Short o or long o",
+        "minutes": 5,
+        "prompt": "Sort the words by whether the vowel sound is short or long.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "short o"
+            },
+            {
+              "id": "k1",
+              "label": "long o"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "rope",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i1",
+              "label": "hop",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i2",
+              "label": "nose",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "dot",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i4",
+              "label": "bone",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i5",
+              "label": "box",
+              "categoryId": "k0"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-04",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Smooth reading and sight words",
+    "version": 1,
+    "skillIds": [
+      "g2-tricky-words",
+      "g2-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-04-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Common words",
+        "minutes": 4,
+        "prompt": "Tap each word to hear it. Read it along with the voice.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "w0",
+              "label": "said"
+            },
+            {
+              "id": "w1",
+              "label": "was"
+            },
+            {
+              "id": "w2",
+              "label": "they"
+            },
+            {
+              "id": "w3",
+              "label": "one"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-04-2",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sound it out or tricky",
+        "minutes": 5,
+        "prompt": "Sort the words. Some can be sounded out and some are tricky.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "sound it out"
+            },
+            {
+              "id": "k1",
+              "label": "tricky word"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "cat",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "said",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "hop",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "was",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "red",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "they",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-04-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Make sense",
+        "minutes": 5,
+        "prompt": "Which word makes sense? The kite goes up in the ___.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "sky"
+            },
+            {
+              "id": "c1",
+              "label": "skip"
+            },
+            {
+              "id": "c2",
+              "label": "sock"
+            }
+          ],
+          "correctId": "c0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-05",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Sentences that work",
+    "version": 1,
+    "skillIds": [
+      "g2-narrative-writing"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-05-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Complete sentence",
+        "minutes": 5,
+        "prompt": "Which one is a complete sentence?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "The dog ran home."
+            },
+            {
+              "id": "c1",
+              "label": "The big dog"
+            },
+            {
+              "id": "c2",
+              "label": "ran home fast"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-05-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Capital letter",
+        "minutes": 5,
+        "prompt": "Which sentence starts with a capital letter?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "we went to the park."
+            },
+            {
+              "id": "c1",
+              "label": "We went to the park."
+            },
+            {
+              "id": "c2",
+              "label": "we Went to the park."
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-lit-05-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Telling or asking",
+        "minutes": 5,
+        "prompt": "Sort the sentences by what they do.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "telling sentence"
+            },
+            {
+              "id": "k1",
+              "label": "asking sentence"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "I see a hat.",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "Where is my hat?",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "The sun is hot.",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "Can we play?",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-06",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Long a: ai and ay",
+    "version": 1,
+    "skillIds": [
+      "g2-vowel-teams"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-06-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear ai and ay",
+        "minutes": 4,
+        "prompt": "Tap each word to hear the long a.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "w0",
+              "label": "rain"
+            },
+            {
+              "id": "w1",
+              "label": "play"
+            },
+            {
+              "id": "w2",
+              "label": "day"
+            },
+            {
+              "id": "w3",
+              "label": "mail"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-06-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Choose the spelling",
+        "minutes": 5,
+        "prompt": "Which spelling finishes the word? The kids p__ outside.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "ay"
+            },
+            {
+              "id": "c1",
+              "label": "ai"
+            },
+            {
+              "id": "c2",
+              "label": "ae"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-06-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "ai or ay",
+        "minutes": 5,
+        "prompt": "Sort the words by how the long a is spelled.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "ai"
+            },
+            {
+              "id": "k1",
+              "label": "ay"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "rain",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "tray",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "mail",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "play",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "snail",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "day",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-07",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Long e: ee and ea",
+    "version": 1,
+    "skillIds": [
+      "g2-vowel-teams"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-07-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Long e word",
+        "minutes": 5,
+        "prompt": "Which word has the long e sound?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "bed"
+            },
+            {
+              "id": "c1",
+              "label": "bead"
+            },
+            {
+              "id": "c2",
+              "label": "bad"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-lit-07-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Spell it",
+        "minutes": 5,
+        "prompt": "Which is the correct spelling of the animal that gives wool?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "shep"
+            },
+            {
+              "id": "c1",
+              "label": "sheep"
+            },
+            {
+              "id": "c2",
+              "label": "sheap"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-lit-07-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "ee or ea",
+        "minutes": 5,
+        "prompt": "Sort the words by their vowel team.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "ee"
+            },
+            {
+              "id": "k1",
+              "label": "ea"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "seed",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "beach",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "tree",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "leaf",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "feet",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "bean",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-08",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Long o: oa and ow",
+    "version": 1,
+    "skillIds": [
+      "g2-vowel-teams"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-08-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear oa and ow",
+        "minutes": 4,
+        "prompt": "Tap each word to hear the long o.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "w0",
+              "label": "soap"
+            },
+            {
+              "id": "w1",
+              "label": "toast"
+            },
+            {
+              "id": "w2",
+              "label": "slow"
+            },
+            {
+              "id": "w3",
+              "label": "window"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-08-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Rhymes",
+        "minutes": 5,
+        "prompt": "Which word rhymes with goat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "boat"
+            },
+            {
+              "id": "c1",
+              "label": "bat"
+            },
+            {
+              "id": "c2",
+              "label": "got"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-08-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "oa or ow",
+        "minutes": 5,
+        "prompt": "Sort the words by how the long o is spelled.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "oa"
+            },
+            {
+              "id": "k1",
+              "label": "ow"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "boat",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "snow",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "coat",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "grow",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "road",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "show",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-09",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Read with expression",
+    "version": 1,
+    "skillIds": [
+      "g2-expressive-reading"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-09-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Show feeling",
+        "minutes": 5,
+        "prompt": "How should you read: Stop!",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "with strong feeling"
+            },
+            {
+              "id": "c1",
+              "label": "in a whisper"
+            },
+            {
+              "id": "c2",
+              "label": "very slowly like asleep"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-09-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Question mark",
+        "minutes": 5,
+        "prompt": "Which mark tells your voice to go up like a question?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "?"
+            },
+            {
+              "id": "c1",
+              "label": "."
+            },
+            {
+              "id": "c2",
+              "label": ","
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-09-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sentence ends",
+        "minutes": 5,
+        "prompt": "Sort the sentences by the mark at the end.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "question"
+            },
+            {
+              "id": "k1",
+              "label": "statement"
+            },
+            {
+              "id": "k2",
+              "label": "exclamation"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "What time is it?",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "It is noon.",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "Watch out!",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i3",
+              "label": "Where are my shoes?",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i4",
+              "label": "I like pears.",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i5",
+              "label": "We won!",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-10",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Opinion or fact",
+    "version": 1,
+    "skillIds": [
+      "g2-opinion-writing"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-10-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which is an opinion?",
+        "minutes": 5,
+        "prompt": "Which sentence is an opinion?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "Dogs have four legs."
+            },
+            {
+              "id": "c1",
+              "label": "Dogs are the best pets."
+            },
+            {
+              "id": "c2",
+              "label": "Dogs bark."
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-lit-10-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Linking word",
+        "minutes": 5,
+        "prompt": "Which word links an opinion to a reason? I like soup ___ it is warm.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "because"
+            },
+            {
+              "id": "c1",
+              "label": "never"
+            },
+            {
+              "id": "c2",
+              "label": "under"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-10-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Fact or opinion",
+        "minutes": 5,
+        "prompt": "Sort each sentence.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "fact"
+            },
+            {
+              "id": "k1",
+              "label": "opinion"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "A week has seven days.",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "Summer is the best season.",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "Fish live in water.",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "Pizza tastes great.",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-11",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Long i: igh and y",
+    "version": 1,
+    "skillIds": [
+      "g2-vowel-teams"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-11-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear igh and y",
+        "minutes": 4,
+        "prompt": "Tap each word to hear the long i.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "w0",
+              "label": "sky"
+            },
+            {
+              "id": "w1",
+              "label": "bright"
+            },
+            {
+              "id": "w2",
+              "label": "right"
+            },
+            {
+              "id": "w3",
+              "label": "cry"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-11-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Rhymes",
+        "minutes": 5,
+        "prompt": "Which word rhymes with night?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "light"
+            },
+            {
+              "id": "c1",
+              "label": "lit"
+            },
+            {
+              "id": "c2",
+              "label": "lot"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-11-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "igh or y",
+        "minutes": 5,
+        "prompt": "Sort the words by how the long i is spelled.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "igh"
+            },
+            {
+              "id": "k1",
+              "label": "y"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "light",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "my",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "night",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "fly",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "high",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "try",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-12",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Two-part words",
+    "version": 1,
+    "skillIds": [
+      "g2-two-syllable"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-12-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the parts",
+        "minutes": 4,
+        "prompt": "Tap each word to hear it. Clap the parts.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "w0",
+              "label": "sunshine"
+            },
+            {
+              "id": "w1",
+              "label": "cupcake"
+            },
+            {
+              "id": "w2",
+              "label": "beanbag"
+            },
+            {
+              "id": "w3",
+              "label": "outside"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-12-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many parts",
+        "minutes": 5,
+        "prompt": "How many parts does the word rainbow have?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "1"
+            },
+            {
+              "id": "c1",
+              "label": "2"
+            },
+            {
+              "id": "c2",
+              "label": "3"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-lit-12-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "One part or two parts",
+        "minutes": 5,
+        "prompt": "Sort the words by how many parts they have.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "one part"
+            },
+            {
+              "id": "k1",
+              "label": "two parts"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "cake",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "cupcake",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "rain",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "mailbox",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "bike",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "airplane",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-13",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Compound words",
+    "version": 1,
+    "skillIds": [
+      "g2-compound-words"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-13-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Put them together",
+        "minutes": 5,
+        "prompt": "Which two words make raincoat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "rain and coat"
+            },
+            {
+              "id": "c1",
+              "label": "rain and cat"
+            },
+            {
+              "id": "c2",
+              "label": "ran and coat"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-13-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Word meaning",
+        "minutes": 5,
+        "prompt": "What does bookshelf mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "a shelf for books"
+            },
+            {
+              "id": "c1",
+              "label": "a book about shelves"
+            },
+            {
+              "id": "c2",
+              "label": "a shelf you read"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-13-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Compound or not",
+        "minutes": 5,
+        "prompt": "Sort the words.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "compound word"
+            },
+            {
+              "id": "k1",
+              "label": "not a compound word"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "sunflower",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "cat",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "football",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "tree",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "notebook",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "apple",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-14",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Who, what, where",
+    "version": 1,
+    "skillIds": [
+      "g2-story-details"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-14-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Who",
+        "minutes": 5,
+        "prompt": "Mia put on her boots and ran to the pond to feed the ducks. Who ran to the pond?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "Mia"
+            },
+            {
+              "id": "c1",
+              "label": "the ducks"
+            },
+            {
+              "id": "c2",
+              "label": "her boots"
+            }
+          ],
+          "correctId": "c0",
+          "stem": "Mia put on her boots and ran to the pond to feed the ducks."
+        }
+      },
+      {
+        "id": "g2-app-lit-14-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Where",
+        "minutes": 5,
+        "prompt": "Where did Mia go?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "to the pond"
+            },
+            {
+              "id": "c1",
+              "label": "to a store"
+            },
+            {
+              "id": "c2",
+              "label": "to the beach"
+            }
+          ],
+          "correctId": "c0",
+          "stem": "Mia put on her boots and ran to the pond to feed the ducks."
+        }
+      },
+      {
+        "id": "g2-app-lit-14-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Why",
+        "minutes": 5,
+        "prompt": "Why do you think Mia wore boots?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "The ground by a pond may be wet."
+            },
+            {
+              "id": "c1",
+              "label": "It was snowing."
+            },
+            {
+              "id": "c2",
+              "label": "She was cold."
+            }
+          ],
+          "correctId": "c0",
+          "stem": "Mia put on her boots and ran to the pond to feed the ducks."
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-15",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Opinion with because",
+    "version": 1,
+    "skillIds": [
+      "g2-opinion-writing"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-15-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Linking word",
+        "minutes": 5,
+        "prompt": "Which word fits? I love swimming ___ it is fun.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "because"
+            },
+            {
+              "id": "c1",
+              "label": "but"
+            },
+            {
+              "id": "c2",
+              "label": "than"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-15-2",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Good reason or not",
+        "minutes": 5,
+        "prompt": "Sort the endings for: I love swimming.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "good reason"
+            },
+            {
+              "id": "k1",
+              "label": "does not fit"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "because it is fun.",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "because the cat is gray.",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "because the water is cool.",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "because I have a red hat.",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-15-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Ending sentence",
+        "minutes": 5,
+        "prompt": "Which is the best last sentence for an opinion?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "That is why I like it."
+            },
+            {
+              "id": "c1",
+              "label": "The pond is wet."
+            },
+            {
+              "id": "c2",
+              "label": "Seven plus two."
+            }
+          ],
+          "correctId": "c0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-16",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Game: Prefixes un- and re-",
+    "version": 1,
+    "skillIds": [
+      "g2-affixes"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-16-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "un-",
+        "minutes": 5,
+        "prompt": "What does unhappy mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "not happy"
+            },
+            {
+              "id": "c1",
+              "label": "very happy"
+            },
+            {
+              "id": "c2",
+              "label": "happy again"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-16-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "re-",
+        "minutes": 5,
+        "prompt": "What does reread mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "read again"
+            },
+            {
+              "id": "c1",
+              "label": "not read"
+            },
+            {
+              "id": "c2",
+              "label": "read fast"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-16-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "un or re",
+        "minutes": 5,
+        "prompt": "Sort the words by their prefix.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "un-"
+            },
+            {
+              "id": "k1",
+              "label": "re-"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "unlock",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "redo",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "unfair",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "retell",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "unkind",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "replay",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-17",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Game: Endings -ed and -ing",
+    "version": 1,
+    "skillIds": [
+      "g2-affixes"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-17-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Past",
+        "minutes": 5,
+        "prompt": "Which word means jump happened before?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "jumped"
+            },
+            {
+              "id": "c1",
+              "label": "jumping"
+            },
+            {
+              "id": "c2",
+              "label": "jumps"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-17-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Irregular past",
+        "minutes": 5,
+        "prompt": "Yesterday I ___ on the chair. Which is correct?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "sat"
+            },
+            {
+              "id": "c1",
+              "label": "sitted"
+            },
+            {
+              "id": "c2",
+              "label": "sitting"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-17-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "-ed or -ing",
+        "minutes": 5,
+        "prompt": "Sort the words by the ending.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "-ed"
+            },
+            {
+              "id": "k1",
+              "label": "-ing"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "jumped",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "playing",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "walked",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "singing",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "helped",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "looking",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-18",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Game: Tricky words",
+    "version": 1,
+    "skillIds": [
+      "g2-tricky-words"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-18-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the tricky words",
+        "minutes": 4,
+        "prompt": "Tap each word to hear it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "w0",
+              "label": "because"
+            },
+            {
+              "id": "w1",
+              "label": "friend"
+            },
+            {
+              "id": "w2",
+              "label": "people"
+            },
+            {
+              "id": "w3",
+              "label": "said"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-lit-18-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Spelling",
+        "minutes": 5,
+        "prompt": "Which is spelled correctly?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "frend"
+            },
+            {
+              "id": "c1",
+              "label": "friend"
+            },
+            {
+              "id": "c2",
+              "label": "freind"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-lit-18-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sound it out or tricky",
+        "minutes": 5,
+        "prompt": "Sort the words.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "spelled like it sounds"
+            },
+            {
+              "id": "k1",
+              "label": "tricky spelling"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "jump",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "said",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "ship",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "was",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "friend",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i5",
+              "label": "tent",
+              "categoryId": "k0"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-19",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Good reading habits",
+    "version": 1,
+    "skillIds": [
+      "g2-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-19-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Smooth reading",
+        "minutes": 5,
+        "prompt": "What helps you read smoothly?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "Reread the sentence."
+            },
+            {
+              "id": "c1",
+              "label": "Skip all hard words."
+            },
+            {
+              "id": "c2",
+              "label": "Read once and stop."
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-19-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Fix a mistake",
+        "minutes": 5,
+        "prompt": "A word does not make sense. What should you do?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "Go back and try again."
+            },
+            {
+              "id": "c1",
+              "label": "Keep going and ignore it."
+            },
+            {
+              "id": "c2",
+              "label": "Close the book."
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-19-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Helpful or not",
+        "minutes": 5,
+        "prompt": "Sort the reading habits.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "helpful habit"
+            },
+            {
+              "id": "k1",
+              "label": "not helpful"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "Reread the sentence.",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "Guess without looking.",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "Look at the picture clues.",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "Read very fast and skip.",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-lit-20",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Telling a story in order",
+    "version": 1,
+    "skillIds": [
+      "g2-narrative-writing"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-lit-20-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Order word",
+        "minutes": 5,
+        "prompt": "Which word shows the order of events?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "First"
+            },
+            {
+              "id": "c1",
+              "label": "Blue"
+            },
+            {
+              "id": "c2",
+              "label": "Dog"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-20-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Feeling",
+        "minutes": 5,
+        "prompt": "Which sentence tells how someone feels?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "Sam felt proud."
+            },
+            {
+              "id": "c1",
+              "label": "Sam has a bike."
+            },
+            {
+              "id": "c2",
+              "label": "The bike is red."
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-lit-20-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Order words",
+        "minutes": 5,
+        "prompt": "Sort the words.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "order word"
+            },
+            {
+              "id": "k1",
+              "label": "not an order word"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "first",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "red",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "next",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "cat",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "then",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "finally",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i6",
+              "label": "jump",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-01",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Doubles",
+    "version": 1,
+    "skillIds": [
+      "g2-fact-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-01-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "6 and 6",
+        "minutes": 5,
+        "prompt": "What is 6 + 6?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "10"
+            },
+            {
+              "id": "c1",
+              "label": "12"
+            },
+            {
+              "id": "c2",
+              "label": "14"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "🔵🔵🔵🔵🔵🔵 + 🔵🔵🔵🔵🔵🔵"
+        }
+      },
+      {
+        "id": "g2-app-math-01-2",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Make ten",
+        "minutes": 5,
+        "prompt": "Fill the frame to make ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 5
+            },
+            {
+              "start": 6
+            },
+            {
+              "start": 7
+            },
+            {
+              "start": 8
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-math-01-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "7 and 7",
+        "minutes": 5,
+        "prompt": "What is 7 + 7?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "13"
+            },
+            {
+              "id": "c1",
+              "label": "14"
+            },
+            {
+              "id": "c2",
+              "label": "15"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-02",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Make ten",
+    "version": 1,
+    "skillIds": [
+      "g2-fact-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-02-1",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Ten frame",
+        "minutes": 5,
+        "prompt": "Fill the frame to make ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 8
+            },
+            {
+              "start": 7
+            },
+            {
+              "start": 9
+            },
+            {
+              "start": 6
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-math-02-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "8 + 5",
+        "minutes": 5,
+        "prompt": "Make ten first. What is 8 + 5?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "12"
+            },
+            {
+              "id": "c1",
+              "label": "13"
+            },
+            {
+              "id": "c2",
+              "label": "14"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-02-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "9 + 4",
+        "minutes": 5,
+        "prompt": "What is 9 + 4?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "12"
+            },
+            {
+              "id": "c1",
+              "label": "13"
+            },
+            {
+              "id": "c2",
+              "label": "14"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-03",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Game: Near doubles",
+    "version": 1,
+    "skillIds": [
+      "g2-fact-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-03-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "6 + 7",
+        "minutes": 5,
+        "prompt": "6 + 6 is 12. What is 6 + 7?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "13"
+            },
+            {
+              "id": "c1",
+              "label": "14"
+            },
+            {
+              "id": "c2",
+              "label": "12"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-03-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "8 + 9",
+        "minutes": 5,
+        "prompt": "8 + 8 is 16. What is 8 + 9?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "16"
+            },
+            {
+              "id": "c1",
+              "label": "17"
+            },
+            {
+              "id": "c2",
+              "label": "18"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-03-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find thirteen",
+        "minutes": 4,
+        "prompt": "Tap the number thirteen.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 20,
+          "target": 13
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-04",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Odd and even",
+    "version": 1,
+    "skillIds": [
+      "g2-odd-even"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-04-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Odd or even",
+        "minutes": 5,
+        "prompt": "Sort the numbers.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "even"
+            },
+            {
+              "id": "k1",
+              "label": "odd"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "2",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "7",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "10",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "13",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "16",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i5",
+              "label": "19",
+              "categoryId": "k1"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-math-04-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Is 14 even",
+        "minutes": 5,
+        "prompt": "Is 14 odd or even?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "even"
+            },
+            {
+              "id": "c1",
+              "label": "odd"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-04-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Pairs",
+        "minutes": 5,
+        "prompt": "Look at the apples. Are there an odd number or even number?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "odd"
+            },
+            {
+              "id": "c1",
+              "label": "even"
+            }
+          ],
+          "correctId": "c0",
+          "stem": "🍎🍎🍎🍎🍎🍎🍎🍎🍎"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-05",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 1,
+    "title": "Game: Story problems",
+    "version": 1,
+    "skillIds": [
+      "g2-word-problems"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-05-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Stickers",
+        "minutes": 5,
+        "prompt": "Sam has 9 stickers. He gets 6 more. How many now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "14"
+            },
+            {
+              "id": "c1",
+              "label": "15"
+            },
+            {
+              "id": "c2",
+              "label": "16"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-05-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Birds",
+        "minutes": 5,
+        "prompt": "14 birds sit on a fence. 5 fly away. How many are left?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "8"
+            },
+            {
+              "id": "c1",
+              "label": "9"
+            },
+            {
+              "id": "c2",
+              "label": "10"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-05-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Add or subtract",
+        "minutes": 5,
+        "prompt": "Mia had 12 pears and ate 4. Which number sentence fits?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "12 - 4"
+            },
+            {
+              "id": "c1",
+              "label": "12 + 4"
+            },
+            {
+              "id": "c2",
+              "label": "4 - 12"
+            }
+          ],
+          "correctId": "c0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-06",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Game: Ten tens make a hundred",
+    "version": 1,
+    "skillIds": [
+      "g2-place-value"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-06-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Tens in 100",
+        "minutes": 5,
+        "prompt": "How many tens make 100?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "5"
+            },
+            {
+              "id": "c1",
+              "label": "10"
+            },
+            {
+              "id": "c2",
+              "label": "100"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-06-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Tens in 60",
+        "minutes": 5,
+        "prompt": "How many tens are in 60?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "6"
+            },
+            {
+              "id": "c1",
+              "label": "10"
+            },
+            {
+              "id": "c2",
+              "label": "60"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-06-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 100",
+        "minutes": 4,
+        "prompt": "Tap the number 100.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 90,
+          "max": 110,
+          "target": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-07",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Hundreds, tens, ones",
+    "version": 1,
+    "skillIds": [
+      "g2-place-value"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-07-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Tens digit",
+        "minutes": 5,
+        "prompt": "What is the tens digit in 345?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "3"
+            },
+            {
+              "id": "c1",
+              "label": "4"
+            },
+            {
+              "id": "c2",
+              "label": "5"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-07-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Build it",
+        "minutes": 5,
+        "prompt": "How many is 3 hundreds, 2 tens, and 5 ones?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "325"
+            },
+            {
+              "id": "c1",
+              "label": "352"
+            },
+            {
+              "id": "c2",
+              "label": "235"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-07-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Digit value",
+        "minutes": 5,
+        "prompt": "In 782, what does the 8 stand for?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "8 tens (80)"
+            },
+            {
+              "id": "c1",
+              "label": "8 ones"
+            },
+            {
+              "id": "c2",
+              "label": "8 hundreds"
+            }
+          ],
+          "correctId": "c0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-08",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Skip counting",
+    "version": 1,
+    "skillIds": [
+      "g2-skip-count"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-08-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "By fives",
+        "minutes": 5,
+        "prompt": "5, 10, 15, __ . What comes next?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "18"
+            },
+            {
+              "id": "c1",
+              "label": "20"
+            },
+            {
+              "id": "c2",
+              "label": "25"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-08-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "By hundreds",
+        "minutes": 5,
+        "prompt": "100, 200, 300, __ . What comes next?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "310"
+            },
+            {
+              "id": "c1",
+              "label": "400"
+            },
+            {
+              "id": "c2",
+              "label": "500"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-08-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Count by 5",
+        "minutes": 4,
+        "prompt": "Count by fives. Tap fifteen.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 20,
+          "target": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-09",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Read and write numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-read-write-numbers"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-09-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Number words",
+        "minutes": 5,
+        "prompt": "Which is two hundred forty-six?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "246"
+            },
+            {
+              "id": "c1",
+              "label": "264"
+            },
+            {
+              "id": "c2",
+              "label": "426"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-09-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Expanded form",
+        "minutes": 5,
+        "prompt": "300 + 40 + 5 is the same as which number?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "345"
+            },
+            {
+              "id": "c1",
+              "label": "354"
+            },
+            {
+              "id": "c2",
+              "label": "305"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-09-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Write it",
+        "minutes": 5,
+        "prompt": "How do you write 508 in words?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "five hundred eight"
+            },
+            {
+              "id": "c1",
+              "label": "fifty eight"
+            },
+            {
+              "id": "c2",
+              "label": "five hundred eighty"
+            }
+          ],
+          "correctId": "c0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-10",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Game: Rows and columns",
+    "version": 1,
+    "skillIds": [
+      "g2-arrays"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-10-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "3 rows of 4",
+        "minutes": 5,
+        "prompt": "How many in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "10"
+            },
+            {
+              "id": "c1",
+              "label": "12"
+            },
+            {
+              "id": "c2",
+              "label": "14"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "⭐⭐⭐⭐\n⭐⭐⭐⭐\n⭐⭐⭐⭐"
+        }
+      },
+      {
+        "id": "g2-app-math-10-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Repeated addition",
+        "minutes": 5,
+        "prompt": "Which sentence matches 3 rows of 5?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "5 + 5 + 5"
+            },
+            {
+              "id": "c1",
+              "label": "3 + 3 + 3 + 3"
+            },
+            {
+              "id": "c2",
+              "label": "5 + 3"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-10-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "5 rows of 5",
+        "minutes": 5,
+        "prompt": "How many in 5 rows with 5 in each row?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "20"
+            },
+            {
+              "id": "c1",
+              "label": "25"
+            },
+            {
+              "id": "c2",
+              "label": "30"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-11",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Compare numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-compare"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-11-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Greater",
+        "minutes": 5,
+        "prompt": "Which is greater?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "342"
+            },
+            {
+              "id": "c1",
+              "label": "324"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-11-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Symbol",
+        "minutes": 5,
+        "prompt": "Which symbol makes this true? 560 __ 506",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": ">"
+            },
+            {
+              "id": "c1",
+              "label": "<"
+            },
+            {
+              "id": "c2",
+              "label": "="
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-11-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 392",
+        "minutes": 4,
+        "prompt": "Tap the number 392.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 380,
+          "max": 400,
+          "target": 392
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-12",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Count by hundreds",
+    "version": 1,
+    "skillIds": [
+      "g2-skip-count"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-12-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Next number",
+        "minutes": 5,
+        "prompt": "300, 400, __ . What comes next?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "410"
+            },
+            {
+              "id": "c1",
+              "label": "500"
+            },
+            {
+              "id": "c2",
+              "label": "450"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-12-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hundreds in 700",
+        "minutes": 5,
+        "prompt": "How many hundreds are in 700?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "7"
+            },
+            {
+              "id": "c1",
+              "label": "70"
+            },
+            {
+              "id": "c2",
+              "label": "700"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-12-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 995",
+        "minutes": 4,
+        "prompt": "Tap the number 995.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 985,
+          "max": 1000,
+          "target": 995
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-13",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "10 more, 100 more",
+    "version": 1,
+    "skillIds": [
+      "g2-mental-10-100"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-13-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "10 more",
+        "minutes": 5,
+        "prompt": "What is 10 more than 237?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "238"
+            },
+            {
+              "id": "c1",
+              "label": "247"
+            },
+            {
+              "id": "c2",
+              "label": "337"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-13-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "100 less",
+        "minutes": 5,
+        "prompt": "What is 100 less than 450?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "350"
+            },
+            {
+              "id": "c1",
+              "label": "440"
+            },
+            {
+              "id": "c2",
+              "label": "550"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-13-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "10 more than 340",
+        "minutes": 4,
+        "prompt": "Tap the number that is 10 more than 340.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 340,
+          "max": 360,
+          "target": 350
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-14",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Game: Add two-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-add-sub-100"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-14-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "34 + 25",
+        "minutes": 5,
+        "prompt": "What is 34 + 25?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "59"
+            },
+            {
+              "id": "c1",
+              "label": "49"
+            },
+            {
+              "id": "c2",
+              "label": "69"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-14-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "46 + 30",
+        "minutes": 5,
+        "prompt": "What is 46 + 30?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "66"
+            },
+            {
+              "id": "c1",
+              "label": "76"
+            },
+            {
+              "id": "c2",
+              "label": "86"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-14-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "52 + 17",
+        "minutes": 5,
+        "prompt": "What is 52 + 17?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "69"
+            },
+            {
+              "id": "c1",
+              "label": "59"
+            },
+            {
+              "id": "c2",
+              "label": "79"
+            }
+          ],
+          "correctId": "c0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-15",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Fact fluency mix",
+    "version": 1,
+    "skillIds": [
+      "g2-fact-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-15-1",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Make ten",
+        "minutes": 5,
+        "prompt": "Fill the frame to make ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 4
+            },
+            {
+              "start": 9
+            },
+            {
+              "start": 7
+            },
+            {
+              "start": 3
+            }
+          ]
+        }
+      },
+      {
+        "id": "g2-app-math-15-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "15 - 7",
+        "minutes": 5,
+        "prompt": "What is 15 - 7?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "7"
+            },
+            {
+              "id": "c1",
+              "label": "8"
+            },
+            {
+              "id": "c2",
+              "label": "9"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-15-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "9 + 8",
+        "minutes": 5,
+        "prompt": "What is 9 + 8?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "16"
+            },
+            {
+              "id": "c1",
+              "label": "17"
+            },
+            {
+              "id": "c2",
+              "label": "18"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-16",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Game: Add and regroup",
+    "version": 1,
+    "skillIds": [
+      "g2-add-sub-100"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-16-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "38 + 27",
+        "minutes": 5,
+        "prompt": "What is 38 + 27?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "55"
+            },
+            {
+              "id": "c1",
+              "label": "65"
+            },
+            {
+              "id": "c2",
+              "label": "75"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-16-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "46 + 18",
+        "minutes": 5,
+        "prompt": "What is 46 + 18?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "54"
+            },
+            {
+              "id": "c1",
+              "label": "64"
+            },
+            {
+              "id": "c2",
+              "label": "74"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-16-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "29 + 34",
+        "minutes": 5,
+        "prompt": "What is 29 + 34?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "53"
+            },
+            {
+              "id": "c1",
+              "label": "63"
+            },
+            {
+              "id": "c2",
+              "label": "73"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-17",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Game: Subtract two-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-add-sub-100"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-17-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "52 - 27",
+        "minutes": 5,
+        "prompt": "What is 52 - 27?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "25"
+            },
+            {
+              "id": "c1",
+              "label": "35"
+            },
+            {
+              "id": "c2",
+              "label": "75"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-17-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "80 - 35",
+        "minutes": 5,
+        "prompt": "What is 80 - 35?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "55"
+            },
+            {
+              "id": "c1",
+              "label": "45"
+            },
+            {
+              "id": "c2",
+              "label": "35"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-17-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "73 - 28",
+        "minutes": 5,
+        "prompt": "What is 73 - 28?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "55"
+            },
+            {
+              "id": "c1",
+              "label": "45"
+            },
+            {
+              "id": "c2",
+              "label": "35"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-18",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Add and subtract hundreds",
+    "version": 1,
+    "skillIds": [
+      "g2-add-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-18-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "245 + 130",
+        "minutes": 5,
+        "prompt": "What is 245 + 130?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "375"
+            },
+            {
+              "id": "c1",
+              "label": "365"
+            },
+            {
+              "id": "c2",
+              "label": "475"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-18-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "400 + 250",
+        "minutes": 5,
+        "prompt": "What is 400 + 250?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "550"
+            },
+            {
+              "id": "c1",
+              "label": "650"
+            },
+            {
+              "id": "c2",
+              "label": "750"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-18-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "326 - 100",
+        "minutes": 5,
+        "prompt": "What is 326 - 100?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "216"
+            },
+            {
+              "id": "c1",
+              "label": "226"
+            },
+            {
+              "id": "c2",
+              "label": "236"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-19",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Two-step stories",
+    "version": 1,
+    "skillIds": [
+      "g2-word-problems"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-19-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Stickers",
+        "minutes": 5,
+        "prompt": "Ana had 24 stickers. She gave away 9, then found 6. How many does she have?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "21"
+            },
+            {
+              "id": "c1",
+              "label": "29"
+            },
+            {
+              "id": "c2",
+              "label": "15"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-19-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "First step",
+        "minutes": 5,
+        "prompt": "For that problem, what do you do first?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "24 - 9"
+            },
+            {
+              "id": "c1",
+              "label": "24 + 9"
+            },
+            {
+              "id": "c2",
+              "label": "9 + 6"
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-19-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Apples",
+        "minutes": 5,
+        "prompt": "Ben had 30 apples. He sold 12 and got 5 more. How many now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "23"
+            },
+            {
+              "id": "c1",
+              "label": "37"
+            },
+            {
+              "id": "c2",
+              "label": "13"
+            }
+          ],
+          "correctId": "c0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g2-app-math-20",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Explain and review",
+    "version": 1,
+    "skillIds": [
+      "g2-explain-strategies",
+      "g2-place-value"
+    ],
+    "activities": [
+      {
+        "id": "g2-app-math-20-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Why it works",
+        "minutes": 5,
+        "prompt": "Why does 10 more than 267 give 277?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "The tens digit goes up by one."
+            },
+            {
+              "id": "c1",
+              "label": "The ones digit goes up by one."
+            },
+            {
+              "id": "c2",
+              "label": "The hundreds digit goes up by one."
+            }
+          ],
+          "correctId": "c0"
+        }
+      },
+      {
+        "id": "g2-app-math-20-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "267 + 100",
+        "minutes": 5,
+        "prompt": "What is 267 + 100?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c0",
+              "label": "277"
+            },
+            {
+              "id": "c1",
+              "label": "367"
+            },
+            {
+              "id": "c2",
+              "label": "268"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g2-app-math-20-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Less or more than 500",
+        "minutes": 5,
+        "prompt": "Sort the numbers.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k0",
+              "label": "less than 500"
+            },
+            {
+              "id": "k1",
+              "label": "more than 500"
+            }
+          ],
+          "items": [
+            {
+              "id": "i0",
+              "label": "487",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i1",
+              "label": "512",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "399",
+              "categoryId": "k0"
+            },
+            {
+              "id": "i3",
+              "label": "640",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "501",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i5",
+              "label": "498",
+              "categoryId": "k0"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

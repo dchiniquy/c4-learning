@@ -3,10 +3,12 @@ import userEvent from '@testing-library/user-event'
 import { MemoryRouter } from 'react-router-dom'
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import App from './App.tsx'
-import { loadContentBundle } from './content/load.ts'
+import type { ContentBundle } from './content/schema.ts'
+import { eagerSource } from './content/source.ts'
+import { planDay } from './schedule/engine.ts'
 import { newStores } from './test/helpers.ts'
 
-const content = loadContentBundle()
+const { default: content } = await import('virtual:c4-content/all')
 
 // Read lessons from the content itself, so these tests keep working as lessons are added or reordered.
 const lessonsIn = (sequenceId: string) => {
@@ -23,10 +25,10 @@ afterEach(() => {
 
 type Stores = ReturnType<typeof newStores>
 
-function mount(stores: Stores, route: string) {
+function mount(stores: Stores, route: string, bundle: ContentBundle = content) {
   return render(
     <MemoryRouter initialEntries={[route]}>
-      <App store={stores.app} content={content} />
+      <App store={stores.app} content={eagerSource(bundle)} />
     </MemoryRouter>,
   )
 }
@@ -162,8 +164,13 @@ describe("child's Today schedule", () => {
   it('uses the grade 1 schedule for a grade 1 learner', async () => {
     const { user } = await childPage('1', MONDAY)
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
-    expect(await screen.findByText(/App time today: 0 of 30 min \(limit 60 min\)/)).toBeInTheDocument()
-    expect(screen.getByRole('checkbox', { name: /Phonics lesson/ })).toBeInTheDocument()
+    // Expected values come from the content, so this keeps working as the grade 1 schedule is edited.
+    const template = content.schedules.find((s) => s.grade === '1')!
+    const monday = planDay(content, template, 1, [], '2026-10-12')
+    const { planned, budget } = monday.screen
+    expect(await screen.findByText(new RegExp(`App time today: 0 of ${planned} min \\(limit ${budget} min\\)`))).toBeInTheDocument()
+    const firstApp = monday.items.find((i) => i.block.mode === 'screen')!
+    expect(screen.getByRole('checkbox', { name: (name) => name.includes(firstApp.block.label) })).toBeInTheDocument()
   })
 
   it('shows a friendly message on days with nothing scheduled', async () => {
@@ -176,7 +183,7 @@ describe("child's Today schedule", () => {
     const stores = newStores()
     await stores.app.getState().load()
     const kid = await stores.app.getState().addChild({ name: 'Kay', avatar: '🐢', grade: 'k' })
-    mount(stores, `/child/${kid.id}`)
+    mount(stores, `/child/${kid.id}`, { ...content, schedules: content.schedules.filter((s) => s.grade !== 'k') })
     expect(await screen.findByText(/No schedule is set up for this level yet/)).toBeInTheDocument()
   })
 })

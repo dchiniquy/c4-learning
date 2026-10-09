@@ -74,6 +74,10 @@ export class DexieProgressStore implements ProgressStore {
     await this.#db.mastery.put(record)
   }
 
+  async deleteMastery(childId: string, skillId: string) {
+    await this.#db.mastery.delete([childId, skillId])
+  }
+
   getChecks(childId: string, date: string) {
     return this.#db.checks.where('[childId+date]').equals([childId, date]).toArray()
   }

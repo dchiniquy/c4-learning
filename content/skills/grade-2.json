@@ -1,0 +1,313 @@
+[
+  {
+    "id": "g2-short-vowels",
+    "subject": "literacy",
+    "name": "Read short-vowel words and tell short from long vowels",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-2-3-a"
+    ]
+  },
+  {
+    "id": "g2-silent-e",
+    "subject": "literacy",
+    "name": "Read and spell long-vowel words with silent e",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-2-3-a",
+      "ccss-ela-l-2-2-d"
+    ]
+  },
+  {
+    "id": "g2-vowel-teams",
+    "subject": "literacy",
+    "name": "Read and spell common vowel teams (ai, ay, ee, ea, oa, ow, igh)",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-2-3-b",
+      "ccss-ela-l-2-2-d"
+    ]
+  },
+  {
+    "id": "g2-two-syllable",
+    "subject": "literacy",
+    "name": "Decode two-syllable words with long vowels",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-2-3-c"
+    ]
+  },
+  {
+    "id": "g2-affixes",
+    "subject": "literacy",
+    "name": "Read words with prefixes and suffixes",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-2-3-d",
+      "ccss-ela-l-2-4-b",
+      "ccss-ela-l-2-1-d"
+    ]
+  },
+  {
+    "id": "g2-tricky-words",
+    "subject": "literacy",
+    "name": "Read and spell common irregular words",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-2-3-e",
+      "ccss-ela-rf-2-3-f"
+    ]
+  },
+  {
+    "id": "g2-fluency",
+    "subject": "literacy",
+    "name": "Read with accuracy, expression, and self-correction",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-2-4-a",
+      "ccss-ela-rf-2-4-b",
+      "ccss-ela-rf-2-4-c"
+    ]
+  },
+  {
+    "id": "g2-expressive-reading",
+    "subject": "literacy",
+    "name": "Read dialogue with expression and different voices",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-2-6",
+      "ccss-ela-rl-2-4",
+      "ccss-ela-rf-2-4-b"
+    ]
+  },
+  {
+    "id": "g2-story-details",
+    "subject": "literacy",
+    "name": "Answer who, what, where, and why questions about a story",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-2-1",
+      "ccss-ela-rl-2-2",
+      "ccss-ela-rl-2-3",
+      "ccss-ela-sl-2-2"
+    ]
+  },
+  {
+    "id": "g2-compound-words",
+    "subject": "literacy",
+    "name": "Use word parts to understand compound words",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-l-2-4-d"
+    ]
+  },
+  {
+    "id": "g2-opinion-writing",
+    "subject": "literacy",
+    "name": "Write an opinion with reasons and linking words",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-2-1",
+      "ccss-ela-l-2-1-f"
+    ]
+  },
+  {
+    "id": "g2-narrative-writing",
+    "subject": "literacy",
+    "name": "Write, revise, and edit a short narrative",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-2-3",
+      "ccss-ela-w-2-5",
+      "ccss-ela-l-2-2"
+    ]
+  },
+  {
+    "id": "g2-fact-fluency",
+    "subject": "math",
+    "name": "Add and subtract within 20 fluently",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-oa-b-2"
+    ]
+  },
+  {
+    "id": "g2-odd-even",
+    "subject": "math",
+    "name": "Tell odd and even numbers by pairing",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-oa-c-3"
+    ]
+  },
+  {
+    "id": "g2-word-problems",
+    "subject": "math",
+    "name": "Solve one- and two-step word problems within 100",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-oa-a-1"
+    ]
+  },
+  {
+    "id": "g2-arrays",
+    "subject": "math",
+    "name": "Use repeated addition to count arrays",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-oa-c-4"
+    ]
+  },
+  {
+    "id": "g2-place-value",
+    "subject": "math",
+    "name": "Understand hundreds, tens, and ones",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-a-1",
+      "ccss-math-2-nbt-a-1-a",
+      "ccss-math-2-nbt-a-1-b"
+    ]
+  },
+  {
+    "id": "g2-skip-count",
+    "subject": "math",
+    "name": "Count within 1000 and skip count by 5s, 10s, 100s",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-a-2"
+    ]
+  },
+  {
+    "id": "g2-read-write-numbers",
+    "subject": "math",
+    "name": "Read and write numbers to 1000 in several forms",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-a-3"
+    ]
+  },
+  {
+    "id": "g2-compare",
+    "subject": "math",
+    "name": "Compare three-digit numbers",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-a-4"
+    ]
+  },
+  {
+    "id": "g2-add-sub-100",
+    "subject": "math",
+    "name": "Add and subtract within 100 with place value",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-b-5"
+    ]
+  },
+  {
+    "id": "g2-add-sub-1000",
+    "subject": "math",
+    "name": "Add and subtract within 1000 with models",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-b-7"
+    ]
+  },
+  {
+    "id": "g2-mental-10-100",
+    "subject": "math",
+    "name": "Mentally add and subtract 10 or 100",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-b-8"
+    ]
+  },
+  {
+    "id": "g2-explain-strategies",
+    "subject": "math",
+    "name": "Explain why addition and subtraction strategies work",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-b-9"
+    ]
+  },
+  {
+    "id": "g2-properties",
+    "subject": "science",
+    "name": "Describe and classify materials by their properties",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-2-ps1-1"
+    ]
+  },
+  {
+    "id": "g2-test-materials",
+    "subject": "science",
+    "name": "Test materials and choose by their properties",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-2-ps1-2"
+    ]
+  },
+  {
+    "id": "g2-build-pieces",
+    "subject": "science",
+    "name": "Build different objects from the same pieces",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-2-ps1-3"
+    ]
+  },
+  {
+    "id": "g2-heat-cool",
+    "subject": "science",
+    "name": "Tell reversible and irreversible changes from heating and cooling",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-2-ps1-4"
+    ]
+  },
+  {
+    "id": "g2-map-skills",
+    "subject": "social-studies",
+    "name": "Use maps, symbols, and map keys",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-ri-2-7",
+      "ccss-ela-ri-2-5"
+    ]
+  },
+  {
+    "id": "g2-directions",
+    "subject": "social-studies",
+    "name": "Use north, south, east, and west",
+    "prerequisites": [],
+    "standardIds": []
+  },
+  {
+    "id": "g2-our-place",
+    "subject": "social-studies",
+    "name": "Describe where home is in a town, state, and country",
+    "prerequisites": [],
+    "standardIds": []
+  },
+  {
+    "id": "g2-landforms",
+    "subject": "social-studies",
+    "name": "Name landforms and bodies of water and model them",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-2-ess2-2"
+    ]
+  },
+  {
+    "id": "g2-world-geography",
+    "subject": "social-studies",
+    "name": "Find continents and oceans",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-2-ess2-3"
+    ]
+  }
+]

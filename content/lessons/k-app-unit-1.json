@@ -1,0 +1,4192 @@
+[
+  {
+    "id": "k-phonics-d01",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 1",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d01-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter S",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter s and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "S s",
+              "speak": "This is the letter s."
+            },
+            {
+              "id": "sun",
+              "label": "sun",
+              "emoji": "☀️",
+              "speak": "sun"
+            },
+            {
+              "id": "sock",
+              "label": "sock",
+              "emoji": "🧦",
+              "speak": "sock"
+            },
+            {
+              "id": "snake",
+              "label": "snake",
+              "emoji": "🐍",
+              "speak": "snake"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d01-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as sun",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as sun?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "tiger",
+              "label": "tiger",
+              "emoji": "🐯"
+            },
+            {
+              "id": "pen",
+              "label": "pen",
+              "emoji": "🖊️"
+            },
+            {
+              "id": "sock",
+              "label": "sock",
+              "emoji": "🧦"
+            }
+          ],
+          "correctId": "sock"
+        }
+      },
+      {
+        "id": "k-phonics-d01-rhyme",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which one rhymes?",
+        "minutes": 3,
+        "prompt": "Which word rhymes with cat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "hat",
+              "label": "hat",
+              "emoji": "🎩"
+            },
+            {
+              "id": "dog",
+              "label": "dog",
+              "emoji": "🐶"
+            },
+            {
+              "id": "sun",
+              "label": "sun",
+              "emoji": "☀️"
+            }
+          ],
+          "correctId": "hat"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d02",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 2",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d02-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter A",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter a and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "A a",
+              "speak": "This is the letter a."
+            },
+            {
+              "id": "apple",
+              "label": "apple",
+              "emoji": "🍎",
+              "speak": "apple"
+            },
+            {
+              "id": "ant",
+              "label": "ant",
+              "emoji": "🐜",
+              "speak": "ant"
+            },
+            {
+              "id": "alligator",
+              "label": "alligator",
+              "emoji": "🐊",
+              "speak": "alligator"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d02-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as apple",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as apple?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "snake",
+              "label": "snake",
+              "emoji": "🐍"
+            },
+            {
+              "id": "ant",
+              "label": "ant",
+              "emoji": "🐜"
+            },
+            {
+              "id": "sun",
+              "label": "sun",
+              "emoji": "☀️"
+            }
+          ],
+          "correctId": "ant"
+        }
+      },
+      {
+        "id": "k-phonics-d02-rhyme",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which one rhymes?",
+        "minutes": 3,
+        "prompt": "Which word rhymes with bee?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "cup",
+              "label": "cup",
+              "emoji": "🥤"
+            },
+            {
+              "id": "bed",
+              "label": "bed",
+              "emoji": "🛏️"
+            },
+            {
+              "id": "tree",
+              "label": "tree",
+              "emoji": "🌳"
+            }
+          ],
+          "correctId": "tree"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d03",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 3",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d03-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter T",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter t and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "T t",
+              "speak": "This is the letter t."
+            },
+            {
+              "id": "tiger",
+              "label": "tiger",
+              "emoji": "🐯",
+              "speak": "tiger"
+            },
+            {
+              "id": "tent",
+              "label": "tent",
+              "emoji": "⛺",
+              "speak": "tent"
+            },
+            {
+              "id": "turtle",
+              "label": "turtle",
+              "emoji": "🐢",
+              "speak": "turtle"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d03-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as tiger",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as tiger?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "tent",
+              "label": "tent",
+              "emoji": "⛺"
+            },
+            {
+              "id": "sun",
+              "label": "sun",
+              "emoji": "☀️"
+            },
+            {
+              "id": "alligator",
+              "label": "alligator",
+              "emoji": "🐊"
+            }
+          ],
+          "correctId": "tent"
+        }
+      },
+      {
+        "id": "k-phonics-d03-rhyme",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which one rhymes?",
+        "minutes": 3,
+        "prompt": "Which word rhymes with pig?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "bus",
+              "label": "bus",
+              "emoji": "🚌"
+            },
+            {
+              "id": "wig",
+              "label": "wig"
+            },
+            {
+              "id": "cat",
+              "label": "cat",
+              "emoji": "🐱"
+            }
+          ],
+          "correctId": "wig"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d04",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 4",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d04-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter P",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter p and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "P p",
+              "speak": "This is the letter p."
+            },
+            {
+              "id": "pig",
+              "label": "pig",
+              "emoji": "🐷",
+              "speak": "pig"
+            },
+            {
+              "id": "pizza",
+              "label": "pizza",
+              "emoji": "🍕",
+              "speak": "pizza"
+            },
+            {
+              "id": "pen",
+              "label": "pen",
+              "emoji": "🖊️",
+              "speak": "pen"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d04-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as pig",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as pig?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "apple",
+              "label": "apple",
+              "emoji": "🍎"
+            },
+            {
+              "id": "snake",
+              "label": "snake",
+              "emoji": "🐍"
+            },
+            {
+              "id": "pizza",
+              "label": "pizza",
+              "emoji": "🍕"
+            }
+          ],
+          "correctId": "pizza"
+        }
+      },
+      {
+        "id": "k-phonics-d04-rhyme",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which one rhymes?",
+        "minutes": 3,
+        "prompt": "Which word rhymes with sun?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "bun",
+              "label": "bun",
+              "emoji": "🍞"
+            },
+            {
+              "id": "hen",
+              "label": "hen",
+              "emoji": "🐔"
+            },
+            {
+              "id": "car",
+              "label": "car",
+              "emoji": "🚗"
+            }
+          ],
+          "correctId": "bun"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d05",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 5",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d05-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter I",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter i and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "I i",
+              "speak": "This is the letter i."
+            },
+            {
+              "id": "iguana",
+              "label": "iguana",
+              "emoji": "🦎",
+              "speak": "iguana"
+            },
+            {
+              "id": "insect",
+              "label": "insect",
+              "emoji": "🐛",
+              "speak": "insect"
+            },
+            {
+              "id": "igloo",
+              "label": "igloo",
+              "speak": "igloo"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d05-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as iguana",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as iguana?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "alligator",
+              "label": "alligator",
+              "emoji": "🐊"
+            },
+            {
+              "id": "insect",
+              "label": "insect",
+              "emoji": "🐛"
+            },
+            {
+              "id": "tiger",
+              "label": "tiger",
+              "emoji": "🐯"
+            }
+          ],
+          "correctId": "insect"
+        }
+      },
+      {
+        "id": "k-phonics-d05-rhyme",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which one rhymes?",
+        "minutes": 3,
+        "prompt": "Which word rhymes with mop?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "cup",
+              "label": "cup",
+              "emoji": "🥤"
+            },
+            {
+              "id": "hen",
+              "label": "hen",
+              "emoji": "🐔"
+            },
+            {
+              "id": "top",
+              "label": "top",
+              "emoji": "🔝"
+            }
+          ],
+          "correctId": "top"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d06",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 6",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-syllables"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d06-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter N",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter n and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "N n",
+              "speak": "This is the letter n."
+            },
+            {
+              "id": "net",
+              "label": "net",
+              "emoji": "🥅",
+              "speak": "net"
+            },
+            {
+              "id": "nose",
+              "label": "nose",
+              "emoji": "👃",
+              "speak": "nose"
+            },
+            {
+              "id": "nut",
+              "label": "nut",
+              "emoji": "🥜",
+              "speak": "nut"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d06-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as net",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as net?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "nose",
+              "label": "nose",
+              "emoji": "👃"
+            },
+            {
+              "id": "tiger",
+              "label": "tiger",
+              "emoji": "🐯"
+            },
+            {
+              "id": "alligator",
+              "label": "alligator",
+              "emoji": "🐊"
+            }
+          ],
+          "correctId": "nose"
+        }
+      },
+      {
+        "id": "k-phonics-d06-clap",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Clap the parts of dog",
+        "minutes": 3,
+        "prompt": "Clap the word dog. How many claps?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "1"
+            },
+            {
+              "id": "c2",
+              "label": "2"
+            },
+            {
+              "id": "c3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "🐶 dog"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d07",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 7",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-syllables"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d07-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter M",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter m and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "M m",
+              "speak": "This is the letter m."
+            },
+            {
+              "id": "moon",
+              "label": "moon",
+              "emoji": "🌙",
+              "speak": "moon"
+            },
+            {
+              "id": "mouse",
+              "label": "mouse",
+              "emoji": "🐭",
+              "speak": "mouse"
+            },
+            {
+              "id": "mitten",
+              "label": "mitten",
+              "emoji": "🧤",
+              "speak": "mitten"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d07-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as moon",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as moon?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "tiger",
+              "label": "tiger",
+              "emoji": "🐯"
+            },
+            {
+              "id": "nut",
+              "label": "nut",
+              "emoji": "🥜"
+            },
+            {
+              "id": "mouse",
+              "label": "mouse",
+              "emoji": "🐭"
+            }
+          ],
+          "correctId": "mouse"
+        }
+      },
+      {
+        "id": "k-phonics-d07-clap",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Clap the parts of elephant",
+        "minutes": 3,
+        "prompt": "Clap the word elephant. How many claps?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "1"
+            },
+            {
+              "id": "c2",
+              "label": "2"
+            },
+            {
+              "id": "c3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "🐘 elephant"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d08",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 8",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-syllables"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d08-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter D",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter d and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "D d",
+              "speak": "This is the letter d."
+            },
+            {
+              "id": "dog",
+              "label": "dog",
+              "emoji": "🐶",
+              "speak": "dog"
+            },
+            {
+              "id": "duck",
+              "label": "duck",
+              "emoji": "🦆",
+              "speak": "duck"
+            },
+            {
+              "id": "drum",
+              "label": "drum",
+              "emoji": "🥁",
+              "speak": "drum"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d08-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as dog",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as dog?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "nut",
+              "label": "nut",
+              "emoji": "🥜"
+            },
+            {
+              "id": "duck",
+              "label": "duck",
+              "emoji": "🦆"
+            },
+            {
+              "id": "moon",
+              "label": "moon",
+              "emoji": "🌙"
+            }
+          ],
+          "correctId": "duck"
+        }
+      },
+      {
+        "id": "k-phonics-d08-clap",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Clap the parts of butterfly",
+        "minutes": 3,
+        "prompt": "Clap the word butterfly. How many claps?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "1"
+            },
+            {
+              "id": "c2",
+              "label": "2"
+            },
+            {
+              "id": "c3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "🦋 butterfly"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d09",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 9",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-syllables"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d09-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter O",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter o and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "O o",
+              "speak": "This is the letter o."
+            },
+            {
+              "id": "octopus",
+              "label": "octopus",
+              "emoji": "🐙",
+              "speak": "octopus"
+            },
+            {
+              "id": "otter",
+              "label": "otter",
+              "emoji": "🦦",
+              "speak": "otter"
+            },
+            {
+              "id": "ox",
+              "label": "ox",
+              "emoji": "🐂",
+              "speak": "ox"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d09-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as octopus",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as octopus?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "otter",
+              "label": "otter",
+              "emoji": "🦦"
+            },
+            {
+              "id": "moon",
+              "label": "moon",
+              "emoji": "🌙"
+            },
+            {
+              "id": "nut",
+              "label": "nut",
+              "emoji": "🥜"
+            }
+          ],
+          "correctId": "otter"
+        }
+      },
+      {
+        "id": "k-phonics-d09-clap",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Clap the parts of banana",
+        "minutes": 3,
+        "prompt": "Clap the word banana. How many claps?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "1"
+            },
+            {
+              "id": "c2",
+              "label": "2"
+            },
+            {
+              "id": "c3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "🍌 banana"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d10",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 10",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-syllables"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d10-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter C",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter c and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "C c",
+              "speak": "This is the letter c."
+            },
+            {
+              "id": "cat",
+              "label": "cat",
+              "emoji": "🐱",
+              "speak": "cat"
+            },
+            {
+              "id": "cow",
+              "label": "cow",
+              "emoji": "🐮",
+              "speak": "cow"
+            },
+            {
+              "id": "car",
+              "label": "car",
+              "emoji": "🚗",
+              "speak": "car"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d10-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as cat",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as cat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "moon",
+              "label": "moon",
+              "emoji": "🌙"
+            },
+            {
+              "id": "nut",
+              "label": "nut",
+              "emoji": "🥜"
+            },
+            {
+              "id": "cow",
+              "label": "cow",
+              "emoji": "🐮"
+            }
+          ],
+          "correctId": "cow"
+        }
+      },
+      {
+        "id": "k-phonics-d10-clap",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Clap the parts of cat",
+        "minutes": 3,
+        "prompt": "Clap the word cat. How many claps?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "1"
+            },
+            {
+              "id": "c2",
+              "label": "2"
+            },
+            {
+              "id": "c3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "🐱 cat"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d11",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 11",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-initial-sounds"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d11-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter G",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter g and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "G g",
+              "speak": "This is the letter g."
+            },
+            {
+              "id": "goat",
+              "label": "goat",
+              "emoji": "🐐",
+              "speak": "goat"
+            },
+            {
+              "id": "grapes",
+              "label": "grapes",
+              "emoji": "🍇",
+              "speak": "grapes"
+            },
+            {
+              "id": "gift",
+              "label": "gift",
+              "emoji": "🎁",
+              "speak": "gift"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d11-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as goat",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as goat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "car",
+              "label": "car",
+              "emoji": "🚗"
+            },
+            {
+              "id": "grapes",
+              "label": "grapes",
+              "emoji": "🍇"
+            },
+            {
+              "id": "moon",
+              "label": "moon",
+              "emoji": "🌙"
+            }
+          ],
+          "correctId": "grapes"
+        }
+      },
+      {
+        "id": "k-phonics-d11-sort",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by first sound: s or t",
+        "minutes": 3,
+        "prompt": "Sort the words by their first sound. Does it start with s or with t?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "s",
+              "label": "s"
+            },
+            {
+              "id": "t",
+              "label": "t"
+            }
+          ],
+          "items": [
+            {
+              "id": "sun",
+              "label": "sun",
+              "categoryId": "s"
+            },
+            {
+              "id": "sock",
+              "label": "sock",
+              "categoryId": "s"
+            },
+            {
+              "id": "tiger",
+              "label": "tiger",
+              "categoryId": "t"
+            },
+            {
+              "id": "tent",
+              "label": "tent",
+              "categoryId": "t"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d12",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 12",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-initial-sounds"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d12-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter K",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter k and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "K k",
+              "speak": "This is the letter k."
+            },
+            {
+              "id": "kite",
+              "label": "kite",
+              "emoji": "🪁",
+              "speak": "kite"
+            },
+            {
+              "id": "key",
+              "label": "key",
+              "emoji": "🔑",
+              "speak": "key"
+            },
+            {
+              "id": "koala",
+              "label": "koala",
+              "emoji": "🐨",
+              "speak": "koala"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d12-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as kite",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as kite?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "key",
+              "label": "key",
+              "emoji": "🔑"
+            },
+            {
+              "id": "goat",
+              "label": "goat",
+              "emoji": "🐐"
+            },
+            {
+              "id": "ox",
+              "label": "ox",
+              "emoji": "🐂"
+            }
+          ],
+          "correctId": "key"
+        }
+      },
+      {
+        "id": "k-phonics-d12-sort",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by first sound: p or n",
+        "minutes": 3,
+        "prompt": "Sort the words by their first sound. Does it start with p or with n?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "p",
+              "label": "p"
+            },
+            {
+              "id": "n",
+              "label": "n"
+            }
+          ],
+          "items": [
+            {
+              "id": "pig",
+              "label": "pig",
+              "categoryId": "p"
+            },
+            {
+              "id": "pizza",
+              "label": "pizza",
+              "categoryId": "p"
+            },
+            {
+              "id": "net",
+              "label": "net",
+              "categoryId": "n"
+            },
+            {
+              "id": "nose",
+              "label": "nose",
+              "categoryId": "n"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d13",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 13",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-initial-sounds"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d13-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter E",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter e and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "E e",
+              "speak": "This is the letter e."
+            },
+            {
+              "id": "egg",
+              "label": "egg",
+              "emoji": "🥚",
+              "speak": "egg"
+            },
+            {
+              "id": "elephant",
+              "label": "elephant",
+              "emoji": "🐘",
+              "speak": "elephant"
+            },
+            {
+              "id": "envelope",
+              "label": "envelope",
+              "emoji": "✉️",
+              "speak": "envelope"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d13-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as egg",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as egg?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "goat",
+              "label": "goat",
+              "emoji": "🐐"
+            },
+            {
+              "id": "car",
+              "label": "car",
+              "emoji": "🚗"
+            },
+            {
+              "id": "elephant",
+              "label": "elephant",
+              "emoji": "🐘"
+            }
+          ],
+          "correctId": "elephant"
+        }
+      },
+      {
+        "id": "k-phonics-d13-sort",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by first sound: m or d",
+        "minutes": 3,
+        "prompt": "Sort the words by their first sound. Does it start with m or with d?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "m",
+              "label": "m"
+            },
+            {
+              "id": "d",
+              "label": "d"
+            }
+          ],
+          "items": [
+            {
+              "id": "moon",
+              "label": "moon",
+              "categoryId": "m"
+            },
+            {
+              "id": "mouse",
+              "label": "mouse",
+              "categoryId": "m"
+            },
+            {
+              "id": "dog",
+              "label": "dog",
+              "categoryId": "d"
+            },
+            {
+              "id": "duck",
+              "label": "duck",
+              "categoryId": "d"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d14",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 14",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-initial-sounds"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d14-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter U",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter u and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "U u",
+              "speak": "This is the letter u."
+            },
+            {
+              "id": "umbrella",
+              "label": "umbrella",
+              "emoji": "☂️",
+              "speak": "umbrella"
+            },
+            {
+              "id": "up",
+              "label": "up",
+              "emoji": "⬆️",
+              "speak": "up"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d14-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as umbrella",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as umbrella?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "car",
+              "label": "car",
+              "emoji": "🚗"
+            },
+            {
+              "id": "up",
+              "label": "up",
+              "emoji": "⬆️"
+            },
+            {
+              "id": "goat",
+              "label": "goat",
+              "emoji": "🐐"
+            }
+          ],
+          "correctId": "up"
+        }
+      },
+      {
+        "id": "k-phonics-d14-sort",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by first sound: c or g",
+        "minutes": 3,
+        "prompt": "Sort the words by their first sound. Does it start with c or with g?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "c",
+              "label": "c"
+            },
+            {
+              "id": "g",
+              "label": "g"
+            }
+          ],
+          "items": [
+            {
+              "id": "cat",
+              "label": "cat",
+              "categoryId": "c"
+            },
+            {
+              "id": "cow",
+              "label": "cow",
+              "categoryId": "c"
+            },
+            {
+              "id": "goat",
+              "label": "goat",
+              "categoryId": "g"
+            },
+            {
+              "id": "grapes",
+              "label": "grapes",
+              "categoryId": "g"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d15",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 15",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-initial-sounds"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d15-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter R",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter r and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "R r",
+              "speak": "This is the letter r."
+            },
+            {
+              "id": "rabbit",
+              "label": "rabbit",
+              "emoji": "🐰",
+              "speak": "rabbit"
+            },
+            {
+              "id": "rain",
+              "label": "rain",
+              "emoji": "🌧️",
+              "speak": "rain"
+            },
+            {
+              "id": "ring",
+              "label": "ring",
+              "emoji": "💍",
+              "speak": "ring"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d15-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as rabbit",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as rabbit?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "rain",
+              "label": "rain",
+              "emoji": "🌧️"
+            },
+            {
+              "id": "grapes",
+              "label": "grapes",
+              "emoji": "🍇"
+            },
+            {
+              "id": "egg",
+              "label": "egg",
+              "emoji": "🥚"
+            }
+          ],
+          "correctId": "rain"
+        }
+      },
+      {
+        "id": "k-phonics-d15-sort",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by first sound: h or b",
+        "minutes": 3,
+        "prompt": "Sort the words by their first sound. Does it start with h or with b?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "h",
+              "label": "h"
+            },
+            {
+              "id": "b",
+              "label": "b"
+            }
+          ],
+          "items": [
+            {
+              "id": "hat",
+              "label": "hat",
+              "categoryId": "h"
+            },
+            {
+              "id": "horse",
+              "label": "horse",
+              "categoryId": "h"
+            },
+            {
+              "id": "ball",
+              "label": "ball",
+              "categoryId": "b"
+            },
+            {
+              "id": "bus",
+              "label": "bus",
+              "categoryId": "b"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d16",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 16",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-onset-rime"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d16-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter H",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter h and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "H h",
+              "speak": "This is the letter h."
+            },
+            {
+              "id": "hat",
+              "label": "hat",
+              "emoji": "🎩",
+              "speak": "hat"
+            },
+            {
+              "id": "horse",
+              "label": "horse",
+              "emoji": "🐴",
+              "speak": "horse"
+            },
+            {
+              "id": "house",
+              "label": "house",
+              "emoji": "🏠",
+              "speak": "house"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d16-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as hat",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as hat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "rabbit",
+              "label": "rabbit",
+              "emoji": "🐰"
+            },
+            {
+              "id": "egg",
+              "label": "egg",
+              "emoji": "🥚"
+            },
+            {
+              "id": "horse",
+              "label": "horse",
+              "emoji": "🐴"
+            }
+          ],
+          "correctId": "horse"
+        }
+      },
+      {
+        "id": "k-phonics-d16-blend",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Put the sounds together",
+        "minutes": 3,
+        "prompt": "Listen. p, ig. What word is that? Say it fast.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "pig",
+              "label": "pig",
+              "emoji": "🐷"
+            },
+            {
+              "id": "cup",
+              "label": "cup",
+              "emoji": "🥤"
+            },
+            {
+              "id": "bed",
+              "label": "bed",
+              "emoji": "🛏️"
+            }
+          ],
+          "correctId": "pig"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d17",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 17",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-onset-rime"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d17-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter B",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter b and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "B b",
+              "speak": "This is the letter b."
+            },
+            {
+              "id": "ball",
+              "label": "ball",
+              "emoji": "⚽",
+              "speak": "ball"
+            },
+            {
+              "id": "bus",
+              "label": "bus",
+              "emoji": "🚌",
+              "speak": "bus"
+            },
+            {
+              "id": "bee",
+              "label": "bee",
+              "emoji": "🐝",
+              "speak": "bee"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d17-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as ball",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as ball?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "egg",
+              "label": "egg",
+              "emoji": "🥚"
+            },
+            {
+              "id": "bus",
+              "label": "bus",
+              "emoji": "🚌"
+            },
+            {
+              "id": "rabbit",
+              "label": "rabbit",
+              "emoji": "🐰"
+            }
+          ],
+          "correctId": "bus"
+        }
+      },
+      {
+        "id": "k-phonics-d17-blend",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Put the sounds together",
+        "minutes": 3,
+        "prompt": "Listen. s, un. What word is that? Say it fast.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "fish",
+              "label": "fish",
+              "emoji": "🐟"
+            },
+            {
+              "id": "hen",
+              "label": "hen",
+              "emoji": "🐔"
+            },
+            {
+              "id": "sun",
+              "label": "sun",
+              "emoji": "☀️"
+            }
+          ],
+          "correctId": "sun"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d18",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 18",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-onset-rime"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d18-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter F",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter f and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "F f",
+              "speak": "This is the letter f."
+            },
+            {
+              "id": "fish",
+              "label": "fish",
+              "emoji": "🐟",
+              "speak": "fish"
+            },
+            {
+              "id": "fox",
+              "label": "fox",
+              "emoji": "🦊",
+              "speak": "fox"
+            },
+            {
+              "id": "frog",
+              "label": "frog",
+              "emoji": "🐸",
+              "speak": "frog"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d18-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as fish",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as fish?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "fox",
+              "label": "fox",
+              "emoji": "🦊"
+            },
+            {
+              "id": "rabbit",
+              "label": "rabbit",
+              "emoji": "🐰"
+            },
+            {
+              "id": "egg",
+              "label": "egg",
+              "emoji": "🥚"
+            }
+          ],
+          "correctId": "fox"
+        }
+      },
+      {
+        "id": "k-phonics-d18-blend",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Put the sounds together",
+        "minutes": 3,
+        "prompt": "Listen. d, og. What word is that? Say it fast.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "cup",
+              "label": "cup",
+              "emoji": "🥤"
+            },
+            {
+              "id": "dog",
+              "label": "dog",
+              "emoji": "🐶"
+            },
+            {
+              "id": "moon",
+              "label": "moon",
+              "emoji": "🌙"
+            }
+          ],
+          "correctId": "dog"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d19",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 19",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-onset-rime"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d19-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meet the letter L",
+        "minutes": 3,
+        "prompt": "Tap to hear the letter l and some words that start with it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "letter",
+              "label": "L l",
+              "speak": "This is the letter l."
+            },
+            {
+              "id": "lion",
+              "label": "lion",
+              "emoji": "🦁",
+              "speak": "lion"
+            },
+            {
+              "id": "leaf",
+              "label": "leaf",
+              "emoji": "🍃",
+              "speak": "leaf"
+            },
+            {
+              "id": "lemon",
+              "label": "lemon",
+              "emoji": "🍋",
+              "speak": "lemon"
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d19-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same first sound as lion",
+        "minutes": 3,
+        "prompt": "Which one starts with the same sound as lion?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "rabbit",
+              "label": "rabbit",
+              "emoji": "🐰"
+            },
+            {
+              "id": "frog",
+              "label": "frog",
+              "emoji": "🐸"
+            },
+            {
+              "id": "leaf",
+              "label": "leaf",
+              "emoji": "🍃"
+            }
+          ],
+          "correctId": "leaf"
+        }
+      },
+      {
+        "id": "k-phonics-d19-blend",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Put the sounds together",
+        "minutes": 3,
+        "prompt": "Listen. b, ed. What word is that? Say it fast.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "bed",
+              "label": "bed",
+              "emoji": "🛏️"
+            },
+            {
+              "id": "bee",
+              "label": "bee",
+              "emoji": "🐝"
+            },
+            {
+              "id": "fish",
+              "label": "fish",
+              "emoji": "🐟"
+            }
+          ],
+          "correctId": "bed"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-phonics-d20",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "title": "Phonics game 20",
+    "version": 1,
+    "skillIds": [
+      "k-letter-names",
+      "k-letter-sounds",
+      "k-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "k-phonics-d20-hear",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Review letters",
+        "minutes": 3,
+        "prompt": "Tap to hear the letters we know.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "s",
+              "label": "S s",
+              "speak": "S is for sun."
+            },
+            {
+              "id": "a",
+              "label": "A a",
+              "speak": "A is for apple."
+            },
+            {
+              "id": "t",
+              "label": "T t",
+              "speak": "T is for tiger."
+            },
+            {
+              "id": "p",
+              "label": "P p",
+              "speak": "P is for pig."
+            },
+            {
+              "id": "i",
+              "label": "I i",
+              "speak": "I is for iguana."
+            },
+            {
+              "id": "n",
+              "label": "N n",
+              "speak": "N is for net."
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-phonics-d20-first",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which starts with p?",
+        "minutes": 3,
+        "prompt": "Which one starts like pig?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "tent",
+              "label": "tent",
+              "emoji": "⛺"
+            },
+            {
+              "id": "pizza",
+              "label": "pizza",
+              "emoji": "🍕"
+            },
+            {
+              "id": "sun",
+              "label": "sun",
+              "emoji": "☀️"
+            }
+          ],
+          "correctId": "pizza"
+        }
+      },
+      {
+        "id": "k-phonics-d20-rhyme",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which one rhymes?",
+        "minutes": 3,
+        "prompt": "Which word rhymes with cat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "hat",
+              "label": "hat",
+              "emoji": "🎩"
+            },
+            {
+              "id": "cup",
+              "label": "cup",
+              "emoji": "🥤"
+            },
+            {
+              "id": "bed",
+              "label": "bed",
+              "emoji": "🛏️"
+            }
+          ],
+          "correctId": "hat"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d01",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 1",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects",
+      "k-numerals"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d01-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many apples?",
+        "minutes": 3,
+        "prompt": "Count the apples. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n3",
+              "label": "3"
+            },
+            {
+              "id": "n4",
+              "label": "4"
+            }
+          ],
+          "correctId": "n3",
+          "stem": "🍎🍎🍎"
+        }
+      },
+      {
+        "id": "k-math-d01-c2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many chicks?",
+        "minutes": 3,
+        "prompt": "Count the chicks. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n1",
+              "label": "1"
+            },
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n3",
+              "label": "3"
+            }
+          ],
+          "correctId": "n2",
+          "stem": "🐥🐥"
+        }
+      },
+      {
+        "id": "k-math-d01-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 4",
+        "minutes": 3,
+        "prompt": "Tap the number 4.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 1,
+          "max": 10,
+          "target": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d02",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 2",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects",
+      "k-numerals"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d02-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many stars?",
+        "minutes": 3,
+        "prompt": "Count the stars. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n3",
+              "label": "3"
+            },
+            {
+              "id": "n4",
+              "label": "4"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            }
+          ],
+          "correctId": "n4",
+          "stem": "⭐⭐⭐⭐"
+        }
+      },
+      {
+        "id": "k-math-d02-c2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many strawberries?",
+        "minutes": 3,
+        "prompt": "Count the strawberries. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n4",
+              "label": "4"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n5",
+          "stem": "🍓🍓🍓🍓🍓"
+        }
+      },
+      {
+        "id": "k-math-d02-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 6",
+        "minutes": 3,
+        "prompt": "Tap the number 6.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 1,
+          "max": 10,
+          "target": 6
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d03",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 3",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects",
+      "k-numerals"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d03-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many fish?",
+        "minutes": 3,
+        "prompt": "Count the fish. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n4",
+              "label": "4"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n5",
+          "stem": "🐟🐟🐟🐟🐟"
+        }
+      },
+      {
+        "id": "k-math-d03-c2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many teddy bears?",
+        "minutes": 3,
+        "prompt": "Count the teddy bears. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n3",
+              "label": "3"
+            },
+            {
+              "id": "n4",
+              "label": "4"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            }
+          ],
+          "correctId": "n4",
+          "stem": "🧸🧸🧸🧸"
+        }
+      },
+      {
+        "id": "k-math-d03-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 2",
+        "minutes": 3,
+        "prompt": "Tap the number 2.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 1,
+          "max": 10,
+          "target": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d04",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 4",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects",
+      "k-numerals"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d04-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many ladybugs?",
+        "minutes": 3,
+        "prompt": "Count the ladybugs. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n5",
+              "label": "5"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            },
+            {
+              "id": "n7",
+              "label": "7"
+            }
+          ],
+          "correctId": "n6",
+          "stem": "🐞🐞🐞🐞🐞🐞"
+        }
+      },
+      {
+        "id": "k-math-d04-c2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many flowers?",
+        "minutes": 3,
+        "prompt": "Count the flowers. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n7",
+              "label": "7"
+            },
+            {
+              "id": "n8",
+              "label": "8"
+            },
+            {
+              "id": "n9",
+              "label": "9"
+            }
+          ],
+          "correctId": "n8",
+          "stem": "🌼🌼🌼🌼🌼🌼🌼🌼"
+        }
+      },
+      {
+        "id": "k-math-d04-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 8",
+        "minutes": 3,
+        "prompt": "Tap the number 8.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 1,
+          "max": 10,
+          "target": 8
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d05",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 5",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects",
+      "k-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d05-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many balloons?",
+        "minutes": 3,
+        "prompt": "Count the balloons. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n6",
+              "label": "6"
+            },
+            {
+              "id": "n7",
+              "label": "7"
+            },
+            {
+              "id": "n8",
+              "label": "8"
+            }
+          ],
+          "correctId": "n7",
+          "stem": "🎈🎈🎈🎈🎈🎈🎈"
+        }
+      },
+      {
+        "id": "k-math-d05-c2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many cars?",
+        "minutes": 3,
+        "prompt": "Count the cars. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n8",
+              "label": "8"
+            },
+            {
+              "id": "n9",
+              "label": "9"
+            },
+            {
+              "id": "n10",
+              "label": "10"
+            }
+          ],
+          "correctId": "n9",
+          "stem": "🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+        }
+      },
+      {
+        "id": "k-math-d05-tf",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Fill the ten frame",
+        "minutes": 4,
+        "prompt": "Fill the ten frame. Tap to add counters until there are ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 5
+            },
+            {
+              "start": 7
+            },
+            {
+              "start": 8
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d06",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 6",
+    "version": 1,
+    "skillIds": [
+      "k-count-by-ones",
+      "k-count-objects",
+      "k-compare-groups"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d06-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many chicks?",
+        "minutes": 3,
+        "prompt": "Count the chicks. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n10",
+              "label": "10"
+            },
+            {
+              "id": "n11",
+              "label": "11"
+            },
+            {
+              "id": "n12",
+              "label": "12"
+            }
+          ],
+          "correctId": "n11",
+          "stem": "🐥🐥🐥🐥🐥🐥🐥🐥🐥🐥🐥"
+        }
+      },
+      {
+        "id": "k-math-d06-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 12",
+        "minutes": 3,
+        "prompt": "Tap the number 12.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 20,
+          "target": 12
+        }
+      },
+      {
+        "id": "k-math-d06-cmp",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which has more?",
+        "minutes": 3,
+        "prompt": "Which group has more cars?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "a",
+              "label": "🚗🚗🚗"
+            },
+            {
+              "id": "b",
+              "label": "🚗🚗🚗🚗🚗"
+            }
+          ],
+          "correctId": "b"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d07",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 7",
+    "version": 1,
+    "skillIds": [
+      "k-count-by-ones",
+      "k-count-objects",
+      "k-compare-groups"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d07-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many strawberries?",
+        "minutes": 3,
+        "prompt": "Count the strawberries. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n11",
+              "label": "11"
+            },
+            {
+              "id": "n12",
+              "label": "12"
+            },
+            {
+              "id": "n13",
+              "label": "13"
+            }
+          ],
+          "correctId": "n12",
+          "stem": "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
+        }
+      },
+      {
+        "id": "k-math-d07-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 9",
+        "minutes": 3,
+        "prompt": "Tap the number 9.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 20,
+          "target": 9
+        }
+      },
+      {
+        "id": "k-math-d07-cmp",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which has fewer?",
+        "minutes": 3,
+        "prompt": "Which group has fewer cookies?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "a",
+              "label": "🍪🍪🍪🍪🍪🍪"
+            },
+            {
+              "id": "b",
+              "label": "🍪🍪"
+            }
+          ],
+          "correctId": "b"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d08",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 8",
+    "version": 1,
+    "skillIds": [
+      "k-count-by-ones",
+      "k-count-objects",
+      "k-compare-groups"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d08-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many teddy bears?",
+        "minutes": 3,
+        "prompt": "Count the teddy bears. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n12",
+              "label": "12"
+            },
+            {
+              "id": "n13",
+              "label": "13"
+            },
+            {
+              "id": "n14",
+              "label": "14"
+            }
+          ],
+          "correctId": "n13",
+          "stem": "🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸"
+        }
+      },
+      {
+        "id": "k-math-d08-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 16",
+        "minutes": 3,
+        "prompt": "Tap the number 16.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 20,
+          "target": 16
+        }
+      },
+      {
+        "id": "k-math-d08-cmp",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which has more?",
+        "minutes": 3,
+        "prompt": "Which group has more frogs?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "a",
+              "label": "🐸🐸🐸🐸"
+            },
+            {
+              "id": "b",
+              "label": "🐸🐸🐸🐸🐸🐸🐸"
+            }
+          ],
+          "correctId": "b"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d09",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 9",
+    "version": 1,
+    "skillIds": [
+      "k-count-by-ones",
+      "k-count-objects",
+      "k-compare-groups"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d09-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many flowers?",
+        "minutes": 3,
+        "prompt": "Count the flowers. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n13",
+              "label": "13"
+            },
+            {
+              "id": "n14",
+              "label": "14"
+            },
+            {
+              "id": "n15",
+              "label": "15"
+            }
+          ],
+          "correctId": "n14",
+          "stem": "🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼"
+        }
+      },
+      {
+        "id": "k-math-d09-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 18",
+        "minutes": 3,
+        "prompt": "Tap the number 18.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 20,
+          "target": 18
+        }
+      },
+      {
+        "id": "k-math-d09-cmp",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which has fewer?",
+        "minutes": 3,
+        "prompt": "Which group has fewer ducks?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "a",
+              "label": "🦆🦆🦆🦆🦆🦆🦆"
+            },
+            {
+              "id": "b",
+              "label": "🦆🦆🦆"
+            }
+          ],
+          "correctId": "b"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d10",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 10",
+    "version": 1,
+    "skillIds": [
+      "k-count-by-ones",
+      "k-count-objects",
+      "k-compare-groups"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d10-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many cars?",
+        "minutes": 3,
+        "prompt": "Count the cars. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n14",
+              "label": "14"
+            },
+            {
+              "id": "n15",
+              "label": "15"
+            },
+            {
+              "id": "n16",
+              "label": "16"
+            }
+          ],
+          "correctId": "n15",
+          "stem": "🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+        }
+      },
+      {
+        "id": "k-math-d10-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 10",
+        "minutes": 3,
+        "prompt": "Tap the number 10.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 20,
+          "target": 10
+        }
+      },
+      {
+        "id": "k-math-d10-same",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which two groups are the same?",
+        "minutes": 3,
+        "prompt": "Which two groups have the same number?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "a",
+              "label": "🍎🍎🍎 and 🍎🍎🍎"
+            },
+            {
+              "id": "b",
+              "label": "⭐⭐ and ⭐⭐⭐⭐"
+            }
+          ],
+          "correctId": "a"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d11",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 11",
+    "version": 1,
+    "skillIds": [
+      "k-compare-numerals",
+      "k-add-within-5"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d11-big",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which number is bigger?",
+        "minutes": 3,
+        "prompt": "Which number is bigger, 3 or 8?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n3",
+              "label": "3"
+            },
+            {
+              "id": "n8",
+              "label": "8"
+            }
+          ],
+          "correctId": "n8"
+        }
+      },
+      {
+        "id": "k-math-d11-add",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "1 and 1 more",
+        "minutes": 3,
+        "prompt": "There are 1 cookies. 1 more come. How many cookies now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n1",
+              "label": "1"
+            },
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n2",
+          "stem": "🍪 + 🍪"
+        }
+      },
+      {
+        "id": "k-math-d11-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 5",
+        "minutes": 3,
+        "prompt": "Tap the number 5.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 10,
+          "target": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d12",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 12",
+    "version": 1,
+    "skillIds": [
+      "k-compare-numerals",
+      "k-add-within-5"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d12-big",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which number is bigger?",
+        "minutes": 3,
+        "prompt": "Which number is bigger, 9 or 6?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n9",
+              "label": "9"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n9"
+        }
+      },
+      {
+        "id": "k-math-d12-add",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "2 and 1 more",
+        "minutes": 3,
+        "prompt": "There are 2 frogs. 1 more come. How many frogs now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n1",
+              "label": "1"
+            },
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n3",
+              "label": "3"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n3",
+          "stem": "🐸🐸 + 🐸"
+        }
+      },
+      {
+        "id": "k-math-d12-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 3",
+        "minutes": 3,
+        "prompt": "Tap the number 3.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 10,
+          "target": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d13",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 13",
+    "version": 1,
+    "skillIds": [
+      "k-compare-numerals",
+      "k-add-within-5",
+      "k-sort-count"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d13-big",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which number is bigger?",
+        "minutes": 3,
+        "prompt": "Which number is bigger, 4 or 7?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n4",
+              "label": "4"
+            },
+            {
+              "id": "n7",
+              "label": "7"
+            }
+          ],
+          "correctId": "n7"
+        }
+      },
+      {
+        "id": "k-math-d13-add",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "3 and 2 more",
+        "minutes": 3,
+        "prompt": "There are 3 ducks. 2 more come. How many ducks now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n1",
+              "label": "1"
+            },
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n5",
+          "stem": "🦆🦆🦆 + 🦆🦆"
+        }
+      },
+      {
+        "id": "k-math-d13-sort",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort the pictures",
+        "minutes": 3,
+        "prompt": "Sort the pictures. Tap the group each one belongs to.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "a",
+              "label": "fruit"
+            },
+            {
+              "id": "b",
+              "label": "animal"
+            }
+          ],
+          "items": [
+            {
+              "id": "apple",
+              "label": "apple",
+              "categoryId": "a"
+            },
+            {
+              "id": "banana",
+              "label": "banana",
+              "categoryId": "a"
+            },
+            {
+              "id": "grapes",
+              "label": "grapes",
+              "categoryId": "a"
+            },
+            {
+              "id": "dog",
+              "label": "dog",
+              "categoryId": "b"
+            },
+            {
+              "id": "cat",
+              "label": "cat",
+              "categoryId": "b"
+            },
+            {
+              "id": "fish",
+              "label": "fish",
+              "categoryId": "b"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d14",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 14",
+    "version": 1,
+    "skillIds": [
+      "k-compare-numerals",
+      "k-add-within-5"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d14-big",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which number is bigger?",
+        "minutes": 3,
+        "prompt": "Which number is bigger, 2 or 5?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            }
+          ],
+          "correctId": "n5"
+        }
+      },
+      {
+        "id": "k-math-d14-add",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "2 and 3 more",
+        "minutes": 3,
+        "prompt": "There are 2 bananas. 3 more come. How many bananas now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n1",
+              "label": "1"
+            },
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n5",
+          "stem": "🍌🍌 + 🍌🍌🍌"
+        }
+      },
+      {
+        "id": "k-math-d14-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 8",
+        "minutes": 3,
+        "prompt": "Tap the number 8.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 10,
+          "target": 8
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d15",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 15",
+    "version": 1,
+    "skillIds": [
+      "k-compare-numerals",
+      "k-add-within-5",
+      "k-sort-count"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d15-big",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which number is bigger?",
+        "minutes": 3,
+        "prompt": "Which number is bigger, 10 or 1?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n10",
+              "label": "10"
+            },
+            {
+              "id": "n1",
+              "label": "1"
+            }
+          ],
+          "correctId": "n10"
+        }
+      },
+      {
+        "id": "k-math-d15-add",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "4 and 1 more",
+        "minutes": 3,
+        "prompt": "There are 4 rockets. 1 more come. How many rockets now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n1",
+              "label": "1"
+            },
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n5",
+          "stem": "🚀🚀🚀🚀 + 🚀"
+        }
+      },
+      {
+        "id": "k-math-d15-sort",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Big or small",
+        "minutes": 3,
+        "prompt": "Sort by size. Which are big and which are small?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "a",
+              "label": "big things"
+            },
+            {
+              "id": "b",
+              "label": "small things"
+            }
+          ],
+          "items": [
+            {
+              "id": "elephant",
+              "label": "elephant",
+              "categoryId": "a"
+            },
+            {
+              "id": "bus",
+              "label": "bus",
+              "categoryId": "a"
+            },
+            {
+              "id": "house",
+              "label": "house",
+              "categoryId": "a"
+            },
+            {
+              "id": "ant",
+              "label": "ant",
+              "categoryId": "b"
+            },
+            {
+              "id": "button",
+              "label": "button",
+              "categoryId": "b"
+            },
+            {
+              "id": "pea",
+              "label": "pea",
+              "categoryId": "b"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d16",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 16",
+    "version": 1,
+    "skillIds": [
+      "k-subtract-within-5",
+      "k-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d16-s1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "4 take away 1",
+        "minutes": 3,
+        "prompt": "There are 4 bees. 1 go away. How many bees are left?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n3",
+              "label": "3"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            }
+          ],
+          "correctId": "n3",
+          "stem": "🐝🐝🐝🐝 - 🐝"
+        }
+      },
+      {
+        "id": "k-math-d16-s2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "5 take away 2",
+        "minutes": 3,
+        "prompt": "There are 5 balls. 2 go away. How many balls are left?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n3",
+              "label": "3"
+            },
+            {
+              "id": "n4",
+              "label": "4"
+            }
+          ],
+          "correctId": "n3",
+          "stem": "🏀🏀🏀🏀🏀 - 🏀🏀"
+        }
+      },
+      {
+        "id": "k-math-d16-tf",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Fill the ten frame",
+        "minutes": 4,
+        "prompt": "Fill the ten frame. Tap to add counters until there are ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 3
+            },
+            {
+              "start": 6
+            },
+            {
+              "start": 9
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d17",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 17",
+    "version": 1,
+    "skillIds": [
+      "k-add-within-5",
+      "k-make-5"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d17-a1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "2 and 3 more",
+        "minutes": 3,
+        "prompt": "There are 2 stars. 3 more come. How many stars now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n4",
+              "label": "4"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n5",
+          "stem": "🌟🌟 + 🌟🌟🌟"
+        }
+      },
+      {
+        "id": "k-math-d17-s1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "5 take away 3",
+        "minutes": 3,
+        "prompt": "There are 5 apples. 3 go away. How many apples are left?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n1",
+              "label": "1"
+            },
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n3",
+              "label": "3"
+            }
+          ],
+          "correctId": "n2",
+          "stem": "🍎🍎🍎🍎🍎 - 🍎🍎🍎"
+        }
+      },
+      {
+        "id": "k-math-d17-m5",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Make five",
+        "minutes": 3,
+        "prompt": "2 and what more makes 5?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n2",
+              "label": "2"
+            },
+            {
+              "id": "n3",
+              "label": "3"
+            },
+            {
+              "id": "n4",
+              "label": "4"
+            }
+          ],
+          "correctId": "n3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d18",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 18",
+    "version": 1,
+    "skillIds": [
+      "k-count-by-ones"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d18-nl1",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 23",
+        "minutes": 3,
+        "prompt": "Tap the number 23.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 10,
+          "max": 30,
+          "target": 23
+        }
+      },
+      {
+        "id": "k-math-d18-nl2",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 30",
+        "minutes": 3,
+        "prompt": "Tap the number 30.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 10,
+          "max": 30,
+          "target": 30
+        }
+      },
+      {
+        "id": "k-math-d18-tens",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Count by tens",
+        "minutes": 3,
+        "prompt": "Count by tens. 10, 20, what comes next?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n30",
+              "label": "30"
+            },
+            {
+              "id": "n25",
+              "label": "25"
+            },
+            {
+              "id": "n40",
+              "label": "40"
+            }
+          ],
+          "correctId": "n30"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d19",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 19",
+    "version": 1,
+    "skillIds": [
+      "k-teen-numbers",
+      "k-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d19-tf",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Fill the ten frame",
+        "minutes": 4,
+        "prompt": "Fill the ten frame. Tap to add counters until there are ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 9
+            },
+            {
+              "start": 4
+            },
+            {
+              "start": 7
+            },
+            {
+              "start": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "k-math-d19-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many carrots?",
+        "minutes": 3,
+        "prompt": "Count the carrots. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n11",
+              "label": "11"
+            },
+            {
+              "id": "n12",
+              "label": "12"
+            },
+            {
+              "id": "n13",
+              "label": "13"
+            }
+          ],
+          "correctId": "n12",
+          "stem": "🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕"
+        }
+      },
+      {
+        "id": "k-math-d19-nl",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 15",
+        "minutes": 3,
+        "prompt": "Tap the number 15.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 10,
+          "max": 20,
+          "target": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": "k-math-d20",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "title": "Math game 20",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects",
+      "k-add-within-5",
+      "k-compare-groups"
+    ],
+    "activities": [
+      {
+        "id": "k-math-d20-c1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many balls?",
+        "minutes": 3,
+        "prompt": "Count the balls. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n7",
+              "label": "7"
+            },
+            {
+              "id": "n8",
+              "label": "8"
+            },
+            {
+              "id": "n9",
+              "label": "9"
+            }
+          ],
+          "correctId": "n8",
+          "stem": "🏀🏀🏀🏀🏀🏀🏀🏀"
+        }
+      },
+      {
+        "id": "k-math-d20-add",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "3 and 2 more",
+        "minutes": 3,
+        "prompt": "There are 3 ladybugs. 2 more come. How many ladybugs now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "n4",
+              "label": "4"
+            },
+            {
+              "id": "n5",
+              "label": "5"
+            },
+            {
+              "id": "n6",
+              "label": "6"
+            }
+          ],
+          "correctId": "n5",
+          "stem": "🐞🐞🐞 + 🐞🐞"
+        }
+      },
+      {
+        "id": "k-math-d20-cmp",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which has fewer?",
+        "minutes": 3,
+        "prompt": "Which group has fewer stars?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "a",
+              "label": "⭐⭐⭐⭐"
+            },
+            {
+              "id": "b",
+              "label": "⭐⭐⭐⭐⭐⭐⭐"
+            }
+          ],
+          "correctId": "a"
+        }
+      }
+    ]
+  }
+]

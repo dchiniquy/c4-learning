@@ -1,0 +1,842 @@
+[
+  {
+    "id": "k-warm-up-hands",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Strong hands warm-up",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-warm-up-hands-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Playdough and pinch warm-up",
+        "minutes": 10,
+        "materials": [
+          "playdough or clay",
+          "a few clothespins"
+        ],
+        "parentPrompts": [
+          "Roll playdough into a snake, then a ball, then pinch it with just the thumb and pointer finger. Tell your child strong writing hands start with strong fingers.",
+          "Clip clothespins onto the edge of a paper plate, one at a time, using only the thumb and pointer finger.",
+          "Ask: \"Which was harder, pinching or rolling?\" Let them decide and show you the harder one again.",
+          "Look for: a thumb-and-pointer pinch (not a whole-fist squeeze). If it is hard, repeat this warm-up for a few days before moving on."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-lines",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Standing and sleeping lines",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-lines-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw straight lines",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "crayon or marker",
+          "a tray of salt or dry sand (optional)"
+        ],
+        "parentPrompts": [
+          "Draw a standing line (top to bottom) and a sleeping line (left to right). Say each name as you draw it.",
+          "Have your child draw 5 standing lines in a row, then 5 sleeping lines. Use a finger in a salt tray first if paper feels hard.",
+          "Ask: \"Can you make a standing line from the top of the page to the bottom?\" Cheer for any try.",
+          "Look for: lines that start at the top and move down, and start at the left and move right. Gently show the starting point if they begin elsewhere."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-circles-curves",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Circles and curves",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-circles-curves-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Big and small circles",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "crayons",
+          "a plate to trace (optional)"
+        ],
+        "parentPrompts": [
+          "Draw a big circle in the air with your whole arm, then a smaller one with just your hand.",
+          "On paper, draw a circle together. Then let your child try several, big and small.",
+          "Add curves: draw a rainbow arch and a smile curve. Ask: \"Which one looks like a ball? Which one looks like a smile?\"",
+          "Look for: a closed circle drawn in one smooth motion. Tracing around a plate counts too."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-slants-and-x",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Slanting lines and X",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-slants-and-x-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Slanting lines and crosses",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "marker",
+          "playdough sticks (optional)"
+        ],
+        "parentPrompts": [
+          "Draw a slanting line going down to the right, then one going down to the left. Make an X by crossing them.",
+          "Ask your child to make 3 big X marks, like marking treasure on a map.",
+          "Make an X with two playdough sticks or two pencils laid across each other.",
+          "Ask: \"Where do the two lines cross?\" Look for: they cross in the middle and both lines are about the same length."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-my-name-first-letter",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "The first letter of my name",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-my-name-first-letter-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write the first letter of my name",
+        "minutes": 10,
+        "materials": [
+          "index card",
+          "marker",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Write your child's first name with a capital first letter and lowercase for the rest, using the same letter shapes they will see in books.",
+          "Point to the first letter. Say: \"This big letter is the start of your name.\" Trace it together with a finger.",
+          "Have them copy just that first letter 3 times on paper. You can help by writing a light dot where each letter starts.",
+          "Ask: \"Which letter is this? What name does it start?\" Look for: letter formed from the top, in the right direction. Praise effort, not neatness."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-count-and-touch",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Count and touch",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-count-and-touch-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count one at a time",
+        "minutes": 20,
+        "materials": [
+          "10 small things like blocks, buttons or large pasta"
+        ],
+        "parentPrompts": [
+          "Line up 5 things. Say: \"We touch each one and say one number.\" Count together, touching each item once.",
+          "Ask: \"How many are there?\" Let them answer with the last number. Repeat with 3, 4 and 6 things.",
+          "Now let them do the counting while you watch. Slide each item aside as it is counted so none is missed or counted twice.",
+          "Look for: one touch per item and a steady voice. Safety: small items are a choking hazard for babies and toddlers, so keep them away from younger siblings and out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-last-number",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "The last number tells how many",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-last-number-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Same amount, different arrangement",
+        "minutes": 20,
+        "materials": [
+          "10 small things",
+          "a plate"
+        ],
+        "parentPrompts": [
+          "Count 6 things in a line. Ask: \"How many?\" Then spread them out in a circle and ask again before counting.",
+          "Many children count again from one. Count together and show that the last number said is the amount, still 6.",
+          "Try 4 things, then 7. Each time, change the arrangement and ask: \"Is it still the same number?\"",
+          "Look for: your child says the last number counted as the answer, and starts to trust that it stays the same. Safety: small items are a choking hazard for babies and toddlers, so keep them away from younger siblings and out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-numerals-1-to-5",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Numerals 1 to 5",
+    "version": 1,
+    "skillIds": [
+      "k-numerals"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-numerals-1-to-5-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Match numerals to groups",
+        "minutes": 20,
+        "materials": [
+          "5 index cards",
+          "marker",
+          "10 small things"
+        ],
+        "parentPrompts": [
+          "Write the numerals 1, 2, 3, 4, 5 each on its own card. Name each one and trace it with a finger.",
+          "Place the cards in a row. Have your child put that many things under each card.",
+          "Mix the cards, hold one up and ask: \"Show me this many.\" Then turn it around: you show some things, they pick the card.",
+          "Look for: correct number of items under each card and correct naming of 1 to 5. Safety: small items are a choking hazard for babies and toddlers, so keep them away from younger siblings and out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-numerals-6-to-10",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Numerals 6 to 10",
+    "version": 1,
+    "skillIds": [
+      "k-numerals"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-numerals-6-to-10-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Cups and numerals 6 to 10",
+        "minutes": 20,
+        "materials": [
+          "5 paper cups",
+          "marker",
+          "30 small things like dry pasta or buttons"
+        ],
+        "parentPrompts": [
+          "Write 6, 7, 8, 9 and 10 on the bottom of five cups. Name each numeral.",
+          "Ask your child to put that many things in each cup, counting out loud and touching each one.",
+          "Pour one cup out and count again to check. Ask: \"Which cup has the most? How do you know?\"",
+          "Look for: they match the numeral to the right amount, counting each one carefully. Safety: small items are a choking hazard for babies and toddlers, so keep them away from younger siblings and out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-one-more",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "One more",
+    "version": 1,
+    "skillIds": [
+      "k-one-more"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-one-more-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build a tower, one more at a time",
+        "minutes": 20,
+        "materials": [
+          "10 blocks or cups"
+        ],
+        "parentPrompts": [
+          "Build a tower of 3 blocks. Ask: \"What if I add one more? How many now?\" Count to check.",
+          "Keep adding one block at a time. Each time say: \"One more makes...\" and let them finish.",
+          "Try it from other numbers: start with 5 blocks and ask what one more is. Then 8.",
+          "Look for: they can say the next number without counting from one. If not, recount together; this skill grows with practice."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-book-parts",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Parts of a book",
+    "version": 1,
+    "skillIds": [
+      "k-book-parts"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-book-parts-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Front cover, back cover and title page",
+        "minutes": 20,
+        "materials": [
+          "a picture book",
+          "a second book (optional)"
+        ],
+        "parentPrompts": [
+          "Hold the book and ask: \"Where is the front? Where is the back?\" Point to the front cover and back cover together.",
+          "Show the title page, the page inside that repeats the title. Say: \"The title is the name of the book.\"",
+          "Read the book together with expression. Stop at the end and say: \"The back cover is last.\"",
+          "Ask: \"Can you find the front cover on another book?\" Look for: they can point to the front cover, back cover and title page."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-author-illustrator",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Author and illustrator",
+    "version": 1,
+    "skillIds": [
+      "k-author-illustrator"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-author-illustrator-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Who wrote it, who drew it?",
+        "minutes": 20,
+        "materials": [
+          "a picture book with author and illustrator named on the cover"
+        ],
+        "parentPrompts": [
+          "Show the cover. Say: \"The author writes the words. The illustrator draws the pictures.\" Point to each name.",
+          "Read the story. Cover the words on one page and say: \"Who made these pictures?\" Then cover the pictures and ask: \"Who wrote these words?\"",
+          "Ask: \"If you made a book, would you be the author, the illustrator or both?\"",
+          "Look for: your child can tell the author from the illustrator with prompting."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-left-to-right",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Which way do we read?",
+    "version": 1,
+    "skillIds": [
+      "k-print-direction"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-left-to-right-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Follow the words with a finger",
+        "minutes": 20,
+        "materials": [
+          "a picture book with big print",
+          "a craft stick as a pointer"
+        ],
+        "parentPrompts": [
+          "Read a page and use the stick to point to each word as you say it. Move left to right, then drop down to the next line.",
+          "Say: \"Words go this way,\" and show the sweep. Then let your child be the pointer while you read.",
+          "Ask: \"Where do I start reading on this page? Where do I go next?\" Turn the pages together and ask which side to read first.",
+          "Look for: they can show where reading starts and the direction it moves."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-spaces-between-words",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Words and spaces",
+    "version": 1,
+    "skillIds": [
+      "k-word-spaces"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-spaces-between-words-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count the words",
+        "minutes": 20,
+        "materials": [
+          "a picture book",
+          "counters or small blocks"
+        ],
+        "parentPrompts": [
+          "Read one short sentence from the book and point to each word. Say: \"Spaces show where one word stops.\"",
+          "Put one block down for every word you hear and see. Count them: \"The cat sat. How many words?\"",
+          "Let your child choose a sentence and do the same. Cover a word and ask which one is missing.",
+          "Look for: they can point to separate words and notice spaces between them."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-letters-make-words",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Letters make words",
+    "version": 1,
+    "skillIds": [
+      "k-print-words"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-letters-make-words-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Letters and words in a book",
+        "minutes": 20,
+        "materials": [
+          "a picture book",
+          "index cards (optional)"
+        ],
+        "parentPrompts": [
+          "Open to a page and say: \"Letters sit together to make words. Words say what we say out loud.\" Point to a short word and say it.",
+          "Ask your child to find a letter they know on the page. Then find a word that starts with it.",
+          "Write a short word like 'cat' on a card. Say it, then point to each letter.",
+          "Look for: they know letters are the marks and words are what the letters spell, and can point to a letter and a word."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-what-plants-need",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "What do plants need?",
+    "version": 1,
+    "skillIds": [
+      "k-plant-needs"
+    ],
+    "activities": [
+      {
+        "id": "k-what-plants-need-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Plant bean seeds and wonder",
+        "minutes": 25,
+        "materials": [
+          "3 clear cups or small pots",
+          "potting soil",
+          "6 dry beans such as lima or pinto (do not eat raw dry beans)",
+          "water",
+          "a sunny window and a dark closet"
+        ],
+        "parentPrompts": [
+          "Plant 2 beans in each of 3 cups about 2 centimeters deep. Wash hands afterward. Safety: dry beans are small objects and should not be eaten raw or put in mouths.",
+          "Cup A: window light and water. Cup B: window light, no water. Cup C: dark closet, water. Say: \"We will watch and find out what plants need.\"",
+          "Ask: \"What do you think will happen in each cup?\" Draw their guesses on paper.",
+          "Water A and C each day or two (just damp, not soaked). Look for: they can make a guess and say what is different about each cup. Keep checking in the next lessons."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-what-animals-need",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "What do animals need?",
+    "version": 1,
+    "skillIds": [
+      "k-animal-needs"
+    ],
+    "activities": [
+      {
+        "id": "k-what-animals-need-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Watch an animal",
+        "minutes": 25,
+        "materials": [
+          "a pet, a bird feeder or a window with a view of birds or insects",
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Watch an animal for a few minutes. Look from a distance and do not touch wild animals. Wash hands if you touch a pet.",
+          "Ask: \"What is the animal doing? What does it eat? Where does it get water? Where does it rest or hide?\"",
+          "Say: \"Animals need food, water, air and a safe place to live.\" Draw the animal and one of its needs.",
+          "Look for: they can name at least two things the animal needs. If no animal is nearby, use pictures from a book."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-what-we-need",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "What do people need?",
+    "version": 1,
+    "skillIds": [
+      "k-animal-needs"
+    ],
+    "activities": [
+      {
+        "id": "k-what-we-need-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Needs and wants",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "crayons",
+          "magazines or pictures (optional)"
+        ],
+        "parentPrompts": [
+          "Say: \"People are animals too. We need food, water, air, a safe place to live and sleep.\"",
+          "Fold a paper in half. Draw or find pictures of things we need on one side and things we like but could do without (like a favorite toy) on the other.",
+          "Ask: \"What does our family do to get food and water?\" Talk about how we take care of ourselves.",
+          "Look for: they can say at least two needs. Be gentle with the wants; this is about noticing, not judging."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-rules-at-home",
+    "grade": "k",
+    "subject": "social-studies",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Rules at home",
+    "version": 1,
+    "skillIds": [
+      "k-rules"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-rules-at-home-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Why we have rules",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Ask: \"What are some rules at our home?\" (for example, walk inside, wash hands, be kind). Listen without judging.",
+          "Say: \"Rules help keep us safe and help everyone get a turn.\"",
+          "Draw one rule and one reason for it. Write the rule for them.",
+          "Look for: they can say a rule and what it helps with. Families have different rules; that is fine."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-places-in-our-community",
+    "grade": "k",
+    "subject": "social-studies",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Places in our community",
+    "version": 1,
+    "skillIds": [
+      "k-community"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-places-in-our-community-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Places we go",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "crayons",
+          "a walk in your neighborhood or photos"
+        ],
+        "parentPrompts": [
+          "Say: \"A community is a group of people who live or work near each other.\" Ask: \"Where do we go in our community?\" (store, library, park, school or others).",
+          "Take a short walk or look at pictures. Name each place and what people do there.",
+          "Draw a favorite place.",
+          "Look for: they name 2 or 3 places and what we do there. All kinds of communities are good: a city, a town or farmland."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-name-rhythm",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Name rhythms",
+    "version": 1,
+    "skillIds": [
+      "k-music-rhythm"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-name-rhythm-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Clap and tap names",
+        "minutes": 20,
+        "materials": [
+          "your hands",
+          "a spoon and a pot (optional)"
+        ],
+        "parentPrompts": [
+          "Clap the parts of your child's name. Then clap family names.",
+          "Tap the beat on a pot with a spoon. Make a pattern: loud, soft, loud, soft.",
+          "Take turns copying each other's pattern.",
+          "Look for: they can copy a simple rhythm. Keep the volume friendly."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-line-art",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Lines and shapes art",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-line-art-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Line collage",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "markers",
+          "yarn or string",
+          "glue"
+        ],
+        "parentPrompts": [
+          "Draw different kinds of lines: straight, wavy, zigzag, curly.",
+          "Glue pieces of yarn onto the page to make lines.",
+          "Ask: \"What does this line make you think of?\"",
+          "Look for: they use more than one kind of line. Talk about what they made."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-self-portrait",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Self-portrait",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-self-portrait-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw myself",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons",
+          "a mirror"
+        ],
+        "parentPrompts": [
+          "Look in the mirror together. Say what you see: hair, eyes, nose, mouth.",
+          "Draw their face large on the page. Add details.",
+          "Ask: \"What color are your eyes? What shape is your face?\"",
+          "Look for: they include a few features. Everyone's face and skin tone is different; celebrate that."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-color-hunt",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Color hunt painting",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-color-hunt-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Paint with found colors",
+        "minutes": 20,
+        "materials": [
+          "paint or watercolors",
+          "paper",
+          "brushes",
+          "water",
+          "a smock or old shirt"
+        ],
+        "parentPrompts": [
+          "Find things around the house of one color, like red or blue.",
+          "Paint a picture using only that color, in light and dark versions by adding water or a little white.",
+          "Ask: \"What did you notice about the color?\"",
+          "Look for: they enjoy the paint and name the colors. Clean up together."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w1-counting-song",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 1,
+    "title": "Counting rhyme",
+    "version": 1,
+    "skillIds": [
+      "k-music-rhythm"
+    ],
+    "activities": [
+      {
+        "id": "k-w1-counting-song-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sing and count",
+        "minutes": 20,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Sing a counting rhyme or song you know, such as 'One, Two, Buckle My Shoe' or another traditional rhyme.",
+          "Add motions: hold up fingers for each number.",
+          "Make up a silly new verse with your own numbers.",
+          "Look for: they can sing in order and match motions."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "ccss-ela-l-2-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.1",
+    "description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-1-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.1.a",
+    "description": "Use collective nouns (e.g., group).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-1-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.1.b",
+    "description": "Form and use frequently occurring irregular plural nouns (e.g., feet, children, teeth, mice, fish).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-1-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.1.c",
+    "description": "Use reflexive pronouns (e.g., myself, ourselves).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-1-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.1.d",
+    "description": "Form and use the past tense of frequently occurring irregular verbs (e.g., sat, hid, told).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-1-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.1.e",
+    "description": "Use adjectives and adverbs, and choose between them depending on what is to be modified.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-1-f",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.1.f",
+    "description": "Produce, expand, and rearrange complete simple and compound sentences (e.g., The boy watched the movie; The little boy watched the movie; The action movie was watched by the little boy).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.2",
+    "description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-2-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.2.a",
+    "description": "Capitalize holidays, product names, and geographic names.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-2-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.2.b",
+    "description": "Use commas in greetings and closings of letters.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-2-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.2.c",
+    "description": "Use an apostrophe to form contractions and frequently occurring possessives.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-2-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.2.d",
+    "description": "Generalize learned spelling patterns when writing words (e.g., cage → badge; boy → boil).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-2-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.2.e",
+    "description": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.3",
+    "description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-3-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.3.a",
+    "description": "Compare formal and informal uses of English.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.4",
+    "description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 2 reading and content, choosing flexibly from an array of strategies.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-4-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.4.a",
+    "description": "Use sentence-level context as a clue to the meaning of a word or phrase.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-4-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.4.b",
+    "description": "Determine the meaning of the new word formed when a known prefix is added to a known word (e.g., happy/unhappy, tell/retell).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-4-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.4.c",
+    "description": "Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., addition, additional).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-4-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.4.d",
+    "description": "Use knowledge of the meaning of individual words to predict the meaning of compound words (e.g., birdhouse, lighthouse, housefly; bookshelf, notebook, bookmark).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-4-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.4.e",
+    "description": "Use glossaries and beginning dictionaries, both print and digital, to determine or clarify the meaning of words and phrases.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.5",
+    "description": "Demonstrate understanding of word relationships and nuances in word meanings.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-5-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.5.a",
+    "description": "Identify real-life connections between words and their use (e.g., describe foods that are spicy or juicy).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-5-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.5.b",
+    "description": "Distinguish shades of meaning among closely related verbs (e.g., toss, throw, hurl) and closely related adjectives (e.g., thin, slender, skinny, scrawny).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-2-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.2.6",
+    "description": "Use words and phrases acquired through conversations, reading and being read to, and responding to texts, including using adjectives and adverbs to describe (e.g., When other kids are happy that makes me happy).",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/2/",
+    "verified": true
+  }
+]

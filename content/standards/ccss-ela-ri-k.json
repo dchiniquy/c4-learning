@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ccss-ela-ri-k-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.1",
+    "description": "With prompting and support, ask and answer questions about key details in a text.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.2",
+    "description": "With prompting and support, identify the main topic and retell key details of a text.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.3",
+    "description": "With prompting and support, describe the connection between two individuals, events, ideas, or pieces of information in a text.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.4",
+    "description": "With prompting and support, ask and answer questions about unknown words in a text.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.5",
+    "description": "Identify the front cover, back cover, and title page of a book.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.6",
+    "description": "Name the author and illustrator of a text and define the role of each in presenting the ideas or information in a text.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.7",
+    "description": "With prompting and support, describe the relationship between illustrations and the text in which they appear (e.g., what person, place, thing, or idea in the text an illustration depicts).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-8",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.8",
+    "description": "With prompting and support, identify the reasons an author gives to support points in a text.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-9",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.9",
+    "description": "With prompting and support, identify basic similarities in and differences between two texts on the same topic (e.g., in illustrations, descriptions, or procedures).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-k-10",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.K.10",
+    "description": "Actively engage in group reading activities with purpose and understanding.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/K/",
+    "verified": true
+  }
+]

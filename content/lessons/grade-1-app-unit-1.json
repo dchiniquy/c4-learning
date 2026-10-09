@@ -1,0 +1,4498 @@
+[
+  {
+    "id": "g1-app-ph-01",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Phonics game: Short a words",
+    "version": 1,
+    "skillIds": [
+      "g1-short-vowels"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-01-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear short a words",
+        "minutes": 3,
+        "prompt": "Tap each picture to hear its word. Listen for the short a sound in the middle.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "cat",
+              "label": "cat",
+              "emoji": "🐱"
+            },
+            {
+              "id": "bat",
+              "label": "bat",
+              "emoji": "🦇"
+            },
+            {
+              "id": "hat",
+              "label": "hat",
+              "emoji": "🎩"
+            },
+            {
+              "id": "bag",
+              "label": "bag",
+              "emoji": "👜"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-01-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says cat?",
+        "minutes": 4,
+        "prompt": "Look at the picture. Which word says cat?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-cut",
+              "label": "cut"
+            },
+            {
+              "id": "c-cat",
+              "label": "cat"
+            },
+            {
+              "id": "c-cot",
+              "label": "cot"
+            }
+          ],
+          "correctId": "c-cat",
+          "stem": "🐱"
+        }
+      },
+      {
+        "id": "g1-app-ph-01-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort a and i words",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap the vowel sound you hear in the middle.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "a",
+              "label": "a"
+            },
+            {
+              "id": "i",
+              "label": "i"
+            }
+          ],
+          "items": [
+            {
+              "id": "map",
+              "label": "map",
+              "categoryId": "a"
+            },
+            {
+              "id": "tap",
+              "label": "tap",
+              "categoryId": "a"
+            },
+            {
+              "id": "cap",
+              "label": "cap",
+              "categoryId": "a"
+            },
+            {
+              "id": "pin",
+              "label": "pin",
+              "categoryId": "i"
+            },
+            {
+              "id": "sit",
+              "label": "sit",
+              "categoryId": "i"
+            },
+            {
+              "id": "lip",
+              "label": "lip",
+              "categoryId": "i"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-02",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Phonics game: Short i and o words",
+    "version": 1,
+    "skillIds": [
+      "g1-short-vowels"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-02-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says pig?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says pig?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-pig",
+              "label": "pig"
+            },
+            {
+              "id": "c-peg",
+              "label": "peg"
+            },
+            {
+              "id": "c-pug",
+              "label": "pug"
+            }
+          ],
+          "correctId": "c-pig",
+          "stem": "🐷"
+        }
+      },
+      {
+        "id": "g1-app-ph-02-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says fox?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says fox?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-fix",
+              "label": "fix"
+            },
+            {
+              "id": "c-fox",
+              "label": "fox"
+            },
+            {
+              "id": "c-fax",
+              "label": "fax"
+            }
+          ],
+          "correctId": "c-fox",
+          "stem": "🦊"
+        }
+      },
+      {
+        "id": "g1-app-ph-02-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort i and o words",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap the vowel sound you hear in the middle.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "i",
+              "label": "i"
+            },
+            {
+              "id": "o",
+              "label": "o"
+            }
+          ],
+          "items": [
+            {
+              "id": "big",
+              "label": "big",
+              "categoryId": "i"
+            },
+            {
+              "id": "fin",
+              "label": "fin",
+              "categoryId": "i"
+            },
+            {
+              "id": "zip",
+              "label": "zip",
+              "categoryId": "i"
+            },
+            {
+              "id": "hop",
+              "label": "hop",
+              "categoryId": "o"
+            },
+            {
+              "id": "dot",
+              "label": "dot",
+              "categoryId": "o"
+            },
+            {
+              "id": "pot",
+              "label": "pot",
+              "categoryId": "o"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-03",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Phonics game: Short u and e words",
+    "version": 1,
+    "skillIds": [
+      "g1-short-vowels"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-03-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear short u and e words",
+        "minutes": 3,
+        "prompt": "Tap each picture to hear its word. Listen to the middle sound.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "bug",
+              "label": "bug",
+              "emoji": "🐛"
+            },
+            {
+              "id": "sun",
+              "label": "sun",
+              "emoji": "☀️"
+            },
+            {
+              "id": "hen",
+              "label": "hen",
+              "emoji": "🐔"
+            },
+            {
+              "id": "bed",
+              "label": "bed",
+              "emoji": "🛏️"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-03-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says sun?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says sun?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-sin",
+              "label": "sin"
+            },
+            {
+              "id": "c-sun",
+              "label": "sun"
+            },
+            {
+              "id": "c-son",
+              "label": "son"
+            }
+          ],
+          "correctId": "c-sun",
+          "stem": "☀️"
+        }
+      },
+      {
+        "id": "g1-app-ph-03-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort u and e words",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap the vowel sound you hear in the middle.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "u",
+              "label": "u"
+            },
+            {
+              "id": "e",
+              "label": "e"
+            }
+          ],
+          "items": [
+            {
+              "id": "cup",
+              "label": "cup",
+              "categoryId": "u"
+            },
+            {
+              "id": "mud",
+              "label": "mud",
+              "categoryId": "u"
+            },
+            {
+              "id": "run",
+              "label": "run",
+              "categoryId": "u"
+            },
+            {
+              "id": "net",
+              "label": "net",
+              "categoryId": "e"
+            },
+            {
+              "id": "red",
+              "label": "red",
+              "categoryId": "e"
+            },
+            {
+              "id": "pen",
+              "label": "pen",
+              "categoryId": "e"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-04",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Phonics game: Mix of short vowels",
+    "version": 1,
+    "skillIds": [
+      "g1-short-vowels"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-04-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by short vowel",
+        "minutes": 5,
+        "prompt": "Tap a word, then tap its middle vowel sound.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "a",
+              "label": "a"
+            },
+            {
+              "id": "i",
+              "label": "i"
+            },
+            {
+              "id": "o",
+              "label": "o"
+            }
+          ],
+          "items": [
+            {
+              "id": "can",
+              "label": "can",
+              "categoryId": "a"
+            },
+            {
+              "id": "sad",
+              "label": "sad",
+              "categoryId": "a"
+            },
+            {
+              "id": "kid",
+              "label": "kid",
+              "categoryId": "i"
+            },
+            {
+              "id": "mix",
+              "label": "mix",
+              "categoryId": "i"
+            },
+            {
+              "id": "box",
+              "label": "box",
+              "categoryId": "o"
+            },
+            {
+              "id": "job",
+              "label": "job",
+              "categoryId": "o"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-04-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says dog?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says dog?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-dig",
+              "label": "dig"
+            },
+            {
+              "id": "c-dug",
+              "label": "dug"
+            },
+            {
+              "id": "c-dog",
+              "label": "dog"
+            }
+          ],
+          "correctId": "c-dog",
+          "stem": "🐶"
+        }
+      },
+      {
+        "id": "g1-app-ph-04-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says bed?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says bed?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-bad",
+              "label": "bad"
+            },
+            {
+              "id": "c-bed",
+              "label": "bed"
+            },
+            {
+              "id": "c-bid",
+              "label": "bid"
+            }
+          ],
+          "correctId": "c-bed",
+          "stem": "🛏️"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-05",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Phonics game: Tricky words",
+    "version": 1,
+    "skillIds": [
+      "g1-tricky-words"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-05-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear tricky words",
+        "minutes": 3,
+        "prompt": "Tap each word to hear it. These words are tricky, so we learn them by heart.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "the",
+              "label": "the"
+            },
+            {
+              "id": "was",
+              "label": "was"
+            },
+            {
+              "id": "you",
+              "label": "you"
+            },
+            {
+              "id": "said",
+              "label": "said"
+            },
+            {
+              "id": "are",
+              "label": "are"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-05-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find the word: was",
+        "minutes": 3,
+        "prompt": "Which word says was?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-saw",
+              "label": "saw"
+            },
+            {
+              "id": "c-was",
+              "label": "was"
+            },
+            {
+              "id": "c-wash",
+              "label": "wash"
+            }
+          ],
+          "correctId": "c-was"
+        }
+      },
+      {
+        "id": "g1-app-ph-05-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find the word: said",
+        "minutes": 3,
+        "prompt": "Which word says said?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-said",
+              "label": "said"
+            },
+            {
+              "id": "c-sand",
+              "label": "sand"
+            },
+            {
+              "id": "c-sad",
+              "label": "sad"
+            }
+          ],
+          "correctId": "c-said"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-06",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Phonics game: Hear two sounds side by side",
+    "version": 1,
+    "skillIds": [
+      "g1-blends"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-06-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear s blends",
+        "minutes": 3,
+        "prompt": "Tap each picture. Listen for two sounds at the start.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "stop",
+              "label": "stop",
+              "emoji": "🛑"
+            },
+            {
+              "id": "snail",
+              "label": "snail",
+              "emoji": "🐌"
+            },
+            {
+              "id": "swim",
+              "label": "swim",
+              "emoji": "🏊"
+            },
+            {
+              "id": "star",
+              "label": "star",
+              "emoji": "⭐"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-06-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says stop?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says stop?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-stop",
+              "label": "stop"
+            },
+            {
+              "id": "c-step",
+              "label": "step"
+            },
+            {
+              "id": "c-sop",
+              "label": "sop"
+            }
+          ],
+          "correctId": "c-stop",
+          "stem": "🛑"
+        }
+      },
+      {
+        "id": "g1-app-ph-06-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says swim?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says swim?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-slim",
+              "label": "slim"
+            },
+            {
+              "id": "c-swim",
+              "label": "swim"
+            },
+            {
+              "id": "c-sum",
+              "label": "sum"
+            }
+          ],
+          "correctId": "c-swim",
+          "stem": "🏊"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-07",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Phonics game: L blends",
+    "version": 1,
+    "skillIds": [
+      "g1-blends"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-07-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says snail?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says snail?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-nail",
+              "label": "nail"
+            },
+            {
+              "id": "c-snail",
+              "label": "snail"
+            },
+            {
+              "id": "c-sail",
+              "label": "sail"
+            }
+          ],
+          "correctId": "c-snail",
+          "stem": "🐌"
+        }
+      },
+      {
+        "id": "g1-app-ph-07-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says clap?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says clap?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-cap",
+              "label": "cap"
+            },
+            {
+              "id": "c-clip",
+              "label": "clip"
+            },
+            {
+              "id": "c-clap",
+              "label": "clap"
+            }
+          ],
+          "correctId": "c-clap",
+          "stem": "👏"
+        }
+      },
+      {
+        "id": "g1-app-ph-07-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort fl, pl, cl words",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap the two letters it starts with.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "fl",
+              "label": "fl"
+            },
+            {
+              "id": "pl",
+              "label": "pl"
+            },
+            {
+              "id": "cl",
+              "label": "cl"
+            }
+          ],
+          "items": [
+            {
+              "id": "flat",
+              "label": "flat",
+              "categoryId": "fl"
+            },
+            {
+              "id": "flip",
+              "label": "flip",
+              "categoryId": "fl"
+            },
+            {
+              "id": "plan",
+              "label": "plan",
+              "categoryId": "pl"
+            },
+            {
+              "id": "plug",
+              "label": "plug",
+              "categoryId": "pl"
+            },
+            {
+              "id": "clip",
+              "label": "clip",
+              "categoryId": "cl"
+            },
+            {
+              "id": "clock",
+              "label": "clock",
+              "categoryId": "cl"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-08",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Phonics game: R blends",
+    "version": 1,
+    "skillIds": [
+      "g1-blends"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-08-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says frog?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says frog?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-fog",
+              "label": "fog"
+            },
+            {
+              "id": "c-frog",
+              "label": "frog"
+            },
+            {
+              "id": "c-from",
+              "label": "from"
+            }
+          ],
+          "correctId": "c-frog",
+          "stem": "🐸"
+        }
+      },
+      {
+        "id": "g1-app-ph-08-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says drum?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says drum?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-dram",
+              "label": "dram"
+            },
+            {
+              "id": "c-drum",
+              "label": "drum"
+            },
+            {
+              "id": "c-dim",
+              "label": "dim"
+            }
+          ],
+          "correctId": "c-drum",
+          "stem": "🥁"
+        }
+      },
+      {
+        "id": "g1-app-ph-08-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort br, gr, tr words",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap the two letters it starts with.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "br",
+              "label": "br"
+            },
+            {
+              "id": "gr",
+              "label": "gr"
+            },
+            {
+              "id": "tr",
+              "label": "tr"
+            }
+          ],
+          "items": [
+            {
+              "id": "brag",
+              "label": "brag",
+              "categoryId": "br"
+            },
+            {
+              "id": "brick",
+              "label": "brick",
+              "categoryId": "br"
+            },
+            {
+              "id": "grab",
+              "label": "grab",
+              "categoryId": "gr"
+            },
+            {
+              "id": "grin",
+              "label": "grin",
+              "categoryId": "gr"
+            },
+            {
+              "id": "trip",
+              "label": "trip",
+              "categoryId": "tr"
+            },
+            {
+              "id": "trap",
+              "label": "trap",
+              "categoryId": "tr"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-09",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Phonics game: Ending blends",
+    "version": 1,
+    "skillIds": [
+      "g1-blends"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-09-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear ending blends",
+        "minutes": 3,
+        "prompt": "Tap each picture. Listen to the two sounds at the end of the word.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "hand",
+              "label": "hand",
+              "emoji": "✋"
+            },
+            {
+              "id": "nest",
+              "label": "nest",
+              "emoji": "🪺"
+            },
+            {
+              "id": "lamp",
+              "label": "lamp"
+            },
+            {
+              "id": "pink",
+              "label": "pink"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-09-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says nest?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says nest?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-net",
+              "label": "net"
+            },
+            {
+              "id": "c-nest",
+              "label": "nest"
+            },
+            {
+              "id": "c-next",
+              "label": "next"
+            }
+          ],
+          "correctId": "c-nest",
+          "stem": "🪺"
+        }
+      },
+      {
+        "id": "g1-app-ph-09-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by ending blend",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap the two letters it ends with.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "nd",
+              "label": "nd"
+            },
+            {
+              "id": "st",
+              "label": "st"
+            },
+            {
+              "id": "mp",
+              "label": "mp"
+            }
+          ],
+          "items": [
+            {
+              "id": "sand",
+              "label": "sand",
+              "categoryId": "nd"
+            },
+            {
+              "id": "bend",
+              "label": "bend",
+              "categoryId": "nd"
+            },
+            {
+              "id": "best",
+              "label": "best",
+              "categoryId": "st"
+            },
+            {
+              "id": "fast",
+              "label": "fast",
+              "categoryId": "st"
+            },
+            {
+              "id": "jump",
+              "label": "jump",
+              "categoryId": "mp"
+            },
+            {
+              "id": "camp",
+              "label": "camp",
+              "categoryId": "mp"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-10",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Phonics game: Read blend words",
+    "version": 1,
+    "skillIds": [
+      "g1-blends"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-10-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Finish the sentence",
+        "minutes": 3,
+        "prompt": "Read the sentence and pick the word that fits: The frog can ___ on the log.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-jump",
+              "label": "jump"
+            },
+            {
+              "id": "c-junk",
+              "label": "junk"
+            },
+            {
+              "id": "c-jam",
+              "label": "jam"
+            }
+          ],
+          "correctId": "c-jump"
+        }
+      },
+      {
+        "id": "g1-app-ph-10-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Finish the sentence",
+        "minutes": 3,
+        "prompt": "Pick the word that fits: I ___ my hands to say hello.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-clap",
+              "label": "clap"
+            },
+            {
+              "id": "c-clip",
+              "label": "clip"
+            },
+            {
+              "id": "c-crab",
+              "label": "crab"
+            }
+          ],
+          "correctId": "c-clap"
+        }
+      },
+      {
+        "id": "g1-app-ph-10-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Beginning or ending blend",
+        "minutes": 4,
+        "prompt": "Tap a word, then say where the blend is.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "start",
+              "label": "start"
+            },
+            {
+              "id": "end",
+              "label": "end"
+            }
+          ],
+          "items": [
+            {
+              "id": "stop",
+              "label": "stop",
+              "categoryId": "start"
+            },
+            {
+              "id": "clip",
+              "label": "clip",
+              "categoryId": "start"
+            },
+            {
+              "id": "frog",
+              "label": "frog",
+              "categoryId": "start"
+            },
+            {
+              "id": "hand",
+              "label": "hand",
+              "categoryId": "end"
+            },
+            {
+              "id": "lamp",
+              "label": "lamp",
+              "categoryId": "end"
+            },
+            {
+              "id": "nest",
+              "label": "nest",
+              "categoryId": "end"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-11",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Phonics game: sh words",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-11-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear sh words",
+        "minutes": 3,
+        "prompt": "Tap each picture. Listen for the sh sound.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "ship",
+              "label": "ship",
+              "emoji": "🚢"
+            },
+            {
+              "id": "shell",
+              "label": "shell",
+              "emoji": "🐚"
+            },
+            {
+              "id": "fish",
+              "label": "fish",
+              "emoji": "🐟"
+            },
+            {
+              "id": "shoe",
+              "label": "shoe",
+              "emoji": "👟"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-11-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says ship?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says ship?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-sip",
+              "label": "sip"
+            },
+            {
+              "id": "c-ship",
+              "label": "ship"
+            },
+            {
+              "id": "c-chip",
+              "label": "chip"
+            }
+          ],
+          "correctId": "c-ship",
+          "stem": "🚢"
+        }
+      },
+      {
+        "id": "g1-app-ph-11-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says fish?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says fish?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-fist",
+              "label": "fist"
+            },
+            {
+              "id": "c-fish",
+              "label": "fish"
+            },
+            {
+              "id": "c-fit",
+              "label": "fit"
+            }
+          ],
+          "correctId": "c-fish",
+          "stem": "🐟"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-12",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Phonics game: ch words",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-12-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear ch words",
+        "minutes": 3,
+        "prompt": "Tap each picture. Listen for the ch sound.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "chin",
+              "label": "chin"
+            },
+            {
+              "id": "chop",
+              "label": "chop"
+            },
+            {
+              "id": "chick",
+              "label": "chick",
+              "emoji": "🐥"
+            },
+            {
+              "id": "lunch",
+              "label": "lunch",
+              "emoji": "🥪"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-12-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says chick?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says chick?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-chick",
+              "label": "chick"
+            },
+            {
+              "id": "c-sick",
+              "label": "sick"
+            },
+            {
+              "id": "c-thick",
+              "label": "thick"
+            }
+          ],
+          "correctId": "c-chick",
+          "stem": "🐥"
+        }
+      },
+      {
+        "id": "g1-app-ph-12-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort sh and ch words",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap the sound it has.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "sh",
+              "label": "sh"
+            },
+            {
+              "id": "ch",
+              "label": "ch"
+            }
+          ],
+          "items": [
+            {
+              "id": "shop",
+              "label": "shop",
+              "categoryId": "sh"
+            },
+            {
+              "id": "dish",
+              "label": "dish",
+              "categoryId": "sh"
+            },
+            {
+              "id": "wish",
+              "label": "wish",
+              "categoryId": "sh"
+            },
+            {
+              "id": "chop",
+              "label": "chop",
+              "categoryId": "ch"
+            },
+            {
+              "id": "much",
+              "label": "much",
+              "categoryId": "ch"
+            },
+            {
+              "id": "chat",
+              "label": "chat",
+              "categoryId": "ch"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-13",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Phonics game: th and wh words",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-13-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear th and wh words",
+        "minutes": 3,
+        "prompt": "Tap each word to hear it. Listen for th and wh.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "this",
+              "label": "this"
+            },
+            {
+              "id": "that",
+              "label": "that"
+            },
+            {
+              "id": "thin",
+              "label": "thin"
+            },
+            {
+              "id": "when",
+              "label": "when"
+            },
+            {
+              "id": "whip",
+              "label": "whip"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-13-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word has th?",
+        "minutes": 3,
+        "prompt": "Which word has the th sound?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-bath",
+              "label": "bath"
+            },
+            {
+              "id": "c-bad",
+              "label": "bad"
+            },
+            {
+              "id": "c-ban",
+              "label": "ban"
+            }
+          ],
+          "correctId": "c-bath"
+        }
+      },
+      {
+        "id": "g1-app-ph-13-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort th and wh words",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap the two letters that team up in it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "th",
+              "label": "th"
+            },
+            {
+              "id": "wh",
+              "label": "wh"
+            }
+          ],
+          "items": [
+            {
+              "id": "then",
+              "label": "then",
+              "categoryId": "th"
+            },
+            {
+              "id": "thin",
+              "label": "thin",
+              "categoryId": "th"
+            },
+            {
+              "id": "math",
+              "label": "math",
+              "categoryId": "th"
+            },
+            {
+              "id": "when",
+              "label": "when",
+              "categoryId": "wh"
+            },
+            {
+              "id": "whip",
+              "label": "whip",
+              "categoryId": "wh"
+            },
+            {
+              "id": "whiz",
+              "label": "whiz",
+              "categoryId": "wh"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-14",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Phonics game: ck words",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-14-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says duck?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says duck?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-dug",
+              "label": "dug"
+            },
+            {
+              "id": "c-duck",
+              "label": "duck"
+            },
+            {
+              "id": "c-dock",
+              "label": "dock"
+            }
+          ],
+          "correctId": "c-duck",
+          "stem": "🦆"
+        }
+      },
+      {
+        "id": "g1-app-ph-14-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says sock?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says sock?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-sack",
+              "label": "sack"
+            },
+            {
+              "id": "c-sock",
+              "label": "sock"
+            },
+            {
+              "id": "c-suck",
+              "label": "suck"
+            }
+          ],
+          "correctId": "c-sock",
+          "stem": "🧦"
+        }
+      },
+      {
+        "id": "g1-app-ph-14-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort ck words",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap its ending.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "ck",
+              "label": "ck"
+            },
+            {
+              "id": "sh",
+              "label": "sh"
+            }
+          ],
+          "items": [
+            {
+              "id": "neck",
+              "label": "neck",
+              "categoryId": "ck"
+            },
+            {
+              "id": "pick",
+              "label": "pick",
+              "categoryId": "ck"
+            },
+            {
+              "id": "back",
+              "label": "back",
+              "categoryId": "ck"
+            },
+            {
+              "id": "dash",
+              "label": "dash",
+              "categoryId": "sh"
+            },
+            {
+              "id": "fish",
+              "label": "fish",
+              "categoryId": "sh"
+            },
+            {
+              "id": "rush",
+              "label": "rush",
+              "categoryId": "sh"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-15",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Phonics game: All four digraphs",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-15-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort sh, ch, th, wh",
+        "minutes": 5,
+        "prompt": "Tap a word, then tap its digraph.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "sh",
+              "label": "sh"
+            },
+            {
+              "id": "ch",
+              "label": "ch"
+            },
+            {
+              "id": "th",
+              "label": "th"
+            },
+            {
+              "id": "wh",
+              "label": "wh"
+            }
+          ],
+          "items": [
+            {
+              "id": "shut",
+              "label": "shut",
+              "categoryId": "sh"
+            },
+            {
+              "id": "fish",
+              "label": "fish",
+              "categoryId": "sh"
+            },
+            {
+              "id": "chin",
+              "label": "chin",
+              "categoryId": "ch"
+            },
+            {
+              "id": "rich",
+              "label": "rich",
+              "categoryId": "ch"
+            },
+            {
+              "id": "thin",
+              "label": "thin",
+              "categoryId": "th"
+            },
+            {
+              "id": "bath",
+              "label": "bath",
+              "categoryId": "th"
+            },
+            {
+              "id": "when",
+              "label": "when",
+              "categoryId": "wh"
+            },
+            {
+              "id": "whiz",
+              "label": "whiz",
+              "categoryId": "wh"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-15-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Finish the sentence",
+        "minutes": 3,
+        "prompt": "Pick the word that fits: The ___ swims in the pond.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-fish",
+              "label": "fish"
+            },
+            {
+              "id": "c-fist",
+              "label": "fist"
+            },
+            {
+              "id": "c-dish",
+              "label": "dish"
+            }
+          ],
+          "correctId": "c-fish"
+        }
+      },
+      {
+        "id": "g1-app-ph-15-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Finish the sentence",
+        "minutes": 3,
+        "prompt": "Pick the word that fits: I have ___ for lunch.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-chips",
+              "label": "chips"
+            },
+            {
+              "id": "c-ships",
+              "label": "ships"
+            },
+            {
+              "id": "c-whips",
+              "label": "whips"
+            }
+          ],
+          "correctId": "c-chips"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-16",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Phonics game: Word parts",
+    "version": 1,
+    "skillIds": [
+      "g1-multisyllable"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-16-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear words in parts",
+        "minutes": 3,
+        "prompt": "Tap each word to hear it. Listen for the parts.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "sunset",
+              "label": "sunset",
+              "emoji": "🌅"
+            },
+            {
+              "id": "picnic",
+              "label": "picnic"
+            },
+            {
+              "id": "rabbit",
+              "label": "rabbit",
+              "emoji": "🐰"
+            },
+            {
+              "id": "napkin",
+              "label": "napkin"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-16-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many parts?",
+        "minutes": 3,
+        "prompt": "How many parts do you hear in the word picnic?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-1",
+              "label": "1"
+            },
+            {
+              "id": "c-2",
+              "label": "2"
+            },
+            {
+              "id": "c-3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c-2"
+        }
+      },
+      {
+        "id": "g1-app-ph-16-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many parts?",
+        "minutes": 3,
+        "prompt": "How many parts do you hear in the word rabbit?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-1",
+              "label": "1"
+            },
+            {
+              "id": "c-2",
+              "label": "2"
+            },
+            {
+              "id": "c-3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c-2",
+          "stem": "🐰"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-17",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Phonics game: Endings -s, -ed, -ing",
+    "version": 1,
+    "skillIds": [
+      "g1-endings"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-17-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Now or past?",
+        "minutes": 3,
+        "prompt": "Read the word. Which means it already happened: jumped, jumps, or jumping?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-jumps",
+              "label": "jumps"
+            },
+            {
+              "id": "c-jumped",
+              "label": "jumped"
+            },
+            {
+              "id": "c-jumping",
+              "label": "jumping"
+            }
+          ],
+          "correctId": "c-jumped"
+        }
+      },
+      {
+        "id": "g1-app-ph-17-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Add -ing",
+        "minutes": 3,
+        "prompt": "Which word means it is happening right now? Pick one.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-looked",
+              "label": "looked"
+            },
+            {
+              "id": "c-looks",
+              "label": "looks"
+            },
+            {
+              "id": "c-looking",
+              "label": "looking"
+            }
+          ],
+          "correctId": "c-looking"
+        }
+      },
+      {
+        "id": "g1-app-ph-17-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by ending",
+        "minutes": 4,
+        "prompt": "Tap a word, then tap its ending.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "s",
+              "label": "s"
+            },
+            {
+              "id": "ed",
+              "label": "ed"
+            },
+            {
+              "id": "ing",
+              "label": "ing"
+            }
+          ],
+          "items": [
+            {
+              "id": "hops",
+              "label": "hops",
+              "categoryId": "s"
+            },
+            {
+              "id": "plays",
+              "label": "plays",
+              "categoryId": "s"
+            },
+            {
+              "id": "walked",
+              "label": "walked",
+              "categoryId": "ed"
+            },
+            {
+              "id": "helped",
+              "label": "helped",
+              "categoryId": "ed"
+            },
+            {
+              "id": "jumping",
+              "label": "jumping",
+              "categoryId": "ing"
+            },
+            {
+              "id": "playing",
+              "label": "playing",
+              "categoryId": "ing"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-18",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Phonics game: Read and match sentences",
+    "version": 1,
+    "skillIds": [
+      "g1-read-sentences"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-18-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which sentence matches?",
+        "minutes": 4,
+        "prompt": "Look at the picture. Which sentence tells about it? Read the choices.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-the-dog-can-run.",
+              "label": "The dog can run."
+            },
+            {
+              "id": "c-the-cat-can-nap.",
+              "label": "The cat can nap."
+            },
+            {
+              "id": "c-the-pig-is-big.",
+              "label": "The pig is big."
+            }
+          ],
+          "correctId": "c-the-dog-can-run.",
+          "stem": "🐶🏃"
+        }
+      },
+      {
+        "id": "g1-app-ph-18-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which sentence matches?",
+        "minutes": 4,
+        "prompt": "Look at the picture. Which sentence tells about it?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-the-fish-is-in-the-dish.",
+              "label": "The fish is in the dish."
+            },
+            {
+              "id": "c-the-ship-is-on-the-shelf.",
+              "label": "The ship is on the shelf."
+            },
+            {
+              "id": "c-the-duck-is-on-the-log.",
+              "label": "The duck is on the log."
+            }
+          ],
+          "correctId": "c-the-fish-is-in-the-dish.",
+          "stem": "🐟💧"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-19",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Phonics game: Capitals and end marks",
+    "version": 1,
+    "skillIds": [
+      "g1-sentence-write"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-19-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which sentence is right?",
+        "minutes": 3,
+        "prompt": "Which sentence starts with a capital letter and ends with a period?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-the-dog-ran.",
+              "label": "the dog ran."
+            },
+            {
+              "id": "c-the-dog-ran.",
+              "label": "The dog ran."
+            },
+            {
+              "id": "c-the-dog-ran",
+              "label": "The dog ran"
+            }
+          ],
+          "correctId": "c-the-dog-ran."
+        }
+      },
+      {
+        "id": "g1-app-ph-19-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which end mark?",
+        "minutes": 3,
+        "prompt": "Which mark finishes this sentence: Can you jump___",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-.",
+              "label": "."
+            },
+            {
+              "id": "c-?",
+              "label": "?"
+            },
+            {
+              "id": "c-!",
+              "label": "!"
+            }
+          ],
+          "correctId": "c-?"
+        }
+      },
+      {
+        "id": "g1-app-ph-19-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which sentence is right?",
+        "minutes": 3,
+        "prompt": "Which sentence has a capital for a name? Pick one.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-i-saw-mia.",
+              "label": "I saw mia."
+            },
+            {
+              "id": "c-i-saw-mia.",
+              "label": "I saw Mia."
+            },
+            {
+              "id": "c-i-saw-mia.",
+              "label": "i saw Mia."
+            }
+          ],
+          "correctId": "c-i-saw-mia."
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ph-20",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Phonics game: Review: sounds and words",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ph-20-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Mixed review sort",
+        "minutes": 5,
+        "prompt": "Tap a word, then tap how it starts.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "blend",
+              "label": "blend"
+            },
+            {
+              "id": "digraph",
+              "label": "digraph"
+            }
+          ],
+          "items": [
+            {
+              "id": "stop",
+              "label": "stop",
+              "categoryId": "blend"
+            },
+            {
+              "id": "frog",
+              "label": "frog",
+              "categoryId": "blend"
+            },
+            {
+              "id": "plan",
+              "label": "plan",
+              "categoryId": "blend"
+            },
+            {
+              "id": "shop",
+              "label": "shop",
+              "categoryId": "digraph"
+            },
+            {
+              "id": "chin",
+              "label": "chin",
+              "categoryId": "digraph"
+            },
+            {
+              "id": "thin",
+              "label": "thin",
+              "categoryId": "digraph"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-20-2",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear review words",
+        "minutes": 3,
+        "prompt": "Tap each word to hear it. You know all of these now!",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "shell",
+              "label": "shell",
+              "emoji": "🐚"
+            },
+            {
+              "id": "frog",
+              "label": "frog",
+              "emoji": "🐸"
+            },
+            {
+              "id": "lunch",
+              "label": "lunch",
+              "emoji": "🥪"
+            },
+            {
+              "id": "jumping",
+              "label": "jumping"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ph-20-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which word says ship?",
+        "minutes": 3,
+        "prompt": "Look at the picture. Which word says ship?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-chip",
+              "label": "chip"
+            },
+            {
+              "id": "c-ship",
+              "label": "ship"
+            },
+            {
+              "id": "c-whip",
+              "label": "whip"
+            }
+          ],
+          "correctId": "c-ship",
+          "stem": "🚢"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-01",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Math game: Count to 20",
+    "version": 1,
+    "skillIds": [
+      "g1-count-120"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-01-1",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 14",
+        "minutes": 3,
+        "prompt": "Find the number fourteen on the number line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 1,
+          "max": 20,
+          "target": 14
+        }
+      },
+      {
+        "id": "g1-app-ma-01-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Count the stars",
+        "minutes": 4,
+        "prompt": "Count the stars. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-11",
+              "label": "11"
+            },
+            {
+              "id": "c-12",
+              "label": "12"
+            },
+            {
+              "id": "c-13",
+              "label": "13"
+            }
+          ],
+          "correctId": "c-12",
+          "stem": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+        }
+      },
+      {
+        "id": "g1-app-ma-01-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 18",
+        "minutes": 3,
+        "prompt": "Find the number eighteen on the number line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 1,
+          "max": 20,
+          "target": 18
+        }
+      },
+      {
+        "id": "g1-app-ma-01-4",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Count the hearts",
+        "minutes": 4,
+        "prompt": "Count the hearts. How many are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-15",
+              "label": "15"
+            },
+            {
+              "id": "c-16",
+              "label": "16"
+            },
+            {
+              "id": "c-14",
+              "label": "14"
+            }
+          ],
+          "correctId": "c-15",
+          "stem": "💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-02",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Math game: Count on past 100",
+    "version": 1,
+    "skillIds": [
+      "g1-count-120"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-02-1",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 105",
+        "minutes": 4,
+        "prompt": "Find one hundred five on the number line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 100,
+          "max": 120,
+          "target": 105
+        }
+      },
+      {
+        "id": "g1-app-ma-02-2",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 112",
+        "minutes": 4,
+        "prompt": "Find one hundred twelve on the number line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 100,
+          "max": 120,
+          "target": 112
+        }
+      },
+      {
+        "id": "g1-app-ma-02-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "What comes next?",
+        "minutes": 4,
+        "prompt": "The numbers are 117, 118, 119. What number comes next?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-119",
+              "label": "119"
+            },
+            {
+              "id": "c-120",
+              "label": "120"
+            },
+            {
+              "id": "c-121",
+              "label": "121"
+            }
+          ],
+          "correctId": "c-120"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-03",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Math game: Part and whole within 10",
+    "version": 1,
+    "skillIds": [
+      "g1-add-sub-10"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-03-1",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Fill the ten-frame",
+        "minutes": 5,
+        "prompt": "Some counters are already in the ten-frame. Tap the empty spots to make ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 7
+            },
+            {
+              "start": 4
+            },
+            {
+              "start": 9
+            },
+            {
+              "start": 5
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ma-03-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Two parts make 8",
+        "minutes": 5,
+        "prompt": "3 and what make 8? Pick the missing part.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-4",
+              "label": "4"
+            },
+            {
+              "id": "c-5",
+              "label": "5"
+            },
+            {
+              "id": "c-6",
+              "label": "6"
+            }
+          ],
+          "correctId": "c-5",
+          "stem": "3 + ? = 8"
+        }
+      },
+      {
+        "id": "g1-app-ma-03-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Two parts make 6",
+        "minutes": 4,
+        "prompt": "2 and what make 6? Pick the missing part.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-3",
+              "label": "3"
+            },
+            {
+              "id": "c-4",
+              "label": "4"
+            },
+            {
+              "id": "c-5",
+              "label": "5"
+            }
+          ],
+          "correctId": "c-4",
+          "stem": "2 + ? = 6"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-04",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Math game: Add within 10",
+    "version": 1,
+    "skillIds": [
+      "g1-word-problems"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-04-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Ducks",
+        "minutes": 5,
+        "prompt": "3 ducks swim. 4 more ducks come. How many ducks in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-6",
+              "label": "6"
+            },
+            {
+              "id": "c-7",
+              "label": "7"
+            },
+            {
+              "id": "c-8",
+              "label": "8"
+            }
+          ],
+          "correctId": "c-7",
+          "stem": "🦆🦆🦆 + 🐤🐤🐤🐤"
+        }
+      },
+      {
+        "id": "g1-app-ma-04-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Apples",
+        "minutes": 5,
+        "prompt": "You have 5 apples. You get 3 more. How many apples now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-8",
+              "label": "8"
+            },
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-7",
+              "label": "7"
+            }
+          ],
+          "correctId": "c-8",
+          "stem": "🍎🍎🍎🍎🍎 + 🍏🍏🍏"
+        }
+      },
+      {
+        "id": "g1-app-ma-04-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Cookies",
+        "minutes": 4,
+        "prompt": "2 cookies on a plate and 6 on another. How many cookies in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-7",
+              "label": "7"
+            },
+            {
+              "id": "c-8",
+              "label": "8"
+            }
+          ],
+          "correctId": "c-8",
+          "stem": "🍪🍪 + 🍪🍪🍪🍪🍪🍪"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-05",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Math game: Take away within 10",
+    "version": 1,
+    "skillIds": [
+      "g1-sub-unknown"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-05-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Birds fly away",
+        "minutes": 5,
+        "prompt": "There are 8 birds. 3 fly away. How many are left?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-4",
+              "label": "4"
+            },
+            {
+              "id": "c-5",
+              "label": "5"
+            },
+            {
+              "id": "c-6",
+              "label": "6"
+            }
+          ],
+          "correctId": "c-5",
+          "stem": "🐦🐦🐦🐦🐦🐦🐦🐦"
+        }
+      },
+      {
+        "id": "g1-app-ma-05-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Balloons pop",
+        "minutes": 5,
+        "prompt": "There are 9 balloons. 4 pop. How many are left?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-5",
+              "label": "5"
+            },
+            {
+              "id": "c-6",
+              "label": "6"
+            },
+            {
+              "id": "c-4",
+              "label": "4"
+            }
+          ],
+          "correctId": "c-5",
+          "stem": "🎈🎈🎈🎈🎈🎈🎈🎈🎈"
+        }
+      },
+      {
+        "id": "g1-app-ma-05-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Missing part",
+        "minutes": 5,
+        "prompt": "There are 10 in all. 7 are here. How many are hiding?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-4",
+              "label": "4"
+            },
+            {
+              "id": "c-2",
+              "label": "2"
+            },
+            {
+              "id": "c-3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c-3",
+          "stem": "🔵🔵🔵🔵🔵🔵🔵 + ?  = 10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-06",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Math game: Doubles",
+    "version": 1,
+    "skillIds": [
+      "g1-add-sub-10"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-06-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Double 3",
+        "minutes": 4,
+        "prompt": "3 plus 3. How many in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-5",
+              "label": "5"
+            },
+            {
+              "id": "c-6",
+              "label": "6"
+            },
+            {
+              "id": "c-7",
+              "label": "7"
+            }
+          ],
+          "correctId": "c-6",
+          "stem": "🍓🍓🍓 + 🍓🍓🍓"
+        }
+      },
+      {
+        "id": "g1-app-ma-06-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Double 4",
+        "minutes": 4,
+        "prompt": "4 plus 4. How many in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-8",
+              "label": "8"
+            },
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-7",
+              "label": "7"
+            }
+          ],
+          "correctId": "c-8",
+          "stem": "🐞🐞🐞🐞 + 🐞🐞🐞🐞"
+        }
+      },
+      {
+        "id": "g1-app-ma-06-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Double 5",
+        "minutes": 3,
+        "prompt": "5 plus 5. How many in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-11",
+              "label": "11"
+            },
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-10",
+              "label": "10"
+            }
+          ],
+          "correctId": "c-10",
+          "stem": "🌟🌟🌟🌟🌟 + 🌟🌟🌟🌟🌟"
+        }
+      },
+      {
+        "id": "g1-app-ma-06-4",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Doubles plus one",
+        "minutes": 4,
+        "prompt": "4 plus 5 is double 4 and one more. What is 4 + 5?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-8",
+              "label": "8"
+            },
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-10",
+              "label": "10"
+            }
+          ],
+          "correctId": "c-9",
+          "stem": "4 + 5"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-07",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Math game: Fact families",
+    "version": 1,
+    "skillIds": [
+      "g1-properties"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-07-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort facts by total",
+        "minutes": 6,
+        "prompt": "Tap a fact, then tap its total.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "6",
+              "label": "6"
+            },
+            {
+              "id": "8",
+              "label": "8"
+            },
+            {
+              "id": "10",
+              "label": "10"
+            }
+          ],
+          "items": [
+            {
+              "id": "2 + 4",
+              "label": "2 + 4",
+              "categoryId": "6"
+            },
+            {
+              "id": "5 + 1",
+              "label": "5 + 1",
+              "categoryId": "6"
+            },
+            {
+              "id": "3 + 5",
+              "label": "3 + 5",
+              "categoryId": "8"
+            },
+            {
+              "id": "6 + 2",
+              "label": "6 + 2",
+              "categoryId": "8"
+            },
+            {
+              "id": "4 + 6",
+              "label": "4 + 6",
+              "categoryId": "10"
+            },
+            {
+              "id": "7 + 3",
+              "label": "7 + 3",
+              "categoryId": "10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ma-07-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Same total?",
+        "minutes": 4,
+        "prompt": "If 3 + 4 = 7, what is 4 + 3?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-7",
+              "label": "7"
+            },
+            {
+              "id": "c-8",
+              "label": "8"
+            },
+            {
+              "id": "c-6",
+              "label": "6"
+            }
+          ],
+          "correctId": "c-7",
+          "stem": "3 + 4 = 7"
+        }
+      },
+      {
+        "id": "g1-app-ma-07-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Partner fact",
+        "minutes": 4,
+        "prompt": "If 2 + 6 = 8, what is 8 - 2?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-7",
+              "label": "7"
+            },
+            {
+              "id": "c-5",
+              "label": "5"
+            },
+            {
+              "id": "c-6",
+              "label": "6"
+            }
+          ],
+          "correctId": "c-6",
+          "stem": "2 + 6 = 8"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-08",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Math game: The equal sign",
+    "version": 1,
+    "skillIds": [
+      "g1-equal-sign"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-08-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "True or false",
+        "minutes": 4,
+        "prompt": "Is 5 + 2 = 7 true or false?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-true",
+              "label": "true"
+            },
+            {
+              "id": "c-false",
+              "label": "false"
+            }
+          ],
+          "correctId": "c-true",
+          "stem": "5 + 2 = 7"
+        }
+      },
+      {
+        "id": "g1-app-ma-08-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "True or false",
+        "minutes": 4,
+        "prompt": "Is 6 = 4 + 3 true or false?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-true",
+              "label": "true"
+            },
+            {
+              "id": "c-false",
+              "label": "false"
+            }
+          ],
+          "correctId": "c-false",
+          "stem": "6 = 4 + 3"
+        }
+      },
+      {
+        "id": "g1-app-ma-08-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Make it balance",
+        "minutes": 4,
+        "prompt": "4 + 2 = ___ + 3. Which number goes in the blank?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-2",
+              "label": "2"
+            },
+            {
+              "id": "c-3",
+              "label": "3"
+            },
+            {
+              "id": "c-4",
+              "label": "4"
+            }
+          ],
+          "correctId": "c-3",
+          "stem": "4 + 2 = ? + 3"
+        }
+      },
+      {
+        "id": "g1-app-ma-08-4",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "True or false",
+        "minutes": 3,
+        "prompt": "Is 8 - 3 = 5 true or false?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-true",
+              "label": "true"
+            },
+            {
+              "id": "c-false",
+              "label": "false"
+            }
+          ],
+          "correctId": "c-true",
+          "stem": "8 - 3 = 5"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-09",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Math game: Mystery number",
+    "version": 1,
+    "skillIds": [
+      "g1-unknown-number"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-09-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find the missing number",
+        "minutes": 5,
+        "prompt": "5 plus what number makes 9?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-3",
+              "label": "3"
+            },
+            {
+              "id": "c-4",
+              "label": "4"
+            },
+            {
+              "id": "c-5",
+              "label": "5"
+            }
+          ],
+          "correctId": "c-4",
+          "stem": "5 + ? = 9"
+        }
+      },
+      {
+        "id": "g1-app-ma-09-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find the missing number",
+        "minutes": 5,
+        "prompt": "What number plus 3 makes 10?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-7",
+              "label": "7"
+            },
+            {
+              "id": "c-8",
+              "label": "8"
+            },
+            {
+              "id": "c-6",
+              "label": "6"
+            }
+          ],
+          "correctId": "c-7",
+          "stem": "? + 3 = 10"
+        }
+      },
+      {
+        "id": "g1-app-ma-09-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find the missing number",
+        "minutes": 5,
+        "prompt": "8 minus what number is 5?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-4",
+              "label": "4"
+            },
+            {
+              "id": "c-2",
+              "label": "2"
+            },
+            {
+              "id": "c-3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c-3",
+          "stem": "8 - ? = 5"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-10",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Math game: Count up to subtract",
+    "version": 1,
+    "skillIds": [
+      "g1-sub-unknown"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-10-1",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Count up from 6 to 9",
+        "minutes": 4,
+        "prompt": "Start at 6. Tap 9 to see where counting up lands.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 10,
+          "target": 9
+        }
+      },
+      {
+        "id": "g1-app-ma-10-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "10 minus 7",
+        "minutes": 4,
+        "prompt": "What is 10 minus 7? Think: 7 plus what makes 10?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-2",
+              "label": "2"
+            },
+            {
+              "id": "c-3",
+              "label": "3"
+            },
+            {
+              "id": "c-4",
+              "label": "4"
+            }
+          ],
+          "correctId": "c-3",
+          "stem": "10 - 7"
+        }
+      },
+      {
+        "id": "g1-app-ma-10-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "9 minus 6",
+        "minutes": 4,
+        "prompt": "What is 9 minus 6? Think: 6 plus what makes 9?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-3",
+              "label": "3"
+            },
+            {
+              "id": "c-4",
+              "label": "4"
+            },
+            {
+              "id": "c-2",
+              "label": "2"
+            }
+          ],
+          "correctId": "c-3",
+          "stem": "9 - 6"
+        }
+      },
+      {
+        "id": "g1-app-ma-10-4",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Fill to ten",
+        "minutes": 3,
+        "prompt": "Tap the empty spots to make ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 8
+            },
+            {
+              "start": 3
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-11",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Math game: Teen numbers",
+    "version": 1,
+    "skillIds": [
+      "g1-teens"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-11-1",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Make ten first",
+        "minutes": 5,
+        "prompt": "Tap the empty spots to fill the ten-frame. Then think: ten and some more makes a teen.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 6
+            },
+            {
+              "start": 8
+            },
+            {
+              "start": 5
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ma-11-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Ten and four",
+        "minutes": 5,
+        "prompt": "A ten and 4 ones is which number?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-13",
+              "label": "13"
+            },
+            {
+              "id": "c-14",
+              "label": "14"
+            },
+            {
+              "id": "c-15",
+              "label": "15"
+            }
+          ],
+          "correctId": "c-14",
+          "stem": "10 + 4"
+        }
+      },
+      {
+        "id": "g1-app-ma-11-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 17",
+        "minutes": 5,
+        "prompt": "Find seventeen on the number line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 10,
+          "max": 20,
+          "target": 17
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-12",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Math game: Make a ten",
+    "version": 1,
+    "skillIds": [
+      "g1-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-12-1",
+        "type": "ten-frame",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Fill the frame",
+        "minutes": 4,
+        "prompt": "Tap the empty spots to make ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "rounds": [
+            {
+              "start": 9
+            },
+            {
+              "start": 7
+            },
+            {
+              "start": 8
+            },
+            {
+              "start": 6
+            }
+          ]
+        }
+      },
+      {
+        "id": "g1-app-ma-12-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "9 plus 4",
+        "minutes": 5,
+        "prompt": "9 plus 4. Move 1 to 9 to make 10, then add 3 more. What is the answer?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-12",
+              "label": "12"
+            },
+            {
+              "id": "c-13",
+              "label": "13"
+            },
+            {
+              "id": "c-14",
+              "label": "14"
+            }
+          ],
+          "correctId": "c-13",
+          "stem": "9 + 4"
+        }
+      },
+      {
+        "id": "g1-app-ma-12-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "8 plus 5",
+        "minutes": 6,
+        "prompt": "8 plus 5. Make a ten first. What is the answer?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-13",
+              "label": "13"
+            },
+            {
+              "id": "c-14",
+              "label": "14"
+            },
+            {
+              "id": "c-12",
+              "label": "12"
+            }
+          ],
+          "correctId": "c-13",
+          "stem": "8 + 5"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-13",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Math game: Add within 20",
+    "version": 1,
+    "skillIds": [
+      "g1-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-13-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "7 plus 6",
+        "minutes": 5,
+        "prompt": "7 plus 6 is how many?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-14",
+              "label": "14"
+            },
+            {
+              "id": "c-12",
+              "label": "12"
+            },
+            {
+              "id": "c-13",
+              "label": "13"
+            }
+          ],
+          "correctId": "c-13",
+          "stem": "7 + 6"
+        }
+      },
+      {
+        "id": "g1-app-ma-13-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "8 plus 7",
+        "minutes": 5,
+        "prompt": "8 plus 7 is how many?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-14",
+              "label": "14"
+            },
+            {
+              "id": "c-15",
+              "label": "15"
+            },
+            {
+              "id": "c-16",
+              "label": "16"
+            }
+          ],
+          "correctId": "c-15",
+          "stem": "8 + 7"
+        }
+      },
+      {
+        "id": "g1-app-ma-13-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "9 plus 9",
+        "minutes": 5,
+        "prompt": "9 plus 9 is how many?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-18",
+              "label": "18"
+            },
+            {
+              "id": "c-19",
+              "label": "19"
+            },
+            {
+              "id": "c-17",
+              "label": "17"
+            }
+          ],
+          "correctId": "c-18",
+          "stem": "9 + 9"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-14",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Math game: Add three numbers",
+    "version": 1,
+    "skillIds": [
+      "g1-three-addends"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-14-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "2 plus 3 plus 4",
+        "minutes": 5,
+        "prompt": "Add all three numbers.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-8",
+              "label": "8"
+            },
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-10",
+              "label": "10"
+            }
+          ],
+          "correctId": "c-9",
+          "stem": "2 + 3 + 4"
+        }
+      },
+      {
+        "id": "g1-app-ma-14-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "5 plus 2 plus 5",
+        "minutes": 5,
+        "prompt": "Add all three. Hint: 5 plus 5 makes ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-12",
+              "label": "12"
+            },
+            {
+              "id": "c-13",
+              "label": "13"
+            },
+            {
+              "id": "c-11",
+              "label": "11"
+            }
+          ],
+          "correctId": "c-12",
+          "stem": "5 + 2 + 5"
+        }
+      },
+      {
+        "id": "g1-app-ma-14-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "6 plus 1 plus 3",
+        "minutes": 5,
+        "prompt": "Add all three.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-11",
+              "label": "11"
+            },
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-10",
+              "label": "10"
+            }
+          ],
+          "correctId": "c-10",
+          "stem": "6 + 1 + 3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-15",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Math game: Subtract within 20",
+    "version": 1,
+    "skillIds": [
+      "g1-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-15-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "13 minus 3",
+        "minutes": 5,
+        "prompt": "13 minus 3 is how many?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-10",
+              "label": "10"
+            },
+            {
+              "id": "c-11",
+              "label": "11"
+            }
+          ],
+          "correctId": "c-10",
+          "stem": "13 - 3"
+        }
+      },
+      {
+        "id": "g1-app-ma-15-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "14 minus 5",
+        "minutes": 5,
+        "prompt": "14 minus 5. Take away 4 to get 10, then 1 more. What is left?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-10",
+              "label": "10"
+            },
+            {
+              "id": "c-8",
+              "label": "8"
+            }
+          ],
+          "correctId": "c-9",
+          "stem": "14 - 5"
+        }
+      },
+      {
+        "id": "g1-app-ma-15-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "16 minus 8",
+        "minutes": 5,
+        "prompt": "16 minus 8 is how many?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-7",
+              "label": "7"
+            },
+            {
+              "id": "c-8",
+              "label": "8"
+            }
+          ],
+          "correctId": "c-8",
+          "stem": "16 - 8"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-16",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Math game: Tens and ones",
+    "version": 1,
+    "skillIds": [
+      "g1-tens-ones"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-16-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "2 tens, 3 ones",
+        "minutes": 5,
+        "prompt": "2 tens and 3 ones makes which number?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-23",
+              "label": "23"
+            },
+            {
+              "id": "c-32",
+              "label": "32"
+            },
+            {
+              "id": "c-5",
+              "label": "5"
+            }
+          ],
+          "correctId": "c-23",
+          "stem": "20 + 3"
+        }
+      },
+      {
+        "id": "g1-app-ma-16-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "4 tens",
+        "minutes": 5,
+        "prompt": "How many tens are in the number 40?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-4",
+              "label": "4"
+            },
+            {
+              "id": "c-0",
+              "label": "0"
+            },
+            {
+              "id": "c-40",
+              "label": "40"
+            }
+          ],
+          "correctId": "c-4",
+          "stem": "40"
+        }
+      },
+      {
+        "id": "g1-app-ma-16-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which number?",
+        "minutes": 5,
+        "prompt": "Which number has 5 tens and 6 ones?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-56",
+              "label": "56"
+            },
+            {
+              "id": "c-65",
+              "label": "65"
+            },
+            {
+              "id": "c-11",
+              "label": "11"
+            }
+          ],
+          "correctId": "c-56"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-17",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Math game: Compare numbers",
+    "version": 1,
+    "skillIds": [
+      "g1-compare"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-17-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which is bigger?",
+        "minutes": 5,
+        "prompt": "Which number is bigger, 34 or 28?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-34",
+              "label": "34"
+            },
+            {
+              "id": "c-28",
+              "label": "28"
+            }
+          ],
+          "correctId": "c-34",
+          "stem": "34  28"
+        }
+      },
+      {
+        "id": "g1-app-ma-17-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which symbol?",
+        "minutes": 5,
+        "prompt": "Which symbol makes this true? 45 ___ 54",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-lt",
+              "label": "<"
+            },
+            {
+              "id": "c-gt",
+              "label": ">"
+            },
+            {
+              "id": "c-eq",
+              "label": "="
+            }
+          ],
+          "correctId": "c-lt",
+          "stem": "45 ? 54"
+        }
+      },
+      {
+        "id": "g1-app-ma-17-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which symbol?",
+        "minutes": 5,
+        "prompt": "Which symbol makes this true? 61 ___ 16",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-lt",
+              "label": "<"
+            },
+            {
+              "id": "c-gt",
+              "label": ">"
+            },
+            {
+              "id": "c-eq",
+              "label": "="
+            }
+          ],
+          "correctId": "c-gt",
+          "stem": "61 ? 16"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-18",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Math game: Ten more, ten less",
+    "version": 1,
+    "skillIds": [
+      "g1-ten-more-less"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-18-1",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find ten more than 12",
+        "minutes": 4,
+        "prompt": "What is ten more than twelve? Find it on the number line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 10,
+          "max": 30,
+          "target": 22
+        }
+      },
+      {
+        "id": "g1-app-ma-18-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Ten more",
+        "minutes": 5,
+        "prompt": "What is 10 more than 34?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-35",
+              "label": "35"
+            },
+            {
+              "id": "c-44",
+              "label": "44"
+            },
+            {
+              "id": "c-24",
+              "label": "24"
+            }
+          ],
+          "correctId": "c-44",
+          "stem": "34 + 10"
+        }
+      },
+      {
+        "id": "g1-app-ma-18-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Ten less",
+        "minutes": 5,
+        "prompt": "What is 10 less than 57?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-47",
+              "label": "47"
+            },
+            {
+              "id": "c-67",
+              "label": "67"
+            },
+            {
+              "id": "c-56",
+              "label": "56"
+            }
+          ],
+          "correctId": "c-47",
+          "stem": "57 - 10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-19",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Math game: Measure, data, and shapes",
+    "version": 1,
+    "skillIds": [
+      "g1-data",
+      "g1-shapes"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-19-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How long?",
+        "minutes": 5,
+        "prompt": "The pencil is as long as 6 paper clips. The crayon is as long as 4. Which is longer?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-pencil",
+              "label": "pencil"
+            },
+            {
+              "id": "c-crayon",
+              "label": "crayon"
+            }
+          ],
+          "correctId": "c-pencil"
+        }
+      },
+      {
+        "id": "g1-app-ma-19-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Read the tally",
+        "minutes": 5,
+        "prompt": "Apples: 5 tallies. Bananas: 3 tallies. How many more apples than bananas?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-1",
+              "label": "1"
+            },
+            {
+              "id": "c-2",
+              "label": "2"
+            },
+            {
+              "id": "c-3",
+              "label": "3"
+            }
+          ],
+          "correctId": "c-2",
+          "stem": "🍎🍎🍎🍎🍎  🍌🍌🍌"
+        }
+      },
+      {
+        "id": "g1-app-ma-19-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort the shapes",
+        "minutes": 5,
+        "prompt": "Tap a shape word, then tap how many sides it has.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "3 sides",
+              "label": "3 sides"
+            },
+            {
+              "id": "4 sides",
+              "label": "4 sides"
+            }
+          ],
+          "items": [
+            {
+              "id": "triangle",
+              "label": "triangle",
+              "categoryId": "3 sides"
+            },
+            {
+              "id": "square",
+              "label": "square",
+              "categoryId": "4 sides"
+            },
+            {
+              "id": "rectangle",
+              "label": "rectangle",
+              "categoryId": "4 sides"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g1-app-ma-20",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Math game: Unit review",
+    "version": 1,
+    "skillIds": [
+      "g1-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "g1-app-ma-20-1",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 119",
+        "minutes": 3,
+        "prompt": "Find one hundred nineteen on the number line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 105,
+          "max": 120,
+          "target": 119
+        }
+      },
+      {
+        "id": "g1-app-ma-20-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "8 plus 6",
+        "minutes": 4,
+        "prompt": "8 plus 6 is how many?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-13",
+              "label": "13"
+            },
+            {
+              "id": "c-14",
+              "label": "14"
+            },
+            {
+              "id": "c-15",
+              "label": "15"
+            }
+          ],
+          "correctId": "c-14",
+          "stem": "8 + 6"
+        }
+      },
+      {
+        "id": "g1-app-ma-20-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "15 minus 7",
+        "minutes": 4,
+        "prompt": "15 minus 7 is how many?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-8",
+              "label": "8"
+            },
+            {
+              "id": "c-9",
+              "label": "9"
+            },
+            {
+              "id": "c-7",
+              "label": "7"
+            }
+          ],
+          "correctId": "c-8",
+          "stem": "15 - 7"
+        }
+      },
+      {
+        "id": "g1-app-ma-20-4",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which is greater?",
+        "minutes": 4,
+        "prompt": "Which symbol makes this true? 72 ___ 27",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c-lt",
+              "label": "<"
+            },
+            {
+              "id": "c-gt",
+              "label": ">"
+            },
+            {
+              "id": "c-eq",
+              "label": "="
+            }
+          ],
+          "correctId": "c-gt",
+          "stem": "72 ? 27"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ccss-ela-w-3-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.1",
+    "description": "Write opinion pieces on topics or texts, supporting a point of view with reasons.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-1-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.1.a",
+    "description": "Introduce the topic or text they are writing about, state an opinion, and create an organizational structure that lists reasons.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-1-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.1.b",
+    "description": "Provide reasons that support the opinion.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-1-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.1.c",
+    "description": "Use linking words and phrases (e.g., because, therefore, since, for example) to connect opinion and reasons.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-1-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.1.d",
+    "description": "Provide a concluding statement or section.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.2",
+    "description": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-2-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.2.a",
+    "description": "Introduce a topic and group related information together; include illustrations when useful to aiding comprehension.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-2-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.2.b",
+    "description": "Develop the topic with facts, definitions, and details.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-2-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.2.c",
+    "description": "Use linking words and phrases (e.g., also, another, and, more, but) to connect ideas within categories of information.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-2-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.2.d",
+    "description": "Provide a concluding statement or section.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.3",
+    "description": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-3-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.3.a",
+    "description": "Establish a situation and introduce a narrator and/or characters; organize an event sequence that unfolds naturally.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-3-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.3.b",
+    "description": "Use dialogue and descriptions of actions, thoughts, and feelings to develop experiences and events or show the response of characters to situations.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-3-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.3.c",
+    "description": "Use temporal words and phrases to signal event order.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-3-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.3.d",
+    "description": "Provide a sense of closure.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.4",
+    "description": "With guidance and support from adults, produce writing in which the development and organization are appropriate to task and purpose.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.5",
+    "description": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.6",
+    "description": "With guidance and support from adults, use technology to produce and publish writing (using keyboarding skills) as well as to interact and collaborate with others.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.7",
+    "description": "Conduct short research projects that build knowledge about a topic.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-8",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.8",
+    "description": "Recall information from experiences or gather information from print and digital sources; take brief notes on sources and sort evidence into provided categories.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-3-10",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.3.10",
+    "description": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/3/",
+    "verified": true
+  }
+]

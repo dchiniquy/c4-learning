@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ccss-ela-ri-1-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.1",
+    "description": "Ask and answer questions about key details in a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.2",
+    "description": "Identify the main topic and retell key details of a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.3",
+    "description": "Describe the connection between two individuals, events, ideas, or pieces of information in a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.4",
+    "description": "Ask and answer questions to help determine or clarify the meaning of words and phrases in a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.5",
+    "description": "Know and use various text features (e.g., headings, tables of contents, glossaries, electronic menus, icons) to locate key facts or information in a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.6",
+    "description": "Distinguish between information provided by pictures or other illustrations and information provided by the words in a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.7",
+    "description": "Use the illustrations and details in a text to describe its key ideas.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-8",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.8",
+    "description": "Identify the reasons an author gives to support points in a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-9",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.9",
+    "description": "Identify basic similarities in and differences between two texts on the same topic (e.g., in illustrations, descriptions, or procedures).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-1-10",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.1.10",
+    "description": "With prompting and support, read informational texts appropriately complex for grade 1.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/1/",
+    "verified": true
+  }
+]

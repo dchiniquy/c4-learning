@@ -16,6 +16,8 @@ export interface ProgressStore {
   putProgress(record: ProgressRecord): Promise<void>
   getMastery(childId: string): Promise<SkillMastery[]>
   putMastery(record: SkillMastery): Promise<void>
+  /** Removes a parent's mark so the skill goes back to its worked-out level. */
+  deleteMastery(childId: string, skillId: string): Promise<void>
 
   getChecks(childId: string, date: string): Promise<ScheduleCheck[]>
   /** Every check-off for a child across all dates. */

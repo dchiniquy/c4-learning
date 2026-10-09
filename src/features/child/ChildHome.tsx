@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { Link, Navigate, useParams } from 'react-router-dom'
+import GradeContent from '../../content/GradeContent.tsx'
 import { useApp } from '../../store/appStore.ts'
 import TodaySchedule from './TodaySchedule.tsx'
 
@@ -20,7 +21,9 @@ export default function ChildHome() {
       <h1>
         <span aria-hidden="true">{child.avatar} </span>Hi, {child.name}!
       </h1>
-      <TodaySchedule child={child} />
+      <GradeContent grade={child.grade}>
+        <TodaySchedule child={child} />
+      </GradeContent>
       <p>
         <Link to="/">Switch learner</Link>
       </p>

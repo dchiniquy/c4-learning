@@ -1,11 +1,10 @@
 import { useRef, useState, type FormEvent } from 'react'
 import { Link } from 'react-router-dom'
+import { GRADE_LABEL } from '../../content/labels.ts'
 import { GRADES, GRADE_AGE, type Grade } from '../../content/schema.ts'
 import { useApp } from '../../store/appStore.ts'
 import { backupFilename, parseBackup } from '../../store/backup.ts'
 import { AVATARS } from '../../store/types.ts'
-
-const GRADE_LABEL: Record<Grade, string> = { prek: 'Pre-K', k: 'Kindergarten', '1': 'Grade 1', '2': 'Grade 2', '3': 'Grade 3' }
 
 function AddChildForm() {
   const addChild = useApp((s) => s.addChild)
@@ -119,6 +118,7 @@ export default function ParentHome() {
             <li key={c.id}>
               <span aria-hidden="true">{c.avatar} </span>
               {c.name}, {GRADE_LABEL[c.grade]}{' '}
+              <Link to={`/parent/progress/${c.id}`}>View {c.name}'s progress</Link>{' '}
               <button
                 type="button"
                 onClick={() => {

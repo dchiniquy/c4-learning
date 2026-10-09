@@ -1,0 +1,711 @@
+[
+  {
+    "id": "g3-r16-new-fable-independent",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Put it all together with a new fable",
+    "version": 1,
+    "skillIds": [
+      "g3-story-elements"
+    ],
+    "activities": [
+      {
+        "id": "g3-r16-new-fable-independent-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Story map, traits and message: The Fox and the Crow",
+        "minutes": 30,
+        "materials": [
+          "The Fox and the Crow (book, online text, or retell)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Have your child read the fable aloud, or listen to you read it. Outline: a crow sits in a tree holding a piece of cheese; a fox wants it and flatters the crow's looks and says it must have a lovely voice; the crow opens its beak to sing and drops the cheese; the fox grabs it and runs off. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Without help at first, have your child draw a story map (characters, setting, problem, ending) and write a trait word for each animal with proof from the story.",
+          "Ask: \"What is the central message, and which two details support it?\" A possible message: be careful of people who flatter you to get something.",
+          "Offer help only where they are stuck by asking questions, not giving answers.",
+          "You will know they got it when the story map, traits, and message are complete and each uses details from the text."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r17-compare-fables",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Compare messages across fables",
+    "version": 1,
+    "skillIds": [
+      "g3-central-message"
+    ],
+    "activities": [
+      {
+        "id": "g3-r17-compare-fables-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Which two fables teach the same lesson?",
+        "minutes": 30,
+        "materials": [
+          "fables read this month (reread short ones)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Lay out titles of fables you have read: Tortoise and Hare, Ant and Grasshopper, Crow and Pitcher, Goose and Golden Eggs, Dog and His Reflection, Fox and Crow, North Wind and Sun. Write each on a card or scrap of paper.",
+          "Have your child sort the titles into groups that share a similar message, and write a message sentence for each group.",
+          "Ask: \"Which fable fits in more than one group? Which has a message that stands alone?\" Encourage friendly debate; any grouping is fine if explained with details.",
+          "Pick one group and have your child tell how the characters, settings and events differ even though the lesson is similar.",
+          "You will know they got it when they justify each group by naming the message and a supporting detail."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r18-readers-theater",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Reading with expression",
+    "version": 1,
+    "skillIds": [
+      "g3-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g3-r18-readers-theater-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Reader's theater: The Boy Who Cried Wolf",
+        "minutes": 30,
+        "materials": [
+          "a short script you and your child write (see steps)",
+          "pencil",
+          "paper"
+        ],
+        "parentPrompts": [
+          "Turn The Boy Who Cried Wolf into a short play together. Make a list of speaking parts: Narrator, Boy, two Villagers. Write a few lines each on paper (for example, Boy: Wolf! Wolf! Help!).",
+          "Practice reading the lines aloud. Model reading with expression: a shout for the boy, a worried voice for the villagers, a slow and sad voice at the end. Ask them to try it again with the right feeling.",
+          "Talk about how punctuation helps: an exclamation mark means strong feeling, a question mark means your voice goes up, commas mean a small pause.",
+          "Perform it for another person. Swap parts and read it again.",
+          "You will know they got it when they read smoothly at a natural pace and change their voice to show feeling."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r19-write-a-fable",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Create a fable of your own",
+    "version": 1,
+    "skillIds": [
+      "g3-create-fable"
+    ],
+    "activities": [
+      {
+        "id": "g3-r19-write-a-fable-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Plan and tell your own fable",
+        "minutes": 30,
+        "materials": [
+          "paper",
+          "pencil",
+          "story map from week 1 (optional)"
+        ],
+        "parentPrompts": [
+          "Explain that a fable is a short story with animal characters that teaches a lesson. Start with the message: have your child choose a lesson such as be honest, share, or keep trying.",
+          "Make a story map: two animal characters (with traits), a setting, a problem that shows the lesson, and an ending.",
+          "Have them tell the story aloud to you first with a beginning, middle and end. Then write a short draft in order, using words like first, then, and finally.",
+          "End the draft with a sentence that says the moral, like \"The moral is...\". Do not worry about perfect spelling today.",
+          "You will know they got it when the events lead logically to the lesson, and the lesson fits what happened to the characters."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r20-story-share",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Share a story and its message",
+    "version": 1,
+    "skillIds": [
+      "g3-story-share"
+    ],
+    "activities": [
+      {
+        "id": "g3-r20-story-share-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Story share: characters, events and message",
+        "minutes": 30,
+        "materials": [
+          "a favorite story or fable from this unit",
+          "story map and drawings made this month",
+          "an audience (family member, friend, or toy)"
+        ],
+        "parentPrompts": [
+          "Have your child choose one favorite story from the unit. Help them gather their story map, notes and any drawings.",
+          "They tell the audience: the title, the characters and their traits, the main events in order, and the central message with one detail that proves it. Remind them to speak clearly at a steady pace and in complete sentences.",
+          "The audience asks one or two questions. Teach your child to answer and give a detail, for example, \"The story says the grasshopper had no food when winter came.\"",
+          "Finish by celebrating what they have learned. Ask: \"What was the hardest part of finding a message? What helped you?\"",
+          "You will know they got it when they present all four parts clearly and answer questions with details."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr10-text-opinion-plan",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "An opinion about a story",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-text"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr10-text-opinion-plan-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Choose a fable and plan an opinion about it",
+        "minutes": 25,
+        "materials": [
+          "a fable from this unit",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Explain that opinion writing can be about a text. Ask your child to choose a fable and decide: \"Do you think the message is a good lesson to follow? Which character do you like best? Was the ending fair?\"",
+          "Have them write one opinion sentence that includes the title of the fable. Remind them that titles of stories have capital letters on the important words.",
+          "Plan two reasons, and for each one write a detail or action from the story as evidence (for example, the crow was clever because it dropped pebbles into the pitcher).",
+          "Check the plan: Does each reason come from the story? Is there a place to use because?",
+          "You will know they got it when the plan has an opinion about a story and two reasons with details from the text."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr11-text-opinion-draft",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Draft and polish the story opinion",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-text"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr11-text-opinion-draft-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write the opinion about the fable",
+        "minutes": 25,
+        "materials": [
+          "plan from last time",
+          "lined paper",
+          "pencil",
+          "checklist from week 3"
+        ],
+        "parentPrompts": [
+          "Have your child use the plan to write an introduction with the story title and opinion, two reasons with details, linking words, and a conclusion.",
+          "When done, reread the piece aloud and use the checklist from week 3 to check each part.",
+          "Fix capital letters, ending marks and spelling. They can use a dictionary for any word they are unsure of.",
+          "Copy it neatly or type it, with your help on keyboarding. Add a drawing from the story if they like.",
+          "You will know they got it when the piece states an opinion, gives story-based reasons, links them, and ends well."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr12-share-reflect",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Share your writing and reflect",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-share"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr12-share-reflect-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read aloud and reflect",
+        "minutes": 25,
+        "materials": [
+          "both finished opinion pieces",
+          "audience (family member, friend, or pet)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Have your child read their writing aloud to an audience at a clear pace, looking up at the listener sometimes.",
+          "The audience says one thing they liked and asks one question. Teach your child to answer in a complete sentence.",
+          "Ask: \"Did anyone change their mind or learn something? Which of your reasons is strongest?\"",
+          "Reflect: have them write three sentences about what they learned about opinion writing, for example, what helped them the most and what they want to practice next.",
+          "You will know they got it when they read aloud clearly and can name the parts of an opinion piece in their own words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-ww07-latin-suffixes",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Suffixes -tion and -ture",
+    "version": 1,
+    "skillIds": [
+      "g3-latin-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-ww07-latin-suffixes-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sort words by their endings",
+        "minutes": 25,
+        "materials": [
+          "cards or paper slips",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Explain that many longer words end with -tion (said \"shun\") and -ture (said \"cher\"). These endings come from Latin. -tion usually shows an action or the result of an action, and -ture often makes a noun.",
+          "Write twelve words: action, vacation, invention, collection, direction, picture, nature, adventure, creature, future, capture, mixture. Have your child read each aloud, splitting before the ending (va-ca-tion, ad-ven-ture).",
+          "Sort them into two piles by ending. Ask: \"What do you notice about how the ending sounds?\"",
+          "Find the base word in some words: collect/collection, invent/invention, direct/direction. Talk about how the meaning is related.",
+          "You will know they got it when they read the endings smoothly and find the base word in a new word."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-ww08-big-word-challenge",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Read big words in sentences",
+    "version": 1,
+    "skillIds": [
+      "g3-big-words"
+    ],
+    "activities": [
+      {
+        "id": "g3-ww08-big-word-challenge-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Big-word sentence challenge",
+        "minutes": 25,
+        "materials": [
+          "a short passage or book at the third-grade level",
+          "sticky notes",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Choose a page of a book with several long words. Have your child read it aloud. When they get to a long word, coach them to look for prefixes, suffixes, and syllables, and then read the whole word.",
+          "Write down five long words they found on sticky notes and have them split each into parts and use it in a new sentence.",
+          "Review words that do not follow the usual patterns, such as said, friend, laugh, thought, and again. Have your child read each one and use it in a sentence.",
+          "Play a quick game: you read a sentence with a mistake in one long word, and they correct it.",
+          "You will know they got it when they read long words by chunking them and correct their own reading when it does not make sense."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m16-equal-groups",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Equal groups",
+    "version": 1,
+    "skillIds": [
+      "g3-mult-groups"
+    ],
+    "activities": [
+      {
+        "id": "g3-m16-equal-groups-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make equal groups with paper plates",
+        "minutes": 35,
+        "materials": [
+          "paper plates or circles drawn on paper",
+          "20 to 30 counters (buttons, dried beans, or paper squares; supervise young siblings)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Put 3 counters on each of 4 plates. Say: \"4 groups of 3.\" Explain that multiplication is a way to find the total when groups are equal: 4 x 3 means 4 groups with 3 in each group.",
+          "Count the total (12) and write 4 x 3 = 12. Then make 3 plates with 5 counters and write 3 x 5 = 15.",
+          "Make different groups and have them write the multiplication sentence. Ask: \"What does the first number tell you? What does the second tell you?\"",
+          "Show an unequal set (2, 3, 4) and ask: \"Can we write a multiplication sentence for this? Why not?\"",
+          "You will know they got it when they say each multiplication as groups of and write the matching sentence."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m17-arrays",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Arrays: rows and columns",
+    "version": 1,
+    "skillIds": [
+      "g3-mult-arrays"
+    ],
+    "activities": [
+      {
+        "id": "g3-m17-arrays-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build arrays and find the total",
+        "minutes": 35,
+        "materials": [
+          "counters or squares of paper",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Explain: an array puts equal groups in rows and columns. Build 3 rows with 4 in each row. Ask: \"How many rows? How many in each row? How many in all?\" Write 3 x 4 = 12.",
+          "Turn the array on its side to get 4 rows of 3. Notice that the total is still 12 (4 x 3 = 12). Ask: \"What do you notice?\"",
+          "Build arrays for 2 x 6, 5 x 3, and 4 x 4 and write each sentence.",
+          "Look for arrays in the house, such as egg cartons, muffin tins, or window panes. Count the rows and columns of each.",
+          "You will know they got it when they build an array from a multiplication sentence and write a sentence from an array."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m18-repeated-addition",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Repeated addition and skip counting",
+    "version": 1,
+    "skillIds": [
+      "g3-mult-groups"
+    ],
+    "activities": [
+      {
+        "id": "g3-m18-repeated-addition-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Jumps on a number line",
+        "minutes": 35,
+        "materials": [
+          "paper",
+          "pencil",
+          "ruler",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Draw a number line from 0 to 20. Show 4 groups of 3 by making 4 jumps of 3, landing on 3, 6, 9, 12. Write the addition: 3 + 3 + 3 + 3 = 12, and the multiplication: 4 x 3 = 12.",
+          "Have them make jumps for 5 x 2, 3 x 5, and 6 x 2 (on a longer line). For each, write both sentences.",
+          "Ask: \"Why is multiplication quicker than adding the same number again and again?\"",
+          "Skip count aloud by 2s, 5s, and 10s to 50, and by 3s to 30.",
+          "You will know they got it when they link jumps, repeated addition, and multiplication."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m19-equal-group-stories",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Equal group stories and sharing",
+    "version": 1,
+    "skillIds": [
+      "g3-mult-wp"
+    ],
+    "activities": [
+      {
+        "id": "g3-m19-equal-group-stories-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Stories for multiplication and sharing equally",
+        "minutes": 35,
+        "materials": [
+          "counters",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read: \"There are 5 bags with 4 apples in each. How many apples in all?\" Act out the groups with counters and write 5 x 4 = 20.",
+          "Now try sharing: \"12 stickers are shared equally among 3 friends. How many does each get?\" Deal the counters one at a time into 3 groups. Write 12 / 3 = 4 and tell that this is sharing equally.",
+          "Have your child write one multiplication story and one sharing story, then solve them.",
+          "Ask: \"How is sharing equally like finding groups?\" (Both involve equal groups, but you are finding a different unknown.)",
+          "You will know they got it when they set up equal groups, write the sentence, and solve."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m20-market-day",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Market day review",
+    "version": 1,
+    "skillIds": [
+      "g3-unit-review"
+    ],
+    "activities": [
+      {
+        "id": "g3-m20-market-day-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Market day: mixed review game",
+        "minutes": 35,
+        "materials": [
+          "play money (or paper bills)",
+          "paper",
+          "pencil",
+          "5 to 10 household items with price tags from 20 to 500"
+        ],
+        "parentPrompts": [
+          "Set up a play market with items priced up to 500 and give your child money in hundreds, tens, and ones. Choose two items to buy: have them add the prices and pay.",
+          "Next they sell: you buy something and give a larger amount, and they work out the change by subtracting.",
+          "Include a multiplication question: \"I want 4 packs of 3 pencils. How many pencils?\" and a rounding question: \"About how much is the total to the nearest 100?\"",
+          "Switch roles and let them set prices. Ask them to explain how they found each answer.",
+          "You will know they got it when they correctly add, subtract, round, and use equal groups, and can explain their thinking."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s10-ramp-design",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Build a ramp challenge",
+    "version": 1,
+    "skillIds": [
+      "g3-forces"
+    ],
+    "activities": [
+      {
+        "id": "g3-s10-ramp-design-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Design a marble-style run",
+        "minutes": 40,
+        "materials": [
+          "cardboard tubes or folded cardboard",
+          "tape",
+          "a ball or toy car",
+          "books",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Challenge: build a track that makes a small ball travel at least 1 meter and stop in a target area, like a box. Safety: keep the ball larger than a mouth and watch small siblings.",
+          "Have your child sketch a plan, then build it. Test and watch where the ball goes.",
+          "If the ball does not reach the target, change one thing at a time (ramp angle, surface) and test again.",
+          "Ask: \"Which forces were acting? Which change worked best? Why?\"",
+          "You will know they got it when they improve their design by changing one thing at a time and can explain the forces."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s11-predict-from-data",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Use data to predict motion",
+    "version": 1,
+    "skillIds": [
+      "g3-motion-patterns"
+    ],
+    "activities": [
+      {
+        "id": "g3-s11-predict-from-data-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Graph the ramp results",
+        "minutes": 40,
+        "materials": [
+          "data from the ramp lessons (or collect new data)",
+          "graph paper",
+          "pencil",
+          "ruler"
+        ],
+        "parentPrompts": [
+          "Look at the table from the ramp or pendulum test. Choose one to graph.",
+          "Make a bar graph: label the bottom with the ramp heights (or string lengths) and the side with the distances (or swings). Draw a bar for each.",
+          "Ask: \"What pattern does the graph show? Which bar is the tallest?\" Use the pattern to predict a new value and test it if you can.",
+          "Write two sentences: one describing the pattern and one saying what you predict next.",
+          "You will know they got it when the graph is correct and their prediction comes from the pattern."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s12-forces-wrap-up",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Explain forces and motion",
+    "version": 1,
+    "skillIds": [
+      "g3-forces-wrap"
+    ],
+    "activities": [
+      {
+        "id": "g3-s12-forces-wrap-up-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Teach it back",
+        "minutes": 40,
+        "materials": [
+          "science notes from the unit",
+          "paper",
+          "pencil",
+          "a toy car and a ball"
+        ],
+        "parentPrompts": [
+          "Look back at your notes and charts from the unit. Ask: \"What did you learn about pushes and pulls, balanced and unbalanced forces, friction, and patterns in motion?\"",
+          "Have your child make a poster or a notebook page with three headings: Forces, Balanced and unbalanced, Patterns in motion. They write one fact and draw one picture under each.",
+          "They explain it to a family member and demonstrate with a toy car or a ball.",
+          "Ask: \"What question would you like to investigate next?\" Write it down.",
+          "You will know they got it when they use words like force, friction, balanced and pattern correctly and show an example for each."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-so07-why-communities",
+    "grade": "3",
+    "subject": "social-studies",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Why people live where they do",
+    "version": 1,
+    "skillIds": [
+      "g3-community-geography"
+    ],
+    "activities": [
+      {
+        "id": "g3-so07-why-communities-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Research a community type",
+        "minutes": 40,
+        "materials": [
+          "library books, an atlas, or a trusted website",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Explain: a community is a group of people who live in the same place. Communities can be in a city, in the country, or somewhere in between. Land, water, and roads affect where people build.",
+          "Choose one place (your own or another) and look up three facts about it, such as nearby water, land features, or jobs. Take brief notes.",
+          "Ask: \"How do the land and water around it help people? Which jobs or places are there because of it?\"",
+          "Write three sentences about why people live there and read them aloud.",
+          "You will know they got it when they use facts from a source and explain how the place helps people meet their needs."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-so08-community-poster",
+    "grade": "3",
+    "subject": "social-studies",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Our place on the map",
+    "version": 1,
+    "skillIds": [
+      "g3-map-presentation"
+    ],
+    "activities": [
+      {
+        "id": "g3-so08-community-poster-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a poster and present it",
+        "minutes": 40,
+        "materials": [
+          "poster paper or large paper",
+          "markers",
+          "your maps from earlier lessons"
+        ],
+        "parentPrompts": [
+          "Have your child make a poster about your community with a map, a key, a compass rose, and three labeled places.",
+          "Add a section with two facts about the land or water near you and one about the people who help the community.",
+          "They present the poster to family and explain how to read the map and where things are. Remind them to speak clearly and use complete sentences.",
+          "Ask: \"What did you learn about maps? What would you like to explore on a map?\"",
+          "You will know they got it when the poster has a correct map and they can read it aloud."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

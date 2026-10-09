@@ -1,0 +1,281 @@
+[
+  {
+    "id": "ccss-ela-l-3-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1",
+    "description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.a",
+    "description": "Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and their functions in particular sentences.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.b",
+    "description": "Form and use regular and irregular plural nouns.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.c",
+    "description": "Use abstract nouns (e.g., childhood).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.d",
+    "description": "Form and use regular and irregular verbs.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.e",
+    "description": "Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-f",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.f",
+    "description": "Ensure subject-verb and pronoun-antecedent agreement.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-g",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.g",
+    "description": "Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-h",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.h",
+    "description": "Use coordinating and subordinating conjunctions.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-1-i",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.1.i",
+    "description": "Produce simple, compound, and complex sentences.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.2",
+    "description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-2-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.2.a",
+    "description": "Capitalize appropriate words in titles.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-2-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.2.b",
+    "description": "Use commas in addresses.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-2-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.2.c",
+    "description": "Use commas and quotation marks in dialogue.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-2-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.2.d",
+    "description": "Form and use possessives.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-2-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.2.e",
+    "description": "Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., sitting, smiled, cries, happiness).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-2-f",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.2.f",
+    "description": "Use spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules, meaningful word parts) in writing words.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-2-g",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.2.g",
+    "description": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.3",
+    "description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-3-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.3.a",
+    "description": "Choose words and phrases for effect.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-3-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.3.b",
+    "description": "Recognize and observe differences between the conventions of spoken and written standard English.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.4",
+    "description": "Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-4-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.4.a",
+    "description": "Use sentence-level context as a clue to the meaning of a word or phrase.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-4-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.4.b",
+    "description": "Determine the meaning of the new word formed when a known affix is added to a known word (e.g., agreeable/disagreeable, comfortable/uncomfortable, care/careless, heat/preheat).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-4-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.4.c",
+    "description": "Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., company, companion).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-4-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.4.d",
+    "description": "Use glossaries or beginning dictionaries, both print and digital, to determine or clarify the precise meaning of key words and phrases.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.5",
+    "description": "Demonstrate understanding of figurative language, word relationships and nuances in word meanings.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-5-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.5.a",
+    "description": "Distinguish the literal and nonliteral meanings of words and phrases in context (e.g., take steps).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-5-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.5.b",
+    "description": "Identify real-life connections between words and their use (e.g., describe people who are friendly or helpful).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-5-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.5.c",
+    "description": "Distinguish shades of meaning among related words that describe states of mind or degrees of certainty (e.g., knew, believed, suspected, heard, wondered).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-3-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.3.6",
+    "description": "Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., After dinner that night we went looking for them).",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/3/",
+    "verified": true
+  }
+]

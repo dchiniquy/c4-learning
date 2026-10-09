@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ccss-ela-rl-1-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.1",
+    "description": "Ask and answer questions about key details in a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-1-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.2",
+    "description": "Retell stories, including key details, and demonstrate understanding of their central message or lesson.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-1-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.3",
+    "description": "Describe characters, settings, and major events in a story, using key details.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-1-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.4",
+    "description": "Identify words and phrases in stories or poems that suggest feelings or appeal to the senses.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-1-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.5",
+    "description": "Explain major differences between books that tell stories and books that give information, drawing on a wide reading of a range of text types.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-1-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.6",
+    "description": "Identify who is telling the story at various points in a text.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-1-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.7",
+    "description": "Use illustrations and details in a story to describe its characters, setting, or events.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-1-9",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.9",
+    "description": "Compare and contrast the adventures and experiences of characters in stories.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-1-10",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.1.10",
+    "description": "With prompting and support, read prose and poetry of appropriate complexity for grade 1.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/1/",
+    "verified": true
+  }
+]

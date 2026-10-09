@@ -1,37 +1,406 @@
 [
   {
-    "id": "g1-tens-ones",
-    "subject": "math",
-    "name": "Understand two-digit numbers as tens and ones",
+    "id": "g1-cvc-blend",
+    "subject": "literacy",
+    "name": "Blend and segment the sounds in short words",
+    "prerequisites": [],
     "standardIds": [
-      "ccss-math-1-nbt-b-2",
-      "ccss-math-1-nbt-b-2-b"
+      "ccss-ela-rf-1-2-b",
+      "ccss-ela-rf-1-2-d"
     ]
   },
   {
-    "id": "g1-make-ten",
-    "subject": "math",
-    "name": "Add within 20 using strategies such as making ten",
+    "id": "g1-short-vowels",
+    "subject": "literacy",
+    "name": "Read and spell words with short vowels",
+    "prerequisites": [
+      "g1-cvc-blend"
+    ],
     "standardIds": [
-      "ccss-math-1-oa-c-5",
-      "ccss-math-1-oa-c-6"
+      "ccss-ela-rf-1-2-c",
+      "ccss-ela-rf-1-3-b"
+    ]
+  },
+  {
+    "id": "g1-tricky-words",
+    "subject": "literacy",
+    "name": "Recognize and read common irregular words",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-1-3-g"
+    ]
+  },
+  {
+    "id": "g1-read-sentences",
+    "subject": "literacy",
+    "name": "Read simple sentences made of regular and tricky words",
+    "prerequisites": [
+      "g1-short-vowels",
+      "g1-tricky-words"
+    ],
+    "standardIds": [
+      "ccss-ela-rf-1-3-b",
+      "ccss-ela-rf-1-3-g"
+    ]
+  },
+  {
+    "id": "g1-sentence-write",
+    "subject": "literacy",
+    "name": "Write a complete sentence with a capital and end mark",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-l-1-2-b",
+      "ccss-ela-l-1-1-j"
+    ]
+  },
+  {
+    "id": "g1-blends",
+    "subject": "literacy",
+    "name": "Blend consonant clusters in one-syllable words",
+    "prerequisites": [
+      "g1-short-vowels"
+    ],
+    "standardIds": [
+      "ccss-ela-rf-1-2-b",
+      "ccss-ela-rf-1-3-b"
     ]
   },
   {
     "id": "g1-digraphs",
     "subject": "literacy",
     "name": "Read words with common consonant digraphs",
+    "prerequisites": [
+      "g1-short-vowels"
+    ],
     "standardIds": [
       "ccss-ela-rf-1-3-a"
     ]
   },
   {
-    "id": "g1-sound-boxes",
+    "id": "g1-spell-sound",
     "subject": "literacy",
-    "name": "Blend and segment the sounds in one-syllable words",
+    "name": "Spell words by listening for sounds",
+    "prerequisites": [
+      "g1-cvc-blend"
+    ],
     "standardIds": [
-      "ccss-ela-rf-1-2-b",
-      "ccss-ela-rf-1-2-d"
+      "ccss-ela-l-1-2-e",
+      "ccss-ela-l-1-2-d"
+    ]
+  },
+  {
+    "id": "g1-retell",
+    "subject": "literacy",
+    "name": "Retell a story with characters, setting, and key details",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-1-2",
+      "ccss-ela-rl-1-3"
+    ]
+  },
+  {
+    "id": "g1-multisyllable",
+    "subject": "literacy",
+    "name": "Read two-syllable words by breaking them into parts",
+    "prerequisites": [
+      "g1-short-vowels"
+    ],
+    "standardIds": [
+      "ccss-ela-rf-1-3-d",
+      "ccss-ela-rf-1-3-e"
+    ]
+  },
+  {
+    "id": "g1-endings",
+    "subject": "literacy",
+    "name": "Read words with endings -s, -ed, and -ing",
+    "prerequisites": [
+      "g1-short-vowels"
+    ],
+    "standardIds": [
+      "ccss-ela-rf-1-3-f"
+    ]
+  },
+  {
+    "id": "g1-narrative-write",
+    "subject": "literacy",
+    "name": "Write about events in order",
+    "prerequisites": [
+      "g1-sentence-write"
+    ],
+    "standardIds": [
+      "ccss-ela-w-1-3"
+    ]
+  },
+  {
+    "id": "g1-info-write",
+    "subject": "literacy",
+    "name": "Write facts about a topic",
+    "prerequisites": [
+      "g1-sentence-write"
+    ],
+    "standardIds": [
+      "ccss-ela-w-1-2"
+    ]
+  },
+  {
+    "id": "g1-share-write",
+    "subject": "literacy",
+    "name": "Share writing and add details when asked",
+    "prerequisites": [
+      "g1-sentence-write"
+    ],
+    "standardIds": [
+      "ccss-ela-w-1-5",
+      "ccss-ela-sl-1-4"
+    ]
+  },
+  {
+    "id": "g1-count-120",
+    "subject": "math",
+    "name": "Count to 120 and read and write numerals",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-1-nbt-a-1"
+    ]
+  },
+  {
+    "id": "g1-count-on",
+    "subject": "math",
+    "name": "Add by counting on",
+    "prerequisites": [
+      "g1-count-120"
+    ],
+    "standardIds": [
+      "ccss-math-1-oa-c-5"
+    ]
+  },
+  {
+    "id": "g1-add-sub-10",
+    "subject": "math",
+    "name": "Add and subtract within 10",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-1-oa-c-6"
+    ]
+  },
+  {
+    "id": "g1-word-problems",
+    "subject": "math",
+    "name": "Solve addition and subtraction word problems",
+    "prerequisites": [
+      "g1-add-sub-10"
+    ],
+    "standardIds": [
+      "ccss-math-1-oa-a-1"
+    ]
+  },
+  {
+    "id": "g1-sub-unknown",
+    "subject": "math",
+    "name": "Understand subtraction as a missing addend",
+    "prerequisites": [
+      "g1-add-sub-10"
+    ],
+    "standardIds": [
+      "ccss-math-1-oa-b-4"
+    ]
+  },
+  {
+    "id": "g1-properties",
+    "subject": "math",
+    "name": "Use order and fact families to add and subtract",
+    "prerequisites": [
+      "g1-add-sub-10"
+    ],
+    "standardIds": [
+      "ccss-math-1-oa-b-3"
+    ]
+  },
+  {
+    "id": "g1-equal-sign",
+    "subject": "math",
+    "name": "Understand the equal sign",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-1-oa-d-7"
+    ]
+  },
+  {
+    "id": "g1-unknown-number",
+    "subject": "math",
+    "name": "Find the unknown number in an equation",
+    "prerequisites": [
+      "g1-add-sub-10"
+    ],
+    "standardIds": [
+      "ccss-math-1-oa-d-8"
+    ]
+  },
+  {
+    "id": "g1-teens",
+    "subject": "math",
+    "name": "Understand teen numbers as a ten and some ones",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-1-nbt-b-2-b"
+    ]
+  },
+  {
+    "id": "g1-make-ten",
+    "subject": "math",
+    "name": "Add and subtract within 20 by making a ten",
+    "prerequisites": [
+      "g1-teens"
+    ],
+    "standardIds": [
+      "ccss-math-1-oa-c-6"
+    ]
+  },
+  {
+    "id": "g1-three-addends",
+    "subject": "math",
+    "name": "Add three numbers",
+    "prerequisites": [
+      "g1-add-sub-10"
+    ],
+    "standardIds": [
+      "ccss-math-1-oa-a-2"
+    ]
+  },
+  {
+    "id": "g1-tens-ones",
+    "subject": "math",
+    "name": "Understand two-digit numbers as tens and ones",
+    "prerequisites": [
+      "g1-teens"
+    ],
+    "standardIds": [
+      "ccss-math-1-nbt-b-2",
+      "ccss-math-1-nbt-b-2-a",
+      "ccss-math-1-nbt-b-2-c"
+    ]
+  },
+  {
+    "id": "g1-compare",
+    "subject": "math",
+    "name": "Compare two-digit numbers with >, =, <",
+    "prerequisites": [
+      "g1-tens-ones"
+    ],
+    "standardIds": [
+      "ccss-math-1-nbt-b-3"
+    ]
+  },
+  {
+    "id": "g1-ten-more-less",
+    "subject": "math",
+    "name": "Find 10 more or 10 less than a number",
+    "prerequisites": [
+      "g1-tens-ones"
+    ],
+    "standardIds": [
+      "ccss-math-1-nbt-c-5"
+    ]
+  },
+  {
+    "id": "g1-measure",
+    "subject": "math",
+    "name": "Measure length with same-size units",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-1-md-a-1",
+      "ccss-math-1-md-a-2"
+    ]
+  },
+  {
+    "id": "g1-data",
+    "subject": "math",
+    "name": "Organize and interpret data with up to three categories",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-1-md-c-4"
+    ]
+  },
+  {
+    "id": "g1-shapes",
+    "subject": "math",
+    "name": "Tell defining attributes of shapes",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-1-g-a-1"
+    ]
+  },
+  {
+    "id": "g1-senses",
+    "subject": "science",
+    "name": "Use the senses to observe and describe",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-sl-1-4"
+    ]
+  },
+  {
+    "id": "g1-sound-vibration",
+    "subject": "science",
+    "name": "Show that sound comes from vibrating things",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-1-ps4-1"
+    ]
+  },
+  {
+    "id": "g1-plant-parts",
+    "subject": "science",
+    "name": "Name plant parts and what they do",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-1-ls1-1"
+    ]
+  },
+  {
+    "id": "g1-animal-parts",
+    "subject": "science",
+    "name": "Connect animal body parts to what they do",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-1-ls1-1"
+    ]
+  },
+  {
+    "id": "g1-bio-design",
+    "subject": "science",
+    "name": "Design a solution inspired by plant or animal parts",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-1-ls1-1"
+    ]
+  },
+  {
+    "id": "g1-rules",
+    "subject": "social-studies",
+    "name": "Explain why rules help and follow fair rules",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-sl-1-1-a"
+    ]
+  },
+  {
+    "id": "g1-helpers",
+    "subject": "social-studies",
+    "name": "Describe how community helpers help",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-sl-1-3"
+    ]
+  },
+  {
+    "id": "g1-community-map",
+    "subject": "social-studies",
+    "name": "Draw a simple map of places in a community",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-sl-1-4"
     ]
   }
 ]

@@ -1,0 +1,245 @@
+[
+  {
+    "id": "ccss-ela-l-1-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1",
+    "description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.a",
+    "description": "Print all upper- and lowercase letters.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.b",
+    "description": "Use common, proper, and possessive nouns.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.c",
+    "description": "Use singular and plural nouns with matching verbs in basic sentences (e.g., He hops; We hop).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.d",
+    "description": "Use personal, possessive, and indefinite pronouns (e.g., I, me, my; they, them, their, anyone, everything).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.e",
+    "description": "Use verbs to convey a sense of past, present, and future (e.g., Yesterday I walked home; Today I walk home; Tomorrow I will walk home).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-f",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.f",
+    "description": "Use frequently occurring adjectives.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-g",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.g",
+    "description": "Use frequently occurring conjunctions (e.g., and, but, or, so, because).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-h",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.h",
+    "description": "Use determiners (e.g., articles, demonstratives).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-i",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.i",
+    "description": "Use frequently occurring prepositions (e.g., during, beyond, toward).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-1-j",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.1.j",
+    "description": "Produce and expand complete simple and compound declarative, interrogative, imperative, and exclamatory sentences in response to prompts.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.2",
+    "description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-2-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.2.a",
+    "description": "Capitalize dates and names of people.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-2-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.2.b",
+    "description": "Use end punctuation for sentences.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-2-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.2.c",
+    "description": "Use commas in dates and to separate single words in a series.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-2-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.2.d",
+    "description": "Use conventional spelling for words with common spelling patterns and for frequently occurring irregular words.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-2-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.2.e",
+    "description": "Spell untaught words phonetically, drawing on phonemic awareness and spelling conventions.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.4",
+    "description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 1 reading and content, choosing flexibly from an array of strategies.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-4-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.4.a",
+    "description": "Use sentence-level context as a clue to the meaning of a word or phrase.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-4-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.4.b",
+    "description": "Use frequently occurring affixes as a clue to the meaning of a word.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-4-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.4.c",
+    "description": "Identify frequently occurring root words (e.g., look) and their inflectional forms (e.g., looks, looked, looking).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.5",
+    "description": "With guidance and support from adults, demonstrate understanding of word relationships and nuances in word meanings.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-5-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.5.a",
+    "description": "Sort words into categories (e.g., colors, clothing) to gain a sense of the concepts the categories represent.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-5-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.5.b",
+    "description": "Define words by category and by one or more key attributes (e.g., a duck is a bird that swims; a tiger is a large cat with stripes).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-5-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.5.c",
+    "description": "Identify real-life connections between words and their use (e.g., note places at home that are cozy).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-5-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.5.d",
+    "description": "Distinguish shades of meaning among verbs differing in manner (e.g., look, peek, glance, stare, glare, scowl) and adjectives differing in intensity (e.g., large, gigantic) by defining or choosing them or by acting out the meanings.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-l-1-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.L.1.6",
+    "description": "Use words and phrases acquired through conversations, reading and being read to, and responding to texts, including using frequently occurring conjunctions to signal simple relationships (e.g., because).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/L/1/",
+    "verified": true
+  }
+]

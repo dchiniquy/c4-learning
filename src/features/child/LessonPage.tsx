@@ -3,19 +3,32 @@ import { Link, Navigate, useNavigate, useParams, useSearchParams } from 'react-r
 import ActivityPlayer from '../../activities/ActivityPlayer.tsx'
 import { isInteractive } from '../../activities/payloads.ts'
 import { useContent } from '../../content/context.ts'
+import GradeContent from '../../content/GradeContent.tsx'
 import { localDateString } from '../../schedule/engine.ts'
 import { useApp } from '../../store/appStore.ts'
+import type { Child } from '../../store/types.ts'
 
-/** Plays a lesson's on-screen activities one after another, saves progress, and ticks the schedule block when done. */
 export default function LessonPage() {
   const { childId, lessonId } = useParams()
+  const ready = useApp((s) => s.ready)
+  const child = useApp((s) => s.children.find((c) => c.id === childId))
+
+  if (!ready) return <p role="status">Loading…</p>
+  if (!child) return <Navigate to="/" replace />
+  return (
+    <GradeContent grade={child.grade}>
+      <LessonPlayer child={child} lessonId={lessonId} />
+    </GradeContent>
+  )
+}
+
+/** Plays a lesson's on-screen activities one after another, saves progress, and ticks the schedule block when done. */
+function LessonPlayer({ child, lessonId }: { child: Child; lessonId: string | undefined }) {
   const [search] = useSearchParams()
   const blockKey = search.get('block')
   const navigate = useNavigate()
 
   const content = useContent()
-  const ready = useApp((s) => s.ready)
-  const child = useApp((s) => s.children.find((c) => c.id === childId))
   const recordActivity = useApp((s) => s.recordActivity)
   const setBlockDone = useApp((s) => s.setBlockDone)
 
@@ -26,9 +39,9 @@ export default function LessonPage() {
   const [solved, setSolved] = useState(false)
   const [startedAt, setStartedAt] = useState(() => Date.now())
 
-  if (!ready) return <p role="status">Loading…</p>
-  if (!child || !lesson || activities.length === 0) return <Navigate to={child ? `/child/${child.id}` : '/'} replace />
+  if (!lesson || activities.length === 0) return <Navigate to={`/child/${child.id}`} replace />
 
+  const current = lesson // narrowed copy, for the handlers below
   const activity = activities[index]
   const last = index + 1 === activities.length
   // Young learners hear instructions automatically; older ones can tap the speaker.
@@ -37,7 +50,7 @@ export default function LessonPage() {
   async function onSolved({ attempts }: { attempts: number }) {
     setSolved(true)
     const seconds = Math.round((Date.now() - startedAt) / 1000)
-    await recordActivity({ childId: child!.id, lessonId: lesson!.id, lessonVersion: lesson!.version, activityId: activity.id, attempts, timeSpentSec: seconds })
+    await recordActivity({ childId: child.id, lessonId: current.id, lessonVersion: current.version, activityId: activity.id, attempts, timeSpentSec: seconds })
   }
 
   async function next() {
@@ -47,8 +60,8 @@ export default function LessonPage() {
       setStartedAt(Date.now())
       return
     }
-    if (blockKey) await setBlockDone(child!.id, localDateString(new Date()), blockKey, true, lesson!.id)
-    navigate(`/child/${child!.id}`)
+    if (blockKey) await setBlockDone(child.id, localDateString(new Date()), blockKey, true, current.id)
+    navigate(`/child/${child.id}`)
   }
 
   return (

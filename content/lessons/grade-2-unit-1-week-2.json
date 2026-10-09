@@ -1,0 +1,521 @@
+[
+  {
+    "id": "g2-w2-ai-and-ay",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Long a with ai and ay",
+    "version": 1,
+    "skillIds": [
+      "g2-vowel-teams"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-ai-and-ay-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Long a with ai and ay",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "two colors of marker"
+        ],
+        "parentPrompts": [
+          "Write \"rain\" and \"play.\" Say each word and point out that ai and ay both make the long a sound. Tell your child that ai is usually in the middle of a word and ay is usually at the end.",
+          "Read these lists aloud together: ai (rain, mail, tail, snail, paint), ay (day, play, tray, stay, say).",
+          "Say a word and your child writes it with the right spelling: wait, gray, pay, train, away, braid. Use one color for ai and another for ay.",
+          "Make up a silly sentence together that uses at least two of the words, then write it. Check: they spell most ai/ay words correctly and can read all the words in the lists."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-ee-and-ea",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Long e with ee and ea",
+    "version": 1,
+    "skillIds": [
+      "g2-vowel-teams"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-ee-and-ea-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Long e with ee and ea",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "index cards"
+        ],
+        "parentPrompts": [
+          "Write \"seed\" and \"leaf.\" Say both and explain that ee and ea can both say long e.",
+          "Read together: ee (feet, tree, green, sleep, jeep) and ea (team, beach, bean, read, meat). Note that ea can also say short e in a few words like \"bread\" and \"head.\"",
+          "Write 8 words on cards, each missing the vowel team (for example: s__d, b__ch, tr__, gr__n). Your child fills in ee or ea and reads the word. More than one answer may fit a few, so ask them which one makes a real word.",
+          "Have your child write two sentences using one ee word and one ea word. Check: they can read the words in each group and know a few words where ea sounds different."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-oa-and-ow",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Long o with oa and ow",
+    "version": 1,
+    "skillIds": [
+      "g2-vowel-teams"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-oa-and-ow-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Long o with oa and ow",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "a small object like a toy boat (optional)"
+        ],
+        "parentPrompts": [
+          "Write \"boat\" and \"snow.\" Say them and ask what sound they share in the middle or end. (Both have long o.)",
+          "Read these together: oa (coat, road, toast, soap, goat) and ow (show, grow, slow, window, yellow). Mention that ow can also say the sound in \"cow,\" so they should try both and see which makes sense.",
+          "Play \"I spy a word\": say a clue (\"Something you wear when it is cold\" - coat; \"What a seed does\" - grow). Your child writes the answer.",
+          "Together, write a 3-line silly rhyme using oa or ow words, such as \"A goat in a coat sailed in a boat.\" Check: they can read the words and use the right oa/ow pattern."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-read-with-expression",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Read it like a character",
+    "version": 1,
+    "skillIds": [
+      "g2-expressive-reading"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-read-with-expression-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read it like a character",
+        "minutes": 25,
+        "materials": [
+          "a favorite picture book with dialogue",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Choose a page of dialogue from a book you both like. Read a short part aloud with a big expressive voice, then read it flat and boring. Ask: \"Which was better, and why?\"",
+          "Look at the punctuation: a period means stop, a question mark means your voice goes up, and an exclamation point means show strong feeling. Practice with: \"We won!\" \"Where is my hat?\" \"I am tired.\"",
+          "Take turns: you read one character's words and your child reads another, using a different voice for each.",
+          "Ask your child to reread one page twice. Check: their voice changes for questions and exclamations, and they use different voices for different characters."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-opinion-first-try",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "My opinion and why",
+    "version": 1,
+    "skillIds": [
+      "g2-opinion-writing"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-opinion-first-try-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "My opinion and why",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Ask: \"What is the best snack, game, or animal, in your opinion?\" Explain that an opinion is what someone thinks or feels, and a fact can be checked.",
+          "Practice sorting by saying statements. \"Cats have fur\" (fact) and \"Cats are the best pets\" (opinion). Do 4 or 5 quick rounds.",
+          "Have your child write: one sentence that names the topic, one sentence that states their opinion, and one sentence with a reason that starts with \"because.\" For example: \"I want to tell you about swimming. Swimming is the best sport. I think so because it is cool on a hot day.\"",
+          "Read it aloud. Check: the writing states an opinion and gives at least one reason using the word \"because.\" Celebrate any reason that makes sense to the writer."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-hundred-is-ten-tens",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Ten tens make a hundred",
+    "version": 1,
+    "skillIds": [
+      "g2-place-value"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-hundred-is-ten-tens-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ten tens make a hundred",
+        "minutes": 25,
+        "materials": [
+          "100 small objects (beans, dry pasta, or paper squares)",
+          "10 cups or small bags",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Count out 10 objects into a cup. Make 10 cups. Ask: \"How many are in each cup? How many cups?\"",
+          "Count by tens to 100 as you point to each cup. Say: \"Ten tens make one hundred.\"",
+          "Write 100 and show it as a bundle of ten tens. Then show 30 as 3 tens and 60 as 6 tens.",
+          "Ask: \"How many tens in 40? 70? 100?\" Check: they know that 10 tens equal 100."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-hundreds-tens-ones",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Hundreds, tens, and ones",
+    "version": 1,
+    "skillIds": [
+      "g2-place-value"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-hundreds-tens-ones-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Hundreds, tens, and ones",
+        "minutes": 25,
+        "materials": [
+          "base-ten blocks, or paper squares: 1 flat for hundreds, strips for tens, small squares for ones",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "If you do not have blocks, draw a big square for 100, a long strip for 10, and a small square for 1.",
+          "Build 243 with 2 hundreds, 4 tens, and 3 ones. Ask your child to say the number, then write it.",
+          "Build other numbers like 305, 120, and 418. Have your child say how many hundreds, tens, and ones are in each.",
+          "Ask: \"In 305, what does the 0 mean?\" (No tens.) Check: they can explain the value of each digit."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-skip-counting",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Skip count by 5s, 10s, and 100s",
+    "version": 1,
+    "skillIds": [
+      "g2-skip-count"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-skip-counting-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Skip count by 5s, 10s, and 100s",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "a hundred chart (optional)",
+          "index cards"
+        ],
+        "parentPrompts": [
+          "Count by 5s to 100 together while tapping a drum or clapping. Do the same by 10s.",
+          "Write the counting numbers on a number path with your child: 5, 10, 15, ... and 10, 20, 30, ... Color them different colors on a hundred chart if you have one.",
+          "Count by 100s from 100 to 1000. Ask: \"How many tens in 100? How many hundreds in 1000?\"",
+          "Play \"what comes next?\": say a skip count (for example: 35, 40, 45, ...) and your child continues. Check: they can skip count without stopping."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-write-numbers",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Numbers in words and expanded form",
+    "version": 1,
+    "skillIds": [
+      "g2-read-write-numbers"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-write-numbers-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Numbers in words and expanded form",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "index cards"
+        ],
+        "parentPrompts": [
+          "Write 462 and say it: \"four hundred sixty-two.\" Then write it in expanded form: 400 + 60 + 2.",
+          "Have your child write 3 numbers (for example, 238, 705, 910) with number names and expanded form.",
+          "Play \"say it, write it\": you say a number to 1000 and your child writes it with digits.",
+          "Ask: \"What is the same in 462 and 400 + 60 + 2?\" Check: they match digit form, number name, and expanded form."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-arrays",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Rows and columns",
+    "version": 1,
+    "skillIds": [
+      "g2-arrays"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-arrays-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Rows and columns",
+        "minutes": 25,
+        "materials": [
+          "20 small objects",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Show an array of 3 rows with 4 in each row. Ask: \"How many in all?\" Count by rows: 4 + 4 + 4 = 12.",
+          "Build arrays with up to 5 rows and 5 columns. Have your child write a repeated addition sentence for each one.",
+          "Find arrays in real life: muffin tins, egg cartons, window panes, a tile floor. Count how many in all.",
+          "Ask: \"Which arrays have an even number? How do you know?\" Check: they use repeated addition to find the total."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-stretch-bend-test",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Stretchy, bendy, and strong",
+    "version": 1,
+    "skillIds": [
+      "g2-test-materials"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-stretch-bend-test-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Stretchy, bendy, and strong",
+        "minutes": 25,
+        "materials": [
+          "a rubber band",
+          "string",
+          "foil",
+          "paper",
+          "a paper clip",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Gather several materials and discuss what could be tested: stretch, bend, or strength.",
+          "Test each material by gently stretching and bending, and record what you see.",
+          "Make a chart with columns for each property. Mark a check when the material has that property.",
+          "Ask: \"Which material would make a good bracelet?\" Check: they can match properties to uses."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-rain-hat",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Design a rain hat test",
+    "version": 1,
+    "skillIds": [
+      "g2-test-materials"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-rain-hat-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Design a rain hat test",
+        "minutes": 25,
+        "materials": [
+          "small scraps of materials (cloth, plastic bag, paper, foil)",
+          "a cup",
+          "water",
+          "a tray",
+          "a spoon"
+        ],
+        "parentPrompts": [
+          "Ask: \"What would keep a doll dry in the rain?\" Make a list of possible materials.",
+          "Place each material over a cup and pour 2 spoons of water on top. Watch whether water goes through.",
+          "Record which material kept the cup dry. Test again to see if the results are the same.",
+          "Ask: \"Which material is best for a rain hat? What evidence do you have?\" Check: they cite test results."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-build-it-again",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Build it, take it apart, build again",
+    "version": 1,
+    "skillIds": [
+      "g2-build-pieces"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-build-it-again-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build it, take it apart, build again",
+        "minutes": 25,
+        "materials": [
+          "a set of 12 to 20 building blocks, paper cups or cardboard pieces",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Tell your child that a small set of pieces can build many different things.",
+          "Use all the pieces to build something like a tower. Draw it. Take it apart.",
+          "Use the same pieces to build something new, such as a bridge or a house. Draw it too.",
+          "Ask: \"What is the same? What is different?\" Check: they say the same pieces made different objects."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-compass-directions",
+    "grade": "2",
+    "subject": "social-studies",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "North, south, east, west",
+    "version": 1,
+    "skillIds": [
+      "g2-directions"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-compass-directions-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "North, south, east, west",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "a compass or a compass app (optional)",
+          "sticky notes"
+        ],
+        "parentPrompts": [
+          "Explain that north, south, east, and west are directions that help us say where things are. On most maps, north is at the top.",
+          "Draw a compass rose on paper with N at the top, S at the bottom, E on the right, and W on the left.",
+          "Label the four walls of a room N, S, E, and W with sticky notes. Play \"walk north\" and \"turn east\" together.",
+          "Check: they can say which direction something is in on a map, such as \"The pond is east of the house.\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w2-neighborhood-map",
+    "grade": "2",
+    "subject": "social-studies",
+    "unit": "g2-unit-1",
+    "week": 2,
+    "title": "Our neighborhood map",
+    "version": 1,
+    "skillIds": [
+      "g2-map-skills",
+      "g2-our-place"
+    ],
+    "activities": [
+      {
+        "id": "g2-w2-neighborhood-map-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Our neighborhood map",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons",
+          "a ruler"
+        ],
+        "parentPrompts": [
+          "Talk about the places near home: a park, a store, a library, a school, a road. Choose 5 to 6.",
+          "Draw a simple map of your block or street with those places. Add a compass rose and a key.",
+          "Ask: \"What is next to the park? Which way would you walk to the library?\" Use north, south, east, and west if you know them.",
+          "Check: they draw places in a sensible spot and explain a path between two of them."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

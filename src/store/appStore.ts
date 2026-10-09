@@ -2,7 +2,7 @@ import { createContext, useContext } from 'react'
 import { create, useStore, type StoreApi } from 'zustand'
 import type { ProgressStore } from './ProgressStore.ts'
 import { hashPin, verifyPin } from './pin.ts'
-import type { Child, ExportData, NewChild, PinRecord, ScheduleCheck } from './types.ts'
+import type { Child, ExportData, NewChild, PinRecord, ScheduleCheck, SkillMastery } from './types.ts'
 
 export const MAX_PIN_ATTEMPTS = 5
 export const LOCKOUT_MS = 30_000
@@ -39,6 +39,9 @@ export type AppState = {
   loadChecks(childId: string, date: string): Promise<ScheduleCheck[]>
   /** All check-offs for a child, across dates (used to work out which lesson comes next in a sequence). */
   loadAllChecks(childId: string): Promise<ScheduleCheck[]>
+  loadMastery(childId: string): Promise<SkillMastery[]>
+  /** Sets a parent's mark for a skill, or clears it (`null`) so the level is worked out from lessons again. */
+  setMastery(childId: string, skillId: string, level: SkillMastery['level'] | null): Promise<void>
   setBlockDone(childId: string, date: string, blockKey: string, done: boolean, lessonId?: string): Promise<void>
   exportData(): Promise<ExportData>
   importData(data: ExportData): Promise<void>
@@ -118,6 +121,13 @@ export function createAppStore(progress: ProgressStore) {
     loadChecks: (childId, date) => progress.getChecks(childId, date),
 
     loadAllChecks: (childId) => progress.listChecks(childId),
+
+    loadMastery: (childId) => progress.getMastery(childId),
+
+    async setMastery(childId, skillId, level) {
+      if (level === null) await progress.deleteMastery(childId, skillId)
+      else await progress.putMastery({ childId, skillId, level, lastReviewedAt: Date.now() })
+    },
 
     async setBlockDone(childId, date, blockKey, done, lessonId) {
       if (done) await progress.setCheck({ childId, date, blockKey, completedAt: Date.now(), ...(lessonId ? { lessonId } : {}) })

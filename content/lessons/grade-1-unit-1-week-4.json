@@ -1,0 +1,534 @@
+[
+  {
+    "id": "g1-w4-syllables",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Parts of words",
+    "version": 1,
+    "skillIds": [
+      "g1-multisyllable"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-syllables-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count and read word parts",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "words: sunset, picnic, napkin, rabbit, basket, pencil, cactus"
+        ],
+        "parentPrompts": [
+          "Explain: \"Every part of a word, called a syllable, has a vowel sound.\" Clap the parts of your child's name, then \"picnic\" (pic-nic).",
+          "Write picnic on a card and draw a line between the parts: pic | nic. Read each part, then the whole word.",
+          "Do the same with sunset, napkin, rabbit, basket. Have your child cover half the word with a finger to read one part at a time.",
+          "Ask: \"How many claps? How many vowel sounds do you hear?\" They should match.",
+          "Check: your child reads at least four of the words by splitting into parts and can tell you how many parts each has."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-endings",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Endings -s, -ed, -ing",
+    "version": 1,
+    "skillIds": [
+      "g1-endings"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-endings-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Add endings to base words",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "paper and pencil",
+          "base words: jump, look, help, play, walk"
+        ],
+        "parentPrompts": [
+          "Write \"jump\" and read it. Add -s, -ed, and -ing on separate cards and read jumps, jumped, jumping. Ask: \"Which one means it is happening now? Which one means it already happened?\"",
+          "Use the endings with look, help, play, and walk. Read each new word aloud.",
+          "Act them out: \"Show me jumping. Show me you walked.\" Then say a sentence for your child to finish: \"Yesterday I ___.\"",
+          "Have your child write one word with each ending in a short sentence.",
+          "Check: your child reads the endings correctly and can tell now from past with at least three words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-first-next-last",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "First, next, last",
+    "version": 1,
+    "skillIds": [
+      "g1-narrative-write"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-first-next-last-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write about something that happened",
+        "minutes": 20,
+        "materials": [
+          "three sheets of paper or one folded in three",
+          "pencil",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Pick something real that happened, such as a trip to the park or baking something together. Talk it through: \"What happened first? What happened next? What happened last?\"",
+          "Have your child draw three pictures in order and write one sentence under each, using the words First, Next, and Last.",
+          "Ask: \"How did you feel? What did you see or hear?\" Have your child add one detail to a sentence.",
+          "Read it together and add an end mark and a capital letter where needed.",
+          "Check: three events appear in the right order with the words first, next, last, and at least one added detail."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-animal-facts",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Write facts about an animal",
+    "version": 1,
+    "skillIds": [
+      "g1-info-write"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-animal-facts-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write an animal fact page",
+        "minutes": 20,
+        "materials": [
+          "a library book or two about an animal your child likes",
+          "paper",
+          "pencil",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Pick an animal. Look through the book together and find three facts. Ask: \"What does it eat? Where does it live? What is its body like?\"",
+          "Have your child say each fact in a full sentence before writing: \"A frog lives near water.\"",
+          "Write the topic at the top, then three fact sentences. Draw and label a picture.",
+          "Finish with a closing sentence, such as \"Frogs are cool.\"",
+          "Check: a topic, at least two true facts from the book, and a closing sentence. Ask your child where they found each fact."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-share",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Share my writing",
+    "version": 1,
+    "skillIds": [
+      "g1-share-write"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-share-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read your writing to an audience",
+        "minutes": 20,
+        "materials": [
+          "your child's writing from this week",
+          "a stuffed animal or family member as audience",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Have your child pick their favorite piece from this month and read it aloud, pointing to each word.",
+          "Teach the listener to ask a question: \"Can you tell me more about ...?\" Your child answers and adds a detail to the writing.",
+          "Ask: \"What is one thing you did well? What would you like to work on next?\"",
+          "Celebrate: save the piece in a folder for the end of the unit.",
+          "Check: your child reads clearly with their finger under the words, answers a question about it in a full sentence, and adds one detail."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-bundles",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Bundles of ten",
+    "version": 1,
+    "skillIds": [
+      "g1-tens-ones"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-bundles-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Bundle straws into tens",
+        "minutes": 20,
+        "materials": [
+          "30 or more craft sticks or straws",
+          "rubber bands",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Count out 23 straws. Ask: \"How can we count faster?\" Show how to bundle ten at a time with a rubber band.",
+          "Ask: \"How many bundles of ten? How many extra ones? So 23 is 2 tens and 3 ones.\"",
+          "Say a number like 14, 31 or 20 and have your child build it with bundles and single straws. Notice that 20 has two tens and no ones.",
+          "Write the number and circle the tens digit in one color and the ones digit in another.",
+          "Check: your child builds three numbers correctly and says \"tens\" and \"ones\" for each. Safety: keep rubber bands away from faces and pets."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-tens-ones-chart",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Tens and ones place chart",
+    "version": 1,
+    "skillIds": [
+      "g1-tens-ones"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-tens-ones-chart-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Show numbers on a tens and ones chart",
+        "minutes": 20,
+        "materials": [
+          "paper with two columns labeled Tens and Ones",
+          "bundles and single straws from the last lesson",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Put the paper in front of your child. Place 3 bundles in Tens and 6 singles in Ones. Ask: \"What number is this?\" (36).",
+          "Write 36 under the columns. Ask: \"Which digit tells how many tens?\"",
+          "Call out 52, 47, 80 and 61. Your child builds each and writes the number.",
+          "Show a built number and have your child write it. Ask about a trick: \"Is 63 the same as 36? Why not?\"",
+          "Check: your child builds and writes four numbers correctly and tells you what each digit stands for."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-compare",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Compare with >, <, =",
+    "version": 1,
+    "skillIds": [
+      "g1-compare"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-compare-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare two-digit numbers",
+        "minutes": 20,
+        "materials": [
+          "bundles and singles of straws",
+          "number cards from 10 to 60 (write them)",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Build 34 and 28 with straws. Ask: \"Which has more tens? Which number is bigger?\"",
+          "Introduce the symbols: the open mouth faces the bigger number. Write 34 > 28 and 28 < 34. Say them aloud.",
+          "Flip two number cards and compare them. Ask: \"What do you look at first, the tens or the ones?\"",
+          "Play five rounds. For equal numbers, use =.",
+          "Check: your child compares at least four pairs correctly and explains that they look at the tens first."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-measure",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Measure with paper clips",
+    "version": 1,
+    "skillIds": [
+      "g1-measure"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-measure-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Measure objects with units",
+        "minutes": 20,
+        "materials": [
+          "a box of paper clips or small blocks that are all the same size",
+          "a few objects to measure (a book, a spoon, a shoe)",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Pick a pencil. Line up paper clips end to end along it with no gaps or overlaps. Count them. Say: \"The pencil is 6 paper clips long.\"",
+          "Predict first: \"Will the book be longer or shorter than 10 clips?\" Measure and check.",
+          "Order three objects from shortest to longest and write the clip count under each.",
+          "Ask: \"What happens if we use bigger units, like blocks? Will the number be larger or smaller?\" Try it.",
+          "Check: your child lines up units end to end with no gaps and states the length as a number of units. Safety: keep small units away from younger siblings."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-tally-chart",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Tally and graph",
+    "version": 1,
+    "skillIds": [
+      "g1-data"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-tally-chart-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a tally chart and answer questions",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "pencil",
+          "10 to 15 small items in three kinds (e.g., socks, spoons, blocks), or ask family about favorites among three snacks"
+        ],
+        "parentPrompts": [
+          "Check for food allergies before using any snack food.",
+          "Pick three categories, such as favorite fruit: apple, banana, grapes. Ask everyone in the home (or draw a few tallies yourself) and make tally marks.",
+          "Count each category and write the number. Ask: \"How many in all?\"",
+          "Ask: \"Which has the most? Which has the fewest? How many more apples than grapes?\"",
+          "Draw a simple picture graph with one square per vote.",
+          "Check: your child answers all four questions correctly using the chart or graph."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-bird-nest",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Design a shelter like an animal",
+    "version": 1,
+    "skillIds": [
+      "g1-bio-design"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-bird-nest-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build a shelter model",
+        "minutes": 30,
+        "materials": [
+          "paper bags, craft sticks, tape, leaves or fabric scraps",
+          "a small toy animal or a paper animal",
+          "a spray bottle of water (optional)"
+        ],
+        "parentPrompts": [
+          "Explain: \"Engineers sometimes get ideas from nature. Today your job is to make a small shelter that keeps a toy animal dry and safe.\"",
+          "Look at pictures of animal homes (a bird nest, a beehive, a burrow). Ask: \"What materials do animals use?\"",
+          "Plan and build. Ask: \"What will your shelter be made of? Why?\"",
+          "Test: spray lightly with water (or pour a little) and see if the animal stays dry. Ask: \"What could you change?\"",
+          "Check: your child builds, tests, and changes one thing to improve it. They tell what part of an animal or plant gave them an idea."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-gripper",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Design a tool like a beak or claw",
+    "version": 1,
+    "skillIds": [
+      "g1-bio-design"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-gripper-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build a gripper",
+        "minutes": 30,
+        "materials": [
+          "craft sticks",
+          "rubber bands",
+          "clothespins",
+          "small objects to pick up (cotton balls, pom-poms)",
+          "paper"
+        ],
+        "parentPrompts": [
+          "Review: animals use parts like beaks, claws, and trunks to pick things up. Ask: \"Which animal part can you copy?\"",
+          "Challenge: build a tool that can pick up a cotton ball and move it to a cup. Use clothespins or craft sticks with rubber bands.",
+          "Test. Count how many items you can move in one minute. Ask: \"What worked? What would you change?\"",
+          "Make one improvement and test again.",
+          "Check: your child says which animal part inspired the tool and explains one change. Safety: keep rubber bands away from faces; supervise small parts."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-fur-coat",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Stay warm: a design test",
+    "version": 1,
+    "skillIds": [
+      "g1-bio-design"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-fur-coat-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Test a covering",
+        "minutes": 30,
+        "materials": [
+          "2 small cups of warm (not hot) water",
+          "wool, cotton balls, or fabric",
+          "rubber bands",
+          "a thermometer (optional)",
+          "paper"
+        ],
+        "parentPrompts": [
+          "Explain: some animals have fur or feathers that keep them warm. Today you will test a \"coat.\"",
+          "Wrap one cup of warm tap water with fabric and leave the other cup bare. Make sure the water is only warm, never hot.",
+          "Wait ten minutes. Touch both cups or use a thermometer. Ask: \"Which stayed warmer? Why might that help an animal?\"",
+          "Try another material and compare.",
+          "Check: your child compares the two cups and says which covering kept the water warmer. Safety: use warm tap water only, not hot."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-helper-map",
+    "grade": "1",
+    "subject": "social-studies",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "Map of helpers",
+    "version": 1,
+    "skillIds": [
+      "g1-community-map"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-helper-map-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw a map of our neighborhood helpers",
+        "minutes": 30,
+        "materials": [
+          "large paper",
+          "markers",
+          "pictures or memory of places in your neighborhood"
+        ],
+        "parentPrompts": [
+          "Draw your home in the middle. Ask: \"Where is the nearest library, fire station, park, or store?\" Add them to the map.",
+          "Add a key to the map: a small symbol and a label for each place.",
+          "Ask: \"Who works at each place? Who helps people there?\"",
+          "Trace a path from home to one place and tell about it using words like near, far, next to.",
+          "Check: your child draws at least three places, adds labels, and describes a route with position words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w4-how-i-help",
+    "grade": "1",
+    "subject": "social-studies",
+    "unit": "g1-unit-1",
+    "week": 4,
+    "title": "How I can help",
+    "version": 1,
+    "skillIds": [
+      "g1-helpers"
+    ],
+    "activities": [
+      {
+        "id": "g1-w4-how-i-help-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Plan a way to help",
+        "minutes": 30,
+        "materials": [
+          "paper",
+          "crayons",
+          "thank-you card supplies"
+        ],
+        "parentPrompts": [
+          "Ask: \"How can you be a helper in our home or neighborhood?\" Brainstorm ideas such as setting the table or watering plants.",
+          "Choose one and make a plan: \"What will I do? When? How will I know I did it?\"",
+          "Make a thank-you card for a helper you chose (a mail carrier, librarian, or neighbor).",
+          "Talk about how it feels to help and to be thanked.",
+          "Check: your child plans one way to help and does it this week; they say how it helps others."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

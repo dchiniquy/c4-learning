@@ -1,0 +1,4510 @@
+[
+  {
+    "id": "g3-app-b01-count-syllables",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Count the syllables",
+    "version": 1,
+    "skillIds": [
+      "g3-syllables"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b01-count-syllables-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "2 or 3 syllables",
+        "minutes": 4,
+        "prompt": "Sort each word: does it have 2 syllables or 3?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "2 syllables"
+            },
+            {
+              "id": "k2",
+              "label": "3 syllables"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "pencil",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "window",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "garden",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "banana",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "umbrella",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "dinosaur",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b01-count-syllables-2",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the parts",
+        "minutes": 3,
+        "prompt": "Tap each word to hear it, then clap the parts.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "t1",
+              "label": "pic · nic",
+              "speak": "picnic"
+            },
+            {
+              "id": "t2",
+              "label": "ba · na · na",
+              "speak": "banana"
+            },
+            {
+              "id": "t3",
+              "label": "el · e · phant",
+              "speak": "elephant"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b01-count-syllables-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many",
+        "minutes": 3,
+        "prompt": "How many syllables are in butterfly?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "2"
+            },
+            {
+              "id": "c2",
+              "label": "3"
+            },
+            {
+              "id": "c3",
+              "label": "4"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "butterfly"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b02-more-syllables",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "One to four syllables",
+    "version": 1,
+    "skillIds": [
+      "g3-syllables"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b02-more-syllables-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many parts",
+        "minutes": 5,
+        "prompt": "Sort each word by its syllables.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "1 syllable"
+            },
+            {
+              "id": "k2",
+              "label": "2 syllables"
+            },
+            {
+              "id": "k3",
+              "label": "3 or 4 syllables"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "strength",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "thought",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "stretch",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "puppy",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "window",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "magnet",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i7",
+              "label": "watermelon",
+              "categoryId": "k3"
+            },
+            {
+              "id": "i8",
+              "label": "alligator",
+              "categoryId": "k3"
+            },
+            {
+              "id": "i9",
+              "label": "banana",
+              "categoryId": "k3"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b02-more-syllables-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Four syllables",
+        "minutes": 3,
+        "prompt": "Which word has 4 syllables?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "helicopter"
+            },
+            {
+              "id": "c2",
+              "label": "elephant"
+            },
+            {
+              "id": "c3",
+              "label": "kitchen"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b03-split-two",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Split between two consonants",
+    "version": 1,
+    "skillIds": [
+      "g3-syllables"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b03-split-two-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Rabbit",
+        "minutes": 3,
+        "prompt": "Where do you split the word rabbit into syllables?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "ra-bbit"
+            },
+            {
+              "id": "c2",
+              "label": "rab-bit"
+            },
+            {
+              "id": "c3",
+              "label": "rabb-it"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "rabbit"
+        }
+      },
+      {
+        "id": "g3-app-b03-split-two-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Napkin",
+        "minutes": 3,
+        "prompt": "Where do you split the word napkin?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "na-pkin"
+            },
+            {
+              "id": "c2",
+              "label": "napk-in"
+            },
+            {
+              "id": "c3",
+              "label": "nap-kin"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "napkin"
+        }
+      },
+      {
+        "id": "g3-app-b03-split-two-3",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the splits",
+        "minutes": 3,
+        "prompt": "Tap a word to hear it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "t1",
+              "label": "nap · kin",
+              "speak": "napkin"
+            },
+            {
+              "id": "t2",
+              "label": "bas · ket",
+              "speak": "basket"
+            },
+            {
+              "id": "t3",
+              "label": "pic · nic",
+              "speak": "picnic"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b04-open-syllables",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Open and closed syllables",
+    "version": 1,
+    "skillIds": [
+      "g3-syllables"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b04-open-syllables-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Open or closed",
+        "minutes": 5,
+        "prompt": "Does the first syllable end in a vowel sound (open) or a consonant (closed)?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Open first syllable, like ro-bot"
+            },
+            {
+              "id": "k2",
+              "label": "Closed first syllable, like rab-bit"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "robot",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "paper",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "tiger",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "rabbit",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "napkin",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "basket",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i7",
+              "label": "pencil",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b04-open-syllables-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Split it",
+        "minutes": 3,
+        "prompt": "Where do you split the word tiger?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "ti-ger"
+            },
+            {
+              "id": "c2",
+              "label": "tig-er"
+            },
+            {
+              "id": "c3",
+              "label": "t-iger"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "tiger"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b05-consonant-le",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Words ending in -le",
+    "version": 1,
+    "skillIds": [
+      "g3-syllables"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b05-consonant-le-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Ends in -le",
+        "minutes": 4,
+        "prompt": "Which words end with a consonant plus le?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Ends in consonant + le"
+            },
+            {
+              "id": "k2",
+              "label": "Does not"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "table",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "candle",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "puzzle",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "bubble",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i5",
+              "label": "basket",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "paper",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i7",
+              "label": "window",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b05-consonant-le-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Split it",
+        "minutes": 3,
+        "prompt": "Where do you split the word candle?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "cand-le"
+            },
+            {
+              "id": "c2",
+              "label": "ca-ndle"
+            },
+            {
+              "id": "c3",
+              "label": "can-dle"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "candle"
+        }
+      },
+      {
+        "id": "g3-app-b05-consonant-le-3",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the words",
+        "minutes": 3,
+        "prompt": "Tap each word to hear it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "t1",
+              "label": "ta · ble",
+              "speak": "table"
+            },
+            {
+              "id": "t2",
+              "label": "puz · zle",
+              "speak": "puzzle"
+            },
+            {
+              "id": "t3",
+              "label": "tur · tle",
+              "speak": "turtle"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b06-prefix-un",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "The prefix un-",
+    "version": 1,
+    "skillIds": [
+      "g3-prefixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b06-prefix-un-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Unhappy",
+        "minutes": 3,
+        "prompt": "What does the word unhappy mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "very happy"
+            },
+            {
+              "id": "c2",
+              "label": "not happy"
+            },
+            {
+              "id": "c3",
+              "label": "happy again"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "unhappy"
+        }
+      },
+      {
+        "id": "g3-app-b06-prefix-un-2",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Real prefix or not",
+        "minutes": 4,
+        "prompt": "Is un- a prefix in the word, or just the first letters?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "un- is a prefix"
+            },
+            {
+              "id": "k2",
+              "label": "un- is not a prefix"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "unhappy",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "unfair",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "unsafe",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "uncle",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "under",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "until",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i7",
+              "label": "unit",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b06-prefix-un-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Untie",
+        "minutes": 3,
+        "prompt": "What does untie mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "to undo a tie"
+            },
+            {
+              "id": "c2",
+              "label": "to tie again"
+            },
+            {
+              "id": "c3",
+              "label": "to tie before"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "untie"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b07-prefix-re",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "The prefix re-",
+    "version": 1,
+    "skillIds": [
+      "g3-prefixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b07-prefix-re-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Rebuild",
+        "minutes": 3,
+        "prompt": "What does the word rebuild mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "not build"
+            },
+            {
+              "id": "c2",
+              "label": "build before"
+            },
+            {
+              "id": "c3",
+              "label": "build again"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "rebuild"
+        }
+      },
+      {
+        "id": "g3-app-b07-prefix-re-2",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Real prefix or not",
+        "minutes": 4,
+        "prompt": "Is re- a prefix in the word?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "re- means again"
+            },
+            {
+              "id": "k2",
+              "label": "re- is not a prefix"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "redo",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "replay",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "rewrite",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "red",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "real",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "rest",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b07-prefix-re-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Reread",
+        "minutes": 3,
+        "prompt": "Which word means to read again?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "unread"
+            },
+            {
+              "id": "c2",
+              "label": "reread"
+            },
+            {
+              "id": "c3",
+              "label": "preread"
+            }
+          ],
+          "correctId": "c2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b08-prefix-pre-dis",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "The prefixes pre- and dis-",
+    "version": 1,
+    "skillIds": [
+      "g3-prefixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b08-prefix-pre-dis-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Before or not",
+        "minutes": 4,
+        "prompt": "Sort the words by their prefix meaning.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "pre- means before"
+            },
+            {
+              "id": "k2",
+              "label": "dis- means not or opposite"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "preview",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "preheat",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "preschool",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "dislike",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "disagree",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "disappear",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b08-prefix-pre-dis-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Preheat",
+        "minutes": 3,
+        "prompt": "What does preheat mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "heat before"
+            },
+            {
+              "id": "c2",
+              "label": "heat again"
+            },
+            {
+              "id": "c3",
+              "label": "not heat"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "preheat"
+        }
+      },
+      {
+        "id": "g3-app-b08-prefix-pre-dis-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Disagree",
+        "minutes": 3,
+        "prompt": "What does disagree mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "agree again"
+            },
+            {
+              "id": "c2",
+              "label": "not agree"
+            },
+            {
+              "id": "c3",
+              "label": "agree before"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "disagree"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b09-prefix-mix",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Use prefixes to find meaning",
+    "version": 1,
+    "skillIds": [
+      "g3-prefixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b09-prefix-mix-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Misspell",
+        "minutes": 3,
+        "prompt": "Which word means to spell wrongly?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "respell"
+            },
+            {
+              "id": "c2",
+              "label": "misspell"
+            },
+            {
+              "id": "c3",
+              "label": "unspell"
+            }
+          ],
+          "correctId": "c2"
+        }
+      },
+      {
+        "id": "g3-app-b09-prefix-mix-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Unkind",
+        "minutes": 3,
+        "prompt": "Which word means not kind?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "unkind"
+            },
+            {
+              "id": "c2",
+              "label": "rekind"
+            },
+            {
+              "id": "c3",
+              "label": "prekind"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g3-app-b09-prefix-mix-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Before",
+        "minutes": 3,
+        "prompt": "Which prefix means before?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "re-"
+            },
+            {
+              "id": "c2",
+              "label": "un-"
+            },
+            {
+              "id": "c3",
+              "label": "pre-"
+            }
+          ],
+          "correctId": "c3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b10-prefix-review",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Prefix sort",
+    "version": 1,
+    "skillIds": [
+      "g3-prefixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b10-prefix-review-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort by prefix",
+        "minutes": 6,
+        "prompt": "Sort each word by the meaning of its prefix.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Not or opposite (un-, dis-)"
+            },
+            {
+              "id": "k2",
+              "label": "Again (re-)"
+            },
+            {
+              "id": "k3",
+              "label": "Before (pre-)"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "unfair",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "dislike",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "unsafe",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "redo",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "rewrite",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "replay",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i7",
+              "label": "preheat",
+              "categoryId": "k3"
+            },
+            {
+              "id": "i8",
+              "label": "preview",
+              "categoryId": "k3"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b10-prefix-review-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Mystery word",
+        "minutes": 4,
+        "prompt": "Which word means to play again?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "replay"
+            },
+            {
+              "id": "c2",
+              "label": "unplay"
+            },
+            {
+              "id": "c3",
+              "label": "display"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b11-ful-less",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "The suffixes -ful and -less",
+    "version": 1,
+    "skillIds": [
+      "g3-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b11-ful-less-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Full of or without",
+        "minutes": 4,
+        "prompt": "Does the word mean full of something, or without it?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "-ful: full of"
+            },
+            {
+              "id": "k2",
+              "label": "-less: without"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "careful",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "helpful",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "joyful",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "careless",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "helpless",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "hopeless",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b11-ful-less-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hopeless",
+        "minutes": 3,
+        "prompt": "Which word means without hope?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "hopeful"
+            },
+            {
+              "id": "c2",
+              "label": "hopeless"
+            },
+            {
+              "id": "c3",
+              "label": "rehope"
+            }
+          ],
+          "correctId": "c2"
+        }
+      },
+      {
+        "id": "g3-app-b11-ful-less-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Careful",
+        "minutes": 3,
+        "prompt": "Which word means full of care?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "careful"
+            },
+            {
+              "id": "c2",
+              "label": "careless"
+            },
+            {
+              "id": "c3",
+              "label": "uncare"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b12-ly",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "The suffix -ly",
+    "version": 1,
+    "skillIds": [
+      "g3-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b12-ly-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Slowly",
+        "minutes": 3,
+        "prompt": "What does slowly tell you?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "how many"
+            },
+            {
+              "id": "c2",
+              "label": "where"
+            },
+            {
+              "id": "c3",
+              "label": "how something is done"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "She walked slowly."
+        }
+      },
+      {
+        "id": "g3-app-b12-ly-2",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Suffix or not",
+        "minutes": 4,
+        "prompt": "Is -ly a suffix in the word, or just the last letters?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "-ly is a suffix"
+            },
+            {
+              "id": "k2",
+              "label": "-ly is not a suffix"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "quickly",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "softly",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "gladly",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "family",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "butterfly",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "jelly",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b12-ly-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Loudly",
+        "minutes": 3,
+        "prompt": "Which word means in a loud way?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "loudly"
+            },
+            {
+              "id": "c2",
+              "label": "loudness"
+            },
+            {
+              "id": "c3",
+              "label": "reloud"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b13-er-ness",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "The suffixes -er and -ness",
+    "version": 1,
+    "skillIds": [
+      "g3-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b13-er-ness-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Person or state",
+        "minutes": 4,
+        "prompt": "Is the word a person who does something, or a state of being?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "-er: one who does"
+            },
+            {
+              "id": "k2",
+              "label": "-ness: state of being"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "teacher",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "farmer",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "painter",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "kindness",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "sadness",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "darkness",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b13-er-ness-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Kindness",
+        "minutes": 3,
+        "prompt": "Which word means the state of being kind?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "kinder"
+            },
+            {
+              "id": "c2",
+              "label": "kindness"
+            },
+            {
+              "id": "c3",
+              "label": "kindly"
+            }
+          ],
+          "correctId": "c2"
+        }
+      },
+      {
+        "id": "g3-app-b13-er-ness-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Painter",
+        "minutes": 3,
+        "prompt": "Which word means a person who paints?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "painting"
+            },
+            {
+              "id": "c2",
+              "label": "painted"
+            },
+            {
+              "id": "c3",
+              "label": "painter"
+            }
+          ],
+          "correctId": "c3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b14-able-ment",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "The suffixes -able and -ment",
+    "version": 1,
+    "skillIds": [
+      "g3-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b14-able-ment-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Can be or act of",
+        "minutes": 4,
+        "prompt": "Sort by suffix meaning.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "-able: can be done"
+            },
+            {
+              "id": "k2",
+              "label": "-ment: act or result"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "washable",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "readable",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "comfortable",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "movement",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "agreement",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "payment",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b14-able-ment-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Washable",
+        "minutes": 3,
+        "prompt": "What does washable mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "can be washed"
+            },
+            {
+              "id": "c2",
+              "label": "is washing"
+            },
+            {
+              "id": "c3",
+              "label": "washed before"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "washable"
+        }
+      },
+      {
+        "id": "g3-app-b14-able-ment-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Agreement",
+        "minutes": 3,
+        "prompt": "Which word names the result of agreeing?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "agreeable"
+            },
+            {
+              "id": "c2",
+              "label": "agreement"
+            },
+            {
+              "id": "c3",
+              "label": "disagree"
+            }
+          ],
+          "correctId": "c2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b15-base-words",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Find the base word",
+    "version": 1,
+    "skillIds": [
+      "g3-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b15-base-words-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Unhappily",
+        "minutes": 3,
+        "prompt": "What is the base word in unhappily?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "unhappy"
+            },
+            {
+              "id": "c2",
+              "label": "happy"
+            },
+            {
+              "id": "c3",
+              "label": "hap"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "unhappily"
+        }
+      },
+      {
+        "id": "g3-app-b15-base-words-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Careless",
+        "minutes": 3,
+        "prompt": "What is the base word in careless?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "care"
+            },
+            {
+              "id": "c2",
+              "label": "less"
+            },
+            {
+              "id": "c3",
+              "label": "car"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "careless"
+        }
+      },
+      {
+        "id": "g3-app-b15-base-words-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Rebuilding",
+        "minutes": 2,
+        "prompt": "What is the base word in rebuilding?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "rebuild"
+            },
+            {
+              "id": "c2",
+              "label": "ing"
+            },
+            {
+              "id": "c3",
+              "label": "build"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "rebuilding"
+        }
+      },
+      {
+        "id": "g3-app-b15-base-words-4",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the parts",
+        "minutes": 2,
+        "prompt": "Tap each word to hear it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "t1",
+              "label": "re · build · ing",
+              "speak": "rebuilding"
+            },
+            {
+              "id": "t2",
+              "label": "un · help · ful",
+              "speak": "unhelpful"
+            },
+            {
+              "id": "t3",
+              "label": "dis · agree · ment",
+              "speak": "disagreement"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b16-tion",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "The ending -tion",
+    "version": 1,
+    "skillIds": [
+      "g3-latin-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b16-tion-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Invent",
+        "minutes": 3,
+        "prompt": "Which word is made from invent plus -tion?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "invention"
+            },
+            {
+              "id": "c2",
+              "label": "inventure"
+            },
+            {
+              "id": "c3",
+              "label": "inventer"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g3-app-b16-tion-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Collect",
+        "minutes": 3,
+        "prompt": "Which word is made from collect plus -tion?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "collecture"
+            },
+            {
+              "id": "c2",
+              "label": "collection"
+            },
+            {
+              "id": "c3",
+              "label": "collector"
+            }
+          ],
+          "correctId": "c2"
+        }
+      },
+      {
+        "id": "g3-app-b16-tion-3",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the endings",
+        "minutes": 3,
+        "prompt": "Tap each word to hear how -tion sounds.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "t1",
+              "label": "ac · tion",
+              "speak": "action"
+            },
+            {
+              "id": "t2",
+              "label": "va · ca · tion",
+              "speak": "vacation"
+            },
+            {
+              "id": "t3",
+              "label": "di · rec · tion",
+              "speak": "direction"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b17-ture",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "The endings -tion and -ture",
+    "version": 1,
+    "skillIds": [
+      "g3-latin-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b17-ture-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sort the endings",
+        "minutes": 5,
+        "prompt": "Sort each word by its ending.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "-tion (sounds like shun)"
+            },
+            {
+              "id": "k2",
+              "label": "-ture (sounds like cher)"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "action",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "vacation",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "invention",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "picture",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "nature",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "adventure",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i7",
+              "label": "creature",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b17-ture-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Cher",
+        "minutes": 3,
+        "prompt": "Which ending sounds like cher?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "-ture"
+            },
+            {
+              "id": "c2",
+              "label": "-tion"
+            },
+            {
+              "id": "c3",
+              "label": "-ness"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b18-tricky-words",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Tricky words",
+    "version": 1,
+    "skillIds": [
+      "g3-irregular-words"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b18-tricky-words-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hear the tricky words",
+        "minutes": 3,
+        "prompt": "Tap each tricky word to hear it.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "t1",
+              "label": "said",
+              "speak": "said"
+            },
+            {
+              "id": "t2",
+              "label": "friend",
+              "speak": "friend"
+            },
+            {
+              "id": "t3",
+              "label": "laugh",
+              "speak": "laugh"
+            },
+            {
+              "id": "t4",
+              "label": "thought",
+              "speak": "thought"
+            },
+            {
+              "id": "t5",
+              "label": "again",
+              "speak": "again"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b18-tricky-words-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Spell it",
+        "minutes": 3,
+        "prompt": "Which word is spelled right?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "freind"
+            },
+            {
+              "id": "c2",
+              "label": "frend"
+            },
+            {
+              "id": "c3",
+              "label": "friend"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "My ___ came over to play."
+        }
+      },
+      {
+        "id": "g3-app-b18-tricky-words-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Gh sound",
+        "minutes": 4,
+        "prompt": "Which word has the f sound spelled with gh?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "laugh"
+            },
+            {
+              "id": "c2",
+              "label": "thought"
+            },
+            {
+              "id": "c3",
+              "label": "said"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b19-long-words",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Read long words in chunks",
+    "version": 1,
+    "skillIds": [
+      "g3-big-words"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b19-long-words-1",
+        "type": "tap-to-hear",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Chunk the word",
+        "minutes": 4,
+        "prompt": "Tap each long word to hear it, then say the chunks.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "items": [
+            {
+              "id": "t1",
+              "label": "fan · tas · tic",
+              "speak": "fantastic"
+            },
+            {
+              "id": "t2",
+              "label": "ex · cite · ment",
+              "speak": "excitement"
+            },
+            {
+              "id": "t3",
+              "label": "won · der · ful",
+              "speak": "wonderful"
+            },
+            {
+              "id": "t4",
+              "label": "ad · ven · ture",
+              "speak": "adventure"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b19-long-words-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "How many chunks",
+        "minutes": 3,
+        "prompt": "How many chunks are in the word excitement?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "2"
+            },
+            {
+              "id": "c2",
+              "label": "3"
+            },
+            {
+              "id": "c3",
+              "label": "4"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "ex · cite · ment"
+        }
+      },
+      {
+        "id": "g3-app-b19-long-words-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Big word",
+        "minutes": 3,
+        "prompt": "Which word is made of un, for, get, ta and ble?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "unforgettable"
+            },
+            {
+              "id": "c2",
+              "label": "forgettable"
+            },
+            {
+              "id": "c3",
+              "label": "unforgetting"
+            }
+          ],
+          "correctId": "c1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-b20-word-review",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Word review game",
+    "version": 1,
+    "skillIds": [
+      "g3-big-words"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-b20-word-review-1",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Prefix, suffix or neither",
+        "minutes": 5,
+        "prompt": "Sort each word.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Has a prefix"
+            },
+            {
+              "id": "k2",
+              "label": "Has a suffix"
+            },
+            {
+              "id": "k3",
+              "label": "Neither"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "unfair",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "rewrite",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "preview",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "careful",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "slowly",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "kindness",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i7",
+              "label": "window",
+              "categoryId": "k3"
+            },
+            {
+              "id": "i8",
+              "label": "table",
+              "categoryId": "k3"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-b20-word-review-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Syllables",
+        "minutes": 3,
+        "prompt": "How many syllables are in watermelon?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "3"
+            },
+            {
+              "id": "c2",
+              "label": "4"
+            },
+            {
+              "id": "c3",
+              "label": "5"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "watermelon"
+        }
+      },
+      {
+        "id": "g3-app-b20-word-review-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Meaning",
+        "minutes": 2,
+        "prompt": "What does the word hopeless mean?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "full of hope"
+            },
+            {
+              "id": "c2",
+              "label": "hope again"
+            },
+            {
+              "id": "c3",
+              "label": "without hope"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "hopeless"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a01-place-value",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Place value puzzles",
+    "version": 1,
+    "skillIds": [
+      "g3-place-value"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a01-place-value-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Build the number",
+        "minutes": 4,
+        "prompt": "Look at the blocks. Which number has 3 hundreds, 4 tens and 6 ones?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "346"
+            },
+            {
+              "id": "c2",
+              "label": "364"
+            },
+            {
+              "id": "c3",
+              "label": "436"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "3 hundreds, 4 tens, 6 ones"
+        }
+      },
+      {
+        "id": "g3-app-a01-place-value-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Value of a digit",
+        "minutes": 4,
+        "prompt": "What is the value of the 7 in 572?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "7"
+            },
+            {
+              "id": "c2",
+              "label": "70"
+            },
+            {
+              "id": "c3",
+              "label": "700"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "572"
+        }
+      },
+      {
+        "id": "g3-app-a01-place-value-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find 300",
+        "minutes": 3,
+        "prompt": "Tap the number 300 on the line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 290,
+          "max": 310,
+          "target": 300
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a02-read-write",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Three ways to write numbers",
+    "version": 1,
+    "skillIds": [
+      "g3-read-write-numbers"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a02-read-write-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Number name",
+        "minutes": 4,
+        "prompt": "Which number is five hundred twenty-three?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "532"
+            },
+            {
+              "id": "c2",
+              "label": "5023"
+            },
+            {
+              "id": "c3",
+              "label": "523"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "five hundred twenty-three"
+        }
+      },
+      {
+        "id": "g3-app-a02-read-write-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Expanded form",
+        "minutes": 4,
+        "prompt": "Which number is the same as 400 plus 50 plus 7?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "457"
+            },
+            {
+              "id": "c2",
+              "label": "547"
+            },
+            {
+              "id": "c3",
+              "label": "4057"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "400 + 50 + 7"
+        }
+      },
+      {
+        "id": "g3-app-a02-read-write-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Zero in the tens place",
+        "minutes": 4,
+        "prompt": "Sort the numbers by what the tens digit is.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Tens digit is 0"
+            },
+            {
+              "id": "k2",
+              "label": "Tens digit is not 0"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "305",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "402",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "908",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "350",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "612",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "479",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a03-compare",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Greater, less or equal",
+    "version": 1,
+    "skillIds": [
+      "g3-compare-numbers"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a03-compare-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which symbol",
+        "minutes": 4,
+        "prompt": "Which symbol makes this true: 457 and 475?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": ">"
+            },
+            {
+              "id": "c2",
+              "label": "<"
+            },
+            {
+              "id": "c3",
+              "label": "="
+            }
+          ],
+          "correctId": "c2",
+          "stem": "457 ? 475"
+        }
+      },
+      {
+        "id": "g3-app-a03-compare-2",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "More or less than 500",
+        "minutes": 4,
+        "prompt": "Sort each number: is it less than 500, or greater than 500?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Less than 500"
+            },
+            {
+              "id": "k2",
+              "label": "Greater than 500"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "489",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "372",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "501",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i4",
+              "label": "640",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "499",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i6",
+              "label": "510",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "g3-app-a03-compare-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Biggest number",
+        "minutes": 4,
+        "prompt": "Which number is the greatest?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "683"
+            },
+            {
+              "id": "c2",
+              "label": "368"
+            },
+            {
+              "id": "c3",
+              "label": "836"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "368   683   836"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a04-skip",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Count by tens and hundreds",
+    "version": 1,
+    "skillIds": [
+      "g3-skip-count"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a04-skip-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Ten more",
+        "minutes": 4,
+        "prompt": "What is 10 more than 364?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "374"
+            },
+            {
+              "id": "c2",
+              "label": "365"
+            },
+            {
+              "id": "c3",
+              "label": "464"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "364 + 10"
+        }
+      },
+      {
+        "id": "g3-app-a04-skip-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Hundred less",
+        "minutes": 4,
+        "prompt": "What is 100 less than 720?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "710"
+            },
+            {
+              "id": "c2",
+              "label": "620"
+            },
+            {
+              "id": "c3",
+              "label": "820"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "720 - 100"
+        }
+      },
+      {
+        "id": "g3-app-a04-skip-3",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Jump on the line",
+        "minutes": 3,
+        "prompt": "Start at 40. Tap the number that is 10 more than 40, plus 10 more again.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 40,
+          "max": 60,
+          "target": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a05-round-ten",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Rounding to the nearest ten",
+    "version": 1,
+    "skillIds": [
+      "g3-round"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a05-round-ten-1",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Round 33",
+        "minutes": 3,
+        "prompt": "Round 33 to the nearest ten. Tap that number on the line.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 30,
+          "max": 40,
+          "target": 30
+        }
+      },
+      {
+        "id": "g3-app-a05-round-ten-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Round 67",
+        "minutes": 3,
+        "prompt": "Round 67 to the nearest ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "60"
+            },
+            {
+              "id": "c2",
+              "label": "70"
+            },
+            {
+              "id": "c3",
+              "label": "80"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "67"
+        }
+      },
+      {
+        "id": "g3-app-a05-round-ten-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Round 85",
+        "minutes": 3,
+        "prompt": "Round 85 to the nearest ten.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "80"
+            },
+            {
+              "id": "c2",
+              "label": "100"
+            },
+            {
+              "id": "c3",
+              "label": "90"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "85"
+        }
+      },
+      {
+        "id": "g3-app-a05-round-ten-4",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Round to 60 or 70",
+        "minutes": 3,
+        "prompt": "Which ten does each number round to?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Rounds to 60"
+            },
+            {
+              "id": "k2",
+              "label": "Rounds to 70"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "64",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "58",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "61",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "66",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "73",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "65",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a06-round-hundred",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Rounding to the nearest hundred",
+    "version": 1,
+    "skillIds": [
+      "g3-round"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a06-round-hundred-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Round 327",
+        "minutes": 3,
+        "prompt": "Round 327 to the nearest hundred.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "300"
+            },
+            {
+              "id": "c2",
+              "label": "400"
+            },
+            {
+              "id": "c3",
+              "label": "200"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "327"
+        }
+      },
+      {
+        "id": "g3-app-a06-round-hundred-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Round 689",
+        "minutes": 3,
+        "prompt": "Round 689 to the nearest hundred.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "600"
+            },
+            {
+              "id": "c2",
+              "label": "700"
+            },
+            {
+              "id": "c3",
+              "label": "800"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "689"
+        }
+      },
+      {
+        "id": "g3-app-a06-round-hundred-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Round to 300 or 400",
+        "minutes": 4,
+        "prompt": "Which hundred does each number round to?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Rounds to 300"
+            },
+            {
+              "id": "k2",
+              "label": "Rounds to 400"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "312",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "349",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "251",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "350",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "386",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "420",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a07-add-plain",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Adding three-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g3-add-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a07-add-plain-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "243 + 125",
+        "minutes": 4,
+        "prompt": "What is 243 plus 125?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "368"
+            },
+            {
+              "id": "c2",
+              "label": "358"
+            },
+            {
+              "id": "c3",
+              "label": "378"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "243 + 125"
+        }
+      },
+      {
+        "id": "g3-app-a07-add-plain-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "312 + 456",
+        "minutes": 4,
+        "prompt": "What is 312 plus 456?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "758"
+            },
+            {
+              "id": "c2",
+              "label": "768"
+            },
+            {
+              "id": "c3",
+              "label": "778"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "312 + 456"
+        }
+      },
+      {
+        "id": "g3-app-a07-add-plain-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "521 + 143",
+        "minutes": 3,
+        "prompt": "What is 521 plus 143?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "654"
+            },
+            {
+              "id": "c2",
+              "label": "674"
+            },
+            {
+              "id": "c3",
+              "label": "664"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "521 + 143"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a08-add-ones",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Adding and trading ones",
+    "version": 1,
+    "skillIds": [
+      "g3-add-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a08-add-ones-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "247 + 135",
+        "minutes": 4,
+        "prompt": "What is 247 plus 135?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "372"
+            },
+            {
+              "id": "c2",
+              "label": "382"
+            },
+            {
+              "id": "c3",
+              "label": "392"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "247 + 135"
+        }
+      },
+      {
+        "id": "g3-app-a08-add-ones-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "358 + 216",
+        "minutes": 4,
+        "prompt": "What is 358 plus 216?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "564"
+            },
+            {
+              "id": "c2",
+              "label": "584"
+            },
+            {
+              "id": "c3",
+              "label": "574"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "358 + 216"
+        }
+      },
+      {
+        "id": "g3-app-a08-add-ones-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "129 + 345",
+        "minutes": 4,
+        "prompt": "What is 129 plus 345?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "474"
+            },
+            {
+              "id": "c2",
+              "label": "464"
+            },
+            {
+              "id": "c3",
+              "label": "484"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "129 + 345"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a09-add-more",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Adding with more regrouping",
+    "version": 1,
+    "skillIds": [
+      "g3-add-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a09-add-more-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "286 + 147",
+        "minutes": 4,
+        "prompt": "What is 286 plus 147?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "323"
+            },
+            {
+              "id": "c2",
+              "label": "423"
+            },
+            {
+              "id": "c3",
+              "label": "433"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "286 + 147"
+        }
+      },
+      {
+        "id": "g3-app-a09-add-more-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "365 + 278",
+        "minutes": 4,
+        "prompt": "What is 365 plus 278?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "643"
+            },
+            {
+              "id": "c2",
+              "label": "533"
+            },
+            {
+              "id": "c3",
+              "label": "633"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "365 + 278"
+        }
+      },
+      {
+        "id": "g3-app-a09-add-more-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "458 + 367",
+        "minutes": 4,
+        "prompt": "What is 458 plus 367?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "715"
+            },
+            {
+              "id": "c2",
+              "label": "825"
+            },
+            {
+              "id": "c3",
+              "label": "815"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "458 + 367"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a10-add-estimate",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 2,
+    "title": "Estimate, then add",
+    "version": 1,
+    "skillIds": [
+      "g3-add-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a10-add-estimate-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Estimate",
+        "minutes": 4,
+        "prompt": "Round each number to the nearest hundred. About what is 396 plus 204?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "500"
+            },
+            {
+              "id": "c2",
+              "label": "600"
+            },
+            {
+              "id": "c3",
+              "label": "700"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "396 + 204"
+        }
+      },
+      {
+        "id": "g3-app-a10-add-estimate-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "396 + 204",
+        "minutes": 4,
+        "prompt": "What is 396 plus 204?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "600"
+            },
+            {
+              "id": "c2",
+              "label": "590"
+            },
+            {
+              "id": "c3",
+              "label": "610"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "396 + 204"
+        }
+      },
+      {
+        "id": "g3-app-a10-add-estimate-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which sentence",
+        "minutes": 4,
+        "prompt": "A library has 346 picture books and 278 chapter books. How many books in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "524"
+            },
+            {
+              "id": "c2",
+              "label": "614"
+            },
+            {
+              "id": "c3",
+              "label": "624"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "346 + 278"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a11-sub-plain",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Subtracting three-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g3-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a11-sub-plain-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "586 - 243",
+        "minutes": 4,
+        "prompt": "What is 586 minus 243?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "343"
+            },
+            {
+              "id": "c2",
+              "label": "353"
+            },
+            {
+              "id": "c3",
+              "label": "333"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "586 - 243"
+        }
+      },
+      {
+        "id": "g3-app-a11-sub-plain-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "749 - 315",
+        "minutes": 4,
+        "prompt": "What is 749 minus 315?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "444"
+            },
+            {
+              "id": "c2",
+              "label": "434"
+            },
+            {
+              "id": "c3",
+              "label": "424"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "749 - 315"
+        }
+      },
+      {
+        "id": "g3-app-a11-sub-plain-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "868 - 402",
+        "minutes": 3,
+        "prompt": "What is 868 minus 402?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "476"
+            },
+            {
+              "id": "c2",
+              "label": "456"
+            },
+            {
+              "id": "c3",
+              "label": "466"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "868 - 402"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a12-sub-tens",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Subtracting and trading",
+    "version": 1,
+    "skillIds": [
+      "g3-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a12-sub-tens-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "432 - 178",
+        "minutes": 4,
+        "prompt": "What is 432 minus 178?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "346"
+            },
+            {
+              "id": "c2",
+              "label": "254"
+            },
+            {
+              "id": "c3",
+              "label": "264"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "432 - 178"
+        }
+      },
+      {
+        "id": "g3-app-a12-sub-tens-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "523 - 267",
+        "minutes": 4,
+        "prompt": "What is 523 minus 267?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "344"
+            },
+            {
+              "id": "c2",
+              "label": "266"
+            },
+            {
+              "id": "c3",
+              "label": "256"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "523 - 267"
+        }
+      },
+      {
+        "id": "g3-app-a12-sub-tens-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "641 - 385",
+        "minutes": 4,
+        "prompt": "What is 641 minus 385?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "256"
+            },
+            {
+              "id": "c2",
+              "label": "344"
+            },
+            {
+              "id": "c3",
+              "label": "266"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "641 - 385"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a13-sub-zero",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Subtracting across zero",
+    "version": 1,
+    "skillIds": [
+      "g3-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a13-sub-zero-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "400 - 167",
+        "minutes": 4,
+        "prompt": "What is 400 minus 167?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "233"
+            },
+            {
+              "id": "c2",
+              "label": "367"
+            },
+            {
+              "id": "c3",
+              "label": "243"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "400 - 167"
+        }
+      },
+      {
+        "id": "g3-app-a13-sub-zero-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "300 - 148",
+        "minutes": 4,
+        "prompt": "What is 300 minus 148?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "248"
+            },
+            {
+              "id": "c2",
+              "label": "152"
+            },
+            {
+              "id": "c3",
+              "label": "162"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "300 - 148"
+        }
+      },
+      {
+        "id": "g3-app-a13-sub-zero-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "703 - 256",
+        "minutes": 4,
+        "prompt": "What is 703 minus 256?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "553"
+            },
+            {
+              "id": "c2",
+              "label": "457"
+            },
+            {
+              "id": "c3",
+              "label": "447"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "703 - 256"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a14-check",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Check with the opposite",
+    "version": 1,
+    "skillIds": [
+      "g3-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a14-check-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Add to check",
+        "minutes": 4,
+        "prompt": "To check 500 minus 213 = 287, what do you add?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "287 + 500"
+            },
+            {
+              "id": "c2",
+              "label": "287 + 213"
+            },
+            {
+              "id": "c3",
+              "label": "213 + 500"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "500 - 213 = 287"
+        }
+      },
+      {
+        "id": "g3-app-a14-check-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Find the mistake",
+        "minutes": 4,
+        "prompt": "Sam says 624 minus 278 is 356. Which check shows he is wrong?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "356 + 278 = 634, not 624"
+            },
+            {
+              "id": "c2",
+              "label": "356 + 278 = 624"
+            },
+            {
+              "id": "c3",
+              "label": "356 - 278 = 624"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "624 - 278 = 356?"
+        }
+      },
+      {
+        "id": "g3-app-a14-check-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "912 - 475",
+        "minutes": 4,
+        "prompt": "What is 912 minus 475?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "563"
+            },
+            {
+              "id": "c2",
+              "label": "447"
+            },
+            {
+              "id": "c3",
+              "label": "437"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "912 - 475"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a15-two-step",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Two-step problems",
+    "version": 1,
+    "skillIds": [
+      "g3-two-step"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a15-two-step-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Pencils",
+        "minutes": 4,
+        "prompt": "A school has 252 pencils. It buys 148 more, then gives away 175. How many are left?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "400"
+            },
+            {
+              "id": "c2",
+              "label": "227"
+            },
+            {
+              "id": "c3",
+              "label": "225"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "252 + 148 - 175"
+        }
+      },
+      {
+        "id": "g3-app-a15-two-step-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Stickers",
+        "minutes": 4,
+        "prompt": "Mia has 320 stickers. She gets 180 more and then uses 90. How many does she have now?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "410"
+            },
+            {
+              "id": "c2",
+              "label": "500"
+            },
+            {
+              "id": "c3",
+              "label": "590"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "320 + 180 - 90"
+        }
+      },
+      {
+        "id": "g3-app-a15-two-step-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "First step",
+        "minutes": 3,
+        "prompt": "Tom had 600 coins. He spent 250 and then found 75. What should you do first?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "250 + 75"
+            },
+            {
+              "id": "c2",
+              "label": "600 - 250"
+            },
+            {
+              "id": "c3",
+              "label": "600 + 75"
+            }
+          ],
+          "correctId": "c2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a16-equal-groups",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Game: Equal groups",
+    "version": 1,
+    "skillIds": [
+      "g3-mult-groups"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a16-equal-groups-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Count groups",
+        "minutes": 3,
+        "prompt": "How many groups are there?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "4"
+            },
+            {
+              "id": "c2",
+              "label": "3"
+            },
+            {
+              "id": "c3",
+              "label": "5"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "🍎🍎🍎  |  🍎🍎🍎  |  🍎🍎🍎  |  🍎🍎🍎"
+        }
+      },
+      {
+        "id": "g3-app-a16-equal-groups-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Write it",
+        "minutes": 4,
+        "prompt": "There are 4 groups of 3 apples. What is the multiplication sentence?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "4 + 3 = 7"
+            },
+            {
+              "id": "c2",
+              "label": "4 x 3 = 12"
+            },
+            {
+              "id": "c3",
+              "label": "3 x 3 = 9"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "🍎🍎🍎  |  🍎🍎🍎  |  🍎🍎🍎  |  🍎🍎🍎"
+        }
+      },
+      {
+        "id": "g3-app-a16-equal-groups-3",
+        "type": "sort",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Equal or not",
+        "minutes": 4,
+        "prompt": "Sort each picture word: are the groups equal?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "categories": [
+            {
+              "id": "k1",
+              "label": "Equal groups"
+            },
+            {
+              "id": "k2",
+              "label": "Not equal groups"
+            }
+          ],
+          "items": [
+            {
+              "id": "i1",
+              "label": "3, 3, 3",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i2",
+              "label": "5, 5",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i3",
+              "label": "2, 2, 2, 2",
+              "categoryId": "k1"
+            },
+            {
+              "id": "i4",
+              "label": "2, 3, 4",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i5",
+              "label": "4, 4, 5",
+              "categoryId": "k2"
+            },
+            {
+              "id": "i6",
+              "label": "1, 3",
+              "categoryId": "k2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a17-arrays",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Rows and columns",
+    "version": 1,
+    "skillIds": [
+      "g3-mult-arrays"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a17-arrays-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Rows",
+        "minutes": 4,
+        "prompt": "How many are in the array in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "7"
+            },
+            {
+              "id": "c2",
+              "label": "10"
+            },
+            {
+              "id": "c3",
+              "label": "12"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "🟦🟦🟦🟦\n🟦🟦🟦🟦\n🟦🟦🟦🟦"
+        }
+      },
+      {
+        "id": "g3-app-a17-arrays-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Array sentence",
+        "minutes": 4,
+        "prompt": "The array has 5 rows with 3 in each row. Which multiplication sentence fits?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "5 x 3 = 15"
+            },
+            {
+              "id": "c2",
+              "label": "5 + 3 = 8"
+            },
+            {
+              "id": "c3",
+              "label": "5 x 3 = 8"
+            }
+          ],
+          "correctId": "c1"
+        }
+      },
+      {
+        "id": "g3-app-a17-arrays-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Turn it",
+        "minutes": 4,
+        "prompt": "3 rows of 6 can also be 6 rows of 3. How many in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "9"
+            },
+            {
+              "id": "c2",
+              "label": "18"
+            },
+            {
+              "id": "c3",
+              "label": "12"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "3 x 6 = 6 x 3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a18-jumps",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Skip counting jumps",
+    "version": 1,
+    "skillIds": [
+      "g3-mult-groups"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a18-jumps-1",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Jumps of 3",
+        "minutes": 3,
+        "prompt": "Make 4 jumps of 3 starting at 0. Tap where you land.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 15,
+          "target": 12
+        }
+      },
+      {
+        "id": "g3-app-a18-jumps-2",
+        "type": "number-line",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Jumps of 5",
+        "minutes": 3,
+        "prompt": "Make 3 jumps of 5 starting at 0. Tap where you land.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "min": 0,
+          "max": 20,
+          "target": 15
+        }
+      },
+      {
+        "id": "g3-app-a18-jumps-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Repeated addition",
+        "minutes": 4,
+        "prompt": "Which addition matches 4 x 3?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "4 + 4 + 4"
+            },
+            {
+              "id": "c2",
+              "label": "3 + 3 + 3 + 3"
+            },
+            {
+              "id": "c3",
+              "label": "4 + 3"
+            }
+          ],
+          "correctId": "c2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a19-stories",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Equal group stories",
+    "version": 1,
+    "skillIds": [
+      "g3-mult-wp"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a19-stories-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Bags of apples",
+        "minutes": 4,
+        "prompt": "There are 5 bags with 4 apples in each. How many apples in all?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "9"
+            },
+            {
+              "id": "c2",
+              "label": "20"
+            },
+            {
+              "id": "c3",
+              "label": "16"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "5 x 4"
+        }
+      },
+      {
+        "id": "g3-app-a19-stories-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Sharing",
+        "minutes": 4,
+        "prompt": "12 stickers are shared equally among 3 friends. How many does each friend get?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "4"
+            },
+            {
+              "id": "c2",
+              "label": "3"
+            },
+            {
+              "id": "c3",
+              "label": "9"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "12 shared by 3"
+        }
+      },
+      {
+        "id": "g3-app-a19-stories-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Which story",
+        "minutes": 3,
+        "prompt": "Which story matches 6 x 2?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "6 oranges and 2 more"
+            },
+            {
+              "id": "c2",
+              "label": "2 bags with 3 oranges each"
+            },
+            {
+              "id": "c3",
+              "label": "6 bags with 2 oranges each"
+            }
+          ],
+          "correctId": "c3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g3-app-a20-review",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 4,
+    "title": "Math review game",
+    "version": 1,
+    "skillIds": [
+      "g3-unit-review"
+    ],
+    "activities": [
+      {
+        "id": "g3-app-a20-review-1",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Round 572",
+        "minutes": 3,
+        "prompt": "Round 572 to the nearest hundred.",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "600"
+            },
+            {
+              "id": "c2",
+              "label": "500"
+            },
+            {
+              "id": "c3",
+              "label": "700"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "572"
+        }
+      },
+      {
+        "id": "g3-app-a20-review-2",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "467 + 285",
+        "minutes": 4,
+        "prompt": "What is 467 plus 285?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "642"
+            },
+            {
+              "id": "c2",
+              "label": "752"
+            },
+            {
+              "id": "c3",
+              "label": "742"
+            }
+          ],
+          "correctId": "c2",
+          "stem": "467 + 285"
+        }
+      },
+      {
+        "id": "g3-app-a20-review-3",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "600 - 238",
+        "minutes": 4,
+        "prompt": "What is 600 minus 238?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "438"
+            },
+            {
+              "id": "c2",
+              "label": "372"
+            },
+            {
+              "id": "c3",
+              "label": "362"
+            }
+          ],
+          "correctId": "c3",
+          "stem": "600 - 238"
+        }
+      },
+      {
+        "id": "g3-app-a20-review-4",
+        "type": "multiple-choice",
+        "mode": "screen",
+        "leadBy": "app",
+        "title": "Groups",
+        "minutes": 3,
+        "prompt": "There are 3 plates with 6 cookies on each. How many cookies?",
+        "materials": [],
+        "parentPrompts": [],
+        "payload": {
+          "choices": [
+            {
+              "id": "c1",
+              "label": "18"
+            },
+            {
+              "id": "c2",
+              "label": "9"
+            },
+            {
+              "id": "c3",
+              "label": "12"
+            }
+          ],
+          "correctId": "c1",
+          "stem": "3 x 6"
+        }
+      }
+    ]
+  }
+]

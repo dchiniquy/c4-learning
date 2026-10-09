@@ -1,0 +1,707 @@
+[
+  {
+    "id": "g3-r01-story-map",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Who, where and what happens",
+    "version": 1,
+    "skillIds": [
+      "g3-story-elements"
+    ],
+    "activities": [
+      {
+        "id": "g3-r01-story-map-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a story map of The Tortoise and the Hare",
+        "minutes": 30,
+        "materials": [
+          "The Tortoise and the Hare (library book, free online text, or retell it yourself)",
+          "one sheet of paper",
+          "pencil or markers"
+        ],
+        "parentPrompts": [
+          "Read or tell the fable. Outline if you tell it: a hare brags about how fast he is and teases a slow tortoise; they race; the hare is far ahead, stops for a nap; the tortoise keeps plodding and crosses the finish line first. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Fold the paper into four boxes labeled Characters, Setting, Problem, How it ended. Have your child fill each box with words or a quick drawing.",
+          "Ask: \"Who are the characters? Where and when does the story happen? What is the problem?\" Each time say: \"Show me the part of the story that tells you that.\"",
+          "Ask: \"What would have changed if the hare had not stopped to nap?\" Let them tell you the new ending out loud.",
+          "You will know they got it when they can point to each box and explain it using details from the story, not just guesses."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r02-character-traits",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "What actions tell us about a character",
+    "version": 1,
+    "skillIds": [
+      "g3-character-traits"
+    ],
+    "activities": [
+      {
+        "id": "g3-r02-character-traits-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Trait detectives: The Boy Who Cried Wolf",
+        "minutes": 30,
+        "materials": [
+          "The Boy Who Cried Wolf (book, online text, or retell it)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read or tell the fable. Outline: a boy watches sheep for his village; he is bored and shouts \"Wolf!\" as a joke; villagers run to help and find no wolf; he does it again; later a real wolf comes, he shouts, and nobody believes him. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Draw a line down the middle of the paper. Left side: What the boy did. Right side: What kind of person he seems to be. Fill in two or three rows together (for example, shouted a false alarm and seems dishonest or bored).",
+          "Talk about trait words: dishonest, bored, thoughtless, helpful, kind, brave. Ask: \"Which word fits the villagers when they ran to help? Which part of the story proves it?\"",
+          "Ask: \"How do you think the boy felt at the end? How did his actions lead to that?\"",
+          "You will know they got it when they give a trait and back it up with an action from the story."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r03-motivations-feelings",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Why characters do what they do",
+    "version": 1,
+    "skillIds": [
+      "g3-character-traits"
+    ],
+    "activities": [
+      {
+        "id": "g3-r03-motivations-feelings-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Why did the fox say that?",
+        "minutes": 30,
+        "materials": [
+          "The Fox and the Grapes (book, online text, or retell it)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read or tell the fable. Outline: a hungry fox sees a bunch of ripe grapes hanging high up; he jumps again and again but cannot reach them; he walks away saying the grapes are probably sour anyway. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Ask: \"What did the fox want? Why did he say the grapes were sour? How was he really feeling?\" Explain that a motivation is the reason a character acts.",
+          "Have your child write two sentences: one about the fox's motivation and one about his feeling, each starting with a clue from the story.",
+          "Connect it to life: \"Have you ever said you did not care about something because you could not get it?\" Share an example of your own first so it feels safe.",
+          "You will know they got it when they explain the fox's reason and feeling in their own words and point to what the fox did or said."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r04-actions-and-events",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "How actions move a story along",
+    "version": 1,
+    "skillIds": [
+      "g3-story-elements"
+    ],
+    "activities": [
+      {
+        "id": "g3-r04-actions-and-events-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Order the events: The Ant and the Grasshopper",
+        "minutes": 30,
+        "materials": [
+          "The Ant and the Grasshopper (book, online text, or retell it)",
+          "4 index cards or paper strips",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read or tell the fable. Outline: in summer the grasshopper sings and plays while the ant works to store food; the grasshopper laughs at the ant; when winter comes, the grasshopper has no food and is hungry, and goes to ask the ant for help. Versions differ in how the ant answers, so use the one you have. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Have your child write one event on each card, then shuffle them and put them back in order.",
+          "Ask: \"Which action by the ant caused it to have food in winter? Which action by the grasshopper caused his problem?\" Practice the word because: \"The grasshopper was hungry because...\"",
+          "Ask: \"What could the grasshopper have done differently? How would the story change?\"",
+          "You will know they got it when their ordered cards make sense and they use because to link an action to what happened next."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r05-ask-and-answer",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Asking questions and proving answers",
+    "version": 1,
+    "skillIds": [
+      "g3-ask-answer"
+    ],
+    "activities": [
+      {
+        "id": "g3-r05-ask-and-answer-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Question stems and text proof: The Lion and the Mouse",
+        "minutes": 30,
+        "materials": [
+          "The Lion and the Mouse (book, online text, or retell it)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read or tell the fable. Outline: a lion catches a tiny mouse and lets it go; later the lion is caught in a hunter's net; the mouse hears him, gnaws through the ropes, and frees him. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Write four question starters on paper: Who, Why, How, What would happen if. Have your child write one question for each starter about the story. Swap papers and answer each other's questions.",
+          "For every answer, ask: \"Where in the story does it say that?\" Teach the sentence starter \"The text says...\" or \"I know this because...\".",
+          "Try one question that is not answered directly (for example, \"Why do you think the lion let the mouse go?\") and talk about how clues in the story help you decide.",
+          "You will know they got it when they give answers and name the part of the story that supports each one."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr01-fact-or-opinion",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Fact or opinion?",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-basics"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr01-fact-or-opinion-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sort facts and opinions",
+        "minutes": 25,
+        "materials": [
+          "8 small slips of paper",
+          "pencil",
+          "two sheets labeled Fact and Opinion"
+        ],
+        "parentPrompts": [
+          "Explain: a fact can be checked and shown to be true or false. An opinion is what someone thinks or feels, and people may disagree. Example fact: Dogs are mammals. Example opinion: Dogs are the best pets.",
+          "Write eight statements on slips: four facts and four opinions (for example, Our kitchen has a table. Pizza is the tastiest food). Have your child sort them onto the two sheets.",
+          "Ask: \"How could we check this fact? Why is this one an opinion?\" Look for clue words such as best, worst, boring, fun, and should.",
+          "Have your child say two new opinions of their own and a reason for each aloud.",
+          "You will know they got it when they sort correctly and can tell you what makes a statement an opinion."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr02-choose-opinion",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Choose a topic and state an opinion",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-intro"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr02-choose-opinion-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Pick a topic and write an opinion sentence",
+        "minutes": 25,
+        "materials": [
+          "notebook or paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Brainstorm together a list of topics they have strong feelings about: best pet, best season, best playground game, a book or fable from this unit, a favorite food. Choose one they can write three reasons about.",
+          "Write the topic at the top. Model an opinion sentence: \"I think summer is the best season.\" Then have them write their own opinion sentence.",
+          "Teach an introduction: first tell the reader the topic, then your opinion. Example: \"Seasons are different. I believe winter is the best one.\" Have them write two sentences this way.",
+          "Read the sentences aloud and ask: \"Does the reader know the topic and what you think?\"",
+          "You will know they got it when the introduction names the topic and clearly states an opinion."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr03-reasons",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Support the opinion with reasons",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-reasons"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr03-reasons-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Reason hunt",
+        "minutes": 25,
+        "materials": [
+          "the opinion sentence from the last lesson",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Reread their opinion. Explain: reasons tell why someone thinks something, and good reasons make a reader want to agree.",
+          "Have your child list as many reasons as they can in two minutes, with no judging. Then circle the three strongest.",
+          "For each circled reason, ask: \"Can you give an example or a detail?\" For example, a reason: you can play in the snow; a detail: you can build a snowman with your family.",
+          "Practice a challenge: have them name one reason someone might disagree, and answer it.",
+          "You will know they got it when they have at least two reasons that clearly connect to the opinion, each with a detail."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-ww01-syllable-detectives",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Syllable detectives",
+    "version": 1,
+    "skillIds": [
+      "g3-syllables"
+    ],
+    "activities": [
+      {
+        "id": "g3-ww01-syllable-detectives-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count syllables with your chin",
+        "minutes": 25,
+        "materials": [
+          "a list of 12 words on paper (see step 1)",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Write 12 words with 1 to 4 syllables, such as: strength, basket, rabbit, picnic, banana, umbrella, elephant, dinosaur, watermelon, caterpillar, alligator, helicopter. Say each word slowly. Every syllable has exactly one vowel sound.",
+          "Teach the chin trick: put a hand under the chin and say the word. Your chin drops once for each syllable. Have your child try each word and write the count next to it.",
+          "Then divide each word with slashes: pic/nic, ba/na/na. Say each part separately and then blend them back together.",
+          "Challenge: find five longer words from the house or a book and count the syllables.",
+          "You will know they got it when counts are correct and they can say the whole word after reading its parts."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-ww02-split-the-word",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Split words into syllables",
+    "version": 1,
+    "skillIds": [
+      "g3-syllables"
+    ],
+    "activities": [
+      {
+        "id": "g3-ww02-split-the-word-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Cut-apart words: closed, open and consonant-le",
+        "minutes": 25,
+        "materials": [
+          "index cards or paper strips",
+          "scissors (children's safety scissors)",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Write these words on cards: rabbit, napkin, basket, window, robot, paper, tiger, table, candle, puzzle. Explain that a closed syllable ends in a consonant (rab-), an open syllable ends in a vowel sound (ro-), and a final syllable like -ble or -dle is its own syllable.",
+          "Show the pattern for two consonants in the middle: split between them (rab/bit, nap/kin, bas/ket). Have them cut rabbit, napkin, basket, and window apart and read each part.",
+          "Show the pattern for one consonant in the middle: try splitting before it (ro/bot, pa/per, ti/ger). If it does not sound right, split after it.",
+          "For the -le words, split before the consonant that goes with -le: ta/ble, can/dle, puz/zle. Cut and read each.",
+          "You will know they got it when they split new words (for example, sunset or spider) and read each part correctly."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m01-hundreds-tens-ones",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Hundreds, tens and ones",
+    "version": 1,
+    "skillIds": [
+      "g3-place-value"
+    ],
+    "activities": [
+      {
+        "id": "g3-m01-hundreds-tens-ones-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build numbers with paper hundreds, tens and ones",
+        "minutes": 35,
+        "materials": [
+          "graph paper (or paper ruled into a 10 by 10 grid)",
+          "scissors (children's safety scissors)",
+          "pencil",
+          "a die"
+        ],
+        "parentPrompts": [
+          "Make place value pieces: cut a 10 by 10 square for one hundred, strips of 10 squares for tens, and single squares for ones. Make about 3 hundreds, 12 tens, and 15 ones. Explain that 10 ones make a ten, and 10 tens make a hundred.",
+          "Say a number such as 246 and have your child build it: 2 hundreds, 4 tens, 6 ones. Then show them a pile of pieces and have them tell you the number.",
+          "Roll the die three times to make a three-digit number (first roll is hundreds, second is tens, third is ones), then build it and say it aloud. Do this five times.",
+          "Ask: \"What is the value of the 4 in 246?\" (40, because 4 tens.) Do a few more.",
+          "You will know they got it when they build and name numbers correctly and say what each digit is worth."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m02-read-write-numbers",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Read and write numbers three ways",
+    "version": 1,
+    "skillIds": [
+      "g3-read-write-numbers"
+    ],
+    "activities": [
+      {
+        "id": "g3-m02-read-write-numbers-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Standard form, number names and expanded form",
+        "minutes": 35,
+        "materials": [
+          "index cards",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Write a number such as 538 on a card. Show three ways to write it: 538 (standard), five hundred thirty-eight (number name), and 500 + 30 + 8 (expanded).",
+          "Make cards for six numbers (for example, 304, 470, 612, 805, 999, 120). Have your child write all three forms for each, taking turns with you.",
+          "Pay attention to zeros: in 304 there are no tens, so the expanded form is 300 + 4. Ask: \"Why do we need the zero in 304?\"",
+          "Play a matching game: mix up the standard forms and expanded forms and match them.",
+          "You will know they got it when they write all three forms correctly, including numbers with a zero in the middle."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m03-compare-order",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Compare and order numbers",
+    "version": 1,
+    "skillIds": [
+      "g3-compare-numbers"
+    ],
+    "activities": [
+      {
+        "id": "g3-m03-compare-order-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Greater, less or equal: the number duel",
+        "minutes": 35,
+        "materials": [
+          "a deck of cards, with face cards removed and 10 as 0 (or number cards you make)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Review the symbols: > means greater than, < means less than, = means equal. Tell your child the open mouth faces the bigger number.",
+          "Each player draws three cards to make a three-digit number on paper. Compare the two numbers together and write them with the correct symbol, such as 724 > 719.",
+          "Ask: \"Which place did you look at first? Why?\" (Start with the hundreds; if they match, check tens, then ones.)",
+          "Play six rounds. Then draw four cards each and order the four numbers from least to greatest.",
+          "You will know they got it when they compare with the correct symbol and explain that they begin with the hundreds."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m04-skip-count-patterns",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Count by 10s and 100s",
+    "version": 1,
+    "skillIds": [
+      "g3-skip-count"
+    ],
+    "activities": [
+      {
+        "id": "g3-m04-skip-count-patterns-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Hundreds chart patterns and mental jumps",
+        "minutes": 35,
+        "materials": [
+          "a hundred chart (draw a 10 by 10 grid with numbers 1 to 100, or print one)",
+          "pencil",
+          "highlighter or crayon"
+        ],
+        "parentPrompts": [
+          "Look at the chart. Color all the multiples of 10 (10, 20, 30...). Ask: \"What pattern do you see?\" (They are all in one column, and each ends in 0.)",
+          "Practice jumping: start at 37 and add 10 mentally, then 10 again. Ask: \"Which digit changed? Which stayed the same?\" Do the same with subtracting 10.",
+          "Now think bigger: start at 250 and add 100, then 100 again. Say the numbers aloud: 250, 350, 450. Which digit changed this time?",
+          "Challenge: count from 480 up by 10s to 560, and from 800 down by 100s to 200.",
+          "You will know they got it when they add or subtract 10 and 100 mentally and tell which digit changes."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m05-round-to-ten",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Rounding to the nearest 10",
+    "version": 1,
+    "skillIds": [
+      "g3-round"
+    ],
+    "activities": [
+      {
+        "id": "g3-m05-round-to-ten-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Round on a hill",
+        "minutes": 35,
+        "materials": [
+          "paper",
+          "pencil",
+          "a ruler"
+        ],
+        "parentPrompts": [
+          "Explain: rounding finds the nearest friendly number. Draw a number line from 30 to 40 with 35 in the middle. Place 33 on it. Ask: \"Is it closer to 30 or 40?\"",
+          "Make the rule: look at the ones digit. If it is 5 or more, round up to the next ten. If less than 5, stay at the same ten. Show with 33, 38, and 35.",
+          "Give your child ten numbers to round, such as 14, 67, 85, 92, 138, and 251. Have them mark each one on a drawn number line the first few times.",
+          "Ask: \"When would you round in real life?\" (Estimating cost, how many people.)",
+          "You will know they got it when they round correctly and tell you which digit decides."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s01-push-and-pull",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Forces are pushes and pulls",
+    "version": 1,
+    "skillIds": [
+      "g3-forces"
+    ],
+    "activities": [
+      {
+        "id": "g3-s01-push-and-pull-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Push or pull?",
+        "minutes": 40,
+        "materials": [
+          "a toy car or small ball",
+          "a book",
+          "a door or drawer",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Explain: a force is a push or a pull. It can make something start to move, stop, speed up, slow down, or change direction.",
+          "Test different pushes and pulls: push a toy car, pull a drawer open, push a door closed, kick a soft ball outside. For each, say \"I used a push\" or \"I used a pull.\"",
+          "Draw a two-column chart (Push, Pull) and fill in five examples from the house.",
+          "Ask: \"What happened to the object? Did it start, stop, speed up, or change direction?\" Predict: \"What would happen if I pushed harder?\" Try it.",
+          "You will know they got it when they sort pushes and pulls and describe how the object moved."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s02-rolling-and-stopping",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "What makes things stop?",
+    "version": 1,
+    "skillIds": [
+      "g3-forces"
+    ],
+    "activities": [
+      {
+        "id": "g3-s02-rolling-and-stopping-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Roll it and watch it stop",
+        "minutes": 40,
+        "materials": [
+          "a ball or toy car",
+          "a smooth floor and a rug or towel",
+          "tape measure or ruler",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Roll a ball across a smooth floor. Ask: \"Why does it slow down and stop?\" Explain that a force called friction acts when surfaces rub, and it slows things down.",
+          "Now roll it with the same push over a rug or towel. Mark where it stops each time and measure the distance. Do two tries on each surface.",
+          "Record in a table: surface, distance. Ask: \"Which surface made it stop sooner? What does that tell you about friction?\"",
+          "Rub your hands together fast, and ask: \"What do you feel?\" (Warmth, from friction.)",
+          "You will know they got it when they say that something rubbing the ball slows it, and use the table as evidence."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s03-balanced-forces",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Balanced forces",
+    "version": 1,
+    "skillIds": [
+      "g3-balanced-forces"
+    ],
+    "activities": [
+      {
+        "id": "g3-s03-balanced-forces-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Equal pushes, no change",
+        "minutes": 40,
+        "materials": [
+          "a book",
+          "a table",
+          "a partner (you)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Put a book on a table. Ask: \"Why does the book not fall or move?\" Explain: gravity pulls the book down, and the table pushes up with an equal force. Forces that are equal and opposite are balanced, so the motion does not change.",
+          "Do a hand-push test: you and your child push palms together with the same, gentle strength. Neither moves. Then you push a little harder and see what happens. Use only light pressure and stop right away if anyone feels uncomfortable.",
+          "Draw the book on the table with two arrows: one down and one up. Label them gravity and push from the table.",
+          "Ask: \"What would happen if the table disappeared?\"",
+          "You will know they got it when they explain that equal forces in opposite directions are balanced and the object stays still."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-so01-bird-eye-view",
+    "grade": "3",
+    "subject": "social-studies",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "A map is a view from above",
+    "version": 1,
+    "skillIds": [
+      "g3-map-basics"
+    ],
+    "activities": [
+      {
+        "id": "g3-so01-bird-eye-view-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw a map of a room",
+        "minutes": 40,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Explain: a map is a drawing of a place as if you were looking straight down from above, like a bird. Look at a simple map in a book or an atlas if you have one.",
+          "Pick a room. Stand in the doorway and look at the objects. Have your child draw the room from above using shapes: a rectangle for the bed, a circle for the rug.",
+          "Add a title and label each object. Ask: \"What did you have to leave out so the map is easy to read?\"",
+          "Ask: \"How would someone use your map to find the lamp?\"",
+          "You will know they got it when the map shows objects from above in the right places with labels."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-so02-map-key",
+    "grade": "3",
+    "subject": "social-studies",
+    "unit": "g3-unit-1",
+    "week": 1,
+    "title": "Symbols and a map key",
+    "version": 1,
+    "skillIds": [
+      "g3-map-basics"
+    ],
+    "activities": [
+      {
+        "id": "g3-so02-map-key-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a map with a key",
+        "minutes": 40,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons",
+          "ruler"
+        ],
+        "parentPrompts": [
+          "Explain: a map key (or legend) tells what each symbol means. Look at a real map's key if you have one, such as a park or city map.",
+          "Have your child draw a map of your yard or home with symbols (a tree, a door, a table) and write a key in a box.",
+          "Trade maps. Have you or another family member follow the map to find something, using the key.",
+          "Ask: \"Why did you choose that symbol? Would someone else understand it?\"",
+          "You will know they got it when the key matches the symbols and another person can read the map."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,849 @@
+[
+  {
+    "id": "k-w4-sound-to-letter",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "From sound to letter",
+    "version": 1,
+    "skillIds": [
+      "k-sound-spelling"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-sound-to-letter-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write the first letter I hear",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "pencil",
+          "3 or 4 small toys (sun, tiger, pig, mouse or others you have)"
+        ],
+        "parentPrompts": [
+          "Pick up a toy, say its name slowly, and ask: \"What sound do you hear first?\"",
+          "Help them think of a letter that makes that sound (s for sun, t for tiger, p for pig, m for mouse). Say the letter name and write it.",
+          "Let them write the first letter for each toy on paper and draw a quick picture of it.",
+          "Look for: sensible sounds. If they write a letter you do not expect, ask: \"What sound did you hear?\" Early spelling by sound is a good sign."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-write-a-word",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Write a short word",
+    "version": 1,
+    "skillIds": [
+      "k-sound-spelling"
+    ],
+    "activities": [
+      {
+        "id": "k-write-a-word-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Stretch and write words",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "pencil",
+          "3 counters or coins"
+        ],
+        "parentPrompts": [
+          "Keep small items like buttons, coins, and seeds out of mouths, and stay close while your child plays.",
+          "Say the word 'at'. Push one counter forward for each sound: /a/, /t/. Ask: \"What letters make those sounds?\"",
+          "Write 'at' together. Then try 'it' and 'in' the same way.",
+          "Add a first sound: put 's' in front of 'at' to make 'sat'. Let them write the s themselves.",
+          "Look for: they can hear each sound and write a letter for it. Spelling does not need to be perfect."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-label-a-picture",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Draw and label",
+    "version": 1,
+    "skillIds": [
+      "k-write-info"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-label-a-picture-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw a picture and write a label",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "crayons",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Ask your child to draw something they know about, like a pet, a tree or a toy.",
+          "Ask: \"What is this?\" and write the word on a sticky note. Let them copy any letters they can, or write the first letter themselves.",
+          "Ask them to tell you one more thing about the picture, like \"It is soft.\" Write it down for them.",
+          "Look for: a label or letters next to the drawing and a spoken fact about it."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-write-i-see",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "I see a ...",
+    "version": 1,
+    "skillIds": [
+      "k-capital-i"
+    ],
+    "activities": [
+      {
+        "id": "k-write-i-see-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write a sentence with the word I",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "pencil",
+          "a picture to look at"
+        ],
+        "parentPrompts": [
+          "Write 'I see a' on a strip of paper. Tell your child: the word I is always a capital letter, and a sentence starts with a capital letter.",
+          "Look at a picture or out the window. Ask: \"What do you see?\" Fill in the blank by drawing it or writing the first letter.",
+          "Have them copy 'I see a' under a drawing and complete the sentence with your help. Add a dot at the end and name it: a period.",
+          "Look for: capital I, spaces between words, and an attempt to finish the sentence."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-mini-book",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Make a mini book",
+    "version": 1,
+    "skillIds": [
+      "k-write-info"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-mini-book-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a tiny book about me",
+        "minutes": 10,
+        "materials": [
+          "3 sheets of paper folded in half and stapled (adult only)",
+          "crayons",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Staple the pages into a book (adults only). On the cover, help your child write their name as the author.",
+          "On each inside page, they draw one thing they like and write or dictate a word or sentence.",
+          "Read the book together at the end. Ask: \"Who made this book? Who drew the pictures?\" (They did both!)",
+          "Look for: a drawing plus some letters or words on each page. Keep the book for the reader time later."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-take-away",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Taking away",
+    "version": 1,
+    "skillIds": [
+      "k-subtract-within-5"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-take-away-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Take-away stories",
+        "minutes": 20,
+        "materials": [
+          "5 small toys",
+          "a cloth or box lid"
+        ],
+        "parentPrompts": [
+          "Put 5 toys on the table. Say: \"5 toys are playing. 2 go home.\" Slide 2 under the cloth. Ask: \"How many are left?\"",
+          "Count what remains. Say it out loud: \"5 take away 2 leaves 3.\"",
+          "Try new stories: 4 take away 1, 3 take away 3 (none left!). Let your child hide the toys this time.",
+          "Look for: they can say how many are left by counting what remains. Keep stories happy and silly."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-ways-to-make-5",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Ways to make 5",
+    "version": 1,
+    "skillIds": [
+      "k-make-5"
+    ],
+    "activities": [
+      {
+        "id": "k-ways-to-make-5-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Two-color counters",
+        "minutes": 20,
+        "materials": [
+          "5 small things that are the same on both sides, like 5 pennies (or paper circles colored red on one side)",
+          "a cup"
+        ],
+        "parentPrompts": [
+          "Keep small items like buttons, coins, and seeds out of mouths, and stay close while your child plays.",
+          "Put 5 counters in a cup, shake and spill. Count how many red and how many other.",
+          "Say: \"2 red and 3 yellow make 5.\" Draw it on paper with colored circles.",
+          "Do it again 5 or 6 times. Ask: \"Can we make 5 a different way?\" Find as many pairs as you can: 0+5, 1+4, 2+3, and so on.",
+          "Look for: they know each pair adds to 5 and can find at least 2 different ways."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-count-to-30",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Count to 30",
+    "version": 1,
+    "skillIds": [
+      "k-count-by-ones"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-count-to-30-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Counting to 30 and counting by tens",
+        "minutes": 20,
+        "materials": [
+          "30 small things",
+          "3 cups",
+          "a counting chart or paper strip 1 to 30 (optional)"
+        ],
+        "parentPrompts": [
+          "Count out loud to 30 together. Many children skip numbers like 13 or 20; go slowly on those.",
+          "Put 10 things in each of the 3 cups. Count by tens as you point to each cup: \"10, 20, 30.\"",
+          "Count forward from a given number: \"Start at 24 and count up to 30.\"",
+          "Look for: counting through 30 in order without skipping, with some help on teen numbers. Safety: small items are a choking hazard for babies and toddlers, so keep them away from younger siblings and out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-ten-and-some-more",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Ten and some more",
+    "version": 1,
+    "skillIds": [
+      "k-teen-numbers"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-ten-and-some-more-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ten frame with teens",
+        "minutes": 20,
+        "materials": [
+          "a paper rectangle divided into 10 boxes (2 rows of 5)",
+          "about 20 counters"
+        ],
+        "parentPrompts": [
+          "Fill the 10 boxes with counters. Say: \"This is ten.\" Count them.",
+          "Add 2 more outside the frame and say: \"Ten and two more is twelve.\" Try 13, 15 and 18.",
+          "Ask: \"Show me 14.\" Check that they fill the frame first and then add 4.",
+          "Look for: they see that teen numbers are 'ten and some more.' Safety: small items are a choking hazard for babies and toddlers, so keep them away from younger siblings and out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-number-party",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Number party",
+    "version": 1,
+    "skillIds": [
+      "k-count-objects"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-number-party-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Review games",
+        "minutes": 20,
+        "materials": [
+          "number cards 1 to 10",
+          "small things",
+          "dice (optional)"
+        ],
+        "parentPrompts": [
+          "Play three quick games: count out a number card's worth of items; roll or pick two groups and say which has more; and tell a number story together.",
+          "Let your child be the teacher for one round and check your work.",
+          "End with a victory cheer: count to 30 together.",
+          "Look for: which game felt easy and which felt tricky. Repeat the tricky one in a few days, since this is a review. Safety: small items are a choking hazard for babies and toddlers, so keep them away from younger siblings and out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-compare-characters",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Compare characters",
+    "version": 1,
+    "skillIds": [
+      "k-compare-texts"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-compare-characters-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Two characters, two adventures",
+        "minutes": 20,
+        "materials": [
+          "two familiar stories",
+          "paper"
+        ],
+        "parentPrompts": [
+          "Pick two stories you have read. Recall a character from each.",
+          "Ask: \"What did each character do? What happened to them?\"",
+          "Ask: \"How are they alike? How are they different?\" Draw a heart on what is alike and a star on what is different.",
+          "Look for: they can tell something about each character and one way they are alike or different."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-read-along",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Read along",
+    "version": 1,
+    "skillIds": [
+      "k-group-reading"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-read-along-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Join in reading",
+        "minutes": 20,
+        "materials": [
+          "a book with repeating words or a rhyme",
+          "a nursery rhyme or song you both know"
+        ],
+        "parentPrompts": [
+          "Choose a book with a repeating line. Tell your child: \"When we get to the repeating part, you say it with me.\"",
+          "Read it again, pausing so they can fill in the repeating line or the rhyming word.",
+          "Switch: you read one page and they say the repeating line. Clap on the beat.",
+          "Look for: they join in at the right time and seem to enjoy the sounds."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-two-things-connect",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "How are these connected?",
+    "version": 1,
+    "skillIds": [
+      "k-connect-ideas"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-two-things-connect-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Find the connection",
+        "minutes": 20,
+        "materials": [
+          "a nonfiction book about plants, weather or animals"
+        ],
+        "parentPrompts": [
+          "Read a page that talks about two things, like the sun and a plant.",
+          "Ask: \"How are these two things connected?\" Give a sentence starter: \"The sun helps the plant because...\"",
+          "Find another pair in the book, like a bird and a nest. Ask the same question.",
+          "Look for: they connect two things in their own words, even simply."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-my-favorite-book",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "My favorite book",
+    "version": 1,
+    "skillIds": [
+      "k-write-opinion"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-my-favorite-book-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw and tell about my favorite",
+        "minutes": 20,
+        "materials": [
+          "a favorite book",
+          "paper",
+          "crayons",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Ask: \"What is your favorite book? What is it called?\" Write the title at the top of the page.",
+          "Ask: \"Why is it your favorite?\" Write down what they say after 'I like it because...'.",
+          "Have them draw a picture of their favorite part. They can add letters or labels.",
+          "Look for: they name the book and give a reason. Reasons can be small, like 'it has a dog'."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-act-it-out",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Act it out",
+    "version": 1,
+    "skillIds": [
+      "k-retell"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-act-it-out-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Act out a story",
+        "minutes": 20,
+        "materials": [
+          "a familiar story",
+          "simple props like a scarf or a stuffed animal"
+        ],
+        "parentPrompts": [
+          "Pick a familiar story. Decide who plays each character. Use a scarf or hat as props.",
+          "Retell the story as a play with the beginning, middle and end. You can be the narrator.",
+          "Switch roles. Ask: \"How does this character feel?\"",
+          "Look for: events in order, character voices, and a sense of how a character feels."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-check-the-beans",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Check our beans",
+    "version": 1,
+    "skillIds": [
+      "k-plant-needs"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-check-the-beans-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare the 3 cups",
+        "minutes": 25,
+        "materials": [
+          "the 3 cups from lesson one",
+          "blocks to measure with",
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Keep small items like buttons, coins, and seeds out of mouths, and stay close while your child plays.",
+          "Look at each cup. Ask: \"What do you see? Which cup has a sprout? Which has none?\" (Seeds can take several days to a couple of weeks.)",
+          "Measure any sprout with blocks or by comparing to a finger. Draw what each cup looks like.",
+          "Ask: \"What did the plant in the light and water have that the others did not?\" Plants in the dark may look pale and thin. That is normal.",
+          "Look for: they compare the cups and say plants need light and water. Wash hands afterward."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-bugs-and-birds",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Bugs and birds outside",
+    "version": 1,
+    "skillIds": [
+      "k-animal-needs"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-bugs-and-birds-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Outdoor animal watch",
+        "minutes": 25,
+        "materials": [
+          "a notebook or paper",
+          "crayons",
+          "a magnifying glass (optional)"
+        ],
+        "parentPrompts": [
+          "Go outside and sit quietly for 10 minutes. Look for birds, insects and other small animals. Do not touch animals; some bugs bite or sting. Wash hands afterward.",
+          "Ask: \"What is it doing? What might it eat? Where does it live?\"",
+          "Draw one animal and where it was found.",
+          "Look for: they can say what the animal needs (like food or a hiding place). Not seeing any is fine; look at the signs, like a nest or a web."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-needs-poster",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Needs poster",
+    "version": 1,
+    "skillIds": [
+      "k-needs-model"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-needs-poster-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a poster of what living things need",
+        "minutes": 25,
+        "materials": [
+          "large paper",
+          "crayons",
+          "pictures of plants, animals and people (optional)"
+        ],
+        "parentPrompts": [
+          "Draw a plant, an animal and a person in three spots on the paper.",
+          "Ask: \"What does each one need?\" Draw lines to pictures of water, food, light or a place to live.",
+          "Say: \"Plants and animals live where they can get what they need.\" Ask: \"Where would a bird live? A fish?\"",
+          "Look for: they connect each living thing to its needs and a place it lives. Hang the poster up."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-who-works",
+    "grade": "k",
+    "subject": "social-studies",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Who works here?",
+    "version": 1,
+    "skillIds": [
+      "k-helpers"
+    ],
+    "activities": [
+      {
+        "id": "k-who-works-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Jobs in a place",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Pick a place from earlier lessons (like a library or a store). Ask: \"Who works there? What do they do?\"",
+          "Draw the place and the workers.",
+          "Ask: \"What job might you like to try someday?\"",
+          "Look for: they connect jobs to places and say what workers do."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-our-community-book",
+    "grade": "k",
+    "subject": "social-studies",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Our community book",
+    "version": 1,
+    "skillIds": [
+      "k-community"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-our-community-book-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a community book",
+        "minutes": 25,
+        "materials": [
+          "3 sheets of paper folded and stapled (adult only)",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Staple a small book (adults only). On the cover write 'Our Community'.",
+          "On each page draw a place, a helper and a rule or kind act from the earlier lessons.",
+          "Read the book together. Ask: \"What is your favorite page?\"",
+          "Look for: they can retell something they learned about community and rules."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-community-collage",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Community collage",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-community-collage-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Collage of places and helpers",
+        "minutes": 20,
+        "materials": [
+          "magazines or old catalogs",
+          "child-safe scissors",
+          "glue",
+          "large paper"
+        ],
+        "parentPrompts": [
+          "Find pictures of places and helpers in your community. Adults cut or the child tears.",
+          "Glue them to the large paper to make a collage.",
+          "Talk about each one.",
+          "Look for: pictures sorted by place or helper. Supervise scissors."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-box-town",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Build a town",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-box-town-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Cardboard town",
+        "minutes": 20,
+        "materials": [
+          "small boxes",
+          "markers",
+          "tape",
+          "toy cars"
+        ],
+        "parentPrompts": [
+          "Decorate boxes to be buildings like a library, a store or a fire station.",
+          "Place them on the floor to make a town.",
+          "Drive toy cars on roads made of tape.",
+          "Look for: they name each building and who works there."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-thank-you-card",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Thank-you card",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-thank-you-card-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a card for a helper",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons",
+          "stickers"
+        ],
+        "parentPrompts": [
+          "Pick a helper to thank (a mail carrier, a neighbor, a doctor or someone else).",
+          "Fold paper into a card, draw a picture, and write 'Thank you' for them to copy.",
+          "Have them dictate a sentence to add.",
+          "Look for: a card that shows care. Deliver it together if you can."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-make-shaker",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Make a shaker",
+    "version": 1,
+    "skillIds": [
+      "k-music-rhythm"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-make-shaker-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Shaker instrument",
+        "minutes": 20,
+        "materials": [
+          "an empty plastic bottle with lid",
+          "dry rice or beans",
+          "tape",
+          "stickers"
+        ],
+        "parentPrompts": [
+          "Put a small handful of rice in the bottle. Glue or tape the lid closed (adult only). Safety: keep the lid taped so contents do not spill.",
+          "Decorate the bottle.",
+          "Shake to a beat. Play soft and loud.",
+          "Look for: a steady beat. Check that the lid stays sealed."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w4-gallery-walk",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 4,
+    "title": "Art show",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w4-gallery-walk-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Our art gallery",
+        "minutes": 20,
+        "materials": [
+          "art from the unit",
+          "tape"
+        ],
+        "parentPrompts": [
+          "Hang the art from the unit on a wall or lay it on the floor.",
+          "Walk through like a museum. Ask your child to tell about each piece.",
+          "Ask: \"Which is your favorite? Why?\"",
+          "Look for: they can describe their art in words. End with a bow."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

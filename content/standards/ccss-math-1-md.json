@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ccss-math-1-md-a-1",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.1.MD.A.1",
+    "description": "Order three objects by length; compare the lengths of two objects indirectly by using a third object.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/Math/Content/1/MD/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-1-md-a-2",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.1.MD.A.2",
+    "description": "Express the length of an object as a whole number of length units, by laying multiple copies of a shorter object (the length unit) end to end; understand that the length measurement of an object is the number of same-size length units that span it with no gaps or overlaps. Limit to contexts where the object being measured is spanned by a whole number of length units with no gaps or overlaps.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/Math/Content/1/MD/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-1-md-b-3",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.1.MD.B.3",
+    "description": "Tell and write time in hours and half-hours using analog and digital clocks.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/Math/Content/1/MD/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-1-md-c-4",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.1.MD.C.4",
+    "description": "Organize, represent, and interpret data with up to three categories; ask and answer questions about the total number of data points, how many in each category, and how many more or less are in one category than in another.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/Math/Content/1/MD/",
+    "verified": true
+  }
+]

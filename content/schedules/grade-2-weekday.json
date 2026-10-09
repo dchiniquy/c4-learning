@@ -1,0 +1,482 @@
+{
+  "id": "g2-weekday",
+  "grade": "2",
+  "name": "Grade 2 weekday",
+  "blocks": [
+    {
+      "day": 1,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, share"
+    },
+    {
+      "day": 1,
+      "start": "09:10",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Reading, word study and writing",
+      "sequenceId": "g2-literacy"
+    },
+    {
+      "day": 1,
+      "start": "09:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word games app",
+      "sequenceId": "g2-literacy-app"
+    },
+    {
+      "day": 1,
+      "start": "09:50",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 1,
+      "start": "10:00",
+      "minutes": 25,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g2-math"
+    },
+    {
+      "day": 1,
+      "start": "10:25",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math games app",
+      "sequenceId": "g2-math-app"
+    },
+    {
+      "day": 1,
+      "start": "10:40",
+      "minutes": 20,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and outdoor play"
+    },
+    {
+      "day": 1,
+      "start": "11:00",
+      "minutes": 25,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: materials and matter",
+      "sequenceId": "g2-science"
+    },
+    {
+      "day": 1,
+      "start": "11:25",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 1,
+      "start": "11:45",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free play"
+    },
+    {
+      "day": 2,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, share"
+    },
+    {
+      "day": 2,
+      "start": "09:10",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Reading, word study and writing",
+      "sequenceId": "g2-literacy"
+    },
+    {
+      "day": 2,
+      "start": "09:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word games app",
+      "sequenceId": "g2-literacy-app"
+    },
+    {
+      "day": 2,
+      "start": "09:50",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 2,
+      "start": "10:00",
+      "minutes": 25,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g2-math"
+    },
+    {
+      "day": 2,
+      "start": "10:25",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math games app",
+      "sequenceId": "g2-math-app"
+    },
+    {
+      "day": 2,
+      "start": "10:40",
+      "minutes": 20,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and outdoor play"
+    },
+    {
+      "day": 2,
+      "start": "11:00",
+      "minutes": 25,
+      "subject": "social-studies",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Social studies: maps and geography",
+      "sequenceId": "g2-social-studies"
+    },
+    {
+      "day": 2,
+      "start": "11:25",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 2,
+      "start": "11:45",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free play"
+    },
+    {
+      "day": 3,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, share"
+    },
+    {
+      "day": 3,
+      "start": "09:10",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Reading, word study and writing",
+      "sequenceId": "g2-literacy"
+    },
+    {
+      "day": 3,
+      "start": "09:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word games app",
+      "sequenceId": "g2-literacy-app"
+    },
+    {
+      "day": 3,
+      "start": "09:50",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 3,
+      "start": "10:00",
+      "minutes": 25,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g2-math"
+    },
+    {
+      "day": 3,
+      "start": "10:25",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math games app",
+      "sequenceId": "g2-math-app"
+    },
+    {
+      "day": 3,
+      "start": "10:40",
+      "minutes": 20,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and outdoor play"
+    },
+    {
+      "day": 3,
+      "start": "11:00",
+      "minutes": 25,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: materials and matter",
+      "sequenceId": "g2-science"
+    },
+    {
+      "day": 3,
+      "start": "11:25",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 3,
+      "start": "11:45",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free play"
+    },
+    {
+      "day": 4,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, share"
+    },
+    {
+      "day": 4,
+      "start": "09:10",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Reading, word study and writing",
+      "sequenceId": "g2-literacy"
+    },
+    {
+      "day": 4,
+      "start": "09:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word games app",
+      "sequenceId": "g2-literacy-app"
+    },
+    {
+      "day": 4,
+      "start": "09:50",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 4,
+      "start": "10:00",
+      "minutes": 25,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g2-math"
+    },
+    {
+      "day": 4,
+      "start": "10:25",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math games app",
+      "sequenceId": "g2-math-app"
+    },
+    {
+      "day": 4,
+      "start": "10:40",
+      "minutes": 20,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and outdoor play"
+    },
+    {
+      "day": 4,
+      "start": "11:00",
+      "minutes": 25,
+      "subject": "social-studies",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Social studies: maps and geography",
+      "sequenceId": "g2-social-studies"
+    },
+    {
+      "day": 4,
+      "start": "11:25",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 4,
+      "start": "11:45",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free play"
+    },
+    {
+      "day": 5,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, share"
+    },
+    {
+      "day": 5,
+      "start": "09:10",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Reading, word study and writing",
+      "sequenceId": "g2-literacy"
+    },
+    {
+      "day": 5,
+      "start": "09:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word games app",
+      "sequenceId": "g2-literacy-app"
+    },
+    {
+      "day": 5,
+      "start": "09:50",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 5,
+      "start": "10:00",
+      "minutes": 25,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g2-math"
+    },
+    {
+      "day": 5,
+      "start": "10:25",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math games app",
+      "sequenceId": "g2-math-app"
+    },
+    {
+      "day": 5,
+      "start": "10:40",
+      "minutes": 20,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and outdoor play"
+    },
+    {
+      "day": 5,
+      "start": "11:00",
+      "minutes": 25,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: materials and matter",
+      "sequenceId": "g2-science"
+    },
+    {
+      "day": 5,
+      "start": "11:25",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 5,
+      "start": "11:45",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free play"
+    }
+  ]
+}

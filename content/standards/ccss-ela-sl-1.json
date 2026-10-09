@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ccss-ela-sl-1-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.1",
+    "description": "Participate in collaborative conversations with diverse partners about grade 1 topics and texts with peers and adults in small and larger groups.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-sl-1-1-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.1.a",
+    "description": "Follow agreed-upon rules for discussions (e.g., listening to others with care, speaking one at a time about the topics and texts under discussion).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-sl-1-1-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.1.b",
+    "description": "Build on others' talk in conversations by responding to the comments of others through multiple exchanges.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-sl-1-1-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.1.c",
+    "description": "Ask questions to clear up any confusion about the topics and texts under discussion.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-sl-1-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.2",
+    "description": "Ask and answer questions about key details in a text read aloud or information presented orally or through other media.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-sl-1-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.3",
+    "description": "Ask and answer questions about what a speaker says in order to gather additional information or clarify something that is not understood.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-sl-1-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.4",
+    "description": "Describe people, places, things, and events with relevant details, expressing ideas and feelings clearly.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-sl-1-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.5",
+    "description": "Add drawings or other visual displays to descriptions when appropriate to clarify ideas, thoughts, and feelings.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-sl-1-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.SL.1.6",
+    "description": "Produce complete sentences when appropriate to task and situation.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/SL/1/",
+    "verified": true
+  }
+]

@@ -14,7 +14,7 @@ Aligned to Common Core (ELA, Math), NGSS, C3 (social studies) and CASEL (SEL); p
 
 ## Status
 
-Early build: learner profiles, a PIN-gated parent area, local progress storage with backup/restore, a daily schedule with screen-time meter, and audio-first on-screen activities (tap-to-hear, multiple choice, sort, ten-frame, number line). Sample content covers pre-K and grade 1 only.
+Early build: learner profiles, a PIN-gated parent area with backup/restore and a progress report, a daily schedule with screen-time meter, audio-first on-screen activities (tap-to-hear, multiple choice, sort, ten-frame, number line), and progress-paced lesson sequences. Content is being written level by level, starting with pre-K.
 
 ## Develop
 
@@ -37,6 +37,8 @@ Lessons, skills, standards and schedules are JSON files under `content/`, valida
 - `lessons/` lessons with their activities. Offline, parent-led activities are first-class, with materials and parent prompts.
 - `sequences/` ordered lessons for a subject. A schedule block can point at a sequence and shows the first lesson the child hasn't finished, so lessons advance with progress, not the calendar. Blocks can also point at one fixed lesson (e.g. a repeatable game).
 - `schedules/` daily schedule templates per grade, checked against a per-grade screen-time budget.
+
+How content reaches the app: a build plugin (`vite.config.ts`) reads `content/`, validates it (an invalid lesson fails the build), and serves one chunk per grade plus a separate standards chunk. The app loads only the grade a child is on; the standards load only on the parent's progress report. `npm run export-review -- <grade> <unit>` writes a readable, printable page of a unit to `review/` (git-ignored).
 
 ## Privacy
 

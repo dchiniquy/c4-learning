@@ -1,0 +1,532 @@
+[
+  {
+    "id": "g1-w1-sound-boxes",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Sound boxes for short words",
+    "version": 1,
+    "skillIds": [
+      "g1-cvc-blend"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-sound-boxes-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Push a counter for each sound",
+        "minutes": 20,
+        "materials": [
+          "paper with three boxes drawn in a row",
+          "3 counters or coins",
+          "a list of words: map, sit, hop, bug, red, fan, pig, mud"
+        ],
+        "parentPrompts": [
+          "Keep small items like buttons, coins, and seeds out of mouths, and stay close while your child plays.",
+          "Say a word slowly, like \"map.\" Ask: \"How many sounds do you hear?\" Push one counter into a box for each sound: mmm-aaa-p.",
+          "Touch each box left to right and say its sound, then sweep your finger under all three boxes and blend the sounds into the word.",
+          "Do five more words from your list. Let your child say the word first, then push the sounds. Ask: \"Which sound is in the middle?\"",
+          "Swap roles: you push the sounds (make one mistake on purpose) and your child fixes it.",
+          "Check: your child can say each sound separately and blend them back to the word without your help for at least four of the six words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-a-and-i",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Short a and short i word builds",
+    "version": 1,
+    "skillIds": [
+      "g1-short-vowels"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-a-and-i-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build and read short a and short i words",
+        "minutes": 20,
+        "materials": [
+          "index cards or paper squares",
+          "marker",
+          "letters needed: a, i, t, p, n, s, m, b, d, g (write one per card)"
+        ],
+        "parentPrompts": [
+          "Write the letters on cards, with vowels in a different color if you can. Build \"sat\" and ask your child to read it by saying each sound and then the word.",
+          "Change just one card at a time to make a new word: sat, sit, sip, tip, tap, tan, pan, pin. Ask: \"What changed? What does the new word say?\"",
+          "Mix in a few made-up words such as \"dap\" or \"nid.\" Ask: \"Is that a real word? It is okay to read nonsense words; we are practicing sounds.\"",
+          "Have your child write two of the words on paper while saying the sounds.",
+          "Check: they read the changed words without guessing from the first letter. If they guess, point back to the vowel card and slow down."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-o-u-e",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Short o, u, and e word chains",
+    "version": 1,
+    "skillIds": [
+      "g1-short-vowels"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-o-u-e-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Word chains with o, u, e",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "pencil",
+          "sticky notes or index cards",
+          "list: hop, hug, hen, pot, pup, pet, nut, net, not, bed, bud, bad"
+        ],
+        "parentPrompts": [
+          "Write \"hop\" and read it together. Then change only the last letter to make \"hog,\" and ask: \"What is the new word?\" Change the vowel to make \"hug.\"",
+          "Make a chain on paper, changing one letter each time: pot, pet, pit, pat. Read the whole chain aloud each time it grows.",
+          "Hold up two cards, for example \"bed\" and \"bud.\" Ask: \"Which one means something you sleep in?\" Let your child pick and read the word to prove it.",
+          "Let your child build a chain for you to read. Cheer for silly words.",
+          "Check: they can read six of the listed words by blending sounds and can say which vowel sound is in the middle of each."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-tricky-words",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Tricky words hunt",
+    "version": 1,
+    "skillIds": [
+      "g1-tricky-words"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-tricky-words-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Find and read tricky words",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "a familiar picture book",
+          "highlighter tape or small sticky notes"
+        ],
+        "parentPrompts": [
+          "Write these on cards: the, was, you, said, are, do, have, of. Explain: \"Some words are tricky because part of the word does not sound the way we expect. We learn those by heart.\"",
+          "Read each card and have your child say it. For each, point out the tricky part (for example, the \"s\" in \"was\" sounds like z).",
+          "Open a familiar picture book. Have your child hunt for the tricky words and mark each one with a sticky note.",
+          "Play \"flash and slap\": lay four cards on the table, say a word, and have your child tap the right card.",
+          "Check: your child reads at least six of the eight cards quickly (within a couple of seconds). Keep the missed ones for tomorrow's warm-up."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-first-sentences",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "My first sentences",
+    "version": 1,
+    "skillIds": [
+      "g1-sentence-write"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-first-sentences-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write sentences with capitals and end marks",
+        "minutes": 20,
+        "materials": [
+          "lined paper",
+          "pencil",
+          "a picture your child likes (a photo or a drawing)"
+        ],
+        "parentPrompts": [
+          "Show the picture. Ask your child to say one complete sentence about it, for example \"The dog can run.\"",
+          "Say the sentence together and count the words on your fingers. Then have your child write it, leaving a finger space between words.",
+          "Check the sentence together with three questions: \"Does it start with a capital letter? Did I leave spaces? Does it end with a period (or a ? or !)?\"",
+          "Write a second sentence. Help with tricky words and let your child spell the others by listening for the sounds.",
+          "Check: both sentences start with a capital and end with a mark. Praise the effort, and do not correct every spelling; one or two fixes is plenty."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-hundred-chart",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Count to 120",
+    "version": 1,
+    "skillIds": [
+      "g1-count-120"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-hundred-chart-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Hundred chart counting",
+        "minutes": 20,
+        "materials": [
+          "a hundred chart (or draw a 10 by 12 grid of numbers 1 to 120)",
+          "small markers or paper clips",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Count aloud together from 1 to 120 while pointing to each number on the chart. If you only have 1 to 100, count the last row on paper.",
+          "Pick a starting number such as 47 and say: \"Count on from here.\" Stop at a number you choose and have your child write it.",
+          "Play \"cover up\": cover four numbers with markers. Ask: \"Which numbers are hiding?\" Your child reads the numbers on each side and names the hidden ones.",
+          "Ask: \"What do you notice about the numbers in each column?\" (The ones digit repeats.)",
+          "Check: your child counts to 120 starting from a number you pick below 120, and writes at least three numerals correctly."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-count-on",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Count on to add",
+    "version": 1,
+    "skillIds": [
+      "g1-count-on"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-count-on-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count on from the bigger number",
+        "minutes": 20,
+        "materials": [
+          "10 small objects (buttons, blocks)",
+          "a number line to 20, drawn on paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Show 6 blocks in a tub and add 2 more. Ask: \"How many in all?\" Show how to say 6 and then count on: seven, eight.",
+          "Explain: \"Start with the bigger number in your head and count on.\" Do 3 + 5: say 5, then count on six, seven, eight.",
+          "Use the drawn number line: hop a finger from the start number and say each hop.",
+          "Try five problems: 4 + 1, 5 + 2, 7 + 3, 2 + 6, 3 + 4. Let your child choose blocks or the number line.",
+          "Check: your child starts with a number and counts on without starting again from one on at least four problems."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-part-whole",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Parts of a number",
+    "version": 1,
+    "skillIds": [
+      "g1-add-sub-10"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-part-whole-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Break numbers into two parts",
+        "minutes": 20,
+        "materials": [
+          "10 counters (two colors if possible)",
+          "a paper with a big circle and two smaller circles below it (a part-whole mat)",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Put 7 counters in the big circle. Ask: \"How can we split them into two parts?\" Slide some to the left circle and some to the right.",
+          "Record the parts: \"5 and 2 make 7.\" Find as many ways to split 7 as you can (6 and 1, 4 and 3).",
+          "Try a different number such as 8 or 10. Ask: \"What is the pattern?\" (One part gets bigger as the other gets smaller.)",
+          "Cover one part and ask: \"I had 8. Here are 3. How many are hiding?\"",
+          "Check: your child finds at least three ways to split a number and says an addition sentence for one of them."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-story-problems",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Add-to story problems",
+    "version": 1,
+    "skillIds": [
+      "g1-word-problems"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-story-problems-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Act out addition stories",
+        "minutes": 20,
+        "materials": [
+          "small toys or blocks",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Tell a short story: \"Four ducks were swimming. Three more ducks came. How many ducks now?\" Have your child act it out with toys.",
+          "Draw the story as quick circles or dots and write 4 + 3 = 7. Explain that the + means \"and then some more joined.\"",
+          "Tell two more stories and let your child choose the numbers (keep the total at 10 or less). Include one about putting two groups together, such as \"I have 2 red cars and 5 blue cars.\"",
+          "Ask your child to make up a story for you to solve.",
+          "Check: your child solves each story with toys or a drawing and can say the sum in a full sentence."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-take-away",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Take-away and missing parts",
+    "version": 1,
+    "skillIds": [
+      "g1-sub-unknown"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-take-away-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Subtract and find the missing part",
+        "minutes": 20,
+        "materials": [
+          "10 counters",
+          "a cup to hide counters under",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Show 9 counters. Say: \"9 birds on a branch. 4 fly away.\" Have your child take 4 away and count what is left.",
+          "Write 9 - 4 = 5 and read it aloud: \"Nine take away four is five.\"",
+          "Now the missing-part game: put 8 counters on the table, hide some under the cup, and leave 3 showing. Ask: \"How many are under the cup?\" Check by lifting it.",
+          "Connect it: \"3 + ? = 8, and 8 - 3 = 5. They are partners.\"",
+          "Check: your child solves at least three subtraction problems within 10 and finds one hidden amount."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-sense-detectives",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Sense detectives",
+    "version": 1,
+    "skillIds": [
+      "g1-senses"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-sense-detectives-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Look closely and describe",
+        "minutes": 30,
+        "materials": [
+          "a magnifying glass (optional)",
+          "a few safe objects from your home (a leaf, a spoon, a sponge, a pinecone, a cup of water)",
+          "paper and crayons"
+        ],
+        "parentPrompts": [
+          "Explain: \"Scientists use their senses to notice things. We have five: sight, hearing, touch, smell, and taste. Today we use sight and touch.\"",
+          "Choose one object. Look closely and say three things you see (color, shape, size). Then feel it and say three things about how it feels (smooth, rough, cold).",
+          "Have your child draw the object and label two words. Ask: \"What is different between this and the next object?\"",
+          "Repeat with a second object and compare: \"How are they alike? How are they different?\"",
+          "Ask your child to describe an object without naming it while you guess. Check: they use at least two describing words in a full sentence. Safety: only handle safe objects; never taste unknown things."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-sound-shake",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Sound makes things shake",
+    "version": 1,
+    "skillIds": [
+      "g1-sound-vibration"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-sound-shake-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Feel sound vibrations",
+        "minutes": 30,
+        "materials": [
+          "a rubber band",
+          "a small cardboard box or cup",
+          "a bowl, plastic wrap, and a few grains of rice",
+          "a metal spoon",
+          "a ruler"
+        ],
+        "parentPrompts": [
+          "Pluck a rubber band stretched across a box. Ask: \"What do you hear? What do you see?\" Notice it wiggles back and forth; that wiggling is called vibrating.",
+          "Put your hand lightly on your throat while humming. Ask: \"What do you feel?\" Stop humming. \"What changed?\"",
+          "Stretch plastic wrap tightly over a bowl and sprinkle on a few grains of rice. Hum or speak loudly near it and watch the rice move. Keep the rice away from your child's mouth.",
+          "Hold a ruler over the edge of a table and flick it. Ask: \"What happens when it stops moving?\"",
+          "Ask: \"What do we know about how things make sound?\" Check: your child says that things shake or vibrate when they make a sound."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-mystery-bag",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Mystery bag",
+    "version": 1,
+    "skillIds": [
+      "g1-senses"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-mystery-bag-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Use touch and smell to guess",
+        "minutes": 30,
+        "materials": [
+          "a bag or sock",
+          "5 safe household objects (a spoon, a toy block, a cotton ball, a small apple, a sprig of mint or an orange peel)",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Put one object in the bag without your child seeing it. Have your child feel inside without peeking and describe it aloud: \"It is smooth. It is hard.\"",
+          "Ask: \"What do you think it is? What clue helped?\" Reveal it and talk about which senses helped.",
+          "Switch roles: your child hides an object, you describe it and they check your guess.",
+          "Smell test with eyes closed: orange peel, mint, a dab of cinnamon. Ask: \"Does it smell strong or mild? What does it remind you of?\" Check for allergies first and do not taste anything.",
+          "Record two objects on paper with a drawing and two describing words. Check: your child uses detail words and says which sense they used."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-why-rules",
+    "grade": "1",
+    "subject": "social-studies",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Why we have rules",
+    "version": 1,
+    "skillIds": [
+      "g1-rules"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-why-rules-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Talk about rules and why they help",
+        "minutes": 30,
+        "materials": [
+          "paper",
+          "crayons",
+          "a board game or card game your family owns"
+        ],
+        "parentPrompts": [
+          "Start with a game. Play a round of a familiar game but \"forget\" one rule. Ask: \"Was that fair? Why do games need rules?\"",
+          "Talk about rules at home, in a store, or at a park. Ask: \"What is one rule? Who does it help?\"",
+          "Have your child draw one rule and write a sentence: \"We walk inside.\"",
+          "Ask: \"What happens when no one follows a rule?\" and let your child answer.",
+          "Check: your child names two rules and says how each helps people."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w1-fair-rules",
+    "grade": "1",
+    "subject": "social-studies",
+    "unit": "g1-unit-1",
+    "week": 1,
+    "title": "Fair rules",
+    "version": 1,
+    "skillIds": [
+      "g1-rules"
+    ],
+    "activities": [
+      {
+        "id": "g1-w1-fair-rules-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a fair rule together",
+        "minutes": 30,
+        "materials": [
+          "poster paper",
+          "markers",
+          "a pretend problem, e.g., sharing one toy"
+        ],
+        "parentPrompts": [
+          "Pose a problem: \"Two children want the same swing. What could we do?\" Let your child suggest solutions.",
+          "Decide on a rule that is fair to both, such as taking turns.",
+          "Make a poster with one rule, with a picture. Add the reason for the rule.",
+          "Practice: role-play the problem while using the rule.",
+          "Check: your child explains why the rule is fair and who made it."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

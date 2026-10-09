@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ccss-ela-ri-2-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.1",
+    "description": "Ask and answer such questions as who, what, where, when, why, and how to demonstrate understanding of key details in a text.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.2",
+    "description": "Identify the main topic of a multiparagraph text as well as the focus of specific paragraphs within the text.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.3",
+    "description": "Describe the connection between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.4",
+    "description": "Determine the meaning of words and phrases in a text relevant to a grade 2 topic or subject area.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.5",
+    "description": "Know and use various text features (e.g., captions, bold print, subheadings, glossaries, indexes, electronic menus, icons) to locate key facts or information in a text efficiently.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.6",
+    "description": "Identify the main purpose of a text, including what the author wants to answer, explain, or describe.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.7",
+    "description": "Explain how specific images (e.g., a diagram showing how a machine works) contribute to and clarify a text.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-8",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.8",
+    "description": "Describe how reasons support specific points the author makes in a text.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-9",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.9",
+    "description": "Compare and contrast the most important points presented by two texts on the same topic.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-ri-2-10",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RI.2.10",
+    "description": "By the end of year, read and comprehend informational texts, including history/social studies, science, and technical texts, in the grades 2-3 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RI/2/",
+    "verified": true
+  }
+]

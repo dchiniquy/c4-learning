@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ccss-ela-rl-k-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.1",
+    "description": "With prompting and support, ask and answer questions about key details in a text.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-k-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.2",
+    "description": "With prompting and support, retell familiar stories, including key details.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-k-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.3",
+    "description": "With prompting and support, identify characters, settings, and major events in a story.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-k-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.4",
+    "description": "Ask and answer questions about unknown words in a text.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-k-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.5",
+    "description": "Recognize common types of texts (e.g., storybooks, poems).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-k-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.6",
+    "description": "With prompting and support, name the author and illustrator of a story and define the role of each in telling the story.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-k-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.7",
+    "description": "With prompting and support, describe the relationship between illustrations and the story in which they appear (e.g., what moment in a story an illustration depicts).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-k-9",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.9",
+    "description": "With prompting and support, compare and contrast the adventures and experiences of characters in familiar stories.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rl-k-10",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RL.K.10",
+    "description": "Actively engage in group reading activities with purpose and understanding.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RL/K/",
+    "verified": true
+  }
+]

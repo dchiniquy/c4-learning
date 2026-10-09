@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ccss-ela-w-k-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.K.1",
+    "description": "Use a combination of drawing, dictating, and writing to compose opinion pieces in which they tell a reader the topic or the name of the book they are writing about and state an opinion or preference about the topic or book (e.g., My favorite book is...).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-k-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.K.2",
+    "description": "Use a combination of drawing, dictating, and writing to compose informative/explanatory texts in which they name what they are writing about and supply some information about the topic.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-k-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.K.3",
+    "description": "Use a combination of drawing, dictating, and writing to narrate a single event or several loosely linked events, tell about the events in the order in which they occurred, and provide a reaction to what happened.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-k-5",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.K.5",
+    "description": "With guidance and support from adults, respond to questions and suggestions from peers and add details to strengthen writing as needed.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-k-6",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.K.6",
+    "description": "With guidance and support from adults, explore a variety of digital tools to produce and publish writing, including in collaboration with peers.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-k-7",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.K.7",
+    "description": "Participate in shared research and writing projects (e.g., explore a number of books by a favorite author and express opinions about them).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-w-k-8",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.W.K.8",
+    "description": "With guidance and support from adults, recall information from experiences or gather information from provided sources to answer a question.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/W/K/",
+    "verified": true
+  }
+]

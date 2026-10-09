@@ -1,0 +1,537 @@
+{
+  "id": "k-weekday",
+  "grade": "k",
+  "name": "Kindergarten weekday",
+  "blocks": [
+    {
+      "day": 1,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, song"
+    },
+    {
+      "day": 1,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics app time",
+      "sequenceId": "k-phonics-app"
+    },
+    {
+      "day": 1,
+      "start": "09:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and fine motor",
+      "sequenceId": "k-handwriting"
+    },
+    {
+      "day": 1,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app time",
+      "sequenceId": "k-math-app"
+    },
+    {
+      "day": 1,
+      "start": "09:40",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "k-math"
+    },
+    {
+      "day": 1,
+      "start": "10:00",
+      "minutes": 20,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and movement break"
+    },
+    {
+      "day": 1,
+      "start": "10:20",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and print",
+      "sequenceId": "k-read-aloud"
+    },
+    {
+      "day": 1,
+      "start": "10:40",
+      "minutes": 25,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: how the world works",
+      "sequenceId": "k-science"
+    },
+    {
+      "day": 1,
+      "start": "11:05",
+      "minutes": 35,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play"
+    },
+    {
+      "day": 1,
+      "start": "11:40",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or music",
+      "sequenceId": "k-arts"
+    },
+    {
+      "day": 1,
+      "start": "12:00",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent readers: look at books on my own"
+    },
+    {
+      "day": 2,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, song"
+    },
+    {
+      "day": 2,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics app time",
+      "sequenceId": "k-phonics-app"
+    },
+    {
+      "day": 2,
+      "start": "09:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and fine motor",
+      "sequenceId": "k-handwriting"
+    },
+    {
+      "day": 2,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app time",
+      "sequenceId": "k-math-app"
+    },
+    {
+      "day": 2,
+      "start": "09:40",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "k-math"
+    },
+    {
+      "day": 2,
+      "start": "10:00",
+      "minutes": 20,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and movement break"
+    },
+    {
+      "day": 2,
+      "start": "10:20",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and print",
+      "sequenceId": "k-read-aloud"
+    },
+    {
+      "day": 2,
+      "start": "10:40",
+      "minutes": 25,
+      "subject": "social-studies",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Our community and rules",
+      "sequenceId": "k-social-studies"
+    },
+    {
+      "day": 2,
+      "start": "11:05",
+      "minutes": 35,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play"
+    },
+    {
+      "day": 2,
+      "start": "11:40",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or music",
+      "sequenceId": "k-arts"
+    },
+    {
+      "day": 2,
+      "start": "12:00",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent readers: look at books on my own"
+    },
+    {
+      "day": 3,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, song"
+    },
+    {
+      "day": 3,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics app time",
+      "sequenceId": "k-phonics-app"
+    },
+    {
+      "day": 3,
+      "start": "09:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and fine motor",
+      "sequenceId": "k-handwriting"
+    },
+    {
+      "day": 3,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app time",
+      "sequenceId": "k-math-app"
+    },
+    {
+      "day": 3,
+      "start": "09:40",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "k-math"
+    },
+    {
+      "day": 3,
+      "start": "10:00",
+      "minutes": 20,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and movement break"
+    },
+    {
+      "day": 3,
+      "start": "10:20",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and print",
+      "sequenceId": "k-read-aloud"
+    },
+    {
+      "day": 3,
+      "start": "10:40",
+      "minutes": 25,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: how the world works",
+      "sequenceId": "k-science"
+    },
+    {
+      "day": 3,
+      "start": "11:05",
+      "minutes": 35,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play"
+    },
+    {
+      "day": 3,
+      "start": "11:40",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or music",
+      "sequenceId": "k-arts"
+    },
+    {
+      "day": 3,
+      "start": "12:00",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent readers: look at books on my own"
+    },
+    {
+      "day": 4,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, song"
+    },
+    {
+      "day": 4,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics app time",
+      "sequenceId": "k-phonics-app"
+    },
+    {
+      "day": 4,
+      "start": "09:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and fine motor",
+      "sequenceId": "k-handwriting"
+    },
+    {
+      "day": 4,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app time",
+      "sequenceId": "k-math-app"
+    },
+    {
+      "day": 4,
+      "start": "09:40",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "k-math"
+    },
+    {
+      "day": 4,
+      "start": "10:00",
+      "minutes": 20,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and movement break"
+    },
+    {
+      "day": 4,
+      "start": "10:20",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and print",
+      "sequenceId": "k-read-aloud"
+    },
+    {
+      "day": 4,
+      "start": "10:40",
+      "minutes": 25,
+      "subject": "social-studies",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Our community and rules",
+      "sequenceId": "k-social-studies"
+    },
+    {
+      "day": 4,
+      "start": "11:05",
+      "minutes": 35,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play"
+    },
+    {
+      "day": 4,
+      "start": "11:40",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or music",
+      "sequenceId": "k-arts"
+    },
+    {
+      "day": 4,
+      "start": "12:00",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent readers: look at books on my own"
+    },
+    {
+      "day": 5,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, weather, song"
+    },
+    {
+      "day": 5,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics app time",
+      "sequenceId": "k-phonics-app"
+    },
+    {
+      "day": 5,
+      "start": "09:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and fine motor",
+      "sequenceId": "k-handwriting"
+    },
+    {
+      "day": 5,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app time",
+      "sequenceId": "k-math-app"
+    },
+    {
+      "day": 5,
+      "start": "09:40",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "k-math"
+    },
+    {
+      "day": 5,
+      "start": "10:00",
+      "minutes": 20,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and movement break"
+    },
+    {
+      "day": 5,
+      "start": "10:20",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and print",
+      "sequenceId": "k-read-aloud"
+    },
+    {
+      "day": 5,
+      "start": "10:40",
+      "minutes": 25,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: how the world works",
+      "sequenceId": "k-science"
+    },
+    {
+      "day": 5,
+      "start": "11:05",
+      "minutes": 35,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play"
+    },
+    {
+      "day": 5,
+      "start": "11:40",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or music",
+      "sequenceId": "k-arts"
+    },
+    {
+      "day": 5,
+      "start": "12:00",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent readers: look at books on my own"
+    }
+  ]
+}

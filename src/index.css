@@ -188,3 +188,50 @@ a.big-button.start {
 button.next {
   margin-top: 1rem;
 }
+
+.summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.summary div {
+  border: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+  border-radius: 0.75rem;
+  padding: 0.5rem 1rem;
+}
+
+.summary dt {
+  font-size: 0.9rem;
+}
+
+.summary dd {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.report table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.report th,
+.report td {
+  border: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+  padding: 0.35rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.meta {
+  font-size: 0.85em;
+  font-weight: normal;
+  opacity: 0.8;
+}
+
+@media print {
+  .no-print {
+    display: none;
+  }
+}

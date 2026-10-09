@@ -1,0 +1,539 @@
+[
+  {
+    "id": "g1-w2-blend-it",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Blend it, say it",
+    "version": 1,
+    "skillIds": [
+      "g1-blends"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-blend-it-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Say words with two consonants side by side",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "6 counters or coins",
+          "list: stop, flag, swim, grab, plan, frog, step, clap"
+        ],
+        "parentPrompts": [
+          "Keep small items like buttons, coins, and seeds out of mouths, and stay close while your child plays.",
+          "Explain: \"In a blend, two letters stand side by side and you hear both sounds quickly, like s-t in stop.\" Say \"stop\" slowly: s-t-o-p.",
+          "Use sound boxes with four boxes. Say a word from your list and have your child push one counter per sound. Ask: \"How many sounds? Which two sounds are right next to each other?\"",
+          "Play \"chop the word\": you say the sounds slowly (f-r-o-g), and your child blends them into the word.",
+          "Reverse it: you say the word, and your child chops it into sounds on their fingers.",
+          "Check: your child can say all four sounds in at least five of the eight words and can blend a word you chop."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-start-blends",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Word building with beginning blends",
+    "version": 1,
+    "skillIds": [
+      "g1-blends"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-start-blends-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build words that start with two consonants",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "blend cards: st, fl, pl, cl, sl, dr, tr",
+          "ending cards: op, ap, ip, ug"
+        ],
+        "parentPrompts": [
+          "Make the blend cards in one color and the ending cards in another. Put st + op together and read \"stop.\" Slide the cards apart and read each part.",
+          "Make new words by swapping the blend: stop, flop, plop, drop. Ask: \"Is it a real word? What does it mean?\"",
+          "Do the same with ap, ip, and ug (clap, flap, slap, trip, drip, clip, plug, slug).",
+          "Have your child write three of the words on paper and read them back to you.",
+          "Check: your child reads the blend as two quick sounds (not guessing) in at least eight of the words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-end-blends",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Ending blends: nd, st, mp, nk",
+    "version": 1,
+    "skillIds": [
+      "g1-blends"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-end-blends-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read and write words that end in two consonants",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "paper and pencil",
+          "list: hand, sand, nest, best, jump, lamp, camp, sink, pink"
+        ],
+        "parentPrompts": [
+          "Write \"hand\" on a card. Say it slowly and tap each sound: h-a-n-d. Ask: \"What two sounds are at the end?\"",
+          "Read the list together, tapping a finger for each sound. Sort the cards by ending: nd, st, mp, nk.",
+          "Dictate three words (sand, jump, pink). Have your child say the sounds slowly and write the letters they hear.",
+          "Say a silly sentence for your child to finish aloud: \"I will jump on the ___.\" Let them choose a word from the cards.",
+          "Check: they can read the words and write the ending blend correctly for at least two of the three dictated words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-retell",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Retell a story",
+    "version": 1,
+    "skillIds": [
+      "g1-retell"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-retell-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Retell a picture book in order",
+        "minutes": 20,
+        "materials": [
+          "a picture book with a clear story (any from your shelf or library)",
+          "paper folded into three sections",
+          "crayons or pencil"
+        ],
+        "parentPrompts": [
+          "Read the book aloud once. Stop now and then to ask: \"What do you think happens next?\" Keep it light.",
+          "Ask: \"Who is in the story? Where does it happen?\" Then label the three paper sections Beginning, Middle, End.",
+          "Have your child draw one important moment in each section while telling you what happened. Write a short caption they dictate.",
+          "Ask: \"What did the character learn or what was the big idea?\" Accept any answer your child can support from the book.",
+          "Check: your child tells the three parts in order, naming at least one character and the setting, using key details from the book."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-spell-by-sound",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Spell it by listening",
+    "version": 1,
+    "skillIds": [
+      "g1-spell-sound"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-spell-by-sound-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write words by stretching the sounds",
+        "minutes": 20,
+        "materials": [
+          "whiteboard or paper",
+          "marker or pencil",
+          "a few small toys or pictures (a frog, a clip, a drum, a plug)"
+        ],
+        "parentPrompts": [
+          "Put three toys on the table. Pick one and say its name slowly. Ask: \"What do you hear first? Next?\"",
+          "Have your child write the word using the sounds they hear. Invented spelling is fine, such as \"frg\" for frog. Do not correct right away.",
+          "Write the word the standard way underneath and compare: \"You heard every sound. This word also needs an o in the middle.\" Praise what is right.",
+          "Do three or four more words. Then read all of them together.",
+          "Check: most of the sounds in each word appear in your child's spelling, in the right order."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-doubles",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Doubles facts",
+    "version": 1,
+    "skillIds": [
+      "g1-add-sub-10"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-doubles-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Learn doubles and one more",
+        "minutes": 20,
+        "materials": [
+          "10 counters or two dice",
+          "paper",
+          "pencil",
+          "a mirror or a drawing of two matching hands"
+        ],
+        "parentPrompts": [
+          "Show doubles with a picture: two hands with 3 fingers each is 3 + 3 = 6. Build doubles to 5 + 5 with counters and say them aloud.",
+          "Make a doubles poster: 1 + 1, 2 + 2, up to 5 + 5, with a small drawing for each.",
+          "Introduce \"doubles plus one\": 4 + 5 is 4 + 4 and one more, so 9. Try 3 + 4 and 5 + 6.",
+          "Roll a die, then roll it again. If the numbers match, shout \"Double!\" Add each pair of rolls.",
+          "Check: your child answers doubles to 5 + 5 without counting and uses doubles to solve one near-double."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-fact-families",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Fact families",
+    "version": 1,
+    "skillIds": [
+      "g1-properties"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-fact-families-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build fact family houses",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "pencil",
+          "10 counters",
+          "three numbers per family, such as 2, 5, 7; 3, 4, 7; 4, 6, 10"
+        ],
+        "parentPrompts": [
+          "Draw a roof (triangle) with three numbers: 2, 5, 7. Write the facts: 2 + 5 = 7, 5 + 2 = 7, 7 - 2 = 5, 7 - 5 = 2.",
+          "Show with counters that 2 + 5 and 5 + 2 give the same total. Ask: \"Does the order change the answer?\" (It does not for addition.)",
+          "Pick a second family, such as 3, 4, 7. Have your child write all four facts. Then a third family with a total of 10.",
+          "Play \"which fact does not belong?\" Write three correct facts from one family and one wrong one. Ask your child to find it.",
+          "Check: your child writes all four facts for one family and explains that you can add in either order."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-equal-sign",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "What does = mean?",
+    "version": 1,
+    "skillIds": [
+      "g1-equal-sign"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-equal-sign-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Balance equations",
+        "minutes": 20,
+        "materials": [
+          "a ruler or pencil balanced on a roll of tape, or a homemade balance (a ruler over a book)",
+          "10 small objects",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Show a balanced seesaw. Say: \"The equal sign means both sides have the same amount.\" Put 3 counters on one side and 2 + 1 on the other.",
+          "Write 3 = 2 + 1. Ask: \"Does it still balance?\" Write other forms, like 5 = 5, 4 + 1 = 3 + 2.",
+          "Play true or false. Say each equation aloud and show it: 6 = 4 + 2 (true), 7 = 5 + 1 (false), 3 + 3 = 2 + 4 (true), 8 - 2 = 5 (false).",
+          "Ask your child to make up one true equation and one false equation.",
+          "Check: your child correctly decides true or false for at least three of four equations and explains in a sentence what = means."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-mystery-number",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Mystery number",
+    "version": 1,
+    "skillIds": [
+      "g1-unknown-number"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-mystery-number-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Solve for the missing number",
+        "minutes": 20,
+        "materials": [
+          "10 counters",
+          "small cup or cover",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Write 5 + __ = 9. Ask: \"What number goes in the blank?\" Show it with counters: five on the table, nine in all, find how many to add.",
+          "Hide counters under a cup to show it. Count on from 5 to 9 on fingers: six, seven, eight, nine, that is four more.",
+          "Try 3 + __ = 7, __ + 2 = 6, 8 - __ = 3. Let your child draw or use counters.",
+          "Make a mystery number puzzle for each other. The unknown can be anywhere.",
+          "Check: your child finds the missing number for at least three problems and can show how they know."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-count-up",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Subtract by counting up",
+    "version": 1,
+    "skillIds": [
+      "g1-sub-unknown"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-count-up-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count up to find the difference",
+        "minutes": 20,
+        "materials": [
+          "a number line to 20 on paper",
+          "a token",
+          "10 counters",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Ask: \"I have 8 stickers and I want 10. How many more do I need?\" Count up from 8 to 10 on the number line: nine, ten, two more.",
+          "Connect: \"10 - 8 is 2 because 8 + 2 is 10.\" Say the pair of facts together.",
+          "Try 9 - 6, 7 - 4, and 10 - 3. For each, put the token on the smaller number and hop up to the larger one.",
+          "Ask: \"Is it faster to count back or count up for 10 - 8? What about 10 - 3?\" There is no one right answer; let your child explain.",
+          "Check: your child solves three subtraction problems by counting up and writes the matching addition fact."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-plant-parts",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Parts of a plant",
+    "version": 1,
+    "skillIds": [
+      "g1-plant-parts"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-plant-parts-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Find roots, stem, leaves",
+        "minutes": 30,
+        "materials": [
+          "a small potted plant or a plant outside (a weed pulled with its roots is fine)",
+          "paper",
+          "crayons",
+          "a magnifying glass (optional)"
+        ],
+        "parentPrompts": [
+          "Keep small items like buttons, coins, and seeds out of mouths, and stay close while your child plays.",
+          "Look closely at the plant with your child. Find the leaves, the stem, and the roots (if you have a pulled plant). Ask: \"What does each part look like?\"",
+          "Explain: roots hold the plant in place and take in water from the soil; the stem holds the plant up and carries water to the leaves; leaves use sunlight to help the plant make its food.",
+          "Draw the plant and label root, stem, and leaf. Add a flower if it has one; many plants make flowers that later grow seeds.",
+          "Play \"what part am I?\": \"I hold the plant in the ground\" (roots), \"I hold the leaves up\" (stem).",
+          "Check: your child can name three parts of a plant and say one job for each. Safety: wash hands after touching soil and plants; do not eat any plant unless you know it is safe."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-seed-in-a-bag",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Seed in a bag",
+    "version": 1,
+    "skillIds": [
+      "g1-plant-parts"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-seed-in-a-bag-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Start a bean seed",
+        "minutes": 30,
+        "materials": [
+          "a clear zip bag",
+          "a paper towel",
+          "2 or 3 dried beans (pinto or lima)",
+          "tape",
+          "water",
+          "a notebook"
+        ],
+        "parentPrompts": [
+          "Fold a damp (not dripping) paper towel and place it in the bag. Add the beans so they are visible through the bag.",
+          "Ask: \"What do you think will happen? What does a seed need?\" Write your child's prediction. Tape the bag in a sunny window.",
+          "Draw the seed on day one. Check it every day or two for a week and draw what changes. Many beans show roots in 3 to 7 days.",
+          "Talk about what comes out first: a root, then a stem and leaves.",
+          "Check: your child makes a prediction, draws at least two days of observation, and says one thing seeds need to start growing (water). Safety: keep the dry beans away from mouths, since they are a choking hazard; throw out the bag if you see mold."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-plant-needs",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "What plants need",
+    "version": 1,
+    "skillIds": [
+      "g1-plant-parts"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-plant-needs-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Plants in different conditions",
+        "minutes": 30,
+        "materials": [
+          "3 small cups with soil and a few quick-growing seeds (such as grass or bean seeds), or 3 similar plants",
+          "water",
+          "a dark place such as a closet",
+          "a sunny window"
+        ],
+        "parentPrompts": [
+          "Plant seeds in three cups of soil (or use three similar plants). Label them: sun and water; sun, no water; no light, with water.",
+          "Ask: \"Which plant do you think will grow best? Why?\" Record your child's idea.",
+          "Check them every day for a week. Water them only as planned. Draw what you notice.",
+          "At the end, compare. Ask: \"What did the plants need?\" (Light and water help most plants grow.)",
+          "Check: your child says what each plant needed and what happened when it was missing. Safety: wash hands; keep soil away from mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-safety-rules",
+    "grade": "1",
+    "subject": "social-studies",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Safety rules in the community",
+    "version": 1,
+    "skillIds": [
+      "g1-rules"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-safety-rules-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Walk and spot safety signs",
+        "minutes": 30,
+        "materials": [
+          "paper and pencil",
+          "a clipboard or a book to write on",
+          "a walk outside or picture of streets"
+        ],
+        "parentPrompts": [
+          "Take a short walk or look at pictures. Find signs: stop signs, crosswalk signs, and traffic lights. Ask: \"What does each one tell us?\"",
+          "Talk about why we cross at crosswalks, hold an adult's hand, and look both ways. Practice at a safe crossing with an adult.",
+          "Draw three signs and write what each means.",
+          "Play \"red light, green light\" at home as a game and talk about why the real lights matter.",
+          "Check: your child explains what two signs mean and why they help people stay safe. Safety: stay with your child near any road."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w2-family-agreement",
+    "grade": "1",
+    "subject": "social-studies",
+    "unit": "g1-unit-1",
+    "week": 2,
+    "title": "Our family agreement",
+    "version": 1,
+    "skillIds": [
+      "g1-rules"
+    ],
+    "activities": [
+      {
+        "id": "g1-w2-family-agreement-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write a family agreement",
+        "minutes": 30,
+        "materials": [
+          "poster paper",
+          "markers",
+          "a time when the whole family can talk"
+        ],
+        "parentPrompts": [
+          "Ask each person: \"What helps our home run well?\" Write down ideas.",
+          "Choose three or four rules everyone agrees on. Use positive words: \"We talk kindly.\"",
+          "Decorate the poster. Everyone who lives in your home can sign or draw a handprint.",
+          "Talk about what to do when someone forgets a rule: \"What is a kind reminder?\"",
+          "Check: your child names the rules and says one reason for each. Hang it where everyone can see it."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

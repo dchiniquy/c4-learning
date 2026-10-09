@@ -1,0 +1,517 @@
+[
+  {
+    "id": "g2-w3-igh-and-y",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Long i with igh and y",
+    "version": 1,
+    "skillIds": [
+      "g2-vowel-teams"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-igh-and-y-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Long i with igh and y",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "sticky notes"
+        ],
+        "parentPrompts": [
+          "Write \"night\" and \"fly.\" Say both and point out the long i sound. Tell your child that igh makes long i, and so can y at the end of a short word.",
+          "Read together: igh (light, high, bright, right, sight) and y (my, by, try, sky, cry, fly).",
+          "Hide 6 sticky notes with words around the room. Your child finds one, reads it aloud, and sorts it into an igh pile or a y pile.",
+          "Have them write a sentence about the sky or night using two of the words. Check: they read all words correctly and spell igh and y words with the right pattern."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-two-part-words",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Words with two parts",
+    "version": 1,
+    "skillIds": [
+      "g2-two-syllable"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-two-part-words-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Words with two parts",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "scissors (child-safe)"
+        ],
+        "parentPrompts": [
+          "Say \"cupcake\" and clap the two parts: cup-cake. Tell your child that a word can be read one part at a time.",
+          "Write these words on paper and cut each between the parts: rainbow, cupcake, mailbox, beanbag, airplane, sunshine. Have your child read each part, then slide the parts together and say the whole word.",
+          "Your child sorts words by number of claps (1 or 2): cake, cupcake, rain, mailbox, boat, sailboat.",
+          "Write 3 new two-part words together. Check: they read each part first, then the whole word, and can find the long vowel in each part."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-compound-words",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Put two words together",
+    "version": 1,
+    "skillIds": [
+      "g2-compound-words"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-compound-words-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Put two words together",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons or markers"
+        ],
+        "parentPrompts": [
+          "Write \"book\" and \"shelf\" and ask what happens when we put them together. (bookshelf)",
+          "Make a list of two-word pairs on paper and have your child match them: sun + flower, foot + ball, rain + coat, note + book, bird + house. Ask what each new word means.",
+          "Ask your child to choose two compound words and draw a funny picture of each part (for example, a cup and a cake for \"cupcake\"). Write the word underneath.",
+          "Ask: \"If you know the two small words, how can you guess the big word?\" Check: they can split a compound word and explain its meaning using both parts."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-story-questions",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Who, what, where, why",
+    "version": 1,
+    "skillIds": [
+      "g2-story-details"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-story-questions-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Who, what, where, why",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read this story aloud: \"Tam wanted to play outside, but it began to rain. She sat by the window and felt sad. Her uncle said, 'Let's put on our boots.' They splashed in puddles and laughed. Tam smiled. She learned that a rainy day can still be a fun day.\"",
+          "Ask these questions: Who is the story about? What was the problem? Where did they go? How did Tam feel at the start? How did she feel at the end? Why did she smile?",
+          "Ask: \"What lesson did Tam learn?\" Talk about whether it can help in real life.",
+          "Have your child draw the beginning and the ending, then write one sentence under each. Check: they can answer who, what, where, and why with details from the story."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-opinion-because",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Opinion with reasons",
+    "version": 1,
+    "skillIds": [
+      "g2-opinion-writing"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-opinion-because-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Opinion with reasons",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Ask your child to pick a topic they feel strongly about, such as a book, a food, or a place to visit. Say it out loud first: \"I think ___ is the best because ___.\"",
+          "Have them write an opening sentence, their opinion, two reasons using \"because\" and \"also,\" and a closing sentence such as \"That is why I like it.\"",
+          "Read it aloud together. Ask: \"Does each reason help someone understand your opinion?\" Add or fix one reason together if needed.",
+          "Check capital letters and end marks. Check: the piece has an opening, an opinion, two reasons joined with linking words, and an ending."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-compare-numbers",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Compare three-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-compare"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-compare-numbers-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare three-digit numbers",
+        "minutes": 25,
+        "materials": [
+          "index cards",
+          "pencil",
+          "paper"
+        ],
+        "parentPrompts": [
+          "Write 354 and 345. Ask your child to compare the hundreds first, then the tens, then the ones.",
+          "Introduce the symbols: > means greater than, < means less than, and = means equal. Say that the \"mouth\" opens to the bigger number.",
+          "Make pairs on cards and have your child place the right symbol between them: 421 __ 412, 650 __ 560, 199 __ 201.",
+          "Ask: \"Which place do you check first?\" Check: they compare the hundreds digits first and use the right symbol."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-count-by-hundreds",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Counting by hundreds",
+    "version": 1,
+    "skillIds": [
+      "g2-skip-count",
+      "g2-place-value"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-count-by-hundreds-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Counting by hundreds",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "index cards"
+        ],
+        "parentPrompts": [
+          "Write 100, 200, 300 and so on up to 900 on cards. Ask: \"How many hundreds in 500?\"",
+          "Mix up the cards and have your child put them in order. Then have them say the number words aloud: one hundred, two hundred, three hundred.",
+          "Count on from any number by 100s: 250, 350, 450. Ask what changes and what stays the same.",
+          "Check: they know that 700 means seven hundreds, and they can count on by hundreds."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-ten-more-hundred-more",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "10 more, 10 less, 100 more, 100 less",
+    "version": 1,
+    "skillIds": [
+      "g2-mental-10-100"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-ten-more-hundred-more-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "10 more, 10 less, 100 more, 100 less",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "a hundred chart (optional)"
+        ],
+        "parentPrompts": [
+          "Write 236. Ask: \"What is 10 more?\" (246.) Point out that only the tens digit changes.",
+          "Now ask: \"What is 100 more than 236?\" (336.) Only the hundreds digit changes.",
+          "Practice in both directions with 10 less and 100 less. Try 450, 618, 302 (302 - 10 = 292, which needs a little help).",
+          "Check: they answer 10 more and 100 more without counting, and can say which digit changed."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-add-two-digit",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Add two-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-add-sub-100"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-add-two-digit-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Add two-digit numbers",
+        "minutes": 25,
+        "materials": [
+          "base-ten blocks or paper strips and squares",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Show 34 + 25 with tens and ones. Add tens (30 + 20 = 50) and ones (4 + 5 = 9), then combine: 59.",
+          "Try 46 + 32 and 51 + 27 using the same method. Have your child say each step aloud.",
+          "Have your child make up a two-digit addition problem for you to solve with blocks.",
+          "Check: they can add tens and ones separately and put the answer together."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-fact-game",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Fact fluency game",
+    "version": 1,
+    "skillIds": [
+      "g2-fact-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-fact-game-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Fact fluency game",
+        "minutes": 25,
+        "materials": [
+          "deck of cards with 10s and face cards removed (Ace counts as 1)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Deal 2 cards face up. Your child says the sum quickly. If correct, they keep both cards.",
+          "Switch roles and let your child quiz you. Try to beat your best time.",
+          "After 10 minutes, count the cards you each won. Pick the facts that were hardest and practice them.",
+          "Check: they know many sums up to 18 quickly and can say how they figured out the harder ones."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-pieces-challenge",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Same pieces, new shapes",
+    "version": 1,
+    "skillIds": [
+      "g2-build-pieces"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-pieces-challenge-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Same pieces, new shapes",
+        "minutes": 25,
+        "materials": [
+          "10 sheets of scrap paper",
+          "tape",
+          "scissors (child-safe)",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Tell your child to use the paper and tape to make something that can stand up by itself.",
+          "Take it apart and use the same pieces to make something different, such as a bridge or a hat.",
+          "Ask: \"What changed when you used the pieces another way?\"",
+          "Check: they can explain that the same pieces can be arranged to make different objects."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-melting-ice",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Ice melts and freezes",
+    "version": 1,
+    "skillIds": [
+      "g2-heat-cool"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-melting-ice-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ice melts and freezes",
+        "minutes": 25,
+        "materials": [
+          "ice cubes",
+          "2 small bowls",
+          "a freezer",
+          "a warm sunny spot or warm hands",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Put an ice cube in each bowl. Place one in a warm spot and one in a cooler spot. Predict what will happen.",
+          "Check every few minutes and record what you see. Ice turns to water when it warms up.",
+          "Put one bowl of the melted water in the freezer and check later. Does the water turn solid again? Yes, cooling can turn it back.",
+          "Ask: \"What caused the ice to change?\" Check: they say heating melts ice and cooling freezes it, a change that can go back."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-chocolate-melt",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Melting and cooling again",
+    "version": 1,
+    "skillIds": [
+      "g2-heat-cool"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-chocolate-melt-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Melting and cooling again",
+        "minutes": 25,
+        "materials": [
+          "a few chocolate chips on a plate (check for allergies first; a small piece of butter works too)",
+          "a freezer or refrigerator",
+          "a paper towel"
+        ],
+        "parentPrompts": [
+          "Ask your child to hold a chocolate chip in a closed hand for a minute. Check allergies first and wash hands.",
+          "Look at the chip. Ask: \"What happened? Why did the chocolate change?\" (Body warmth heated it.)",
+          "Put the melted piece on a plate and cool it in the refrigerator. Check after 15 minutes.",
+          "Ask: \"Did it change back?\" Check: they say cooling can make it solid again, though it may look a bit different."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-landforms-water",
+    "grade": "2",
+    "subject": "social-studies",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Landforms and bodies of water",
+    "version": 1,
+    "skillIds": [
+      "g2-landforms"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-landforms-water-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Landforms and bodies of water",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons",
+          "playdough or clay (optional)",
+          "a tray"
+        ],
+        "parentPrompts": [
+          "Name some landforms: mountain, hill, valley, plain, and island. Talk about water too: river, lake, ocean, and pond.",
+          "Use playdough on a tray to make a small landscape with at least three land and two water features. Add a little water in a cup to show a lake.",
+          "Draw it as a map from above, labeling each part.",
+          "Ask: \"Which are land? Which are water?\" Check: they name at least four landforms or bodies of water and point to them on their model."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w3-town-state-country",
+    "grade": "2",
+    "subject": "social-studies",
+    "unit": "g2-unit-1",
+    "week": 3,
+    "title": "Where is my home?",
+    "version": 1,
+    "skillIds": [
+      "g2-our-place"
+    ],
+    "activities": [
+      {
+        "id": "g2-w3-town-state-country-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Where is my home?",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons",
+          "a map or atlas, a globe if you have one"
+        ],
+        "parentPrompts": [
+          "Explain that a place can be part of a bigger place: our home is in a neighborhood, which is in a town, which is in a state or region, which is in a country.",
+          "Draw circles inside circles with your home in the middle. Label each one with your own names.",
+          "Find your country on a map or globe. Point to where you live.",
+          "Check: they can name their town and country and explain that one place can be inside another."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

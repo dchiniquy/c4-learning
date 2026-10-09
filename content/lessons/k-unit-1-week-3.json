@@ -1,0 +1,841 @@
+[
+  {
+    "id": "k-w3-sit-on-the-line",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Writing on the line",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-sit-on-the-line-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Letters sitting on the line",
+        "minutes": 10,
+        "materials": [
+          "paper with a line drawn across (or lined paper)",
+          "pencil",
+          "a small toy"
+        ],
+        "parentPrompts": [
+          "Draw a thick line across the middle of a sheet. Explain that letters sit on it, like toys on a shelf.",
+          "Have your child write the letter T so that it stands on the line, then L and I.",
+          "Ask: \"Is your letter sitting on the line or floating?\" Let them fix any that float.",
+          "Look for: letters that start at the top and rest on the line. Tall letters (T, L, I) should be taller than small ones (c, o)."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-big-and-small-partners",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Big and small letter partners",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-big-and-small-partners-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Match capital and small letters",
+        "minutes": 10,
+        "materials": [
+          "8 index cards or paper squares",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Write capital letters S, A, T, P on 4 cards and small s, a, t, p on 4 other cards.",
+          "Lay all cards face up. Have your child match each capital with its small partner and name them.",
+          "Ask: \"Which pair looks almost the same only in a different size?\" (S and s, for example.)",
+          "Look for: matches S-s, T-t, A-a, P-p. Then write one partner pair on paper together."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-finger-spaces",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Finger spaces between words",
+    "version": 1,
+    "skillIds": [
+      "k-word-spaces"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-finger-spaces-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write with finger spaces",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "pencil",
+          "a craft stick or a flat sticker"
+        ],
+        "parentPrompts": [
+          "Say: \"Words need space so we can read them.\" Write 'I see a cat' with no spaces, then with spaces, and read both.",
+          "Give your child a craft stick (a 'space stick'). Have them lay it down after each word to keep the space.",
+          "Help them write 'I am' and 'I see' using the stick, one word at a time.",
+          "Ask: \"Where do I put the stick?\" Look for: a visible gap between each word they write."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-letter-of-the-day",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Write today's favorite letter",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-letter-of-the-day-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Practice a favorite letter",
+        "minutes": 10,
+        "materials": [
+          "paper",
+          "markers",
+          "stickers (optional)"
+        ],
+        "parentPrompts": [
+          "Let your child choose any letter they have practiced and say why they like it.",
+          "Write it big, then medium, then small, in different colors.",
+          "Decorate the letter with patterns or stickers. Say its name and a word that starts with its sound.",
+          "Look for: they can say the name of the letter and write it from the top."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-name-three-times",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Write my whole name",
+    "version": 1,
+    "skillIds": [
+      "k-print-letters"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-name-three-times-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write my name",
+        "minutes": 10,
+        "materials": [
+          "name card",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Show the name card. Say each letter name slowly as you point.",
+          "Have your child write their name 3 times: once with your help, once copying, once from memory.",
+          "Underline the first letter (capital) with a colored crayon.",
+          "Ask: \"Does every letter sit on the line?\" Look for: correct letters in order. Reversed letters are common at age 5; just model the right way gently."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-which-numeral-is-bigger",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Which number is bigger?",
+    "version": 1,
+    "skillIds": [
+      "k-compare-numerals"
+    ],
+    "activities": [
+      {
+        "id": "k-which-numeral-is-bigger-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Number card game",
+        "minutes": 20,
+        "materials": [
+          "number cards 1 to 10 (write on paper squares)",
+          "small things for checking"
+        ],
+        "parentPrompts": [
+          "Make cards for 1 to 10, with the numeral. Shuffle and deal each player a few cards.",
+          "Each player flips one card at the same time. The bigger number wins both cards.",
+          "If they disagree, check by counting out that many items for each card and lining them up.",
+          "Look for: they can say which numeral is bigger. Ask: \"How do you know?\" Counting up to the number is a fine answer."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-sort-and-count",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Sort and count",
+    "version": 1,
+    "skillIds": [
+      "k-sort-count"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-sort-and-count-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sort objects and count each group",
+        "minutes": 20,
+        "materials": [
+          "a pile of mixed small things (socks, toy cars, buttons)",
+          "2 or 3 bowls or paper plates"
+        ],
+        "parentPrompts": [
+          "Keep small items like buttons, coins, and seeds out of mouths, and stay close while your child plays.",
+          "Mix up a pile of 10 to 15 things that can be sorted, like blocks of different colors.",
+          "Ask your child to sort them into groups. Ask: \"How did you sort them?\"",
+          "Count each group and say the number. Ask: \"Which group has the most? Which has the fewest?\"",
+          "Look for: a clear rule for each group (color, size or kind) and correct counts. Try sorting a new way afterward."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-join-groups",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Put groups together",
+    "version": 1,
+    "skillIds": [
+      "k-add-within-5"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-join-groups-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Join two groups",
+        "minutes": 20,
+        "materials": [
+          "10 toy cars or blocks",
+          "paper",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Put 2 cars in a parking spot. Drive 1 more in. Ask: \"How many cars are there now?\" Count them.",
+          "Say it as a story: \"2 and 1 more makes 3.\" Try 1 and 3, then 2 and 2.",
+          "Write the math on paper for your child: 2 + 1 = 3. Say what the plus and equals signs mean: 'and' and 'makes'.",
+          "Look for: they can say how many in all by counting. Using fingers is great."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-add-with-fingers",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Adding with fingers",
+    "version": 1,
+    "skillIds": [
+      "k-add-within-5"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-add-with-fingers-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Show numbers on fingers",
+        "minutes": 20,
+        "materials": [
+          "your hands"
+        ],
+        "parentPrompts": [
+          "Show 2 fingers on one hand and 1 on the other. Ask: \"How many fingers in all?\"",
+          "Take turns calling out two small numbers for each other to show and add.",
+          "Play 'Show me 5': you hold up some fingers and ask how many more to make 5.",
+          "Look for: they can show each number and count the total. Over time they will know some facts without counting."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-number-stories",
+    "grade": "k",
+    "subject": "math",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Act out a number story",
+    "version": 1,
+    "skillIds": [
+      "k-add-word-problems"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-number-stories-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Act out math stories",
+        "minutes": 20,
+        "materials": [
+          "toy animals or other small toys"
+        ],
+        "parentPrompts": [
+          "Tell a short story and act it out: \"3 ducks are swimming. 2 more come. How many ducks now?\"",
+          "Have your child act out the story with toys and count the answer.",
+          "Switch: let them tell you a story and you solve it. Keep numbers to 5 or less.",
+          "Look for: they can tell the story with the toys, and give the total. Ask: \"How did you find out?\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-main-topic",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "What is this book about?",
+    "version": 1,
+    "skillIds": [
+      "k-main-topic"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-main-topic-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Find the topic of a nonfiction book",
+        "minutes": 20,
+        "materials": [
+          "a nonfiction (informational) picture book about an animal, plant or weather"
+        ],
+        "parentPrompts": [
+          "Say: \"Some books tell stories and some tell facts about the real world.\" Show the cover and ask: \"What is this book about?\"",
+          "Read a few pages. After each, ask: \"What did we learn?\"",
+          "At the end say: \"The topic is what the whole book is about.\" Ask your child to say the topic in a few words.",
+          "Look for: they can name the topic (like 'ducks' or 'rain') and one fact."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-key-details",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Facts we learned",
+    "version": 1,
+    "skillIds": [
+      "k-story-questions"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-key-details-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ask and answer questions about facts",
+        "minutes": 20,
+        "materials": [
+          "a nonfiction picture book",
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Read a page of the nonfiction book and ask: \"What is one fact?\"",
+          "Ask a question about the page, like \"What does this animal eat?\" or \"Where does it live?\" and search the pictures and words to find the answer together.",
+          "Draw one fact together and write a short label.",
+          "Look for: they can answer with a fact from the book, not only from memory. If they guess, say: \"Let's check the book.\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-photos-and-words",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Photos and words",
+    "version": 1,
+    "skillIds": [
+      "k-illustrations"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-photos-and-words-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "How pictures help us learn",
+        "minutes": 20,
+        "materials": [
+          "a nonfiction book with photos or labeled drawings"
+        ],
+        "parentPrompts": [
+          "Point to a photo and ask: \"What is this? How does it help us understand the words?\"",
+          "Find a picture with labels or arrows. Read the label and point to the part.",
+          "Ask your child to find a picture and tell what part of the text it matches.",
+          "Look for: they can say what a picture shows and match it to words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-unknown-words",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Words we do not know",
+    "version": 1,
+    "skillIds": [
+      "k-unknown-words"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-unknown-words-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Wonder about new words",
+        "minutes": 20,
+        "materials": [
+          "any picture book with a few interesting words",
+          "sticky notes"
+        ],
+        "parentPrompts": [
+          "Read the book. When you come to a word that may be new, stop and say: \"I wonder what that word means.\"",
+          "Look at the picture for clues. Ask: \"What do you think it means?\" Then tell the meaning in simple words.",
+          "Put a sticky note on that page. After reading, act out or draw the new words.",
+          "Look for: they notice a new word and ask about it. Using the new word later in the day is a great sign."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-two-books-same-topic",
+    "grade": "k",
+    "subject": "literacy",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Two books, one topic",
+    "version": 1,
+    "skillIds": [
+      "k-compare-texts"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-two-books-same-topic-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare two books",
+        "minutes": 20,
+        "materials": [
+          "two books on the same topic (such as animals, plants or weather)",
+          "paper"
+        ],
+        "parentPrompts": [
+          "Look at the covers and the pictures of both books. Say what the topic is.",
+          "Read a little from each. Ask: \"What is the same? What is different?\" (for example, photos vs. drawings).",
+          "Draw a line down a paper. Draw one thing from each book on each side.",
+          "Look for: they can name at least one way the books are alike or different."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-sun-warms",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "The sun warms",
+    "version": 1,
+    "skillIds": [
+      "k-sunlight"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-sun-warms-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sun and shade feel test",
+        "minutes": 25,
+        "materials": [
+          "2 identical objects, like 2 sheets of paper or 2 rocks",
+          "a sunny spot and a shady spot"
+        ],
+        "parentPrompts": [
+          "Safety: never look at the sun. Use sunscreen and a hat if needed. Do not use metal, which can get hot.",
+          "Put one object in the sun and one in the shade. Wait about 15 minutes.",
+          "Feel each with the back of the hand. Ask: \"Which feels warmer? Why do you think so?\"",
+          "Look for: they say the one in the sun is warmer. Say: \"Sunlight warms the surface it shines on.\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-melting-ice",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Melting ice",
+    "version": 1,
+    "skillIds": [
+      "k-sunlight"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-melting-ice-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ice in the sun and in the shade",
+        "minutes": 25,
+        "materials": [
+          "2 ice cubes",
+          "2 plates",
+          "a sunny spot and a shady spot",
+          "a timer"
+        ],
+        "parentPrompts": [
+          "Put one ice cube on a plate in the sun and one in the shade. Ask: \"Which will melt faster? Why?\"",
+          "Check every 5 minutes. Say what you see.",
+          "When one is gone, compare the two. The one in the sun should melt faster.",
+          "Look for: they connect the sun's warmth to the faster melting. If it is cloudy, try a warm spot (like a window with sunshine) and a cool spot."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-make-a-shade",
+    "grade": "k",
+    "subject": "science",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Make some shade",
+    "version": 1,
+    "skillIds": [
+      "k-sunlight"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-make-a-shade-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Design a shade for an ice cube",
+        "minutes": 25,
+        "materials": [
+          "2 ice cubes",
+          "paper, cardboard, foil or cloth",
+          "tape",
+          "2 plates",
+          "a sunny day"
+        ],
+        "parentPrompts": [
+          "Say: \"Let's make something to keep an ice cube cool in the sun.\" Look at the materials and choose what might work.",
+          "Build a small shade over one ice cube and leave the other uncovered. Tape if needed.",
+          "Check after 10 to 15 minutes. Ask: \"Which melted more? Did the shade help?\"",
+          "Look for: they use a material for shade and say what they saw. Different materials may work differently; try again with another one."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-taking-turns",
+    "grade": "k",
+    "subject": "social-studies",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Taking turns and being fair",
+    "version": 1,
+    "skillIds": [
+      "k-rules"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-taking-turns-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Fair play",
+        "minutes": 25,
+        "materials": [
+          "a simple game or a ball"
+        ],
+        "parentPrompts": [
+          "Play a game where you take turns. Say: \"A fair rule is one that is good for everybody.\"",
+          "Ask: \"What if one person always goes first? Is that fair? How can we choose?\" Try 'one, two, three' or 'who is oldest'.",
+          "Ask: \"How does it feel to wait? What can we do while we wait?\"",
+          "Look for: they can say how to be fair and use turn-taking words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-being-a-good-neighbor",
+    "grade": "k",
+    "subject": "social-studies",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Good neighbors",
+    "version": 1,
+    "skillIds": [
+      "k-community"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-being-a-good-neighbor-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Kind things we can do",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Ask: \"What is a neighbor?\" (someone who lives or works near us).",
+          "Think of kind things to do for a neighbor: say hello, help carry something, share, be quiet at night.",
+          "Choose one to do this week. Draw a picture of it.",
+          "Look for: they can name a kind act. Include family, friends or pets as neighbors too."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-shadow-drawing",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Shadow drawing",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-shadow-drawing-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Trace a shadow",
+        "minutes": 20,
+        "materials": [
+          "chalk or paper and marker",
+          "a toy",
+          "a sunny day"
+        ],
+        "parentPrompts": [
+          "Place a toy in the sun so it casts a shadow. Safety: do not look at the sun.",
+          "Trace the shadow's outline with chalk or marker on paper or pavement.",
+          "Come back later and see how the shadow moved.",
+          "Look for: they notice shadows change. Ask: \"Why do you think it moved?\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-weather-mobile",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Weather art",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-weather-mobile-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Cloud and sun art",
+        "minutes": 20,
+        "materials": [
+          "paper plates",
+          "cotton balls",
+          "glue",
+          "yellow and blue paper",
+          "string"
+        ],
+        "parentPrompts": [
+          "Make a cloud by gluing cotton balls to a plate or paper. Make a sun from yellow paper.",
+          "Add raindrops from blue paper.",
+          "Hang them with string.",
+          "Look for: they link each piece to a kind of weather. Keep glue away from mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-scarf-dance",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Scarf dance",
+    "version": 1,
+    "skillIds": [
+      "k-music-rhythm"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-scarf-dance-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Move to music",
+        "minutes": 20,
+        "materials": [
+          "a scarf or cloth",
+          "music from a device or sing"
+        ],
+        "parentPrompts": [
+          "Play music or sing. Move a scarf high and low, fast and slow.",
+          "Make the scarf be rain, wind or a bird.",
+          "Freeze when the music stops.",
+          "Look for: they change their movement with the music."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-rain-cloud",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Rain cloud in a jar",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-rain-cloud-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Color and water art",
+        "minutes": 20,
+        "materials": [
+          "a clear jar",
+          "water",
+          "blue food coloring",
+          "shaving cream or whipped cream"
+        ],
+        "parentPrompts": [
+          "Fill the jar with water. Add a cloud of shaving cream on top. Do not eat it.",
+          "Drop food coloring on the cloud and watch it drip down like rain.",
+          "Draw what you saw.",
+          "Look for: they can describe what happened. Adult sets up the jar; wash hands after."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "k-w3-number-prints",
+    "grade": "k",
+    "subject": "arts",
+    "unit": "k-unit-1",
+    "week": 3,
+    "title": "Number prints",
+    "version": 1,
+    "skillIds": [
+      "k-make-art"
+    ],
+    "activities": [
+      {
+        "id": "k-w3-number-prints-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Fingerprint numbers",
+        "minutes": 20,
+        "materials": [
+          "washable paint or ink pad",
+          "paper",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Write a numeral on the paper. Make that many fingerprints next to it.",
+          "Do numerals 1 to 5.",
+          "Turn the prints into bugs by adding legs.",
+          "Look for: the right number of prints for each numeral."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

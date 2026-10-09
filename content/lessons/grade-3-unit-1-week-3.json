@@ -1,0 +1,711 @@
+[
+  {
+    "id": "g3-r11-chapter-book-start",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Meet the characters and setting of a chapter book",
+    "version": 1,
+    "skillIds": [
+      "g3-story-elements"
+    ],
+    "activities": [
+      {
+        "id": "g3-r11-chapter-book-start-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Start a chapter book and map chapter one",
+        "minutes": 30,
+        "materials": [
+          "a chapter book at about a third-grade level (library or home)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Pick a chapter book together, or choose one you have already planned to read. Read chapter one aloud, or take turns reading pages. Check the title and cover for clues before you start: \"What do you think this book is about?\"",
+          "After chapter one, make a map with three parts: Main characters, Setting, What problem might come next. Fill it in together.",
+          "Teach the word chapter: a part of a book that builds on the part before it. Ask: \"What do you think will happen in chapter two, and what in chapter one makes you think so?\"",
+          "Plan to read one chapter each day this week or as often as you can, and keep the map somewhere handy.",
+          "You will know they got it when they can name the characters and setting and make a prediction supported by the text."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r12-north-wind-sun",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Character and message together",
+    "version": 1,
+    "skillIds": [
+      "g3-central-message"
+    ],
+    "activities": [
+      {
+        "id": "g3-r12-north-wind-sun-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare the two characters: The North Wind and the Sun",
+        "minutes": 30,
+        "materials": [
+          "The North Wind and the Sun (book, online text, or retell)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read or tell the fable. Outline: the North Wind and the Sun argue about who is stronger; they agree to test it by seeing who can make a traveler take off his coat; the harder the wind blows, the tighter the traveler holds his coat; the Sun shines warmly and the traveler takes it off himself. Fables by Aesop are in the public domain: you can read one from a library book or a free online collection, or simply tell it in your own words using the outline here.",
+          "Make a two-column chart: North Wind, Sun. Fill in what each one did and a trait word that fits (forceful, gentle, patient).",
+          "Ask: \"Why did the wind's plan fail? Which actions made the difference?\"",
+          "Ask: \"What message does the story give about the best way to get someone to do something?\" Let them put it in their own words, for example, kindness can work better than force.",
+          "You will know they got it when the message they state is backed up by what each character did."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r13-problem-solution",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Problem and solution in a chapter book",
+    "version": 1,
+    "skillIds": [
+      "g3-story-elements"
+    ],
+    "activities": [
+      {
+        "id": "g3-r13-problem-solution-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Track the problem as it grows",
+        "minutes": 30,
+        "materials": [
+          "your chapter book",
+          "a bookmark",
+          "sticky notes",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read the next chapter or two of your chapter book aloud, sharing the reading with your child.",
+          "Stop at a place where a character has a problem. Write the problem on a sticky note and place it in the book.",
+          "Ask: \"What does the character try first? Does it work? What does the character try next?\" Write each try on its own sticky note in order.",
+          "Ask: \"How do the character's actions in this chapter connect to the chapter before it?\" Practice saying: \"Because of ___, the character ___.\"",
+          "You will know they got it when they explain the problem and the character's tries in order and connect the chapters."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r14-point-of-view",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Whose point of view is it?",
+    "version": 1,
+    "skillIds": [
+      "g3-point-of-view"
+    ],
+    "activities": [
+      {
+        "id": "g3-r14-point-of-view-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Tell The Three Little Pigs from the wolf's side",
+        "minutes": 30,
+        "materials": [
+          "The Three Little Pigs (traditional tale, book or retell)",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read or tell the traditional tale: three pigs build houses of straw, sticks, and bricks; a wolf blows down the first two but cannot blow down the brick one. Different versions end differently, so use the one you have.",
+          "Explain: the narrator is the one who tells the story. A character's point of view is how that character sees what is happening. Your own point of view is what you think and feel as the reader.",
+          "Ask: \"How do the pigs feel about the wolf? How might the wolf describe what happened?\" Have your child tell two or three sentences from the wolf's point of view.",
+          "Then ask: \"What do you think about the wolf's choices? Is that the same as what the narrator tells you?\" Make clear that each person can think differently and give a reason.",
+          "You will know they got it when they can tell the difference between what the character thinks and what they, the reader, think."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-r15-illustrations",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "How pictures add to the words",
+    "version": 1,
+    "skillIds": [
+      "g3-illustrations"
+    ],
+    "activities": [
+      {
+        "id": "g3-r15-illustrations-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Picture detectives",
+        "minutes": 30,
+        "materials": [
+          "a picture book with detailed illustrations",
+          "sticky notes",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Choose a picture book with rich pictures (from the library or your shelf). Read one page aloud but cover the picture with a sheet of paper.",
+          "Uncover the picture. Ask: \"What does the picture show that the words did not say?\" Put a sticky note on those details.",
+          "Ask: \"What mood does the picture give, like cozy, scary, or lonely? What colors or shapes make you feel that?\"",
+          "Pick one more page and find a way an illustration helps you understand a character's feelings.",
+          "You will know they got it when they name a specific detail in a picture and tell how it adds to the story."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr07-conclusion",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Finish with a strong ending",
+    "version": 1,
+    "skillIds": [
+      "g3-opinion-conclusion"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr07-conclusion-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write concluding statements",
+        "minutes": 25,
+        "materials": [
+          "draft from last week",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Explain: the concluding statement is the last part that wraps up the piece. It restates the opinion in a fresh way and gives the reader a final thought.",
+          "Show three examples for an opinion about summer: \"That is why summer is the best season.\" \"So pack your sunscreen and enjoy the sunshine.\" \"Summer is my favorite for many reasons.\" Ask which they like and why.",
+          "Have them write two possible endings for their own draft and choose the one that fits best.",
+          "Add the chosen ending to the draft and read the whole piece aloud, from the start.",
+          "You will know they got it when the draft ends with a statement that reminds the reader of the opinion."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr08-revise",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Revise to make it stronger",
+    "version": 1,
+    "skillIds": [
+      "g3-revise-edit"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr08-revise-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Revise with a checklist",
+        "minutes": 25,
+        "materials": [
+          "draft",
+          "colored pencil",
+          "revision checklist (write it with your child)"
+        ],
+        "parentPrompts": [
+          "Write a four-item checklist: Does the introduction name the topic and opinion? Are there at least two reasons with details? Do linking words connect them? Does the ending finish the piece?",
+          "Read the draft aloud together. Use a colored pencil to put a check by each item that is done and a star where something needs more.",
+          "Choose two places to improve. For example, add a detail, swap a boring word for a stronger one, or move a sentence to a better place.",
+          "Have them make the changes on the draft, crossing out and adding with the colored pencil.",
+          "You will know they got it when the checklist is complete and at least two changes make the piece clearer or stronger."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-wr09-edit-publish",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Edit and publish a neat copy",
+    "version": 1,
+    "skillIds": [
+      "g3-revise-edit"
+    ],
+    "activities": [
+      {
+        "id": "g3-wr09-edit-publish-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Edit for capitals, punctuation and spelling",
+        "minutes": 25,
+        "materials": [
+          "revised draft",
+          "dictionary (print or digital)",
+          "clean paper",
+          "pencil or pen"
+        ],
+        "parentPrompts": [
+          "Edit in three passes: capital letters at the start of each sentence and for names; ending punctuation; spelling. Have your child read the piece aloud one sentence at a time, pointing to each word.",
+          "Circle any words that might be misspelled and look them up in a dictionary. Show how to find a word by its first letters.",
+          "Check any words with endings added, like jumping, smiled, or happiness, and remind them of rules such as dropping the silent e before adding -ed.",
+          "Copy the piece neatly onto clean paper and add a title. Capitalize the important words in the title.",
+          "You will know they got it when the final copy has few errors and they can say what they fixed in each pass."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-ww05-suffixes",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Suffixes -ful, -less, -ly and -ness",
+    "version": 1,
+    "skillIds": [
+      "g3-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-ww05-suffixes-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Suffix word builder",
+        "minutes": 25,
+        "materials": [
+          "cards or paper slips",
+          "marker"
+        ],
+        "parentPrompts": [
+          "Write the suffixes -ful, -less, -ly, and -ness on four cards. Explain: a suffix is a word part added to the end. -ful means full of, -less means without, -ly means in a way, -ness means the state of being.",
+          "On other cards write base words: care, help, hope, quick, slow, kind, sad, dark. Have your child build as many real words as they can and say what each means: careful, careless, helpful, helpless, quickly, kindness, sadness, darkness.",
+          "Notice how the meaning changes: careful and careless are almost opposites. Ask which suffix makes that happen.",
+          "Choose four words and write a sentence for each.",
+          "You will know they got it when they build real words and explain the suffix meaning for each."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-ww06-adding-endings",
+    "grade": "3",
+    "subject": "literacy",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Spelling when endings are added",
+    "version": 1,
+    "skillIds": [
+      "g3-suffixes"
+    ],
+    "activities": [
+      {
+        "id": "g3-ww06-adding-endings-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Three spelling rules for endings",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "dictionary"
+        ],
+        "parentPrompts": [
+          "Teach three patterns with examples. Silent e: drop the e before adding -ing or -ed (smile, smiling, smiled). Doubling: for a short vowel followed by one consonant, double the consonant (hop, hopping, sit, sitting). Y to i: change y to i before most endings (cry, cries, happy, happiness).",
+          "Write six base words (hope, run, skip, bake, try, happy) and have your child add endings that fit and say each word out loud.",
+          "Check the spelling in a dictionary together, and have them fix any they got wrong. Mistakes here are practice, not failure.",
+          "Read a sentence aloud with the new words in it.",
+          "You will know they got it when they apply each rule correctly to a new word and can say which rule they used."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m11-subtract-no-regroup",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Subtract three-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g3-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-m11-subtract-no-regroup-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Subtract with place value pieces",
+        "minutes": 35,
+        "materials": [
+          "place value pieces",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Pose 586 - 243. Build 586 with pieces and take away 243: ones first (6 - 3), then tens (8 - 4), then hundreds (5 - 2). Answer: 343.",
+          "Write the problem vertically with digits lined up. Solve three more with no regrouping, for example 749 - 315, 868 - 402, and 957 - 836.",
+          "Check each answer by adding it back: 343 + 243 = 586. Explain that addition and subtraction are opposites.",
+          "Ask: \"Why did we start at the ones?\"",
+          "You will know they got it when they subtract each place correctly and check with addition."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m12-subtract-regroup-tens",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Subtract with regrouping",
+    "version": 1,
+    "skillIds": [
+      "g3-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-m12-subtract-regroup-tens-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Trade a ten for ten ones",
+        "minutes": 35,
+        "materials": [
+          "place value pieces",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Pose 432 - 178. Build 432. You cannot take 8 ones from 2 ones, so trade 1 ten for 10 ones. Now there are 12 ones and 2 tens.",
+          "Subtract: 12 - 8 = 4 ones. Tens: 2 - 7 will not work, so trade 1 hundred for 10 tens: 12 - 7 = 5 tens. Hundreds: 3 - 1 = 2. Answer: 254.",
+          "Write the steps on paper with crossed-out digits and new numbers. Solve 523 - 267 and 641 - 385.",
+          "Check each with addition. Ask: \"What do we do when the top digit is smaller?\"",
+          "You will know they got it when they regroup correctly and check by adding."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m13-subtract-across-zero",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Subtract across a zero",
+    "version": 1,
+    "skillIds": [
+      "g3-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-m13-subtract-across-zero-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Regroup with zeros in the way",
+        "minutes": 35,
+        "materials": [
+          "place value pieces",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Pose 400 - 167. With pieces, show 4 hundreds. There are no tens or ones to take from. Trade 1 hundred for 10 tens, then trade 1 ten for 10 ones. Now there are 3 hundreds, 9 tens, and 10 ones.",
+          "Subtract: 10 - 7 = 3, 9 - 6 = 3, 3 - 1 = 2. Answer: 233. Write the problem with the regrouped numbers.",
+          "Try 300 - 148 and 703 - 256. Have your child tell you each regrouping step aloud.",
+          "Check each by adding back. Ask: \"Why was this one trickier?\"",
+          "You will know they got it when they regroup across the zero and check the answer."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m14-check-with-inverse",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Check with the opposite operation",
+    "version": 1,
+    "skillIds": [
+      "g3-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g3-m14-check-with-inverse-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Fix the mistake",
+        "minutes": 35,
+        "materials": [
+          "paper",
+          "pencil",
+          "six prepared problems (see step 1)"
+        ],
+        "parentPrompts": [
+          "Before the lesson, write six subtraction and addition problems with answers, two of them wrong on purpose (for example, 624 - 278 = 346 is correct but 624 - 278 = 356 is wrong).",
+          "Have your child check each by using the opposite operation (add the difference to the smaller number, or subtract to check a sum). Mark each one correct or wrong.",
+          "For each wrong one, ask them to find the mistake and fix it.",
+          "Have them write one problem with a mistake for you to find. Be sure to check it.",
+          "You will know they got it when they catch both mistakes and explain how they found them."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-m15-two-step-problems",
+    "grade": "3",
+    "subject": "math",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Two-step story problems",
+    "version": 1,
+    "skillIds": [
+      "g3-two-step"
+    ],
+    "activities": [
+      {
+        "id": "g3-m15-two-step-problems-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Solve and show two-step problems",
+        "minutes": 35,
+        "materials": [
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Read: \"A school has 252 pencils. It buys 148 more, and then gives away 175. How many are left?\" Draw a picture of the two steps.",
+          "Write each step as an equation: 252 + 148 = 400, then 400 - 175 = 225. Have your child use a letter for the unknown, such as 252 + 148 = p.",
+          "Make up two more two-step problems together about a farm, a store, or a park, and solve them.",
+          "Estimate to check: 250 + 150 = 400, then 400 - 200 = 200, so 225 is reasonable.",
+          "You will know they got it when they write two equations, solve in order, and check with an estimate."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s07-pendulum",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Patterns in a swing",
+    "version": 1,
+    "skillIds": [
+      "g3-motion-patterns"
+    ],
+    "activities": [
+      {
+        "id": "g3-s07-pendulum-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make and time a pendulum",
+        "minutes": 40,
+        "materials": [
+          "string about 1 meter long",
+          "a washer or small weight",
+          "tape",
+          "a timer or watch with seconds",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Tape the string to the edge of a table so the washer hangs freely. Pull it back a little and let go. Ask: \"Describe the motion.\" It swings back and forth, a pattern.",
+          "Count the swings (one swing is out and back) in 10 seconds, three times. Record the numbers.",
+          "Predict: \"If I make the string shorter, will it swing faster or slower?\" Test it with half the length and record the swings in 10 seconds.",
+          "Ask: \"What pattern do you see?\" A shorter string swings faster, and the count is about the same each time.",
+          "You will know they got it when they describe the pattern and use their data to predict the swing of a new length."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s08-ramp-prediction",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Predict where it will stop",
+    "version": 1,
+    "skillIds": [
+      "g3-motion-patterns"
+    ],
+    "activities": [
+      {
+        "id": "g3-s08-ramp-prediction-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ramp height patterns",
+        "minutes": 40,
+        "materials": [
+          "a board or large book for a ramp",
+          "books to stack",
+          "a toy car or ball",
+          "tape measure",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Set the ramp at a low height (one book). Roll the car from the top and measure how far it goes past the bottom. Do it twice.",
+          "Add a second book and repeat, then a third. Record the three sets of distances in a table.",
+          "Ask: \"What pattern do you see between the ramp height and the distance?\" Usually, a higher ramp sends the car farther.",
+          "Use the pattern to predict the distance for four books, then test it. Ask: \"How close was your prediction?\"",
+          "You will know they got it when they state the pattern and use it to make a prediction."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-s09-playground-motion",
+    "grade": "3",
+    "subject": "science",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Motion patterns outdoors",
+    "version": 1,
+    "skillIds": [
+      "g3-motion-patterns"
+    ],
+    "activities": [
+      {
+        "id": "g3-s09-playground-motion-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count the swings at the park",
+        "minutes": 40,
+        "materials": [
+          "a swing set, a rocking chair, or a hanging object (supervise closely)",
+          "timer",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Pick something that moves back and forth, such as a swing with a child on it or a rocking chair. Safety first: you handle the push and keep everyone clear of the path.",
+          "Time how many swings happen in 20 seconds without pushing again. Do it three times and record.",
+          "Ask: \"Does it speed up or slow down? Why does it slow down by the end?\" Friction and air slow it down unless you push again.",
+          "Predict how many swings you will get in 20 seconds. Try it and compare.",
+          "You will know they got it when they describe a repeating motion and use the pattern to predict."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-so05-distance-scale",
+    "grade": "3",
+    "subject": "social-studies",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "How far is it?",
+    "version": 1,
+    "skillIds": [
+      "g3-map-basics"
+    ],
+    "activities": [
+      {
+        "id": "g3-so05-distance-scale-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Measure distances on a map in steps",
+        "minutes": 40,
+        "materials": [
+          "paper",
+          "pencil",
+          "ruler",
+          "a safe place to walk, such as your yard or a quiet block (stay with your child near roads)"
+        ],
+        "parentPrompts": [
+          "Explain: maps show real distances in a smaller size. A scale tells how a short length on the map matches a longer distance in real life.",
+          "Choose two points in your yard or house. Count how many steps it takes to walk between them. Draw them on paper with 1 inch for every 5 steps, using a ruler.",
+          "Measure the distance between a second pair of points in steps and on the map. Compare them.",
+          "Ask: \"Which two places are farthest? How can you tell on the map?\"",
+          "You will know they got it when they use the same scale for every distance and can say that the map is a smaller copy."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g3-so06-grid-maps",
+    "grade": "3",
+    "subject": "social-studies",
+    "unit": "g3-unit-1",
+    "week": 3,
+    "title": "Find places with a grid",
+    "version": 1,
+    "skillIds": [
+      "g3-map-basics"
+    ],
+    "activities": [
+      {
+        "id": "g3-so06-grid-maps-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Grid map treasure hunt",
+        "minutes": 40,
+        "materials": [
+          "paper",
+          "pencil",
+          "ruler",
+          "small items to mark places"
+        ],
+        "parentPrompts": [
+          "Draw a map with a grid: letters A to E across the top and numbers 1 to 5 down the side. Explain that a place can be named by its letter and number, like B3.",
+          "Draw five places on the map (a park, a school, a library, a store, a pond). List their grid squares in a key.",
+          "Play a game: say a place name and have your child tell the square, and then say a square, such as C2, and have them name the place.",
+          "Switch roles and let them make a grid map for you to read.",
+          "You will know they got it when they name locations on the grid using a letter and a number correctly."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

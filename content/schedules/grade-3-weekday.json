@@ -1,0 +1,532 @@
+{
+  "id": "grade-3-weekday",
+  "grade": "3",
+  "name": "Grade 3 weekday",
+  "blocks": [
+    {
+      "day": 1,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, goals, read-aloud poem"
+    },
+    {
+      "day": 1,
+      "start": "09:15",
+      "minutes": 30,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Story time and discussion",
+      "sequenceId": "g3-reading"
+    },
+    {
+      "day": 1,
+      "start": "09:45",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word study app",
+      "sequenceId": "g3-app-words"
+    },
+    {
+      "day": 1,
+      "start": "09:55",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Opinion writing workshop",
+      "sequenceId": "g3-writing"
+    },
+    {
+      "day": 1,
+      "start": "10:20",
+      "minutes": 15,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 1,
+      "start": "10:35",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app",
+      "sequenceId": "g3-app-math"
+    },
+    {
+      "day": 1,
+      "start": "10:50",
+      "minutes": 35,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g3-math"
+    },
+    {
+      "day": 1,
+      "start": "11:25",
+      "minutes": 30,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack, chores and outdoor play"
+    },
+    {
+      "day": 1,
+      "start": "11:55",
+      "minutes": 40,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: forces and motion",
+      "sequenceId": "g3-science"
+    },
+    {
+      "day": 1,
+      "start": "12:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 1,
+      "start": "12:50",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free choice"
+    },
+    {
+      "day": 2,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, goals, read-aloud poem"
+    },
+    {
+      "day": 2,
+      "start": "09:15",
+      "minutes": 30,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Story time and discussion",
+      "sequenceId": "g3-reading"
+    },
+    {
+      "day": 2,
+      "start": "09:45",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word study app",
+      "sequenceId": "g3-app-words"
+    },
+    {
+      "day": 2,
+      "start": "09:55",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Word work: prefixes, suffixes, syllables",
+      "sequenceId": "g3-wordwork"
+    },
+    {
+      "day": 2,
+      "start": "10:20",
+      "minutes": 15,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 2,
+      "start": "10:35",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app",
+      "sequenceId": "g3-app-math"
+    },
+    {
+      "day": 2,
+      "start": "10:50",
+      "minutes": 35,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g3-math"
+    },
+    {
+      "day": 2,
+      "start": "11:25",
+      "minutes": 30,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack, chores and outdoor play"
+    },
+    {
+      "day": 2,
+      "start": "11:55",
+      "minutes": 40,
+      "subject": "social-studies",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Social studies: maps and community",
+      "sequenceId": "g3-social"
+    },
+    {
+      "day": 2,
+      "start": "12:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 2,
+      "start": "12:50",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free choice"
+    },
+    {
+      "day": 3,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, goals, read-aloud poem"
+    },
+    {
+      "day": 3,
+      "start": "09:15",
+      "minutes": 30,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Story time and discussion",
+      "sequenceId": "g3-reading"
+    },
+    {
+      "day": 3,
+      "start": "09:45",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word study app",
+      "sequenceId": "g3-app-words"
+    },
+    {
+      "day": 3,
+      "start": "09:55",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Opinion writing workshop",
+      "sequenceId": "g3-writing"
+    },
+    {
+      "day": 3,
+      "start": "10:20",
+      "minutes": 15,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 3,
+      "start": "10:35",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app",
+      "sequenceId": "g3-app-math"
+    },
+    {
+      "day": 3,
+      "start": "10:50",
+      "minutes": 35,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g3-math"
+    },
+    {
+      "day": 3,
+      "start": "11:25",
+      "minutes": 30,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack, chores and outdoor play"
+    },
+    {
+      "day": 3,
+      "start": "11:55",
+      "minutes": 40,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: forces and motion",
+      "sequenceId": "g3-science"
+    },
+    {
+      "day": 3,
+      "start": "12:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 3,
+      "start": "12:50",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free choice"
+    },
+    {
+      "day": 4,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, goals, read-aloud poem"
+    },
+    {
+      "day": 4,
+      "start": "09:15",
+      "minutes": 30,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Story time and discussion",
+      "sequenceId": "g3-reading"
+    },
+    {
+      "day": 4,
+      "start": "09:45",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word study app",
+      "sequenceId": "g3-app-words"
+    },
+    {
+      "day": 4,
+      "start": "09:55",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Word work: prefixes, suffixes, syllables",
+      "sequenceId": "g3-wordwork"
+    },
+    {
+      "day": 4,
+      "start": "10:20",
+      "minutes": 15,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 4,
+      "start": "10:35",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app",
+      "sequenceId": "g3-app-math"
+    },
+    {
+      "day": 4,
+      "start": "10:50",
+      "minutes": 35,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g3-math"
+    },
+    {
+      "day": 4,
+      "start": "11:25",
+      "minutes": 30,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack, chores and outdoor play"
+    },
+    {
+      "day": 4,
+      "start": "11:55",
+      "minutes": 40,
+      "subject": "social-studies",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Social studies: maps and community",
+      "sequenceId": "g3-social"
+    },
+    {
+      "day": 4,
+      "start": "12:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 4,
+      "start": "12:50",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free choice"
+    },
+    {
+      "day": 5,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning meeting: calendar, goals, read-aloud poem"
+    },
+    {
+      "day": 5,
+      "start": "09:15",
+      "minutes": 30,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Story time and discussion",
+      "sequenceId": "g3-reading"
+    },
+    {
+      "day": 5,
+      "start": "09:45",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Word study app",
+      "sequenceId": "g3-app-words"
+    },
+    {
+      "day": 5,
+      "start": "09:55",
+      "minutes": 25,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Opinion writing workshop",
+      "sequenceId": "g3-writing"
+    },
+    {
+      "day": 5,
+      "start": "10:20",
+      "minutes": 15,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 5,
+      "start": "10:35",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math app",
+      "sequenceId": "g3-app-math"
+    },
+    {
+      "day": 5,
+      "start": "10:50",
+      "minutes": 35,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Hands-on math",
+      "sequenceId": "g3-math"
+    },
+    {
+      "day": 5,
+      "start": "11:25",
+      "minutes": 30,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack, chores and outdoor play"
+    },
+    {
+      "day": 5,
+      "start": "11:55",
+      "minutes": 40,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: forces and motion",
+      "sequenceId": "g3-science"
+    },
+    {
+      "day": 5,
+      "start": "12:35",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 5,
+      "start": "12:50",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music or free choice"
+    }
+  ]
+}

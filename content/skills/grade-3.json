@@ -1,0 +1,424 @@
+[
+  {
+    "id": "g3-story-elements",
+    "subject": "literacy",
+    "name": "Identify characters, setting, problem and events in a story",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-1",
+      "ccss-ela-rl-3-3"
+    ]
+  },
+  {
+    "id": "g3-character-traits",
+    "subject": "literacy",
+    "name": "Describe characters by their traits, motivations and feelings",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-3"
+    ]
+  },
+  {
+    "id": "g3-ask-answer",
+    "subject": "literacy",
+    "name": "Ask and answer questions about a text using the text as proof",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-1"
+    ]
+  },
+  {
+    "id": "g3-central-message",
+    "subject": "literacy",
+    "name": "Find the central message of a fable or folktale from key details",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-2"
+    ]
+  },
+  {
+    "id": "g3-retell",
+    "subject": "literacy",
+    "name": "Retell a story in order and tell its message",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-2",
+      "ccss-ela-sl-3-4"
+    ]
+  },
+  {
+    "id": "g3-point-of-view",
+    "subject": "literacy",
+    "name": "Tell your own point of view from a character or narrator",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-6"
+    ]
+  },
+  {
+    "id": "g3-illustrations",
+    "subject": "literacy",
+    "name": "Explain how illustrations add to a story",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-7"
+    ]
+  },
+  {
+    "id": "g3-fluency",
+    "subject": "literacy",
+    "name": "Read aloud smoothly with expression",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-3-4-b"
+    ]
+  },
+  {
+    "id": "g3-create-fable",
+    "subject": "literacy",
+    "name": "Write and tell an original fable with a message",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-2",
+      "ccss-ela-w-3-3"
+    ]
+  },
+  {
+    "id": "g3-story-share",
+    "subject": "literacy",
+    "name": "Present a story with its characters, events and message",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-3-2",
+      "ccss-ela-sl-3-4"
+    ]
+  },
+  {
+    "id": "g3-opinion-basics",
+    "subject": "literacy",
+    "name": "Tell facts from opinions",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-1"
+    ]
+  },
+  {
+    "id": "g3-opinion-intro",
+    "subject": "literacy",
+    "name": "Introduce a topic, state an opinion and plan the writing",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-1-a"
+    ]
+  },
+  {
+    "id": "g3-opinion-reasons",
+    "subject": "literacy",
+    "name": "Support an opinion with reasons and details",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-1-b"
+    ]
+  },
+  {
+    "id": "g3-linking-words",
+    "subject": "literacy",
+    "name": "Use linking words to connect opinion and reasons",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-1-c"
+    ]
+  },
+  {
+    "id": "g3-opinion-draft",
+    "subject": "literacy",
+    "name": "Draft an opinion piece from a plan",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-1",
+      "ccss-ela-w-3-4"
+    ]
+  },
+  {
+    "id": "g3-opinion-conclusion",
+    "subject": "literacy",
+    "name": "Write a concluding statement",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-1-d"
+    ]
+  },
+  {
+    "id": "g3-revise-edit",
+    "subject": "literacy",
+    "name": "Revise and edit writing and publish a neat copy",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-5",
+      "ccss-ela-l-3-2-e",
+      "ccss-ela-l-3-2-g"
+    ]
+  },
+  {
+    "id": "g3-opinion-text",
+    "subject": "literacy",
+    "name": "Write an opinion about a story using evidence from the text",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-1",
+      "ccss-ela-rl-3-1"
+    ]
+  },
+  {
+    "id": "g3-opinion-share",
+    "subject": "literacy",
+    "name": "Share writing aloud and reflect on it",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-sl-3-4",
+      "ccss-ela-w-3-1"
+    ]
+  },
+  {
+    "id": "g3-syllables",
+    "subject": "literacy",
+    "name": "Read multisyllable words by dividing them into syllables",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-3-3-c"
+    ]
+  },
+  {
+    "id": "g3-prefixes",
+    "subject": "literacy",
+    "name": "Know the meaning of common prefixes (un-, re-, pre-, dis-, mis-)",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-3-3-a",
+      "ccss-ela-l-3-4-b"
+    ]
+  },
+  {
+    "id": "g3-suffixes",
+    "subject": "literacy",
+    "name": "Know the meaning of common suffixes and spell words with endings added",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-3-3-a",
+      "ccss-ela-l-3-2-e"
+    ]
+  },
+  {
+    "id": "g3-latin-suffixes",
+    "subject": "literacy",
+    "name": "Decode words with the Latin suffixes -tion and -ture",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-3-3-b"
+    ]
+  },
+  {
+    "id": "g3-irregular-words",
+    "subject": "literacy",
+    "name": "Read grade-level irregularly spelled words",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-3-3-d"
+    ]
+  },
+  {
+    "id": "g3-big-words",
+    "subject": "literacy",
+    "name": "Read long words by chunking them into parts",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-3-3-c",
+      "ccss-ela-rf-3-3-d"
+    ]
+  },
+  {
+    "id": "g3-place-value",
+    "subject": "math",
+    "name": "Understand hundreds, tens and ones in three-digit numbers",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-a-1"
+    ]
+  },
+  {
+    "id": "g3-read-write-numbers",
+    "subject": "math",
+    "name": "Read and write numbers to 1000 in standard, word and expanded form",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-a-3"
+    ]
+  },
+  {
+    "id": "g3-compare-numbers",
+    "subject": "math",
+    "name": "Compare three-digit numbers with >, = and <",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-a-4"
+    ]
+  },
+  {
+    "id": "g3-skip-count",
+    "subject": "math",
+    "name": "Skip count by 10s and 100s and add or subtract 10 and 100 mentally",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-2-nbt-a-2",
+      "ccss-math-2-nbt-b-8"
+    ]
+  },
+  {
+    "id": "g3-round",
+    "subject": "math",
+    "name": "Round whole numbers to the nearest 10 or 100",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-3-nbt-a-1"
+    ]
+  },
+  {
+    "id": "g3-add-1000",
+    "subject": "math",
+    "name": "Add within 1000 using place value",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-3-nbt-a-2"
+    ]
+  },
+  {
+    "id": "g3-sub-1000",
+    "subject": "math",
+    "name": "Subtract within 1000 using place value",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-3-nbt-a-2"
+    ]
+  },
+  {
+    "id": "g3-two-step",
+    "subject": "math",
+    "name": "Solve two-step word problems with addition and subtraction",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-3-oa-d-8"
+    ]
+  },
+  {
+    "id": "g3-mult-groups",
+    "subject": "math",
+    "name": "Understand multiplication as equal groups and repeated addition",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-3-oa-a-1"
+    ]
+  },
+  {
+    "id": "g3-mult-arrays",
+    "subject": "math",
+    "name": "Show multiplication with arrays",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-3-oa-a-1"
+    ]
+  },
+  {
+    "id": "g3-mult-wp",
+    "subject": "math",
+    "name": "Use equal groups and equal sharing to solve word problems",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-3-oa-a-3",
+      "ccss-math-3-oa-a-2"
+    ]
+  },
+  {
+    "id": "g3-unit-review",
+    "subject": "math",
+    "name": "Review: place value, rounding, add and subtract within 1000, equal groups",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-3-nbt-a-2",
+      "ccss-math-3-oa-a-1"
+    ]
+  },
+  {
+    "id": "g3-forces",
+    "subject": "science",
+    "name": "Observe pushes, pulls, gravity and friction acting on objects",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-3-ps2-1"
+    ]
+  },
+  {
+    "id": "g3-balanced-forces",
+    "subject": "science",
+    "name": "Investigate how balanced and unbalanced forces change motion",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-3-ps2-1"
+    ]
+  },
+  {
+    "id": "g3-motion-patterns",
+    "subject": "science",
+    "name": "Use patterns in motion to predict what happens next",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-3-ps2-2"
+    ]
+  },
+  {
+    "id": "g3-forces-wrap",
+    "subject": "science",
+    "name": "Explain forces and patterns in motion with evidence",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-3-ps2-1",
+      "ngss-3-ps2-2"
+    ]
+  },
+  {
+    "id": "g3-map-basics",
+    "subject": "social-studies",
+    "name": "Read and make simple maps with symbols, keys and scale",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-ri-3-7"
+    ]
+  },
+  {
+    "id": "g3-directions",
+    "subject": "social-studies",
+    "name": "Use cardinal directions and a compass rose",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-ri-3-7"
+    ]
+  },
+  {
+    "id": "g3-community-geography",
+    "subject": "social-studies",
+    "name": "Explain how land and water shape where communities are",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-3-7",
+      "ccss-ela-ri-3-7"
+    ]
+  },
+  {
+    "id": "g3-map-presentation",
+    "subject": "social-studies",
+    "name": "Present a map of your community",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-sl-3-4"
+    ]
+  }
+]

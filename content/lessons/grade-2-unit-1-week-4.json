@@ -1,0 +1,518 @@
+[
+  {
+    "id": "g2-w4-un-and-re",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Prefixes un- and re-",
+    "version": 1,
+    "skillIds": [
+      "g2-affixes"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-un-and-re-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Prefixes un- and re-",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "index cards"
+        ],
+        "parentPrompts": [
+          "Write \"happy\" and add \"un\" to make \"unhappy.\" Say: \"un means not.\" Then write \"read\" and add \"re\" to make \"reread.\" Say: \"re means again.\"",
+          "Make cards: un (lock, kind, fair, safe) and re (do, tell, play, fill). Have your child read each new word and say what it means.",
+          "Play a quick game: you say \"not kind\" and they say \"unkind\"; you say \"play again\" and they say \"replay.\"",
+          "Have them write two sentences using one un word and one re word. Check: they can say that un means not and re means again, and decode the new words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-endings-ed-ing",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Endings -ed and -ing",
+    "version": 1,
+    "skillIds": [
+      "g2-affixes"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-endings-ed-ing-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Endings -ed and -ing",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Write \"jump\" and add endings: jumped, jumping. Say each aloud and ask when we use each one. (-ed for something that already happened, -ing for something happening now.)",
+          "Read pairs together: walk/walked/walking, help/helped/helping, play/played/playing. Act out the action for each as you say it.",
+          "Some verbs change completely in the past. Practice a few: sit - sat, tell - told, hide - hid. Say a sentence with \"today I\" and have your child say it with \"yesterday I.\"",
+          "Have your child write 3 sentences, one with -ed, one with -ing, and one with sat/told/hid. Check: they use the right ending for past and now."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-tricky-words",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Tricky words",
+    "version": 1,
+    "skillIds": [
+      "g2-tricky-words"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-tricky-words-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Tricky words",
+        "minutes": 25,
+        "materials": [
+          "index cards",
+          "pencil",
+          "a small box or bag"
+        ],
+        "parentPrompts": [
+          "Explain that some words do not follow the usual sounding-out rules. Write these on cards: said, friend, people, because, would, could, only, every.",
+          "Say a word and have your child spell it aloud, look at the card, and trace each letter with a finger. Point out the tricky part (for example, the \"ai\" in said or the \"ie\" in friend).",
+          "Play \"memory flash\": show a card for 3 seconds, hide it, and have your child write the word. Then check it against the card.",
+          "Pick two words that were hard. Write each one three times and use it in a sentence. Check: they can read and spell at least 6 of the 8 words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-fluency-check",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Read smooth and understand",
+    "version": 1,
+    "skillIds": [
+      "g2-fluency"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-fluency-check-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read smooth and understand",
+        "minutes": 25,
+        "materials": [
+          "a book or passage at your child's reading level",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Choose a short passage of about 5 to 8 sentences your child has not read before. Have them read it aloud once. Note any words that stop them.",
+          "Ask them to read it again. If a word does not make sense, say: \"Go back and try again.\" Show them how to reread the sentence to check.",
+          "Ask 3 questions: Who or what is it about? What happened? Why do you think so? Have them find the answer in the text.",
+          "Compare the two reads: Which sounded smoother? Check: the second read is smoother, and they can fix a mistake by rereading."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-revise-my-story",
+    "grade": "2",
+    "subject": "literacy",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Fix and publish my story",
+    "version": 1,
+    "skillIds": [
+      "g2-narrative-writing"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-revise-my-story-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Fix and publish my story",
+        "minutes": 25,
+        "materials": [
+          "the story your child wrote in the first week, or a new one",
+          "pencil",
+          "a colored pencil",
+          "clean paper"
+        ],
+        "parentPrompts": [
+          "Read the earlier story aloud together. Ask: \"What do you like about it? What could we add?\"",
+          "Revising: add one detail about a sound, a smell, or a feeling. Use the colored pencil so the new part stands out.",
+          "Editing: check capital letters at the start of each sentence, end marks, and spelling of tricky words. Use the word lists from earlier lessons.",
+          "Copy the final story neatly onto a clean page and add a picture. Have your child read it aloud to someone. Check: the story has a beginning, middle, and end, and the child can name one thing they changed."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-add-with-regrouping",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Add and regroup",
+    "version": 1,
+    "skillIds": [
+      "g2-add-sub-100"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-add-with-regrouping-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Add and regroup",
+        "minutes": 25,
+        "materials": [
+          "base-ten blocks or paper strips and squares",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Build 38 and 27. Ask: \"How many ones in all?\" (15.) Trade 10 ones for 1 ten.",
+          "Count the tens: 3 + 2 + 1 (the new ten) = 6 tens. So 38 + 27 = 65.",
+          "Try 46 + 18 and 29 + 34 with blocks. Ask your child to explain the trade each time.",
+          "Check: they can explain why 10 ones become 1 ten."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-subtract-two-digit",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Subtract two-digit numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-add-sub-100"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-subtract-two-digit-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Subtract two-digit numbers",
+        "minutes": 25,
+        "materials": [
+          "base-ten blocks or paper strips and squares",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Build 52 with 5 tens and 2 ones. Ask: \"Can we take away 7 ones?\" Trade 1 ten for 10 ones, so now there are 4 tens and 12 ones.",
+          "Take away 27 (2 tens, 7 ones). What is left? (25.)",
+          "Try 80 - 35 and 73 - 28. Have your child build, trade, and explain.",
+          "Check: they use a trade when needed and can write the answer correctly."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-add-within-1000",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Adding bigger numbers",
+    "version": 1,
+    "skillIds": [
+      "g2-add-sub-1000"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-add-within-1000-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Adding bigger numbers",
+        "minutes": 25,
+        "materials": [
+          "base-ten blocks or paper hundreds, tens and ones",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Build 245 and 130. Add the hundreds (2 + 1 = 3 hundreds), tens (4 + 3 = 7 tens), and ones (5 + 0 = 5): 375.",
+          "Try 400 + 250 and 326 - 100, then something with a trade like 168 + 47 (the ones make a ten).",
+          "Draw a quick picture for each problem using squares for hundreds, lines for tens, and dots for ones.",
+          "Check: they can add and subtract within 1000 using hundreds, tens, and ones."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-two-step-stories",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Two-step story problems",
+    "version": 1,
+    "skillIds": [
+      "g2-word-problems"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-two-step-stories-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Two-step story problems",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "counters"
+        ],
+        "parentPrompts": [
+          "Read: \"Ana had 24 stickers. She gave 9 to her friend and found 6 more. How many does she have now?\" Solve one step at a time: 24 - 9 = 15, then 15 + 6 = 21.",
+          "Have your child draw a quick picture or bar for each step and write number sentences.",
+          "Make up another with real items at home, such as books on a shelf or apples in a bowl.",
+          "Check: they solve each step in order and say what the answer means."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-why-it-works",
+    "grade": "2",
+    "subject": "math",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Explain why it works",
+    "version": 1,
+    "skillIds": [
+      "g2-explain-strategies"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-why-it-works-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Explain why it works",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "blocks or drawings"
+        ],
+        "parentPrompts": [
+          "Pick a problem like 47 + 25. Have your child solve it any way they like.",
+          "Ask: \"Why does your way work?\" Prompt them to use tens and ones to explain, for example: \"40 + 20 is 60, 7 + 5 is 12, and 60 + 12 is 72.\"",
+          "Try a different way together (such as making a ten or counting up) and compare the two.",
+          "Check: they can explain a strategy in their own words using place value."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-toast-cannot-undo",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Some changes cannot be undone",
+    "version": 1,
+    "skillIds": [
+      "g2-heat-cool"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-toast-cannot-undo-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Some changes cannot be undone",
+        "minutes": 25,
+        "materials": [
+          "bread slices",
+          "a toaster (adult only)",
+          "a plate"
+        ],
+        "parentPrompts": [
+          "Show a slice of bread. Ask your child to describe it: soft, pale, bendy.",
+          "An adult toasts it while the child stays back from the hot toaster. Look at the toast and describe it: hard, golden, crisp.",
+          "Ask: \"Can we turn the toast back into soft bread?\" (No.) Talk about how heat caused a change that cannot be reversed.",
+          "Check: they say some changes caused by heating cannot be undone."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-reversible-sort",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Can it change back?",
+    "version": 1,
+    "skillIds": [
+      "g2-heat-cool"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-reversible-sort-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Can it change back?",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "cards with changes: ice melting, bread toasting, water freezing, candle wax melting, pancake batter cooking, butter melting"
+        ],
+        "parentPrompts": [
+          "Write each change on a card. Make two piles: Can change back and Cannot change back.",
+          "Talk about each one and why. (Do not burn anything. Just discuss.)",
+          "Ask: \"What do the reversible changes have in common?\" (Usually melting or freezing.)",
+          "Check: they can give a reason for each sort using what they learned."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-material-engineer",
+    "grade": "2",
+    "subject": "science",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Material engineer challenge",
+    "version": 1,
+    "skillIds": [
+      "g2-test-materials",
+      "g2-properties"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-material-engineer-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Material engineer challenge",
+        "minutes": 25,
+        "materials": [
+          "a choice of materials: paper, foil, cloth, plastic, cardboard",
+          "a small toy",
+          "tape",
+          "scissors (child-safe)",
+          "water"
+        ],
+        "parentPrompts": [
+          "Challenge: build a small shelter for the toy that keeps it dry when you sprinkle water on it.",
+          "Before building, have your child choose materials and explain why, based on earlier tests.",
+          "Test it by sprinkling a little water on the roof. Did it work? What would you change?",
+          "Check: they pick materials for a reason and use test results to improve their design."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-continents-oceans",
+    "grade": "2",
+    "subject": "social-studies",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Continents and oceans",
+    "version": 1,
+    "skillIds": [
+      "g2-world-geography"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-continents-oceans-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Continents and oceans",
+        "minutes": 25,
+        "materials": [
+          "a globe or world map",
+          "paper",
+          "pencil",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Show the globe. Explain that most of Earth is covered by water. The big land areas are continents. The big bodies of water are oceans.",
+          "Name the 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America. Name the 5 oceans: Pacific, Atlantic, Indian, Southern, and Arctic.",
+          "Trace a world map with your child and color each continent a different color. Color the oceans blue.",
+          "Ask: \"Which continent do we live on? Which ocean is closest?\" Check: they can find their continent and name at least two oceans."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g2-w4-treasure-map",
+    "grade": "2",
+    "subject": "social-studies",
+    "unit": "g2-unit-1",
+    "week": 4,
+    "title": "Make a treasure map",
+    "version": 1,
+    "skillIds": [
+      "g2-map-skills",
+      "g2-directions"
+    ],
+    "activities": [
+      {
+        "id": "g2-w4-treasure-map-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a treasure map",
+        "minutes": 25,
+        "materials": [
+          "paper",
+          "pencil",
+          "crayons",
+          "a small object to hide"
+        ],
+        "parentPrompts": [
+          "Hide a small object in the house or yard. Make a map of the path, with symbols, a key, and a compass rose.",
+          "Write 3 clues that use directions, such as \"Walk north past the tree\" or \"Turn east at the fence.\"",
+          "Have a family member follow the map to find the treasure. Then swap roles.",
+          "Check: they use a map key, symbols, and directions clearly enough that someone else can follow."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

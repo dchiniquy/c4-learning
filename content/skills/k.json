@@ -1,0 +1,454 @@
+[
+  {
+    "id": "k-letter-names",
+    "subject": "literacy",
+    "name": "Recognize and name upper- and lowercase letters",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-1-d"
+    ]
+  },
+  {
+    "id": "k-letter-sounds",
+    "subject": "literacy",
+    "name": "Know the sound each letter makes",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-3-a"
+    ]
+  },
+  {
+    "id": "k-rhyme",
+    "subject": "literacy",
+    "name": "Recognize and make rhyming words",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-2-a"
+    ]
+  },
+  {
+    "id": "k-syllables",
+    "subject": "literacy",
+    "name": "Clap and count the syllables in spoken words",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-2-b"
+    ]
+  },
+  {
+    "id": "k-onset-rime",
+    "subject": "literacy",
+    "name": "Blend the beginning sound and ending part of a word",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-2-c"
+    ]
+  },
+  {
+    "id": "k-initial-sounds",
+    "subject": "literacy",
+    "name": "Hear and say the first sound in a word",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-2-d"
+    ]
+  },
+  {
+    "id": "k-print-direction",
+    "subject": "literacy",
+    "name": "Follow print left to right, top to bottom, page by page",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-1-a"
+    ]
+  },
+  {
+    "id": "k-word-spaces",
+    "subject": "literacy",
+    "name": "Know that words are separated by spaces in print",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-1-c"
+    ]
+  },
+  {
+    "id": "k-print-words",
+    "subject": "literacy",
+    "name": "Know that letters spell the words we say",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rf-k-1-b"
+    ]
+  },
+  {
+    "id": "k-book-parts",
+    "subject": "literacy",
+    "name": "Find the front cover, back cover and title page",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-ri-k-5"
+    ]
+  },
+  {
+    "id": "k-author-illustrator",
+    "subject": "literacy",
+    "name": "Tell what an author and an illustrator do",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-ri-k-6",
+      "ccss-ela-rl-k-6"
+    ]
+  },
+  {
+    "id": "k-story-questions",
+    "subject": "literacy",
+    "name": "Ask and answer questions about key details in a book",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-k-1",
+      "ccss-ela-ri-k-1"
+    ]
+  },
+  {
+    "id": "k-retell",
+    "subject": "literacy",
+    "name": "Retell a familiar story with key details",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-k-2"
+    ]
+  },
+  {
+    "id": "k-story-elements",
+    "subject": "literacy",
+    "name": "Name characters, setting and major events",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-k-3"
+    ]
+  },
+  {
+    "id": "k-text-types",
+    "subject": "literacy",
+    "name": "Tell a story from a poem",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-k-5"
+    ]
+  },
+  {
+    "id": "k-illustrations",
+    "subject": "literacy",
+    "name": "Tell how pictures match the words",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-k-7",
+      "ccss-ela-ri-k-7"
+    ]
+  },
+  {
+    "id": "k-main-topic",
+    "subject": "literacy",
+    "name": "Name the main topic of an informational book",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-ri-k-2"
+    ]
+  },
+  {
+    "id": "k-unknown-words",
+    "subject": "literacy",
+    "name": "Ask about and learn new words from a book",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-k-4",
+      "ccss-ela-l-k-4"
+    ]
+  },
+  {
+    "id": "k-compare-texts",
+    "subject": "literacy",
+    "name": "Compare two books or two characters",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-k-9",
+      "ccss-ela-ri-k-9"
+    ]
+  },
+  {
+    "id": "k-group-reading",
+    "subject": "literacy",
+    "name": "Join in group reading with purpose",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-rl-k-10",
+      "ccss-ela-ri-k-10"
+    ]
+  },
+  {
+    "id": "k-connect-ideas",
+    "subject": "literacy",
+    "name": "Describe how two ideas in a book connect",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-ri-k-3"
+    ]
+  },
+  {
+    "id": "k-print-letters",
+    "subject": "literacy",
+    "name": "Print upper- and lowercase letters",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-l-k-1-a"
+    ]
+  },
+  {
+    "id": "k-sound-spelling",
+    "subject": "literacy",
+    "name": "Write letters for sounds and spell simple words by sound",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-l-k-2-c",
+      "ccss-ela-l-k-2-d"
+    ]
+  },
+  {
+    "id": "k-capital-i",
+    "subject": "literacy",
+    "name": "Start a sentence with a capital letter and write the word I",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-l-k-2-a"
+    ]
+  },
+  {
+    "id": "k-write-info",
+    "subject": "literacy",
+    "name": "Draw, dictate and write to tell about a topic",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-k-2"
+    ]
+  },
+  {
+    "id": "k-write-opinion",
+    "subject": "literacy",
+    "name": "Draw, dictate and write an opinion about a book",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-ela-w-k-1"
+    ]
+  },
+  {
+    "id": "k-count-objects",
+    "subject": "math",
+    "name": "Count objects; the last number tells how many",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-cc-b-4-a",
+      "ccss-math-k-cc-b-4-b",
+      "ccss-math-k-cc-b-5"
+    ]
+  },
+  {
+    "id": "k-numerals",
+    "subject": "math",
+    "name": "Read and write numerals 0 to 10 and match them to groups",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-cc-a-3"
+    ]
+  },
+  {
+    "id": "k-one-more",
+    "subject": "math",
+    "name": "Know that the next number is one more",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-cc-b-4-c"
+    ]
+  },
+  {
+    "id": "k-count-by-ones",
+    "subject": "math",
+    "name": "Count forward from any number to 30, and by tens",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-cc-a-1",
+      "ccss-math-k-cc-a-2"
+    ]
+  },
+  {
+    "id": "k-compare-groups",
+    "subject": "math",
+    "name": "Compare two groups: more, fewer or the same",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-cc-c-6"
+    ]
+  },
+  {
+    "id": "k-compare-numerals",
+    "subject": "math",
+    "name": "Tell which of two numerals is bigger",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-cc-c-7"
+    ]
+  },
+  {
+    "id": "k-sort-count",
+    "subject": "math",
+    "name": "Sort objects into categories and count each group",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-md-b-3"
+    ]
+  },
+  {
+    "id": "k-add-within-5",
+    "subject": "math",
+    "name": "Add within 5 using objects and fingers",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-oa-a-1",
+      "ccss-math-k-oa-a-5"
+    ]
+  },
+  {
+    "id": "k-subtract-within-5",
+    "subject": "math",
+    "name": "Take away within 5 using objects and fingers",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-oa-a-1"
+    ]
+  },
+  {
+    "id": "k-add-word-problems",
+    "subject": "math",
+    "name": "Solve simple number stories",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-oa-a-2"
+    ]
+  },
+  {
+    "id": "k-make-5",
+    "subject": "math",
+    "name": "Find pairs of numbers that make 5",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-oa-a-3"
+    ]
+  },
+  {
+    "id": "k-make-ten",
+    "subject": "math",
+    "name": "Find how many more make ten",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-oa-a-4"
+    ]
+  },
+  {
+    "id": "k-teen-numbers",
+    "subject": "math",
+    "name": "See teen numbers as ten and some more",
+    "prerequisites": [],
+    "standardIds": [
+      "ccss-math-k-nbt-a-1"
+    ]
+  },
+  {
+    "id": "k-plant-needs",
+    "subject": "science",
+    "name": "Observe what plants need to live and grow",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-k-ls1-1"
+    ]
+  },
+  {
+    "id": "k-animal-needs",
+    "subject": "science",
+    "name": "Observe what animals, including people, need to live",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-k-ls1-1"
+    ]
+  },
+  {
+    "id": "k-weather-observe",
+    "subject": "science",
+    "name": "Observe the weather and notice patterns over time",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-k-ess2-1"
+    ]
+  },
+  {
+    "id": "k-weather-forecast",
+    "subject": "science",
+    "name": "Tell why a weather forecast helps us prepare",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-k-ess3-2"
+    ]
+  },
+  {
+    "id": "k-sunlight",
+    "subject": "science",
+    "name": "Observe how sunlight warms things and design shade",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-k-ps3-1",
+      "ngss-k-ps3-2"
+    ]
+  },
+  {
+    "id": "k-needs-model",
+    "subject": "science",
+    "name": "Show how living things need the places they live",
+    "prerequisites": [],
+    "standardIds": [
+      "ngss-k-ess3-1"
+    ]
+  },
+  {
+    "id": "k-rules",
+    "subject": "social-studies",
+    "name": "Explain why rules help keep us safe and fair",
+    "prerequisites": [],
+    "standardIds": []
+  },
+  {
+    "id": "k-community",
+    "subject": "social-studies",
+    "name": "Name places and neighbors in our community",
+    "prerequisites": [],
+    "standardIds": []
+  },
+  {
+    "id": "k-helpers",
+    "subject": "social-studies",
+    "name": "Name community helpers and what they do",
+    "prerequisites": [],
+    "standardIds": []
+  },
+  {
+    "id": "k-make-art",
+    "subject": "arts",
+    "name": "Make art and talk about it",
+    "prerequisites": [],
+    "standardIds": []
+  },
+  {
+    "id": "k-music-rhythm",
+    "subject": "arts",
+    "name": "Keep a beat and make music",
+    "prerequisites": [],
+    "standardIds": []
+  }
+]

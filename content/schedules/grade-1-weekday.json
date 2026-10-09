@@ -10,30 +10,31 @@
       "subject": "sel",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Morning basket: calendar, poem, check-in"
+      "label": "Morning meeting: calendar, weather, feelings check-in"
     },
     {
       "day": 1,
       "start": "09:15",
-      "minutes": 15,
+      "minutes": 12,
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Phonics lesson",
-      "lessonId": "g1-digraphs"
+      "label": "Phonics game",
+      "sequenceId": "g1-phonics-app"
     },
     {
       "day": 1,
-      "start": "09:30",
-      "minutes": 10,
+      "start": "09:27",
+      "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Handwriting and writing"
+      "label": "Word work and writing",
+      "sequenceId": "g1-literacy"
     },
     {
       "day": 1,
-      "start": "09:40",
+      "start": "09:47",
       "minutes": 10,
       "subject": "movement",
       "mode": "offline",
@@ -42,55 +43,55 @@
     },
     {
       "day": 1,
-      "start": "09:50",
+      "start": "09:57",
       "minutes": 15,
       "subject": "math",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Math lesson",
-      "lessonId": "g1-make-ten"
+      "label": "Math game",
+      "sequenceId": "g1-math-app"
     },
     {
       "day": 1,
-      "start": "10:05",
-      "minutes": 15,
+      "start": "10:12",
+      "minutes": 20,
       "subject": "math",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Math with manipulatives",
+      "label": "Hands-on math",
       "sequenceId": "g1-math-hands"
     },
     {
       "day": 1,
-      "start": "10:20",
-      "minutes": 10,
-      "subject": "literacy",
+      "start": "10:32",
+      "minutes": 20,
+      "subject": "life-skills",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling and word work",
-      "sequenceId": "g1-spelling"
+      "label": "Snack, chores, and outdoor play"
     },
     {
       "day": 1,
-      "start": "10:30",
+      "start": "10:52",
       "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Read-aloud and narration"
+      "label": "Read-aloud"
     },
     {
       "day": 1,
-      "start": "10:50",
+      "start": "11:12",
       "minutes": 30,
       "subject": "science",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Science: observe and experiment"
+      "label": "Science: senses, plants, and animals",
+      "sequenceId": "g1-science"
     },
     {
       "day": 1,
-      "start": "11:20",
+      "start": "11:42",
       "minutes": 20,
       "subject": "arts",
       "mode": "offline",
@@ -99,8 +100,8 @@
     },
     {
       "day": 1,
-      "start": "11:40",
-      "minutes": 10,
+      "start": "12:02",
+      "minutes": 15,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
@@ -113,30 +114,31 @@
       "subject": "sel",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Morning basket: calendar, poem, check-in"
+      "label": "Morning meeting: calendar, weather, feelings check-in"
     },
     {
       "day": 2,
       "start": "09:15",
-      "minutes": 15,
+      "minutes": 12,
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Phonics lesson",
-      "lessonId": "g1-digraphs"
+      "label": "Phonics game",
+      "sequenceId": "g1-phonics-app"
     },
     {
       "day": 2,
-      "start": "09:30",
-      "minutes": 10,
+      "start": "09:27",
+      "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Handwriting and writing"
+      "label": "Word work and writing",
+      "sequenceId": "g1-literacy"
     },
     {
       "day": 2,
-      "start": "09:40",
+      "start": "09:47",
       "minutes": 10,
       "subject": "movement",
       "mode": "offline",
@@ -145,55 +147,55 @@
     },
     {
       "day": 2,
-      "start": "09:50",
+      "start": "09:57",
       "minutes": 15,
       "subject": "math",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Math lesson",
-      "lessonId": "g1-make-ten"
+      "label": "Math game",
+      "sequenceId": "g1-math-app"
     },
     {
       "day": 2,
-      "start": "10:05",
-      "minutes": 15,
+      "start": "10:12",
+      "minutes": 20,
       "subject": "math",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Math with manipulatives",
+      "label": "Hands-on math",
       "sequenceId": "g1-math-hands"
     },
     {
       "day": 2,
-      "start": "10:20",
-      "minutes": 10,
-      "subject": "literacy",
+      "start": "10:32",
+      "minutes": 20,
+      "subject": "life-skills",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling and word work",
-      "sequenceId": "g1-spelling"
+      "label": "Snack, chores, and outdoor play"
     },
     {
       "day": 2,
-      "start": "10:30",
+      "start": "10:52",
       "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Read-aloud and narration"
+      "label": "Read-aloud"
     },
     {
       "day": 2,
-      "start": "10:50",
+      "start": "11:12",
       "minutes": 30,
       "subject": "social-studies",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Social studies: community and maps"
+      "label": "Social studies: rules and community helpers",
+      "sequenceId": "g1-social-studies"
     },
     {
       "day": 2,
-      "start": "11:20",
+      "start": "11:42",
       "minutes": 20,
       "subject": "arts",
       "mode": "offline",
@@ -202,8 +204,8 @@
     },
     {
       "day": 2,
-      "start": "11:40",
-      "minutes": 10,
+      "start": "12:02",
+      "minutes": 15,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
@@ -216,30 +218,31 @@
       "subject": "sel",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Morning basket: calendar, poem, check-in"
+      "label": "Morning meeting: calendar, weather, feelings check-in"
     },
     {
       "day": 3,
       "start": "09:15",
-      "minutes": 15,
+      "minutes": 12,
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Phonics lesson",
-      "lessonId": "g1-digraphs"
+      "label": "Phonics game",
+      "sequenceId": "g1-phonics-app"
     },
     {
       "day": 3,
-      "start": "09:30",
-      "minutes": 10,
+      "start": "09:27",
+      "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Handwriting and writing"
+      "label": "Word work and writing",
+      "sequenceId": "g1-literacy"
     },
     {
       "day": 3,
-      "start": "09:40",
+      "start": "09:47",
       "minutes": 10,
       "subject": "movement",
       "mode": "offline",
@@ -248,55 +251,55 @@
     },
     {
       "day": 3,
-      "start": "09:50",
+      "start": "09:57",
       "minutes": 15,
       "subject": "math",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Math lesson",
-      "lessonId": "g1-make-ten"
+      "label": "Math game",
+      "sequenceId": "g1-math-app"
     },
     {
       "day": 3,
-      "start": "10:05",
-      "minutes": 15,
+      "start": "10:12",
+      "minutes": 20,
       "subject": "math",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Math with manipulatives",
+      "label": "Hands-on math",
       "sequenceId": "g1-math-hands"
     },
     {
       "day": 3,
-      "start": "10:20",
-      "minutes": 10,
-      "subject": "literacy",
+      "start": "10:32",
+      "minutes": 20,
+      "subject": "life-skills",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling and word work",
-      "sequenceId": "g1-spelling"
+      "label": "Snack, chores, and outdoor play"
     },
     {
       "day": 3,
-      "start": "10:30",
+      "start": "10:52",
       "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Read-aloud and narration"
+      "label": "Read-aloud"
     },
     {
       "day": 3,
-      "start": "10:50",
+      "start": "11:12",
       "minutes": 30,
       "subject": "science",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Science: observe and experiment"
+      "label": "Science: senses, plants, and animals",
+      "sequenceId": "g1-science"
     },
     {
       "day": 3,
-      "start": "11:20",
+      "start": "11:42",
       "minutes": 20,
       "subject": "arts",
       "mode": "offline",
@@ -305,8 +308,8 @@
     },
     {
       "day": 3,
-      "start": "11:40",
-      "minutes": 10,
+      "start": "12:02",
+      "minutes": 15,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
@@ -319,30 +322,31 @@
       "subject": "sel",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Morning basket: calendar, poem, check-in"
+      "label": "Morning meeting: calendar, weather, feelings check-in"
     },
     {
       "day": 4,
       "start": "09:15",
-      "minutes": 15,
+      "minutes": 12,
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Phonics lesson",
-      "lessonId": "g1-digraphs"
+      "label": "Phonics game",
+      "sequenceId": "g1-phonics-app"
     },
     {
       "day": 4,
-      "start": "09:30",
-      "minutes": 10,
+      "start": "09:27",
+      "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Handwriting and writing"
+      "label": "Word work and writing",
+      "sequenceId": "g1-literacy"
     },
     {
       "day": 4,
-      "start": "09:40",
+      "start": "09:47",
       "minutes": 10,
       "subject": "movement",
       "mode": "offline",
@@ -351,55 +355,55 @@
     },
     {
       "day": 4,
-      "start": "09:50",
+      "start": "09:57",
       "minutes": 15,
       "subject": "math",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Math lesson",
-      "lessonId": "g1-make-ten"
+      "label": "Math game",
+      "sequenceId": "g1-math-app"
     },
     {
       "day": 4,
-      "start": "10:05",
-      "minutes": 15,
+      "start": "10:12",
+      "minutes": 20,
       "subject": "math",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Math with manipulatives",
+      "label": "Hands-on math",
       "sequenceId": "g1-math-hands"
     },
     {
       "day": 4,
-      "start": "10:20",
-      "minutes": 10,
-      "subject": "literacy",
+      "start": "10:32",
+      "minutes": 20,
+      "subject": "life-skills",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling and word work",
-      "sequenceId": "g1-spelling"
+      "label": "Snack, chores, and outdoor play"
     },
     {
       "day": 4,
-      "start": "10:30",
+      "start": "10:52",
       "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Read-aloud and narration"
+      "label": "Read-aloud"
     },
     {
       "day": 4,
-      "start": "10:50",
+      "start": "11:12",
       "minutes": 30,
       "subject": "social-studies",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Social studies: community and maps"
+      "label": "Social studies: rules and community helpers",
+      "sequenceId": "g1-social-studies"
     },
     {
       "day": 4,
-      "start": "11:20",
+      "start": "11:42",
       "minutes": 20,
       "subject": "arts",
       "mode": "offline",
@@ -408,8 +412,8 @@
     },
     {
       "day": 4,
-      "start": "11:40",
-      "minutes": 10,
+      "start": "12:02",
+      "minutes": 15,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
@@ -422,30 +426,31 @@
       "subject": "sel",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Morning basket: calendar, poem, check-in"
+      "label": "Morning meeting: calendar, weather, feelings check-in"
     },
     {
       "day": 5,
       "start": "09:15",
-      "minutes": 15,
+      "minutes": 12,
       "subject": "literacy",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Phonics lesson",
-      "lessonId": "g1-digraphs"
+      "label": "Phonics game",
+      "sequenceId": "g1-phonics-app"
     },
     {
       "day": 5,
-      "start": "09:30",
-      "minutes": 10,
+      "start": "09:27",
+      "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Handwriting and writing"
+      "label": "Word work and writing",
+      "sequenceId": "g1-literacy"
     },
     {
       "day": 5,
-      "start": "09:40",
+      "start": "09:47",
       "minutes": 10,
       "subject": "movement",
       "mode": "offline",
@@ -454,55 +459,55 @@
     },
     {
       "day": 5,
-      "start": "09:50",
+      "start": "09:57",
       "minutes": 15,
       "subject": "math",
       "mode": "screen",
       "leadBy": "app",
-      "label": "Math lesson",
-      "lessonId": "g1-make-ten"
+      "label": "Math game",
+      "sequenceId": "g1-math-app"
     },
     {
       "day": 5,
-      "start": "10:05",
-      "minutes": 15,
+      "start": "10:12",
+      "minutes": 20,
       "subject": "math",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Math with manipulatives",
+      "label": "Hands-on math",
       "sequenceId": "g1-math-hands"
     },
     {
       "day": 5,
-      "start": "10:20",
-      "minutes": 10,
-      "subject": "literacy",
+      "start": "10:32",
+      "minutes": 20,
+      "subject": "life-skills",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling and word work",
-      "sequenceId": "g1-spelling"
+      "label": "Snack, chores, and outdoor play"
     },
     {
       "day": 5,
-      "start": "10:30",
+      "start": "10:52",
       "minutes": 20,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Read-aloud and narration"
+      "label": "Read-aloud"
     },
     {
       "day": 5,
-      "start": "10:50",
+      "start": "11:12",
       "minutes": 30,
       "subject": "science",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Science: observe and experiment"
+      "label": "Science: senses, plants, and animals",
+      "sequenceId": "g1-science"
     },
     {
       "day": 5,
-      "start": "11:20",
+      "start": "11:42",
       "minutes": 20,
       "subject": "arts",
       "mode": "offline",
@@ -511,8 +516,8 @@
     },
     {
       "day": 5,
-      "start": "11:40",
-      "minutes": 10,
+      "start": "12:02",
+      "minutes": 15,
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",

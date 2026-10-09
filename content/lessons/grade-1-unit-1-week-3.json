@@ -1,0 +1,533 @@
+[
+  {
+    "id": "g1-w3-sh",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Digraph sh",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-sh-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Meet sh in words",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "a small mirror (optional)",
+          "words: ship, shop, shut, fish, dish, wish, shell"
+        ],
+        "parentPrompts": [
+          "Say \"shhh\" like asking for quiet. Explain: \"Two letters, s and h, team up to make one sound. We call that a digraph.\"",
+          "Write \"sh\" on a card. Read ship, shop, fish, dish slowly, tapping the sh as one sound (not two).",
+          "Hunt in the room for things you can name that have sh (shoe, shelf, dish, brush, fish if you have a toy).",
+          "Write two sh words together on paper and underline the sh in each.",
+          "Check: when you point to the words, your child reads sh as one sound, not \"s-h.\" Count how many of the seven words they read correctly."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-ch",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Digraph ch",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-ch-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Meet ch in words",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "paper and pencil",
+          "words: chip, chop, chin, chat, much, such, rich, lunch"
+        ],
+        "parentPrompts": [
+          "Say \"chuh\" like a train: ch-ch-ch. Explain that c and h team up to make one sound, the ch digraph.",
+          "Read chip, chop, chin, chat. Then read much, such, rich, lunch, where the ch comes at the end. Ask: \"Where do you hear it, the beginning or the end?\"",
+          "Make two piles on the table, Beginning and End. Sort the word cards.",
+          "Dictate \"chop\" and \"much.\" Your child writes them, underlining the ch.",
+          "Check: your child sorts correctly and reads six of the eight words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-th-wh",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Digraphs th and wh",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-th-wh-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Meet th and wh in words",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "a mirror (optional)",
+          "words: this, that, then, thin, math, bath, when, whip, whiz"
+        ],
+        "parentPrompts": [
+          "Show your child how to make the th sound: tongue gently between the teeth and blow air. Try it in a mirror. Explain that \"this\" has a voiced th and \"thin\" has a quiet, whispery th; both are written th.",
+          "Read this, that, then, thin, math, bath. Ask: \"Which ones feel buzzy? Which are just air?\" (Do not worry if your child cannot tell. Hearing it is enough.)",
+          "Introduce wh: say \"when\" and \"whip.\" Explain that in most places wh sounds like w.",
+          "Play \"digraph detective.\" Hold up a card and have your child say sh, ch, th, or wh before reading it.",
+          "Check: your child identifies the correct digraph on at least six cards and reads the words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-ck-sort",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Digraph sort and ck",
+    "version": 1,
+    "skillIds": [
+      "g1-digraphs"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-ck-sort-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sort words by digraph and meet ck",
+        "minutes": 20,
+        "materials": [
+          "index cards",
+          "marker",
+          "paper",
+          "words: ship, chop, thin, whip, duck, sock, neck, much, fish, bath, chin, when"
+        ],
+        "parentPrompts": [
+          "Write the twelve words on cards. Make four labeled spots: sh, ch, th, wh. Introduce \"ck\" as the extra team at the end of short words like duck and sock; it makes the k sound.",
+          "Have your child sort the words into the four spots (ck words will need a fifth spot).",
+          "Read each pile aloud. Ask your child to think of one more word that fits each pile. Write it on a new card.",
+          "Pick one word from each pile and have your child write it.",
+          "Check: sorting is correct for at least ten of the twelve cards, and your child can name the digraph in each."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-dictation",
+    "grade": "1",
+    "subject": "literacy",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Digraph sentences",
+    "version": 1,
+    "skillIds": [
+      "g1-spell-sound"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-dictation-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Write sentences with digraph words",
+        "minutes": 20,
+        "materials": [
+          "lined paper",
+          "pencil",
+          "a few word cards from this week"
+        ],
+        "parentPrompts": [
+          "Read three practice sentences aloud and have your child repeat each: \"The fish is in the dish.\" \"I chop the chip.\" \"This is a thin duck.\"",
+          "Say the first sentence again. Count the words on your fingers. Have your child write it, spelling the digraph words with sh, ch, th, ck.",
+          "Check it together: capital letter, finger spaces, end mark. Let your child fix one thing, not everything.",
+          "Have your child write their own sentence using at least one digraph word and read it to you.",
+          "Check: digraphs are spelled correctly in most of the words and the sentence begins with a capital and ends with a mark."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-teens",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Teen numbers are a ten and some ones",
+    "version": 1,
+    "skillIds": [
+      "g1-teens"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-teens-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build teen numbers",
+        "minutes": 20,
+        "materials": [
+          "20 small objects (buttons, beans, pennies)",
+          "an egg carton cut down to 10 spots (a homemade ten-frame)",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Fill an egg carton (10 spots) with counters. Add 4 more outside the carton. Ask: \"How many in all?\" Say: \"A ten and four more is fourteen.\"",
+          "Build 12, 15, 17 and 19 with a full carton plus ones. Each time say: \"ten and ___ ones makes ___.\"",
+          "Write the numbers 14 and 19 and point out that the 1 means one ten and the other digit is the ones.",
+          "Call out a teen number and have your child build it.",
+          "Check: your child builds three teen numbers correctly and tells you how many tens and ones each has."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-make-ten",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Make a ten",
+    "version": 1,
+    "skillIds": [
+      "g1-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-make-ten-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Fill the ten, then add the rest",
+        "minutes": 20,
+        "materials": [
+          "a ten-frame drawn on paper (two rows of five)",
+          "20 counters in two colors",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Put 8 counters in the ten-frame. Add 5 more in a different color. Ask: \"How can we make a full ten first?\" Move 2 into the frame.",
+          "Say: \"8 + 5 is the same as 8 + 2 + 3. That is 10 + 3 = 13.\" Write it.",
+          "Try 9 + 4 (move 1 to make ten), 7 + 6, and 8 + 7.",
+          "Ask: \"Which number needs fewer to make ten?\" and let your child choose which to fill.",
+          "Check: your child fills the ten-frame first and gets the right total on at least two of four problems, explaining the steps."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-add-within-20",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Add within 20",
+    "version": 1,
+    "skillIds": [
+      "g1-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-add-within-20-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Add to 20 with games",
+        "minutes": 20,
+        "materials": [
+          "2 dice or number cards from 1 to 9",
+          "paper",
+          "pencil",
+          "a ten-frame or counters"
+        ],
+        "parentPrompts": [
+          "Roll two dice and write the numbers. For sums over 10, make a ten first with counters or the ten-frame.",
+          "Play \"beat the total\": each player rolls twice and adds, and the higher total wins a point. Play to five points.",
+          "Pick one round and ask: \"How did you add it? Did you count on, use a double, or make a ten?\" There are many good strategies.",
+          "Write three of the equations from the game.",
+          "Check: your child adds sums up to 20 with a strategy and can explain one of them. Do not expect fluency yet; strategy talk is the goal."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-three-numbers",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Add three numbers",
+    "version": 1,
+    "skillIds": [
+      "g1-three-addends"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-three-numbers-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Add three groups",
+        "minutes": 20,
+        "materials": [
+          "12 small objects in three different colors or kinds",
+          "paper",
+          "pencil"
+        ],
+        "parentPrompts": [
+          "Show 3 red, 4 blue, and 2 green blocks. Ask: \"How many in all?\" Look for two numbers that are easy to add first (3 + 4 = 7, then 7 + 2 = 9).",
+          "Try the numbers in another order. Ask: \"Do we get the same total if we add 4 + 2 first?\"",
+          "Solve a story: \"Mia saw 5 birds, 3 squirrels and 2 rabbits. How many animals in all?\" Look for pairs that make ten when you can.",
+          "Let your child make up an adding-three problem for you.",
+          "Check: your child solves two three-number problems (total 20 or less) and knows the order of adding does not change the total."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-subtract-20",
+    "grade": "1",
+    "subject": "math",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Subtract within 20",
+    "version": 1,
+    "skillIds": [
+      "g1-make-ten"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-subtract-20-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Subtract using ten",
+        "minutes": 20,
+        "materials": [
+          "20 counters",
+          "a ten-frame on paper",
+          "paper and pencil"
+        ],
+        "parentPrompts": [
+          "Put 13 counters out (a full ten-frame and 3 extra). Ask: \"Take away 4. How can the ten help?\" Take the 3 extras first, then 1 from the ten.",
+          "Write 13 - 4 = 9 and say it. Show it again as \"13 - 3 = 10, and 10 - 1 = 9.\"",
+          "Try 12 - 5, 15 - 7, and 14 - 6. Let your child choose how to take away.",
+          "Write the matching addition fact for one: 9 + 4 = 13.",
+          "Check: your child solves at least three of four and explains one strategy with the ten-frame."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-animal-parts",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Animal body parts",
+    "version": 1,
+    "skillIds": [
+      "g1-animal-parts"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-animal-parts-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Match animal parts to jobs",
+        "minutes": 30,
+        "materials": [
+          "picture books or printed pictures of animals (a bird, a fish, a rabbit, a turtle)",
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Look at an animal picture. Ask: \"What parts do you see? What might each one help the animal do?\" (Wings and feathers help birds fly; fins help fish swim.)",
+          "Look at a bird beak and a duck foot. Ask: \"How do you think the webbed foot helps a duck?\" (It pushes water when swimming.)",
+          "Fold paper into four boxes. Draw four animals and one body part for each, then say what the part does.",
+          "Play \"I am a part\": say \"I help a fish move through water\" (fin).",
+          "Check: your child names at least three animal parts and a true job for each."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-coverings",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Fur, feathers, and shells",
+    "version": 1,
+    "skillIds": [
+      "g1-animal-parts"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-coverings-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Compare animal coverings",
+        "minutes": 30,
+        "materials": [
+          "pictures or toys of a rabbit, a duck, a turtle, and a fish",
+          "a feather and a cotton ball (optional)",
+          "water in a bowl",
+          "paper towel"
+        ],
+        "parentPrompts": [
+          "Show each animal covering. Ask: \"How might fur, feathers, or scales help this animal?\"",
+          "Try it: dip a feather in water and shake. Dip a paper towel in water. Ask: \"Which one stays dry? How might that help a duck?\" Many feathers shed water better than paper does.",
+          "Talk about a turtle shell. Ask: \"How might a shell help a turtle stay safe?\"",
+          "Sort pictures of animals by what covers them: fur, feathers, scales, shell.",
+          "Check: your child sorts animals by covering and says how one covering helps the animal. Safety: wash hands after handling any feather, and do not pick up feathers or touch wild animals outdoors."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-beaks-and-feet",
+    "grade": "1",
+    "subject": "science",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Beaks and feet",
+    "version": 1,
+    "skillIds": [
+      "g1-animal-parts"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-beaks-and-feet-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Test tools like beaks",
+        "minutes": 30,
+        "materials": [
+          "tweezers, a spoon, a clothespin",
+          "rice, water in a shallow dish, small pebbles",
+          "paper cups"
+        ],
+        "parentPrompts": [
+          "Explain: birds have different beaks for different jobs. Show pictures of a hummingbird, a duck, and an eagle if you have them.",
+          "Pretend your tools are beaks. Use tweezers to pick up rice from a plate (like a small bird picking seeds). Use a spoon to scoop water (like a duck). Use a clothespin to grab a pebble.",
+          "Ask: \"Which tool was best for which job? Which was hard?\"",
+          "Draw your favorite bird with its beak and write what the beak does.",
+          "Check: your child connects a tool to a job and says one reason the tool fits the job."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-who-helps",
+    "grade": "1",
+    "subject": "social-studies",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Who helps in our community?",
+    "version": 1,
+    "skillIds": [
+      "g1-helpers"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-who-helps-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Learn about community helpers",
+        "minutes": 30,
+        "materials": [
+          "a library book or pictures about community helpers",
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Look at pictures of helpers: a firefighter, a nurse, a mail carrier, a librarian, a bus driver, a teacher. Ask: \"What does each person do? How do they help?\"",
+          "Ask: \"Which helpers have you seen near your home?\"",
+          "Have your child draw one helper and write a sentence: \"A mail carrier brings letters.\"",
+          "Play charades. Act out a job and have the others guess.",
+          "Check: your child names four helpers and tells what they do. Remind your child that many different people can do any of these jobs."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "g1-w3-interview",
+    "grade": "1",
+    "subject": "social-studies",
+    "unit": "g1-unit-1",
+    "week": 3,
+    "title": "Interview a helper",
+    "version": 1,
+    "skillIds": [
+      "g1-helpers"
+    ],
+    "activities": [
+      {
+        "id": "g1-w3-interview-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Ask good questions",
+        "minutes": 30,
+        "materials": [
+          "paper",
+          "pencil",
+          "a helper to talk to (a family member, a neighbor, or a worker at a library or store), in person or by phone"
+        ],
+        "parentPrompts": [
+          "Pick a helper your child knows or someone you can call. Explain: \"An interview is when you ask someone questions to learn about their job.\"",
+          "Together, make three questions: \"What do you do each day? What tools do you use? What do you like about your job?\"",
+          "Hold the interview. Your child asks the questions and writes or draws what they learn.",
+          "After, ask: \"What did you learn that surprised you?\"",
+          "Check: your child asks all the questions and retells one thing they learned. If you cannot arrange a real interview, play pretend with a toy helper."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]
