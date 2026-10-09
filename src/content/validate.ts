@@ -117,6 +117,20 @@ export function validateContent(bundle: ContentBundle): string[] {
           errors.push(`schedule "${sched.id}" (${sched.grade}) uses sequence "${seq.id}" from grade ${seq.grade}`)
         }
       }
+      // Every lesson a block can show must fit the block: right mode, and no longer than the time allotted.
+      const candidates = block.lessonId
+        ? [lessons.get(block.lessonId)]
+        : (sequences.get(block.sequenceId ?? '')?.lessonIds ?? []).map((id) => lessons.get(id))
+      for (const lesson of candidates) {
+        if (!lesson) continue
+        const minutes = lesson.activities.filter((a) => a.mode === block.mode).reduce((sum, a) => sum + a.minutes, 0)
+        if (minutes === 0) {
+          errors.push(`schedule "${sched.id}" block "${block.label}": lesson "${lesson.id}" has no ${block.mode} activity`)
+        } else if (minutes > block.minutes) {
+          errors.push(`schedule "${sched.id}" block "${block.label}": lesson "${lesson.id}" needs ${minutes} min but the block is ${block.minutes}`)
+        }
+      }
+
       if (block.mode === 'screen') {
         screenByDay.set(block.day, (screenByDay.get(block.day) ?? 0) + block.minutes)
       }
@@ -141,5 +155,5 @@ export function validateContent(bundle: ContentBundle): string[] {
     }
   }
 
-  return errors
+  return [...new Set(errors)] // the same weekday block repeats across days, so identical messages are collapsed
 }

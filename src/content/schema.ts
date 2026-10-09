@@ -96,6 +96,8 @@ export const LessonSchema = z.object({
   grade: GradeSchema,
   subject: SubjectSchema,
   unit: id,
+  /** Week within the unit (1-based), for grouping lessons in the parent view. */
+  week: z.number().int().positive().optional(),
   title: z.string().min(1),
   /** Bump when content changes meaningfully; progress records reference lesson id + version. */
   version: z.number().int().positive(),

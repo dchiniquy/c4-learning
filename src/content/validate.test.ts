@@ -11,7 +11,7 @@ const lesson = {
 } as const
 const schedule = {
   id: 'sched-a', grade: '1', name: 'Test week',
-  blocks: [{ day: 1, start: '09:00', minutes: 15, subject: 'math', mode: 'screen', leadBy: 'app', label: 'Math app', lessonId: 'lesson-a' }],
+  blocks: [{ day: 1, start: '09:00', minutes: 15, subject: 'math', mode: 'offline', leadBy: 'parent', label: 'Math with beans', lessonId: 'lesson-a' }],
 } as const
 
 const bundle = (over: Partial<ContentBundle> = {}): ContentBundle =>
@@ -69,6 +69,7 @@ describe('validateContent', () => {
       prompt: 'How many?',
       payload: { choices: [{ id: 'a', label: '2' }, { id: 'b', label: '3' }], correctId: 'b' },
     }
+    b.schedules[0].blocks[0] = { ...b.schedules[0].blocks[0], mode: 'screen', leadBy: 'app' }
     expect(validateContent(b)).toEqual([])
   })
 
@@ -93,11 +94,31 @@ describe('validateContent', () => {
   it('enforces the per-grade daily screen budget', () => {
     const b = bundle()
     b.schedules[0].grade = '1'
+    const app = { ...b.schedules[0].blocks[0], mode: 'screen' as const, leadBy: 'app' as const, lessonId: undefined }
     b.schedules[0].blocks = [
-      { ...b.schedules[0].blocks[0], minutes: 35 },
-      { ...b.schedules[0].blocks[0], start: '10:00', minutes: 30 },
+      { ...app, minutes: 35 },
+      { ...app, start: '10:00', minutes: 30 },
     ]
     expect(validateContent(b).some((e) => e.includes('exceeds 1 budget of 60'))).toBe(true)
+  })
+
+  it('flags lessons that do not fit the block they are scheduled in', () => {
+    const b = bundle()
+    b.schedules[0].blocks[0] = { ...b.schedules[0].blocks[0], mode: 'offline', leadBy: 'parent', minutes: 5 }
+    expect(validateContent(b).some((e) => e.includes('needs 10 min but the block is 5'))).toBe(true)
+
+    b.schedules[0].blocks[0] = { ...b.schedules[0].blocks[0], mode: 'screen', leadBy: 'app', minutes: 15 }
+    expect(validateContent(b).some((e) => e.includes('has no screen activity'))).toBe(true)
+  })
+
+  it('checks every lesson in a sequence against the block', () => {
+    const b = bundle({ sequences: [{ id: 'seq-a', grade: '1', subject: 'math', name: 'S', lessonIds: ['lesson-a', 'lesson-b'] } as never] })
+    b.lessons.push({ ...structuredClone(b.lessons[0]), id: 'lesson-b', activities: [{ ...b.lessons[0].activities[0], id: 'act-b', minutes: 30 }] })
+    delete (b.schedules[0].blocks[0] as { lessonId?: string }).lessonId
+    b.schedules[0].blocks[0] = { ...b.schedules[0].blocks[0], sequenceId: 'seq-a', mode: 'offline', leadBy: 'parent', minutes: 20 }
+    const errors = validateContent(b)
+    expect(errors.some((e) => e.includes('"lesson-b" needs 30 min but the block is 20'))).toBe(true)
+    expect(errors.some((e) => e.includes('"lesson-a"'))).toBe(false)
   })
 
   it('flags overlapping blocks and cross-grade lessons', () => {

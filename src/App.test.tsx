@@ -8,6 +8,14 @@ import { newStores } from './test/helpers.ts'
 
 const content = loadContentBundle()
 
+// Read lessons from the content itself, so these tests keep working as lessons are added or reordered.
+const lessonsIn = (sequenceId: string) => {
+  const seq = content.sequences.find((q) => q.id === sequenceId)!
+  return seq.lessonIds.map((id) => content.lessons.find((l) => l.id === id)!)
+}
+const [FIRST_MATH, SECOND_MATH] = lessonsIn('pk-math')
+const heading = (lesson: { title: string }) => `For the grown-up: ${lesson.title}`
+
 afterEach(() => {
   vi.restoreAllMocks()
   vi.useRealTimers()
@@ -127,8 +135,8 @@ describe("child's Today schedule", () => {
   it('shows hands-on instructions for lessons, for the grown-up', async () => {
     const { user } = await childPage('prek', MONDAY)
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
-    expect(await screen.findByText(/For the grown-up: Count the beans/)).toBeInTheDocument()
-    expect(screen.getByText(/dried beans/)).toBeInTheDocument()
+    expect(await screen.findByText(heading(FIRST_MATH))).toBeInTheDocument()
+    expect(screen.getByText(FIRST_MATH.activities[0].parentPrompts[0])).toBeInTheDocument()
   })
 
   it('ticking an app block moves the meter, and it persists after a reload', async () => {
@@ -257,25 +265,25 @@ describe('progress-paced lessons', () => {
     const { user } = ctx
 
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
-    expect(await screen.findByText(/For the grown-up: Count the beans/)).toBeInTheDocument()
+    expect(await screen.findByText(heading(FIRST_MATH))).toBeInTheDocument()
 
     // Skipping the day: Tuesday still shows the first lesson.
     cleanup()
     vi.setSystemTime(TUESDAY)
     ctx.remount(`/child/${child.id}`)
-    expect(await screen.findByText(/For the grown-up: Count the beans/)).toBeInTheDocument()
+    expect(await screen.findByText(heading(FIRST_MATH))).toBeInTheDocument()
 
     // Finish it on Tuesday: it stays on screen today, and is replaced the next day.
     await user.click(screen.getByRole('checkbox', { name: /Hands-on math/ }))
-    expect(screen.getByText(/For the grown-up: Count the beans/)).toBeInTheDocument()
+    expect(screen.getByText(heading(FIRST_MATH))).toBeInTheDocument()
     const [saved] = await ctx.progress.getChecks(child.id, '2026-10-13')
-    expect(saved.lessonId).toBe('pk-bean-count')
+    expect(saved.lessonId).toBe(FIRST_MATH.id)
 
     cleanup()
     vi.setSystemTime(new Date(2026, 9, 14, 10, 0)) // Wednesday
     ctx.remount(`/child/${child.id}`)
-    expect(await screen.findByText(/For the grown-up: Pattern snack/)).toBeInTheDocument()
-    expect(screen.queryByText(/For the grown-up: Count the beans/)).not.toBeInTheDocument()
+    expect(await screen.findByText(heading(SECOND_MATH))).toBeInTheDocument()
+    expect(screen.queryByText(heading(FIRST_MATH))).not.toBeInTheDocument()
   })
 
   it('says when a sequence has no lessons left', async () => {
@@ -284,7 +292,7 @@ describe('progress-paced lessons', () => {
     const ctx = setup('/')
     await ctx.app.getState().load()
     const child = await ctx.app.getState().addChild({ name: 'Bo', avatar: '🐼', grade: 'prek' })
-    for (const lessonId of ['pk-bean-count', 'pk-pattern-snack']) {
+    for (const { id: lessonId } of lessonsIn('pk-math')) {
       await ctx.progress.setCheck({ childId: child.id, date: '2026-10-01', blockKey: `x:${lessonId}`, lessonId, completedAt: 1 })
     }
     await ctx.user.click(await screen.findByRole('link', { name: /Bo/ }))

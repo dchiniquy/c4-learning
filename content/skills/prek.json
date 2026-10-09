@@ -32,5 +32,83 @@
       "tx-prek-pk4-iii-c-1",
       "tx-prek-pk4-iii-c-2"
     ]
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-b-5"
+    ],
+    "id": "pk-syllables",
+    "subject": "literacy",
+    "name": "Clap and count the parts (syllables) in words and names"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-c-1"
+    ],
+    "id": "pk-name-letters",
+    "subject": "literacy",
+    "name": "Recognize and name the letters in my own name"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-c-2",
+      "tx-prek-pk4-iii-c-3",
+      "tx-prek-pk4-iii-b-7"
+    ],
+    "id": "pk-first-sounds",
+    "subject": "literacy",
+    "name": "Hear the first sound in a word and match it to a letter"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [],
+    "id": "pk-listen-story",
+    "subject": "literacy",
+    "name": "Listen to a story, talk about it and retell it"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-a-8"
+    ],
+    "id": "pk-compare-sets",
+    "subject": "math",
+    "name": "Compare two groups: more, fewer, or the same"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-a-5",
+      "tx-prek-pk4-v-a-6"
+    ],
+    "id": "pk-numerals",
+    "subject": "math",
+    "name": "Match numerals 1-5 to groups of objects"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-e-1"
+    ],
+    "id": "pk-sort",
+    "subject": "math",
+    "name": "Sort objects into groups and say how they are alike and different"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [],
+    "id": "pk-create-art",
+    "subject": "arts",
+    "name": "Make art and talk about it"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [],
+    "id": "pk-feelings",
+    "subject": "sel",
+    "name": "Name feelings and talk about what helps"
   }
 ]

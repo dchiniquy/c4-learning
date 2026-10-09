@@ -1,0 +1,498 @@
+[
+  {
+    "id": "pk-w1-clap-name",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Clap your name",
+    "version": 1,
+    "skillIds": [
+      "pk-syllables"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-clap-name-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Clap the parts of names",
+        "minutes": 15,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Say your child's name slowly and clap once for each part. For \"Ma-ri-a\" that is three claps.",
+          "Clap the names of family members, pets, and favorite toys. After each one, ask: \"How many claps?\"",
+          "Take turns: they pick a name, you clap it. Then switch, and let them check you.",
+          "Challenge: say a word in parts, like \"pic-nic,\" and see if they can say the whole word."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-build-name",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Build my name",
+    "version": 1,
+    "skillIds": [
+      "pk-name-letters"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-build-name-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build your name with letters",
+        "minutes": 15,
+        "materials": [
+          "index card",
+          "marker",
+          "playdough or magnetic letters or letter cards"
+        ],
+        "parentPrompts": [
+          "Write your child's name in big capital letters on an index card, starting with a capital and using lowercase for the rest.",
+          "Point to each letter and name it. Ask them to touch each one as you say it again.",
+          "Let them copy the name with playdough ropes or letter pieces, matching each letter to the card.",
+          "Ask: \"Which letter does your name start with?\" Then look for that letter on signs, boxes, or books during the day."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-first-sound",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "My first sound",
+    "version": 1,
+    "skillIds": [
+      "pk-first-sounds"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-first-sound-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Find things that start like my name",
+        "minutes": 15,
+        "materials": [
+          "a basket",
+          "a few small household objects"
+        ],
+        "parentPrompts": [
+          "Say the first sound of your child's name, not the letter name. For \"Mia\" say \"mmm,\" keeping the sound short and clean.",
+          "Find 3 to 5 things around the house that start with that sound and put them in the basket.",
+          "Hold each one up and stretch its first sound: \"mmmmug.\" Let them say it with you.",
+          "Make a silly sentence together using that sound, like \"Mighty Mia makes music.\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-name-rhymes",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Silly name rhymes",
+    "version": 1,
+    "skillIds": [
+      "pk-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-name-rhymes-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Rhyme with names",
+        "minutes": 15,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Ask: \"Does Sam rhyme with ham?\" then \"Does Sam rhyme with dog?\" Let them decide yes or no.",
+          "Make rhymes for names in the family. Nonsense words are fine, because the goal is hearing the matching ending.",
+          "Take turns: you say a name, they say something that rhymes, then switch.",
+          "Sing or say a rhyming song or nursery rhyme you both know and pause before the rhyming word."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-feelings-book",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Read about feelings",
+    "version": 1,
+    "skillIds": [
+      "pk-listen-story"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-feelings-book-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read a book about feelings or families",
+        "minutes": 15,
+        "materials": [
+          "a picture book about feelings or families"
+        ],
+        "parentPrompts": [
+          "Read the book once for fun, with expression. Pause to look at the pictures.",
+          "On a second look, ask: \"How is this character feeling? How can you tell?\"",
+          "Ask: \"Have you ever felt like that? What happened?\"",
+          "Ask them to tell you their favorite part in their own words."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-count-body",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Count my body",
+    "version": 1,
+    "skillIds": [
+      "pk-count-objects"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-count-body-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count fingers, toes, and more",
+        "minutes": 20,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Count fingers on one hand, touching each one as you say the number: 1, 2, 3, 4, 5. Then the other hand.",
+          "Count toes the same way, then eyes, ears, and noses. Ask: \"How many do you have?\"",
+          "After counting, say the last number again: \"Five fingers on this hand.\" This shows that the last number tells how many.",
+          "Hold up some fingers and ask them to count them. Then ask them to show you 3 fingers, then 4."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-letters-in-name",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "How many letters in my name?",
+    "version": 1,
+    "skillIds": [
+      "pk-count-objects",
+      "pk-compare-sets"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-letters-in-name-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count and compare the letters in names",
+        "minutes": 20,
+        "materials": [
+          "index cards with names written on them",
+          "counters, buttons, or coins"
+        ],
+        "parentPrompts": [
+          "Write your child's name on a card and put one counter on each letter. Count the counters together.",
+          "Do the same for a family member. Line up the two rows of counters side by side.",
+          "Ask: \"Whose name has more? Whose has fewer? Do any have the same?\"",
+          "Try a pet or a friend. Keep small counters out of mouths and stay close while they play."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-numeral-match",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Match numbers to groups",
+    "version": 1,
+    "skillIds": [
+      "pk-numerals"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-numeral-match-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a group for each number",
+        "minutes": 20,
+        "materials": [
+          "index cards with the numerals 1 to 5 written on them",
+          "blocks or other small objects"
+        ],
+        "parentPrompts": [
+          "Lay out the number cards in order and say each number.",
+          "Hold up a card and ask them to build a group with that many blocks. Count the group together to check.",
+          "Mix up the cards. Ask: \"Can you show me 3?\" and let them make the group and find the card.",
+          "Play a quick game: you make a group, they find the card that matches."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-sort-shoes",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Sort the shoes",
+    "version": 1,
+    "skillIds": [
+      "pk-sort"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-sort-shoes-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sort shoes (or socks or toy cars)",
+        "minutes": 20,
+        "materials": [
+          "a pile of shoes, socks, or toy cars"
+        ],
+        "parentPrompts": [
+          "Dump out the pile and ask: \"How could we put these in groups?\"",
+          "Sort them one way, such as by color or by shoes with laces and shoes without. Let them place each one.",
+          "Ask: \"How are the ones in this group the same? How are they different from that group?\"",
+          "Mix them up and sort a different way. Notice that the same things can be grouped in more than one way."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-body-patterns",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Body patterns",
+    "version": 1,
+    "skillIds": [
+      "pk-patterns"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-body-patterns-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make patterns with your body",
+        "minutes": 20,
+        "materials": [
+          "blocks in two colors, optional"
+        ],
+        "parentPrompts": [
+          "Start a pattern with your body: clap, stomp, clap, stomp. Ask: \"What comes next?\"",
+          "Let them keep the pattern going while you join in. Say the pattern out loud together.",
+          "Take turns inventing patterns: tap-tap-clap, tap-tap-clap, or jump-touch your head.",
+          "Copy a body pattern with blocks: clap becomes a red block and stomp becomes a blue one."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-name-collage",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Name collage",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-name-collage-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Decorate the letters of your name",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "glue stick",
+          "scraps of colored paper or old magazines",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Write your child's name in big outline letters on the paper.",
+          "Let them tear or cut scraps and glue them inside the letters, however they like.",
+          "Talk while they work: \"What colors are you using? Which letter are you working on?\"",
+          "When done, ask them to tell you about their picture and hang it up."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-feelings-faces",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Feelings faces",
+    "version": 1,
+    "skillIds": [
+      "pk-feelings",
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-feelings-faces-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw faces for different feelings",
+        "minutes": 20,
+        "materials": [
+          "paper plates or paper",
+          "crayons or markers"
+        ],
+        "parentPrompts": [
+          "Draw a happy face together, then ask: \"What does a sad face look like? A silly face? An angry one?\"",
+          "Let them draw each feeling on a plate. Talk about what changes in the face.",
+          "Ask: \"When do you feel happy? When do you feel mad?\"",
+          "Ask: \"What helps when we feel upset?\" Practice one idea together, like deep breaths or a hug."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-handprints",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Handprint people",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-handprints-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Turn handprints into people or animals",
+        "minutes": 20,
+        "materials": [
+          "washable non-toxic paint",
+          "paper",
+          "a tray or plate for paint",
+          "wet wipes"
+        ],
+        "parentPrompts": [
+          "Spread a thin layer of paint on a tray. Help them press a hand and then press it on paper.",
+          "Once it is dry, draw on it: a face and legs make a person, and fingers can become a tree or an octopus.",
+          "Count the fingers in the handprint together.",
+          "Ask them to name their creation and tell you something about it."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-body-trace",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "Trace my body",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-body-trace-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Trace and decorate a body outline",
+        "minutes": 20,
+        "materials": [
+          "big paper (taped-together sheets work)",
+          "crayons or markers"
+        ],
+        "parentPrompts": [
+          "Have them lie on the paper while you trace around their body.",
+          "Let them add a face, hair, and clothes with crayons.",
+          "Point to a body part and ask them to name it, or name one and ask them to point: \"Where are your elbows?\"",
+          "Hang it up. Ask: \"What can your hands do? What can your feet do?\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w1-family-picture",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 1,
+    "title": "My family picture",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w1-family-picture-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw the people in your family",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons or markers"
+        ],
+        "parentPrompts": [
+          "Invite them to draw the people in their family, or whoever they live with and love. Any way they draw is fine.",
+          "Ask them to tell you about each person: \"What does this person like to do?\"",
+          "Write the names next to the people as they say them, and have them point to the first letter.",
+          "Count the people in the picture together."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

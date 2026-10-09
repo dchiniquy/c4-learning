@@ -23,6 +23,7 @@
           "paper cups"
         ],
         "parentPrompts": [
+          "Stay close while they play: dried beans are small and can be a choking hazard, so keep them out of mouths.",
           "Count a small handful of beans together, touching each bean once as you say each number.",
           "Ask: \"How many beans are there?\" When they finish counting, say the last number again: \"There are 6 beans.\"",
           "Ask them to put exactly 5 beans in a cup. Check by counting together.",

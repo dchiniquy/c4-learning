@@ -5,6 +5,11 @@
     "subject": "literacy",
     "name": "Pre-K hands-on literacy",
     "lessonIds": [
+      "pk-w1-clap-name",
+      "pk-w1-build-name",
+      "pk-w1-first-sound",
+      "pk-w1-name-rhymes",
+      "pk-w1-feelings-book",
       "pk-rhyme-hunt",
       "pk-letter-sounds"
     ]
@@ -15,8 +20,26 @@
     "subject": "math",
     "name": "Pre-K hands-on math",
     "lessonIds": [
+      "pk-w1-count-body",
+      "pk-w1-letters-in-name",
+      "pk-w1-numeral-match",
+      "pk-w1-sort-shoes",
+      "pk-w1-body-patterns",
       "pk-bean-count",
       "pk-pattern-snack"
+    ]
+  },
+  {
+    "id": "pk-arts",
+    "grade": "prek",
+    "subject": "arts",
+    "name": "Pre-K art and making",
+    "lessonIds": [
+      "pk-w1-name-collage",
+      "pk-w1-feelings-faces",
+      "pk-w1-handprints",
+      "pk-w1-body-trace",
+      "pk-w1-family-picture"
     ]
   }
 ]

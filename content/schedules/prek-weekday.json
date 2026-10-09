@@ -76,7 +76,8 @@
       "subject": "arts",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Art or craft"
+      "label": "Art or craft",
+      "sequenceId": "pk-arts"
     },
     {
       "day": 1,
@@ -170,7 +171,8 @@
       "subject": "arts",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Art or craft"
+      "label": "Art or craft",
+      "sequenceId": "pk-arts"
     },
     {
       "day": 2,
@@ -264,7 +266,8 @@
       "subject": "arts",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Art or craft"
+      "label": "Art or craft",
+      "sequenceId": "pk-arts"
     },
     {
       "day": 3,
@@ -358,7 +361,8 @@
       "subject": "arts",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Art or craft"
+      "label": "Art or craft",
+      "sequenceId": "pk-arts"
     },
     {
       "day": 4,
@@ -452,7 +456,8 @@
       "subject": "arts",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Art or craft"
+      "label": "Art or craft",
+      "sequenceId": "pk-arts"
     },
     {
       "day": 5,
