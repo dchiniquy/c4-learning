@@ -25,6 +25,7 @@ npm test                  # unit tests (vitest)
 npm run typecheck
 npm run lint
 npm run validate-content  # validate everything under content/
+npm run e2e               # browser smoke tests (Playwright; first run: npx playwright install chromium)
 npm run build
 ```
 

@@ -25,3 +25,5 @@ dist-ssr
 
 # generated review pages
 review/
+test-results/
+playwright-report/

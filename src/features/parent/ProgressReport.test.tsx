@@ -9,7 +9,7 @@ import { newStores } from '../../test/helpers.ts'
 
 afterEach(() => vi.useRealTimers())
 
-async function setup() {
+async function setup(bundle = fixtureContent()) {
   vi.useFakeTimers({ toFake: ['Date'] })
   vi.setSystemTime(new Date(2026, 9, 12, 10, 0))
   const stores = newStores()
@@ -21,7 +21,7 @@ async function setup() {
   const view = (route: string) =>
     render(
       <MemoryRouter initialEntries={[route]}>
-        <App store={stores.app} content={eagerSource(fixtureContent())} />
+        <App store={stores.app} content={eagerSource(bundle)} />
       </MemoryRouter>,
     )
   return { ...stores, child, view, user: userEvent.setup() }
@@ -60,6 +60,20 @@ describe('progress report', () => {
 
     await user.selectOptions(screen.getByLabelText('Level for Counting'), '')
     expect(await progress.getMastery(child.id)).toEqual([])
+  })
+
+  it('leaves out the lesson count for a subject whose skills are taught inside other subjects', async () => {
+    const bundle = fixtureContent()
+    bundle.skills.push({ id: 'sk-sel', subject: 'sel', name: 'Feelings', prerequisites: [], standardIds: [] })
+    bundle.lessons[0].skillIds.push('sk-sel') // a math lesson that also teaches a feelings skill
+    const { child, view } = await setup(bundle)
+    view(`/parent/progress/${child.id}`)
+
+    const sel = await screen.findByRole('region', { name: /Social-emotional/ })
+    expect(within(sel).getByRole('heading', { name: 'Social-emotional' })).toBeInTheDocument()
+    expect(within(sel).queryByText(/lessons/)).not.toBeInTheDocument()
+    expect(within(sel).getByText('Feelings')).toBeInTheDocument()
+    expect(within(screen.getByRole('region', { name: /Math/ })).getByText('1 of 3 lessons')).toBeInTheDocument()
   })
 
   it('says so when nothing was finished recently, and shows untouched skills as not started', async () => {

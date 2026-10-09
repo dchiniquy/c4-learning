@@ -147,9 +147,11 @@ function Report({ child }: { child: Child }) {
         <section key={subject.subject} aria-labelledby={`subject-${subject.subject}`}>
           <h2 id={`subject-${subject.subject}`}>
             {SUBJECT_LABEL[subject.subject]}{' '}
-            <span className="meta">
-              {subject.lessonsDone} of {subject.lessonsTotal} lessons
-            </span>
+            {subject.lessonsTotal > 0 && (
+              <span className="meta">
+                {subject.lessonsDone} of {subject.lessonsTotal} lessons
+              </span>
+            )}
           </h2>
           {subject.skills.length > 0 && (
             <table>
