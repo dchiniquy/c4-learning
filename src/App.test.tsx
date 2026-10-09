@@ -1,20 +1,32 @@
-import { render, screen, waitFor } from '@testing-library/react'
+import { cleanup, render, screen, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { MemoryRouter } from 'react-router-dom'
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import App from './App.tsx'
+import { loadContentBundle } from './content/load.ts'
 import { newStores } from './test/helpers.ts'
 
-afterEach(() => vi.restoreAllMocks())
+const content = loadContentBundle()
+
+afterEach(() => {
+  vi.restoreAllMocks()
+  vi.useRealTimers()
+})
+
+type Stores = ReturnType<typeof newStores>
+
+function mount(stores: Stores, route: string) {
+  return render(
+    <MemoryRouter initialEntries={[route]}>
+      <App store={stores.app} content={content} />
+    </MemoryRouter>,
+  )
+}
 
 function setup(route = '/') {
   const stores = newStores()
-  render(
-    <MemoryRouter initialEntries={[route]}>
-      <App store={stores.app} />
-    </MemoryRouter>,
-  )
-  return { ...stores, user: userEvent.setup() }
+  mount(stores, route)
+  return { ...stores, user: userEvent.setup(), remount: (to: string) => mount(stores, to) }
 }
 
 async function createPin(user: ReturnType<typeof userEvent.setup>, pin = '1234') {
@@ -83,5 +95,80 @@ describe('profiles and parent area', () => {
   it('redirects unknown child ids home', async () => {
     setup('/child/does-not-exist')
     expect(await screen.findByRole('heading', { name: 'Who is learning today?' })).toBeInTheDocument()
+  })
+})
+
+describe("child's Today schedule", () => {
+  const MONDAY = new Date(2026, 9, 12, 10, 0)
+  const SATURDAY = new Date(2026, 9, 10, 10, 0)
+
+  async function childPage(grade: 'prek' | '1', now: Date) {
+    vi.useFakeTimers({ toFake: ['Date'] })
+    vi.setSystemTime(now)
+    const ctx = setup('/')
+    await ctx.app.getState().load()
+    const child = await ctx.app.getState().addChild({ name: 'Ada', avatar: '🦊', grade })
+    return { ...ctx, child }
+  }
+
+  it("shows the weekday's blocks in time order with the app-time meter", async () => {
+    const { user, child } = await childPage('prek', MONDAY)
+    await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    expect(await screen.findByRole('heading', { name: 'Monday' })).toBeInTheDocument()
+    expect(screen.getByText(/App time today: 0 of 20 min \(limit 30 min\)/)).toBeInTheDocument()
+
+    const labels = screen.getAllByRole('checkbox').map((c) => c.closest('label')?.querySelector('strong')?.textContent)
+    expect(labels[0]).toBe('Circle time: calendar, weather, song')
+    expect(labels).toContain('Number app time')
+    expect(labels).toHaveLength(10)
+    expect(child.grade).toBe('prek')
+  })
+
+  it('shows hands-on instructions for lessons, for the grown-up', async () => {
+    const { user } = await childPage('prek', MONDAY)
+    await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    expect(await screen.findByText(/For the grown-up: Count the beans/)).toBeInTheDocument()
+    expect(screen.getByText(/dried beans/)).toBeInTheDocument()
+  })
+
+  it('ticking an app block moves the meter, and it persists after a reload', async () => {
+    const stores = await childPage('prek', MONDAY)
+    await stores.user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await stores.user.click(await screen.findByRole('checkbox', { name: /Number app time/ }))
+    expect(screen.getByText(/App time today: 10 of 20 min/)).toBeInTheDocument()
+
+    // A hands-on block does not count toward app time.
+    await stores.user.click(screen.getByRole('checkbox', { name: /Circle time/ }))
+    expect(screen.getByText(/App time today: 10 of 20 min/)).toBeInTheDocument()
+
+    cleanup()
+    stores.remount(`/child/${stores.child.id}`)
+    expect(await screen.findByRole('checkbox', { name: /Number app time/ })).toBeChecked()
+    expect(screen.getByRole('checkbox', { name: /Circle time/ })).toBeChecked()
+    expect(screen.getByRole('checkbox', { name: /Art or craft/ })).not.toBeChecked()
+
+    await stores.user.click(screen.getByRole('checkbox', { name: /Number app time/ }))
+    expect(screen.getByText(/App time today: 0 of 20 min/)).toBeInTheDocument()
+  })
+
+  it('uses the grade 1 schedule for a grade 1 learner', async () => {
+    const { user } = await childPage('1', MONDAY)
+    await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    expect(await screen.findByText(/App time today: 0 of 30 min \(limit 60 min\)/)).toBeInTheDocument()
+    expect(screen.getByRole('checkbox', { name: /Phonics lesson/ })).toBeInTheDocument()
+  })
+
+  it('shows a friendly message on days with nothing scheduled', async () => {
+    const { user } = await childPage('prek', SATURDAY)
+    await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    expect(await screen.findByText(/No lessons are scheduled today/)).toBeInTheDocument()
+  })
+
+  it('says so when a level has no schedule yet', async () => {
+    const stores = newStores()
+    await stores.app.getState().load()
+    const kid = await stores.app.getState().addChild({ name: 'Kay', avatar: '🐢', grade: 'k' })
+    mount(stores, `/child/${kid.id}`)
+    expect(await screen.findByText(/No schedule is set up for this level yet/)).toBeInTheDocument()
   })
 })

@@ -36,6 +36,15 @@ export const SkillMasterySchema = z.object({
 })
 export type SkillMastery = z.infer<typeof SkillMasterySchema>
 
+/** A schedule block ticked off for a given calendar day (local date, YYYY-MM-DD). */
+export const ScheduleCheckSchema = z.object({
+  childId: z.string().min(1),
+  date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+  blockKey: z.string().min(1),
+  completedAt: z.number().int(),
+})
+export type ScheduleCheck = z.infer<typeof ScheduleCheckSchema>
+
 /** Parent PIN, stored as a salted hash. This is a gate against kids tapping into the parent area, not a security boundary. */
 export const PinRecordSchema = z.object({
   salt: z.string(),
@@ -52,5 +61,7 @@ export const ExportDataSchema = z.object({
   children: z.array(ChildSchema),
   progress: z.array(ProgressRecordSchema),
   mastery: z.array(SkillMasterySchema),
+  /** Added after v1 launched; older backups without it import as having no check-offs. */
+  checks: z.array(ScheduleCheckSchema).default([]),
 })
 export type ExportData = z.infer<typeof ExportDataSchema>

@@ -1,0 +1,465 @@
+{
+  "id": "prek-weekday",
+  "grade": "prek",
+  "name": "Pre-K weekday",
+  "blocks": [
+    {
+      "day": 1,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Circle time: calendar, weather, song"
+    },
+    {
+      "day": 1,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Move and dance"
+    },
+    {
+      "day": 1,
+      "start": "09:20",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud: rhyme hunt",
+      "lessonId": "pk-rhyme-hunt"
+    },
+    {
+      "day": 1,
+      "start": "09:35",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Number app time"
+    },
+    {
+      "day": 1,
+      "start": "09:45",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Counting with beans",
+      "lessonId": "pk-bean-count"
+    },
+    {
+      "day": 1,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and cooking"
+    },
+    {
+      "day": 1,
+      "start": "10:20",
+      "minutes": 40,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play and nature walk"
+    },
+    {
+      "day": 1,
+      "start": "11:00",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or craft"
+    },
+    {
+      "day": 1,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Free play"
+    },
+    {
+      "day": 1,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Story and music app time"
+    },
+    {
+      "day": 2,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Circle time: calendar, weather, song"
+    },
+    {
+      "day": 2,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Move and dance"
+    },
+    {
+      "day": 2,
+      "start": "09:20",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud: rhyme hunt"
+    },
+    {
+      "day": 2,
+      "start": "09:35",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Number app time"
+    },
+    {
+      "day": 2,
+      "start": "09:45",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Pattern snack",
+      "lessonId": "pk-pattern-snack"
+    },
+    {
+      "day": 2,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and cooking"
+    },
+    {
+      "day": 2,
+      "start": "10:20",
+      "minutes": 40,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play and nature walk"
+    },
+    {
+      "day": 2,
+      "start": "11:00",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or craft"
+    },
+    {
+      "day": 2,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Free play"
+    },
+    {
+      "day": 2,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Story and music app time"
+    },
+    {
+      "day": 3,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Circle time: calendar, weather, song"
+    },
+    {
+      "day": 3,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Move and dance"
+    },
+    {
+      "day": 3,
+      "start": "09:20",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud: rhyme hunt",
+      "lessonId": "pk-rhyme-hunt"
+    },
+    {
+      "day": 3,
+      "start": "09:35",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Number app time"
+    },
+    {
+      "day": 3,
+      "start": "09:45",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Counting with beans",
+      "lessonId": "pk-bean-count"
+    },
+    {
+      "day": 3,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and cooking"
+    },
+    {
+      "day": 3,
+      "start": "10:20",
+      "minutes": 40,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play and nature walk"
+    },
+    {
+      "day": 3,
+      "start": "11:00",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or craft"
+    },
+    {
+      "day": 3,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Free play"
+    },
+    {
+      "day": 3,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Story and music app time"
+    },
+    {
+      "day": 4,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Circle time: calendar, weather, song"
+    },
+    {
+      "day": 4,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Move and dance"
+    },
+    {
+      "day": 4,
+      "start": "09:20",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud: rhyme hunt"
+    },
+    {
+      "day": 4,
+      "start": "09:35",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Number app time"
+    },
+    {
+      "day": 4,
+      "start": "09:45",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Pattern snack",
+      "lessonId": "pk-pattern-snack"
+    },
+    {
+      "day": 4,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and cooking"
+    },
+    {
+      "day": 4,
+      "start": "10:20",
+      "minutes": 40,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play and nature walk"
+    },
+    {
+      "day": 4,
+      "start": "11:00",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or craft"
+    },
+    {
+      "day": 4,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Free play"
+    },
+    {
+      "day": 4,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Story and music app time"
+    },
+    {
+      "day": 5,
+      "start": "09:00",
+      "minutes": 10,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Circle time: calendar, weather, song"
+    },
+    {
+      "day": 5,
+      "start": "09:10",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Move and dance"
+    },
+    {
+      "day": 5,
+      "start": "09:20",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Letter sound hunt",
+      "lessonId": "pk-letter-sounds"
+    },
+    {
+      "day": 5,
+      "start": "09:35",
+      "minutes": 10,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Number app time"
+    },
+    {
+      "day": 5,
+      "start": "09:45",
+      "minutes": 20,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Counting with beans",
+      "lessonId": "pk-bean-count"
+    },
+    {
+      "day": 5,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "life-skills",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Snack and cooking"
+    },
+    {
+      "day": 5,
+      "start": "10:20",
+      "minutes": 40,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Outdoor play and nature walk"
+    },
+    {
+      "day": 5,
+      "start": "11:00",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art or craft"
+    },
+    {
+      "day": 5,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Free play"
+    },
+    {
+      "day": 5,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Story and music app time"
+    }
+  ]
+}

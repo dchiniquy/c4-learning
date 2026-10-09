@@ -1,0 +1,110 @@
+[
+  {
+    "id": "tx-prek-pk4-iii-b-1",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.1",
+    "description": "Child identifies the individual words in a spoken sentence.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-b-2",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.2",
+    "description": "Child distinguishes differences between similar-sounding words.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-b-3",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.3",
+    "description": "Child uses two familiar base words to form a compound word with pictorial or gestural supports.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-b-4",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.4",
+    "description": "Child manipulates compound words with pictorial or gestural support.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-b-5",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.5",
+    "description": "Child begins to blend and segment syllables in multisyllabic words.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-b-6",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.6",
+    "description": "Child identifies rhyming words.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-b-7",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.7",
+    "description": "Child identifies alliterative words with pictorial support.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-b-8",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.8",
+    "description": "Child identifies a familiar one-syllable word that is segmented by onset and rime (in English only).",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-b-9",
+    "framework": "tx-prek",
+    "code": "PK4.III.B.9",
+    "description": "Child blends and segments one-syllable words by phonemes with visual or gestural support.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-c-1",
+    "framework": "tx-prek",
+    "code": "PK4.III.C.1",
+    "description": "Child recognizes and names at least 20 letters (upper- or lower-case letters).",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-c-2",
+    "framework": "tx-prek",
+    "code": "PK4.III.C.2",
+    "description": "Child recognizes at least 20 distinct letter-sound correspondences.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-c-3",
+    "framework": "tx-prek",
+    "code": "PK4.III.C.3",
+    "description": "Child produces at least 20 distinct letter-sound correspondences.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

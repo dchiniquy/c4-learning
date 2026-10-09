@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pk-count-objects",
+    "subject": "math",
+    "name": "Count objects and know the last number tells how many",
+    "standardIds": [
+      "tx-prek-pk4-v-a-2",
+      "tx-prek-pk4-v-a-3"
+    ]
+  },
+  {
+    "id": "pk-patterns",
+    "subject": "math",
+    "name": "Recognize and extend simple patterns",
+    "standardIds": [
+      "tx-prek-pk4-v-e-3"
+    ]
+  },
+  {
+    "id": "pk-rhyme",
+    "subject": "literacy",
+    "name": "Hear and identify rhyming words",
+    "standardIds": [
+      "tx-prek-pk4-iii-b-6"
+    ]
+  },
+  {
+    "id": "pk-letter-sounds",
+    "subject": "literacy",
+    "name": "Know letters and the sounds they make",
+    "standardIds": [
+      "tx-prek-pk4-iii-c-1",
+      "tx-prek-pk4-iii-c-2"
+    ]
+  }
+]

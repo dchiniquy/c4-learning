@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ccss-ela-rf-1-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.2",
+    "description": "Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-2-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.2.a",
+    "description": "Distinguish long from short vowel sounds in spoken single-syllable words.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-2-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.2.b",
+    "description": "Orally produce single-syllable words by blending sounds (phonemes), including consonant blends.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-2-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.2.c",
+    "description": "Isolate and pronounce initial, medial vowel, and final sounds (phonemes) in spoken single-syllable words.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-2-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.2.d",
+    "description": "Segment spoken single-syllable words into their complete sequence of individual sounds (phonemes).",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.3",
+    "description": "Know and apply grade-level phonics and word analysis skills in decoding words.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-3-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.3.a",
+    "description": "Know the spelling-sound correspondences for common consonant digraphs.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-3-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.3.b",
+    "description": "Decode regularly spelled one-syllable words.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-3-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.3.c",
+    "description": "Know final -e and common vowel team conventions for representing long vowel sounds.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-3-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.3.d",
+    "description": "Use knowledge that every syllable must have a vowel sound to determine the number of syllables in a printed word.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-3-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.3.e",
+    "description": "Decode two-syllable words following basic patterns by breaking the words into syllables.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-3-f",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.3.f",
+    "description": "Read words with inflectional endings.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-1-3-g",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.1.3.g",
+    "description": "Recognize and read grade-appropriate irregularly spelled words.",
+    "grade": "1",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/1/",
+    "verified": true
+  }
+]

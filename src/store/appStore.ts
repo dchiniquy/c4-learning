@@ -2,7 +2,7 @@ import { createContext, useContext } from 'react'
 import { create, useStore, type StoreApi } from 'zustand'
 import type { ProgressStore } from './ProgressStore.ts'
 import { hashPin, verifyPin } from './pin.ts'
-import type { Child, ExportData, NewChild, PinRecord } from './types.ts'
+import type { Child, ExportData, NewChild, PinRecord, ScheduleCheck } from './types.ts'
 
 export const MAX_PIN_ATTEMPTS = 5
 export const LOCKOUT_MS = 30_000
@@ -25,6 +25,8 @@ export type AppState = {
   addChild(input: NewChild): Promise<Child>
   updateChild(id: string, patch: Partial<NewChild>): Promise<void>
   deleteChild(id: string): Promise<void>
+  loadChecks(childId: string, date: string): Promise<ScheduleCheck[]>
+  setBlockDone(childId: string, date: string, blockKey: string, done: boolean): Promise<void>
   exportData(): Promise<ExportData>
   importData(data: ExportData): Promise<void>
 }
@@ -85,6 +87,13 @@ export function createAppStore(progress: ProgressStore) {
     async deleteChild(id) {
       await progress.deleteChild(id)
       set({ children: await progress.listChildren() })
+    },
+
+    loadChecks: (childId, date) => progress.getChecks(childId, date),
+
+    async setBlockDone(childId, date, blockKey, done) {
+      if (done) await progress.setCheck({ childId, date, blockKey, completedAt: Date.now() })
+      else await progress.removeCheck(childId, date, blockKey)
     },
 
     exportData: () => progress.exportAll(),

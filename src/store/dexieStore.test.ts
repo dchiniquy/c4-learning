@@ -62,6 +62,38 @@ describe('DexieProgressStore', () => {
     expect(await dest.getPinRecord()).toEqual({ salt: 's', hash: 'h', iterations: 1 })
   })
 
+  it('records, lists, and removes schedule check-offs per child and date', async () => {
+    const { progress } = newStores()
+    const a = await progress.addChild({ name: 'Ada', avatar: '🦊', grade: 'k' })
+    const check = (date: string, blockKey: string) => ({ childId: a.id, date, blockKey, completedAt: 1 })
+    await progress.setCheck(check('2026-10-12', 't:1:09:00'))
+    await progress.setCheck(check('2026-10-12', 't:1:09:00')) // idempotent
+    await progress.setCheck(check('2026-10-12', 't:1:10:00'))
+    await progress.setCheck(check('2026-10-13', 't:2:09:00'))
+    expect((await progress.getChecks(a.id, '2026-10-12')).map((c) => c.blockKey).sort()).toEqual(['t:1:09:00', 't:1:10:00'])
+    await progress.removeCheck(a.id, '2026-10-12', 't:1:09:00')
+    expect(await progress.getChecks(a.id, '2026-10-12')).toHaveLength(1)
+    expect(await progress.getChecks(a.id, '2026-10-13')).toHaveLength(1)
+  })
+
+  it('deleting a child removes their check-offs, and checks survive export/import', async () => {
+    const src = newStores().progress
+    const a = await src.addChild({ name: 'Ada', avatar: '🦊', grade: 'k' })
+    const b = await src.addChild({ name: 'Bo', avatar: '🐼', grade: '1' })
+    await src.setCheck({ childId: a.id, date: '2026-10-12', blockKey: 'k', completedAt: 1 })
+    await src.setCheck({ childId: b.id, date: '2026-10-12', blockKey: 'k', completedAt: 1 })
+    const exported = await src.exportAll()
+    expect(exported.checks).toHaveLength(2)
+
+    const dest = newStores().progress
+    await dest.importAll(exported)
+    expect(await dest.getChecks(b.id, '2026-10-12')).toHaveLength(1)
+
+    await src.deleteChild(a.id)
+    expect(await src.getChecks(a.id, '2026-10-12')).toEqual([])
+    expect(await src.getChecks(b.id, '2026-10-12')).toHaveLength(1)
+  })
+
   it('stores the pin record', async () => {
     const { progress } = newStores()
     expect(await progress.getPinRecord()).toBeUndefined()

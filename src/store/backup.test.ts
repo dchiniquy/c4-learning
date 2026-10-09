@@ -15,6 +15,17 @@ describe('parseBackup', () => {
     expect(parseBackup(JSON.stringify({ ...base, version: 2 }))).toMatchObject({ ok: false })
   })
 
+  it('accepts older backups that have no checks', () => {
+    const result = parseBackup(JSON.stringify(base))
+    expect(result.ok && result.data.checks).toEqual([])
+  })
+
+  it('rejects duplicate keyed records and orphaned check-offs', () => {
+    const check = { childId: 'c1', date: '2026-10-12', blockKey: 'k', completedAt: 1 }
+    expect(parseBackup(JSON.stringify({ ...base, checks: [check, check] }))).toMatchObject({ ok: false })
+    expect(parseBackup(JSON.stringify({ ...base, checks: [{ ...check, childId: 'ghost' }] }))).toMatchObject({ ok: false })
+  })
+
   it('rejects duplicate children and orphaned records', () => {
     expect(parseBackup(JSON.stringify({ ...base, children: [child, child] }))).toMatchObject({ ok: false })
     const orphan = { childId: 'ghost', skillId: 's', level: 'mastered' }

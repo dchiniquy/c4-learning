@@ -1,4 +1,4 @@
-import type { Child, ExportData, NewChild, PinRecord, ProgressRecord, SkillMastery } from './types.ts'
+import type { Child, ExportData, NewChild, PinRecord, ProgressRecord, ScheduleCheck, SkillMastery } from './types.ts'
 
 /**
  * Persistence boundary for everything the app remembers about a family.
@@ -16,6 +16,10 @@ export interface ProgressStore {
   putProgress(record: ProgressRecord): Promise<void>
   getMastery(childId: string): Promise<SkillMastery[]>
   putMastery(record: SkillMastery): Promise<void>
+
+  getChecks(childId: string, date: string): Promise<ScheduleCheck[]>
+  setCheck(record: ScheduleCheck): Promise<void>
+  removeCheck(childId: string, date: string, blockKey: string): Promise<void>
 
   getPinRecord(): Promise<PinRecord | undefined>
   setPinRecord(record: PinRecord): Promise<void>

@@ -1,6 +1,6 @@
 import Dexie, { type EntityTable } from 'dexie'
 import type { ProgressStore } from './ProgressStore.ts'
-import type { Child, ExportData, NewChild, PinRecord, ProgressRecord, SkillMastery } from './types.ts'
+import type { Child, ExportData, NewChild, PinRecord, ProgressRecord, ScheduleCheck, SkillMastery } from './types.ts'
 
 type SettingRow = { key: string; value: unknown }
 
@@ -8,6 +8,7 @@ class C4Database extends Dexie {
   children!: EntityTable<Child, 'id'>
   progress!: Dexie.Table<ProgressRecord, [string, string]>
   mastery!: Dexie.Table<SkillMastery, [string, string]>
+  checks!: Dexie.Table<ScheduleCheck, [string, string, string]>
   settings!: EntityTable<SettingRow, 'key'>
 
   constructor(name: string) {
@@ -18,6 +19,7 @@ class C4Database extends Dexie {
       mastery: '[childId+skillId], childId',
       settings: 'key',
     })
+    this.version(2).stores({ checks: '[childId+date+blockKey], [childId+date], childId' })
   }
 }
 
@@ -47,10 +49,12 @@ export class DexieProgressStore implements ProgressStore {
   }
 
   async deleteChild(id: string) {
-    await this.#db.transaction('rw', this.#db.children, this.#db.progress, this.#db.mastery, async () => {
-      await this.#db.children.delete(id)
-      await this.#db.progress.where('childId').equals(id).delete()
-      await this.#db.mastery.where('childId').equals(id).delete()
+    const { children, progress, mastery, checks } = this.#db
+    await this.#db.transaction('rw', children, progress, mastery, checks, async () => {
+      await children.delete(id)
+      await progress.where('childId').equals(id).delete()
+      await mastery.where('childId').equals(id).delete()
+      await checks.where('childId').equals(id).delete()
     })
   }
 
@@ -70,6 +74,18 @@ export class DexieProgressStore implements ProgressStore {
     await this.#db.mastery.put(record)
   }
 
+  getChecks(childId: string, date: string) {
+    return this.#db.checks.where('[childId+date]').equals([childId, date]).toArray()
+  }
+
+  async setCheck(record: ScheduleCheck) {
+    await this.#db.checks.put(record)
+  }
+
+  async removeCheck(childId: string, date: string, blockKey: string) {
+    await this.#db.checks.delete([childId, date, blockKey])
+  }
+
   async getPinRecord() {
     return (await this.#db.settings.get('pin'))?.value as PinRecord | undefined
   }
@@ -79,20 +95,23 @@ export class DexieProgressStore implements ProgressStore {
   }
 
   async exportAll(): Promise<ExportData> {
-    const [children, progress, mastery] = await Promise.all([
+    const [children, progress, mastery, checks] = await Promise.all([
       this.#db.children.toArray(),
       this.#db.progress.toArray(),
       this.#db.mastery.toArray(),
+      this.#db.checks.toArray(),
     ])
-    return { app: 'c4-learning', version: 1, exportedAt: Date.now(), children, progress, mastery }
+    return { app: 'c4-learning', version: 1, exportedAt: Date.now(), children, progress, mastery, checks }
   }
 
   async importAll(data: ExportData) {
-    await this.#db.transaction('rw', this.#db.children, this.#db.progress, this.#db.mastery, async () => {
-      await Promise.all([this.#db.children.clear(), this.#db.progress.clear(), this.#db.mastery.clear()])
-      await this.#db.children.bulkAdd(data.children)
-      await this.#db.progress.bulkAdd(data.progress)
-      await this.#db.mastery.bulkAdd(data.mastery)
+    const { children, progress, mastery, checks } = this.#db
+    await this.#db.transaction('rw', children, progress, mastery, checks, async () => {
+      await Promise.all([children.clear(), progress.clear(), mastery.clear(), checks.clear()])
+      await children.bulkAdd(data.children)
+      await progress.bulkAdd(data.progress)
+      await mastery.bulkAdd(data.mastery)
+      await checks.bulkAdd(data.checks)
     })
   }
 }

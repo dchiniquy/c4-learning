@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { Link, Navigate, useParams } from 'react-router-dom'
 import { useApp } from '../../store/appStore.ts'
+import TodaySchedule from './TodaySchedule.tsx'
 
 export default function ChildHome() {
   const { childId } = useParams()
@@ -19,7 +20,7 @@ export default function ChildHome() {
       <h1>
         <span aria-hidden="true">{child.avatar} </span>Hi, {child.name}!
       </h1>
-      <p>Today's schedule is coming soon.</p>
+      <TodaySchedule child={child} />
       <p>
         <Link to="/">Switch learner</Link>
       </p>

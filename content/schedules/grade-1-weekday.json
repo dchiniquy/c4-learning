@@ -1,0 +1,522 @@
+{
+  "id": "grade-1-weekday",
+  "grade": "1",
+  "name": "Grade 1 weekday",
+  "blocks": [
+    {
+      "day": 1,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning basket: calendar, poem, check-in"
+    },
+    {
+      "day": 1,
+      "start": "09:15",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics lesson",
+      "lessonId": "g1-digraphs"
+    },
+    {
+      "day": 1,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and writing"
+    },
+    {
+      "day": 1,
+      "start": "09:40",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 1,
+      "start": "09:50",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math lesson",
+      "lessonId": "g1-make-ten"
+    },
+    {
+      "day": 1,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Math with manipulatives",
+      "lessonId": "g1-tens-ones"
+    },
+    {
+      "day": 1,
+      "start": "10:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Spelling with sound boxes",
+      "lessonId": "g1-sound-boxes"
+    },
+    {
+      "day": 1,
+      "start": "10:30",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and narration"
+    },
+    {
+      "day": 1,
+      "start": "10:50",
+      "minutes": 30,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: observe and experiment"
+    },
+    {
+      "day": 1,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music, or PE"
+    },
+    {
+      "day": 1,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 2,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning basket: calendar, poem, check-in"
+    },
+    {
+      "day": 2,
+      "start": "09:15",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics lesson",
+      "lessonId": "g1-digraphs"
+    },
+    {
+      "day": 2,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and writing"
+    },
+    {
+      "day": 2,
+      "start": "09:40",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 2,
+      "start": "09:50",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math lesson",
+      "lessonId": "g1-make-ten"
+    },
+    {
+      "day": 2,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Math with manipulatives",
+      "lessonId": "g1-tens-ones"
+    },
+    {
+      "day": 2,
+      "start": "10:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Spelling with sound boxes",
+      "lessonId": "g1-sound-boxes"
+    },
+    {
+      "day": 2,
+      "start": "10:30",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and narration"
+    },
+    {
+      "day": 2,
+      "start": "10:50",
+      "minutes": 30,
+      "subject": "social-studies",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Social studies: community and maps"
+    },
+    {
+      "day": 2,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music, or PE"
+    },
+    {
+      "day": 2,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 3,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning basket: calendar, poem, check-in"
+    },
+    {
+      "day": 3,
+      "start": "09:15",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics lesson",
+      "lessonId": "g1-digraphs"
+    },
+    {
+      "day": 3,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and writing"
+    },
+    {
+      "day": 3,
+      "start": "09:40",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 3,
+      "start": "09:50",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math lesson",
+      "lessonId": "g1-make-ten"
+    },
+    {
+      "day": 3,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Math with manipulatives",
+      "lessonId": "g1-tens-ones"
+    },
+    {
+      "day": 3,
+      "start": "10:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Spelling with sound boxes",
+      "lessonId": "g1-sound-boxes"
+    },
+    {
+      "day": 3,
+      "start": "10:30",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and narration"
+    },
+    {
+      "day": 3,
+      "start": "10:50",
+      "minutes": 30,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: observe and experiment"
+    },
+    {
+      "day": 3,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music, or PE"
+    },
+    {
+      "day": 3,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 4,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning basket: calendar, poem, check-in"
+    },
+    {
+      "day": 4,
+      "start": "09:15",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics lesson",
+      "lessonId": "g1-digraphs"
+    },
+    {
+      "day": 4,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and writing"
+    },
+    {
+      "day": 4,
+      "start": "09:40",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 4,
+      "start": "09:50",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math lesson",
+      "lessonId": "g1-make-ten"
+    },
+    {
+      "day": 4,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Math with manipulatives",
+      "lessonId": "g1-tens-ones"
+    },
+    {
+      "day": 4,
+      "start": "10:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Spelling with sound boxes",
+      "lessonId": "g1-sound-boxes"
+    },
+    {
+      "day": 4,
+      "start": "10:30",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and narration"
+    },
+    {
+      "day": 4,
+      "start": "10:50",
+      "minutes": 30,
+      "subject": "social-studies",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Social studies: community and maps"
+    },
+    {
+      "day": 4,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music, or PE"
+    },
+    {
+      "day": 4,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    },
+    {
+      "day": 5,
+      "start": "09:00",
+      "minutes": 15,
+      "subject": "sel",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Morning basket: calendar, poem, check-in"
+    },
+    {
+      "day": 5,
+      "start": "09:15",
+      "minutes": 15,
+      "subject": "literacy",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Phonics lesson",
+      "lessonId": "g1-digraphs"
+    },
+    {
+      "day": 5,
+      "start": "09:30",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Handwriting and writing"
+    },
+    {
+      "day": 5,
+      "start": "09:40",
+      "minutes": 10,
+      "subject": "movement",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Movement break"
+    },
+    {
+      "day": 5,
+      "start": "09:50",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "screen",
+      "leadBy": "app",
+      "label": "Math lesson",
+      "lessonId": "g1-make-ten"
+    },
+    {
+      "day": 5,
+      "start": "10:05",
+      "minutes": 15,
+      "subject": "math",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Math with manipulatives",
+      "lessonId": "g1-tens-ones"
+    },
+    {
+      "day": 5,
+      "start": "10:20",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Spelling with sound boxes",
+      "lessonId": "g1-sound-boxes"
+    },
+    {
+      "day": 5,
+      "start": "10:30",
+      "minutes": 20,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Read-aloud and narration"
+    },
+    {
+      "day": 5,
+      "start": "10:50",
+      "minutes": 30,
+      "subject": "science",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Science: observe and experiment"
+    },
+    {
+      "day": 5,
+      "start": "11:20",
+      "minutes": 20,
+      "subject": "arts",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Art, music, or PE"
+    },
+    {
+      "day": 5,
+      "start": "11:40",
+      "minutes": 10,
+      "subject": "literacy",
+      "mode": "offline",
+      "leadBy": "parent",
+      "label": "Independent reading"
+    }
+  ]
+}

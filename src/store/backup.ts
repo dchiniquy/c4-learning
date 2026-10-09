@@ -13,9 +13,19 @@ export function parseBackup(text: string): ParseResult {
   const parsed = ExportDataSchema.safeParse(raw)
   if (!parsed.success) return { ok: false, error: 'That file is not a c4-learning backup.' }
 
+  const { progress, mastery, checks } = parsed.data
+  const dupes = (keys: string[]) => new Set(keys).size !== keys.length
+  if (
+    dupes(progress.map((r) => `${r.childId}|${r.activityId}`)) ||
+    dupes(mastery.map((r) => `${r.childId}|${r.skillId}`)) ||
+    dupes(checks.map((r) => `${r.childId}|${r.date}|${r.blockKey}`))
+  ) {
+    return { ok: false, error: 'The backup has duplicate records.' }
+  }
+
   const ids = new Set(parsed.data.children.map((c) => c.id))
   if (ids.size !== parsed.data.children.length) return { ok: false, error: 'The backup has duplicate children.' }
-  const orphan = [...parsed.data.progress, ...parsed.data.mastery].some((r) => !ids.has(r.childId))
+  const orphan = [...progress, ...mastery, ...checks].some((r) => !ids.has(r.childId))
   if (orphan) return { ok: false, error: 'The backup has progress for a child that is not in it.' }
   return { ok: true, data: parsed.data }
 }

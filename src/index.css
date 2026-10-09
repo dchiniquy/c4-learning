@@ -67,3 +67,35 @@ button {
   font-size: 3.5rem;
   line-height: 1;
 }
+
+.schedule {
+  list-style: none;
+  padding: 0;
+}
+
+.schedule li {
+  margin: 0.75rem 0;
+  padding: 0.75rem;
+  border: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+  border-radius: 0.75rem;
+}
+
+.schedule-row {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  margin: 0;
+}
+
+.schedule-row input[type='checkbox'] {
+  min-width: 1.75rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  margin: 0.1rem 0 0;
+}
+
+progress {
+  display: block;
+  width: 100%;
+  max-width: 24rem;
+}
