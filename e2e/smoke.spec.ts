@@ -42,11 +42,22 @@ test('a family can set up, play a day, reload, back up, and see progress', async
   await expect(page.getByText('Bo, Grade 1')).toBeVisible()
   await shot('01-parent-area')
 
-  // Today's schedule for the pre-K learner, with the app-time meter.
+  // The child's own home: one big next-up card; finishing a hands-on block moves to the next one.
   await page.getByRole('link', { name: 'Done' }).click()
   await shot('02-picker')
   await page.getByRole('link', { name: /Ada/ }).click()
+  await expect(page.getByText('Next up')).toBeVisible()
+  await expect(page.getByRole('heading', { name: /Circle time/ })).toBeVisible()
+  await shot('03a-child-home')
+  await page.getByRole('button', { name: 'I did it!' }).click()
+  await expect(page.getByRole('heading', { name: 'Move and dance' })).toBeVisible()
+  await expect(page.getByText(/1 of 10 done/)).toBeVisible()
+  await shot('03b-child-home-next')
+
+  // The grown-up plan: schedule with times and the app-time meter.
+  await page.getByRole('link', { name: 'Grown-up plan' }).click()
   await expect(page.getByRole('heading', { name: 'Monday' })).toBeVisible()
+  await expect(page.getByRole('checkbox', { name: /Circle time/ })).toBeChecked()
   await expect(page.getByText(/App time today: 0 of 20 min \(limit 30 min\)/)).toBeVisible()
   await shot('03-today')
 
@@ -65,7 +76,9 @@ test('a family can set up, play a day, reload, back up, and see progress', async
   await page.getByRole('button', { name: '7', exact: true }).click()
   await page.getByRole('button', { name: 'All done!' }).click()
 
-  // Back on Today: ticked, meter updated, and it survives a full reload.
+  // The child lands back on their home; the grown-up plan shows it ticked, the meter updated, and it survives a reload.
+  await expect(page.getByRole('heading', { name: /Hi, Ada!/ })).toBeVisible()
+  await page.getByRole('link', { name: 'Grown-up plan' }).click()
   await expect(page.getByRole('heading', { name: 'Monday' })).toBeVisible()
   await expect(page.getByRole('checkbox', { name: /Number app time/ })).toBeChecked()
   await expect(page.getByText(/App time today: 10 of 20 min/)).toBeVisible()
@@ -99,6 +112,7 @@ test('a family can set up, play a day, reload, back up, and see progress', async
   // A grade 1 learner gets a different schedule with its own limit.
   await page.goto('/#/')
   await page.getByRole('link', { name: /Bo/ }).click()
+  await page.getByRole('link', { name: 'Grown-up plan' }).click()
   await expect(page.getByText(/App time today: 0 of \d+ min \(limit 60 min\)/)).toBeVisible()
   await page.getByRole('link', { name: /^Start / }).first().click()
   await expect(page.getByText(/Activity 1 of \d+/)).toBeVisible()

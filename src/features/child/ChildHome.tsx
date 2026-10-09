@@ -2,7 +2,7 @@ import { useEffect } from 'react'
 import { Link, Navigate, useParams } from 'react-router-dom'
 import GradeContent from '../../content/GradeContent.tsx'
 import { useApp } from '../../store/appStore.ts'
-import TodaySchedule from './TodaySchedule.tsx'
+import ChildDay from './ChildDay.tsx'
 
 export default function ChildHome() {
   const { childId } = useParams()
@@ -22,10 +22,10 @@ export default function ChildHome() {
         <span aria-hidden="true">{child.avatar} </span>Hi, {child.name}!
       </h1>
       <GradeContent grade={child.grade}>
-        <TodaySchedule child={child} />
+        <ChildDay child={child} />
       </GradeContent>
-      <p>
-        <Link to="/">Switch learner</Link>
+      <p className="footer-links">
+        <Link to={`/child/${child.id}/plan`}>Grown-up plan</Link> · <Link to="/">Switch learner</Link>
       </p>
     </section>
   )

@@ -124,6 +124,7 @@ describe("child's Today schedule", () => {
   it("shows the weekday's blocks in time order with the app-time meter", async () => {
     const { user, child } = await childPage('prek', MONDAY)
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     expect(await screen.findByRole('heading', { name: 'Monday' })).toBeInTheDocument()
     expect(screen.getByText(/App time today: 0 of 20 min \(limit 30 min\)/)).toBeInTheDocument()
 
@@ -137,6 +138,7 @@ describe("child's Today schedule", () => {
   it('shows hands-on instructions for lessons, for the grown-up', async () => {
     const { user } = await childPage('prek', MONDAY)
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     expect(await screen.findByText(heading(FIRST_MATH))).toBeInTheDocument()
     expect(screen.getByText(FIRST_MATH.activities[0].parentPrompts[0])).toBeInTheDocument()
   })
@@ -144,6 +146,7 @@ describe("child's Today schedule", () => {
   it('ticking an app block moves the meter, and it persists after a reload', async () => {
     const stores = await childPage('prek', MONDAY)
     await stores.user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await stores.user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     await stores.user.click(await screen.findByRole('checkbox', { name: /Number app time/ }))
     expect(screen.getByText(/App time today: 10 of 20 min/)).toBeInTheDocument()
 
@@ -152,7 +155,7 @@ describe("child's Today schedule", () => {
     expect(screen.getByText(/App time today: 10 of 20 min/)).toBeInTheDocument()
 
     cleanup()
-    stores.remount(`/child/${stores.child.id}`)
+    stores.remount(`/child/${stores.child.id}/plan`)
     expect(await screen.findByRole('checkbox', { name: /Number app time/ })).toBeChecked()
     expect(screen.getByRole('checkbox', { name: /Circle time/ })).toBeChecked()
     expect(screen.getByRole('checkbox', { name: /Art or craft/ })).not.toBeChecked()
@@ -164,6 +167,7 @@ describe("child's Today schedule", () => {
   it('uses the grade 1 schedule for a grade 1 learner', async () => {
     const { user } = await childPage('1', MONDAY)
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     // Expected values come from the content, so this keeps working as the grade 1 schedule is edited.
     const template = content.schedules.find((s) => s.grade === '1')!
     const monday = planDay(content, template, 1, [], '2026-10-12')
@@ -176,6 +180,7 @@ describe("child's Today schedule", () => {
   it('shows a friendly message on days with nothing scheduled', async () => {
     const { user } = await childPage('prek', SATURDAY)
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     expect(await screen.findByText(/No lessons are scheduled today/)).toBeInTheDocument()
   })
 
@@ -200,6 +205,7 @@ describe('playing a lesson from Today', () => {
     const { user } = ctx
 
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     await user.click(await screen.findByRole('link', { name: /Start Number app time/ }))
     expect(await screen.findByRole('heading', { name: 'Counting game' })).toBeInTheDocument()
     expect(screen.getByText('Activity 1 of 3')).toBeInTheDocument()
@@ -218,7 +224,9 @@ describe('playing a lesson from Today', () => {
     await user.click(screen.getByRole('button', { name: '7' }))
     await user.click(screen.getByRole('button', { name: 'All done!' }))
 
-    // Back on Today with the block ticked and the meter updated.
+    // The child lands back on their own home, and the grown-up plan shows the block ticked.
+    expect(await screen.findByRole('heading', { name: /Hi, Ada!/ })).toBeInTheDocument()
+    await user.click(screen.getByRole('link', { name: 'Grown-up plan' }))
     expect(await screen.findByRole('heading', { name: 'Monday' })).toBeInTheDocument()
     expect(await screen.findByRole('checkbox', { name: /Number app time/ })).toBeChecked()
     expect(screen.getByText(/App time today: 10 of 20 min/)).toBeInTheDocument()
@@ -246,6 +254,7 @@ describe('playing a lesson from Today', () => {
     await ctx.app.getState().load()
     await ctx.app.getState().addChild({ name: 'Ada', avatar: '🦊', grade: 'prek' })
     await ctx.user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await ctx.user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     await screen.findByRole('heading', { name: 'Monday' })
     expect(screen.getAllByRole('link', { name: /^Start / })).toHaveLength(2) // the two app-time blocks only
   })
@@ -272,12 +281,13 @@ describe('progress-paced lessons', () => {
     const { user } = ctx
 
     await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    await user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     expect(await screen.findByText(heading(FIRST_MATH))).toBeInTheDocument()
 
     // Skipping the day: Tuesday still shows the first lesson.
     cleanup()
     vi.setSystemTime(TUESDAY)
-    ctx.remount(`/child/${child.id}`)
+    ctx.remount(`/child/${child.id}/plan`)
     expect(await screen.findByText(heading(FIRST_MATH))).toBeInTheDocument()
 
     // Finish it on Tuesday: it stays on screen today, and is replaced the next day.
@@ -288,7 +298,7 @@ describe('progress-paced lessons', () => {
 
     cleanup()
     vi.setSystemTime(new Date(2026, 9, 14, 10, 0)) // Wednesday
-    ctx.remount(`/child/${child.id}`)
+    ctx.remount(`/child/${child.id}/plan`)
     expect(await screen.findByText(heading(SECOND_MATH))).toBeInTheDocument()
     expect(screen.queryByText(heading(FIRST_MATH))).not.toBeInTheDocument()
   })
@@ -303,6 +313,7 @@ describe('progress-paced lessons', () => {
       await ctx.progress.setCheck({ childId: child.id, date: '2026-10-01', blockKey: `x:${lessonId}`, lessonId, completedAt: 1 })
     }
     await ctx.user.click(await screen.findByRole('link', { name: /Bo/ }))
+    await ctx.user.click(await screen.findByRole('link', { name: 'Grown-up plan' }))
     expect(await screen.findByText(/finished all the lessons we have/)).toBeInTheDocument()
   })
 })

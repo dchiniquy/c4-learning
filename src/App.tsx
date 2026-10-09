@@ -4,6 +4,7 @@ import { ContentSourceProvider } from './content/GradeContent.tsx'
 import type { ContentSource } from './content/source.ts'
 import ChildHome from './features/child/ChildHome.tsx'
 import LessonPage from './features/child/LessonPage.tsx'
+import PlanPage from './features/child/PlanPage.tsx'
 import ParentArea, { ParentGate } from './features/parent/ParentArea.tsx'
 import ProgressReport from './features/parent/ProgressReport.tsx'
 import ProfilePicker from './features/profiles/ProfilePicker.tsx'
@@ -22,6 +23,7 @@ export default function App({ store, content }: { store: AppStore; content: Cont
           <Routes>
             <Route path="/" element={<ProfilePicker />} />
             <Route path="/child/:childId" element={<ChildHome />} />
+            <Route path="/child/:childId/plan" element={<PlanPage />} />
             <Route path="/child/:childId/lesson/:lessonId" element={<LessonPage />} />
             <Route path="/parent" element={<ParentArea />} />
             <Route path="/parent/progress/:childId" element={<ParentGate><ProgressReport /></ParentGate>} />

@@ -27,3 +27,27 @@ export const fixtureContent = (): ContentBundle => ({
   sequences: [],
   schedules: [],
 })
+
+/** The base fixture plus an on-screen game and a Monday schedule for kindergarten and grade 1. */
+export const fixtureWithSchedule = (): ContentBundle => {
+  const bundle = fixtureContent()
+  const game: Lesson = {
+    id: 'gm1', grade: 'k', subject: 'math', unit: 'u1', week: 1, title: 'Counting game', version: 1, skillIds: ['sk-count'],
+    activities: [{
+      id: 'gm1-a', type: 'multiple-choice', mode: 'screen', leadBy: 'app', title: 'How many?', minutes: 5, prompt: 'How many apples?',
+      materials: [], parentPrompts: [],
+      payload: { choices: [{ id: 'a', label: '2' }, { id: 'b', label: '3' }], correctId: 'b' },
+    }],
+  }
+  bundle.lessons.push(game)
+  const blocks = (grade: 'k' | '1') => [
+    { day: 1, start: '09:00', minutes: 10, subject: 'sel', mode: 'offline', leadBy: 'parent', label: 'Circle time' },
+    { day: 1, start: '09:10', minutes: 10, subject: 'math', mode: 'screen', leadBy: 'app', label: 'Number game', ...(grade === 'k' ? { lessonId: 'gm1' } : {}) },
+    { day: 1, start: '09:20', minutes: 15, subject: 'literacy', mode: 'offline', leadBy: 'parent', label: 'Reading time', ...(grade === 'k' ? { lessonId: 'r1' } : {}) },
+  ] as const
+  bundle.schedules.push(
+    { id: 'k-fixture', grade: 'k', name: 'K', blocks: [...blocks('k')] },
+    { id: 'g1-fixture', grade: '1', name: 'G1', blocks: [...blocks('1')] },
+  )
+  return bundle
+}

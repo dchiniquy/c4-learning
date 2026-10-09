@@ -18,3 +18,15 @@ export const SUBJECT_LABEL: Record<Subject, string> = {
   movement: 'Movement',
   'life-skills': 'Life skills',
 }
+
+/** A friendly picture for each subject, used on the child's home screen. */
+export const SUBJECT_EMOJI: Record<Subject, string> = {
+  literacy: '📖',
+  math: '🔢',
+  science: '🔬',
+  'social-studies': '🗺️',
+  sel: '💛',
+  arts: '🎨',
+  movement: '🏃',
+  'life-skills': '🍎',
+}

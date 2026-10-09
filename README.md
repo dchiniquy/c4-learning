@@ -14,7 +14,7 @@ Aligned to Common Core (ELA, Math), NGSS, C3 (social studies) and CASEL (SEL); p
 
 ## Status
 
-Early build: learner profiles, a PIN-gated parent area with backup/restore and a progress report, a daily schedule with screen-time meter, audio-first on-screen activities (tap-to-hear, multiple choice, sort, ten-frame, number line), and progress-paced lesson sequences. Content is being written level by level, starting with pre-K.
+Early build: learner profiles, a PIN-gated parent area with backup/restore and a progress report, a picture-based child home ("next up" card and day strip) plus a grown-up plan with screen-time meter, audio-first on-screen activities (tap-to-hear, multiple choice, sort, ten-frame, number line), and progress-paced lesson sequences. Content is being written level by level, starting with pre-K.
 
 ## Develop
 
