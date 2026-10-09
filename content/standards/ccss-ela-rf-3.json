@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ccss-ela-rf-3-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.3",
+    "description": "Know and apply grade-level phonics and word analysis skills in decoding words.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-3-3-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.3.a",
+    "description": "Identify and know the meaning of the most common prefixes and derivational suffixes.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-3-3-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.3.b",
+    "description": "Decode words with common Latin suffixes.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-3-3-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.3.c",
+    "description": "Decode multisyllable words.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-3-3-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.3.d",
+    "description": "Read grade-appropriate irregularly spelled words.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-3-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.4",
+    "description": "Read with sufficient accuracy and fluency to support comprehension.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-3-4-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.4.a",
+    "description": "Read grade-level text with purpose and understanding.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-3-4-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.4.b",
+    "description": "Read grade-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-3-4-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.3.4.c",
+    "description": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
+    "grade": "3",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/3/",
+    "verified": true
+  }
+]

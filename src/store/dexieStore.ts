@@ -78,6 +78,10 @@ export class DexieProgressStore implements ProgressStore {
     return this.#db.checks.where('[childId+date]').equals([childId, date]).toArray()
   }
 
+  listChecks(childId: string) {
+    return this.#db.checks.where('childId').equals(childId).toArray()
+  }
+
   async setCheck(record: ScheduleCheck) {
     await this.#db.checks.put(record)
   }

@@ -47,7 +47,7 @@ export default function LessonPage() {
       setStartedAt(Date.now())
       return
     }
-    if (blockKey) await setBlockDone(child!.id, localDateString(new Date()), blockKey, true)
+    if (blockKey) await setBlockDone(child!.id, localDateString(new Date()), blockKey, true, lesson!.id)
     navigate(`/child/${child!.id}`)
   }
 

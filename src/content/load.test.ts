@@ -18,6 +18,6 @@ describe('loadContentBundle', () => {
   })
 
   it('accepts an empty content tree', () => {
-    expect(loadContentBundle({})).toEqual({ standards: [], skills: [], lessons: [], schedules: [] })
+    expect(loadContentBundle({})).toEqual({ standards: [], skills: [], lessons: [], sequences: [], schedules: [] })
   })
 })

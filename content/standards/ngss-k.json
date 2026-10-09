@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ngss-k-ps2-1",
+    "framework": "ngss",
+    "code": "K-PS2-1",
+    "description": "Plan and conduct an investigation to compare the effects of different strengths or different directions of pushes and pulls on the motion of an object.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ps2-motion-and-stability-forces-and-interactions",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ps2-2",
+    "framework": "ngss",
+    "code": "K-PS2-2",
+    "description": "Analyze data to determine if a design solution works as intended to change the speed or direction of an object with a push or a pull.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ps2-motion-and-stability-forces-and-interactions",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ps3-1",
+    "framework": "ngss",
+    "code": "K-PS3-1",
+    "description": "Make observations to determine the effect of sunlight on Earth's surface.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ps3-energy",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ps3-2",
+    "framework": "ngss",
+    "code": "K-PS3-2",
+    "description": "Use tools and materials to design and build a structure that will reduce the warming effect of sunlight on an area.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ps3-energy",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ls1-1",
+    "framework": "ngss",
+    "code": "K-LS1-1",
+    "description": "Use observations to describe patterns of what plants and animals (including humans) need to survive.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ls1-molecules-organisms-structures-and-processes",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ess2-1",
+    "framework": "ngss",
+    "code": "K-ESS2-1",
+    "description": "Use and share observations of local weather conditions to describe patterns over time.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ess2-earths-systems",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ess2-2",
+    "framework": "ngss",
+    "code": "K-ESS2-2",
+    "description": "Construct an argument supported by evidence for how plants and animals (including humans) can change the environment to meet their needs.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ess2-earths-systems",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ess3-1",
+    "framework": "ngss",
+    "code": "K-ESS3-1",
+    "description": "Use a model to represent the relationship between the needs of different plants and animals (including humans) and the places they live.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ess3-earth-and-human-activity",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ess3-2",
+    "framework": "ngss",
+    "code": "K-ESS3-2",
+    "description": "Ask questions to obtain information about the purpose of weather forecasting to prepare for, and respond to, severe weather.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ess3-earth-and-human-activity",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-ess3-3",
+    "framework": "ngss",
+    "code": "K-ESS3-3",
+    "description": "Communicate solutions that will reduce the impact of humans on the land, water, air, and/or other living things in the local environment.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-ess3-earth-and-human-activity",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-2-ets1-1",
+    "framework": "ngss",
+    "code": "K-2-ETS1-1",
+    "description": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-2-ets1-engineering-design",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-2-ets1-2",
+    "framework": "ngss",
+    "code": "K-2-ETS1-2",
+    "description": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-2-ets1-engineering-design",
+    "verified": true
+  },
+  {
+    "id": "ngss-k-2-ets1-3",
+    "framework": "ngss",
+    "code": "K-2-ETS1-3",
+    "description": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
+    "grade": "k",
+    "source": "https://www.nextgenscience.org/dci-arrangement/k-2-ets1-engineering-design",
+    "verified": true
+  }
+]

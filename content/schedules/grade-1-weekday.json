@@ -58,7 +58,7 @@
       "mode": "offline",
       "leadBy": "parent",
       "label": "Math with manipulatives",
-      "lessonId": "g1-tens-ones"
+      "sequenceId": "g1-math-hands"
     },
     {
       "day": 1,
@@ -67,8 +67,8 @@
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling with sound boxes",
-      "lessonId": "g1-sound-boxes"
+      "label": "Spelling and word work",
+      "sequenceId": "g1-spelling"
     },
     {
       "day": 1,
@@ -161,7 +161,7 @@
       "mode": "offline",
       "leadBy": "parent",
       "label": "Math with manipulatives",
-      "lessonId": "g1-tens-ones"
+      "sequenceId": "g1-math-hands"
     },
     {
       "day": 2,
@@ -170,8 +170,8 @@
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling with sound boxes",
-      "lessonId": "g1-sound-boxes"
+      "label": "Spelling and word work",
+      "sequenceId": "g1-spelling"
     },
     {
       "day": 2,
@@ -264,7 +264,7 @@
       "mode": "offline",
       "leadBy": "parent",
       "label": "Math with manipulatives",
-      "lessonId": "g1-tens-ones"
+      "sequenceId": "g1-math-hands"
     },
     {
       "day": 3,
@@ -273,8 +273,8 @@
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling with sound boxes",
-      "lessonId": "g1-sound-boxes"
+      "label": "Spelling and word work",
+      "sequenceId": "g1-spelling"
     },
     {
       "day": 3,
@@ -367,7 +367,7 @@
       "mode": "offline",
       "leadBy": "parent",
       "label": "Math with manipulatives",
-      "lessonId": "g1-tens-ones"
+      "sequenceId": "g1-math-hands"
     },
     {
       "day": 4,
@@ -376,8 +376,8 @@
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling with sound boxes",
-      "lessonId": "g1-sound-boxes"
+      "label": "Spelling and word work",
+      "sequenceId": "g1-spelling"
     },
     {
       "day": 4,
@@ -470,7 +470,7 @@
       "mode": "offline",
       "leadBy": "parent",
       "label": "Math with manipulatives",
-      "lessonId": "g1-tens-ones"
+      "sequenceId": "g1-math-hands"
     },
     {
       "day": 5,
@@ -479,8 +479,8 @@
       "subject": "literacy",
       "mode": "offline",
       "leadBy": "parent",
-      "label": "Spelling with sound boxes",
-      "lessonId": "g1-sound-boxes"
+      "label": "Spelling and word work",
+      "sequenceId": "g1-spelling"
     },
     {
       "day": 5,

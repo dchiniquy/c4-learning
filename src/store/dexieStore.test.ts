@@ -76,6 +76,17 @@ describe('DexieProgressStore', () => {
     expect(await progress.getChecks(a.id, '2026-10-13')).toHaveLength(1)
   })
 
+  it('keeps the lesson id on check-offs and lists them across dates', async () => {
+    const { progress } = newStores()
+    const a = await progress.addChild({ name: 'Ada', avatar: '🦊', grade: 'k' })
+    await progress.setCheck({ childId: a.id, date: '2026-10-12', blockKey: 'k1', lessonId: 'lesson-1', completedAt: 1 })
+    await progress.setCheck({ childId: a.id, date: '2026-10-13', blockKey: 'k2', completedAt: 2 })
+    const all = await progress.listChecks(a.id)
+    expect(all).toHaveLength(2)
+    expect(all.find((c) => c.blockKey === 'k1')?.lessonId).toBe('lesson-1')
+    expect(all.find((c) => c.blockKey === 'k2')?.lessonId).toBeUndefined()
+  })
+
   it('deleting a child removes their check-offs, and checks survive export/import', async () => {
     const src = newStores().progress
     const a = await src.addChild({ name: 'Ada', avatar: '🦊', grade: 'k' })

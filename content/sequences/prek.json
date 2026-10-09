@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pk-literacy",
+    "grade": "prek",
+    "subject": "literacy",
+    "name": "Pre-K hands-on literacy",
+    "lessonIds": [
+      "pk-rhyme-hunt",
+      "pk-letter-sounds"
+    ]
+  },
+  {
+    "id": "pk-math",
+    "grade": "prek",
+    "subject": "math",
+    "name": "Pre-K hands-on math",
+    "lessonIds": [
+      "pk-bean-count",
+      "pk-pattern-snack"
+    ]
+  }
+]

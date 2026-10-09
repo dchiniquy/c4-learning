@@ -18,6 +18,8 @@ export interface ProgressStore {
   putMastery(record: SkillMastery): Promise<void>
 
   getChecks(childId: string, date: string): Promise<ScheduleCheck[]>
+  /** Every check-off for a child across all dates. */
+  listChecks(childId: string): Promise<ScheduleCheck[]>
   setCheck(record: ScheduleCheck): Promise<void>
   removeCheck(childId: string, date: string, blockKey: string): Promise<void>
 

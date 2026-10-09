@@ -1,0 +1,21 @@
+[
+  {
+    "id": "g1-math-hands",
+    "grade": "1",
+    "subject": "math",
+    "name": "Grade 1 hands-on math",
+    "lessonIds": [
+      "g1-tens-ones",
+      "g1-make-ten"
+    ]
+  },
+  {
+    "id": "g1-spelling",
+    "grade": "1",
+    "subject": "literacy",
+    "name": "Grade 1 spelling and word work",
+    "lessonIds": [
+      "g1-sound-boxes"
+    ]
+  }
+]

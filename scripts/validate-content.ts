@@ -1,9 +1,10 @@
-import { readdirSync, readFileSync, statSync } from 'node:fs'
+import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs'
 import { join } from 'node:path'
 import { z } from 'zod'
 import {
   LessonSchema,
   ScheduleTemplateSchema,
+  SequenceSchema,
   SkillSchema,
   StandardSchema,
   type ContentBundle,
@@ -13,6 +14,7 @@ import { validateContent } from '../src/content/validate.ts'
 const ROOT = join(import.meta.dirname, '..', 'content')
 
 function jsonFiles(dir: string): string[] {
+  if (!existsSync(dir)) return [] // a content folder that doesn't exist yet is just empty
   return readdirSync(dir).flatMap((name) => {
     const path = join(dir, name)
     if (statSync(path).isDirectory()) return jsonFiles(path)
@@ -48,6 +50,7 @@ const bundle: ContentBundle = {
   standards: load('standards', StandardSchema),
   skills: load('skills', SkillSchema),
   lessons: load('lessons', LessonSchema),
+  sequences: load('sequences', SequenceSchema),
   schedules: load('schedules', ScheduleTemplateSchema),
 }
 
@@ -59,5 +62,5 @@ if (errors.length) {
 }
 console.log(
   `Content OK: ${bundle.standards.length} standards, ${bundle.skills.length} skills, ` +
-    `${bundle.lessons.length} lessons, ${bundle.schedules.length} schedules`,
+    `${bundle.lessons.length} lessons, ${bundle.sequences.length} sequences, ${bundle.schedules.length} schedules`,
 )

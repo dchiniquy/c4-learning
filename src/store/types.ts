@@ -41,6 +41,8 @@ export const ScheduleCheckSchema = z.object({
   childId: z.string().min(1),
   date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
   blockKey: z.string().min(1),
+  /** The lesson that was done in this block, when the block draws from a sequence. */
+  lessonId: z.string().min(1).optional(),
   completedAt: z.number().int(),
 })
 export type ScheduleCheck = z.infer<typeof ScheduleCheckSchema>

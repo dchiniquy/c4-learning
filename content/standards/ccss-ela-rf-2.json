@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ccss-ela-rf-2-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.3",
+    "description": "Know and apply grade-level phonics and word analysis skills in decoding words.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-3-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.3.a",
+    "description": "Distinguish long and short vowels when reading regularly spelled one-syllable words.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-3-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.3.b",
+    "description": "Know spelling-sound correspondences for additional common vowel teams.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-3-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.3.c",
+    "description": "Decode regularly spelled two-syllable words with long vowels.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-3-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.3.d",
+    "description": "Decode words with common prefixes and suffixes.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-3-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.3.e",
+    "description": "Identify words with inconsistent but common spelling-sound correspondences.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-3-f",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.3.f",
+    "description": "Recognize and read grade-appropriate irregularly spelled words.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.4",
+    "description": "Read with sufficient accuracy and fluency to support comprehension.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-4-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.4.a",
+    "description": "Read grade-level text with purpose and understanding.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-4-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.4.b",
+    "description": "Read grade-level text orally with accuracy, appropriate rate, and expression on successive readings.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-2-4-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.2.4.c",
+    "description": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
+    "grade": "2",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/2/",
+    "verified": true
+  }
+]

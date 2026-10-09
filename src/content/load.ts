@@ -2,6 +2,7 @@ import type { z } from 'zod'
 import {
   LessonSchema,
   ScheduleTemplateSchema,
+  SequenceSchema,
   SkillSchema,
   StandardSchema,
   type ContentBundle,
@@ -33,6 +34,7 @@ export function loadContentBundle(modules: Modules = bundledModules): ContentBun
     standards: collect(modules, 'standards', StandardSchema, errors),
     skills: collect(modules, 'skills', SkillSchema, errors),
     lessons: collect(modules, 'lessons', LessonSchema, errors),
+    sequences: collect(modules, 'sequences', SequenceSchema, errors),
     schedules: collect(modules, 'schedules', ScheduleTemplateSchema, errors),
   }
   errors.push(...validateContent(bundle))

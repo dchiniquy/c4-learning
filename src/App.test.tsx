@@ -243,3 +243,51 @@ describe('playing a lesson from Today', () => {
     expect(await screen.findByRole('heading', { name: /Hi, Cy!/ })).toBeInTheDocument()
   })
 })
+
+describe('progress-paced lessons', () => {
+  const MONDAY = new Date(2026, 9, 12, 10, 0)
+  const TUESDAY = new Date(2026, 9, 13, 10, 0)
+
+  it('advances a hands-on block to the next lesson only after the child finishes one', async () => {
+    vi.useFakeTimers({ toFake: ['Date'] })
+    vi.setSystemTime(MONDAY)
+    const ctx = setup('/')
+    await ctx.app.getState().load()
+    const child = await ctx.app.getState().addChild({ name: 'Ada', avatar: '🦊', grade: 'prek' })
+    const { user } = ctx
+
+    await user.click(await screen.findByRole('link', { name: /Ada/ }))
+    expect(await screen.findByText(/For the grown-up: Count the beans/)).toBeInTheDocument()
+
+    // Skipping the day: Tuesday still shows the first lesson.
+    cleanup()
+    vi.setSystemTime(TUESDAY)
+    ctx.remount(`/child/${child.id}`)
+    expect(await screen.findByText(/For the grown-up: Count the beans/)).toBeInTheDocument()
+
+    // Finish it on Tuesday: it stays on screen today, and is replaced the next day.
+    await user.click(screen.getByRole('checkbox', { name: /Hands-on math/ }))
+    expect(screen.getByText(/For the grown-up: Count the beans/)).toBeInTheDocument()
+    const [saved] = await ctx.progress.getChecks(child.id, '2026-10-13')
+    expect(saved.lessonId).toBe('pk-bean-count')
+
+    cleanup()
+    vi.setSystemTime(new Date(2026, 9, 14, 10, 0)) // Wednesday
+    ctx.remount(`/child/${child.id}`)
+    expect(await screen.findByText(/For the grown-up: Pattern snack/)).toBeInTheDocument()
+    expect(screen.queryByText(/For the grown-up: Count the beans/)).not.toBeInTheDocument()
+  })
+
+  it('says when a sequence has no lessons left', async () => {
+    vi.useFakeTimers({ toFake: ['Date'] })
+    vi.setSystemTime(MONDAY)
+    const ctx = setup('/')
+    await ctx.app.getState().load()
+    const child = await ctx.app.getState().addChild({ name: 'Bo', avatar: '🐼', grade: 'prek' })
+    for (const lessonId of ['pk-bean-count', 'pk-pattern-snack']) {
+      await ctx.progress.setCheck({ childId: child.id, date: '2026-10-01', blockKey: `x:${lessonId}`, lessonId, completedAt: 1 })
+    }
+    await ctx.user.click(await screen.findByRole('link', { name: /Bo/ }))
+    expect(await screen.findByText(/finished all the lessons we have/)).toBeInTheDocument()
+  })
+})

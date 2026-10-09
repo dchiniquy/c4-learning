@@ -106,7 +106,22 @@ export type Lesson = z.infer<typeof LessonSchema>
 
 const HHMM = z.string().regex(/^([01]\d|2[0-3]):[0-5]\d$/, 'use 24h HH:MM')
 
-export const ScheduleBlockSchema = z.object({
+/**
+ * An ordered run of lessons for one subject. A schedule block that points at a
+ * sequence shows the first lesson the child hasn't finished yet, so a missed
+ * day never leaves them behind.
+ */
+export const SequenceSchema = z.object({
+  id,
+  grade: GradeSchema,
+  subject: SubjectSchema,
+  name: z.string().min(1),
+  lessonIds: z.array(id).min(1),
+})
+export type Sequence = z.infer<typeof SequenceSchema>
+
+export const ScheduleBlockSchema = z
+  .object({
   day: z.number().int().min(1).max(7), // 1 = Monday
   start: HHMM,
   minutes: z.number().int().positive(),
@@ -114,8 +129,11 @@ export const ScheduleBlockSchema = z.object({
   mode: z.enum(['screen', 'offline']),
   leadBy: z.enum(['app', 'parent']),
   label: z.string().min(1),
+  /** A fixed lesson (e.g. a repeatable game), or a sequence that advances as lessons are finished. Not both. */
   lessonId: id.optional(),
-})
+  sequenceId: id.optional(),
+  })
+  .refine((b) => !(b.lessonId && b.sequenceId), { message: 'a block can have lessonId or sequenceId, not both', path: ['sequenceId'] })
 export type ScheduleBlock = z.infer<typeof ScheduleBlockSchema>
 
 export const ScheduleTemplateSchema = z.object({
@@ -130,5 +148,6 @@ export type ContentBundle = {
   standards: Standard[]
   skills: Skill[]
   lessons: Lesson[]
+  sequences: Sequence[]
   schedules: ScheduleTemplate[]
 }

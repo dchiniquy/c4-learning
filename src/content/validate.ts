@@ -22,6 +22,7 @@ export function validateContent(bundle: ContentBundle): string[] {
   const standards = index('standard', bundle.standards)
   const skills = index('skill', bundle.skills)
   const lessons = index('lesson', bundle.lessons)
+  const sequences = index('sequence', bundle.sequences)
   index('schedule', bundle.schedules)
 
   for (const skill of bundle.skills) {
@@ -84,6 +85,17 @@ export function validateContent(bundle: ContentBundle): string[] {
     }
   }
 
+  for (const seq of bundle.sequences) {
+    for (const lid of seq.lessonIds) {
+      const lesson = lessons.get(lid)
+      if (!lesson) errors.push(`sequence "${seq.id}" references unknown lesson "${lid}"`)
+      else if (lesson.grade !== seq.grade || lesson.subject !== seq.subject) {
+        errors.push(`sequence "${seq.id}" (${seq.grade} ${seq.subject}) includes "${lid}" (${lesson.grade} ${lesson.subject})`)
+      }
+    }
+    if (new Set(seq.lessonIds).size !== seq.lessonIds.length) errors.push(`sequence "${seq.id}" lists a lesson twice`)
+  }
+
   for (const sched of bundle.schedules) {
     const screenByDay = new Map<number, number>()
     const blocksByDay = new Map<number, typeof sched.blocks>()
@@ -96,6 +108,13 @@ export function validateContent(bundle: ContentBundle): string[] {
         if (!lesson) errors.push(`schedule "${sched.id}" references unknown lesson "${block.lessonId}"`)
         else if (lesson.grade !== sched.grade) {
           errors.push(`schedule "${sched.id}" (${sched.grade}) uses lesson "${lesson.id}" from grade ${lesson.grade}`)
+        }
+      }
+      if (block.sequenceId) {
+        const seq = sequences.get(block.sequenceId)
+        if (!seq) errors.push(`schedule "${sched.id}" references unknown sequence "${block.sequenceId}"`)
+        else if (seq.grade !== sched.grade) {
+          errors.push(`schedule "${sched.id}" (${sched.grade}) uses sequence "${seq.id}" from grade ${seq.grade}`)
         }
       }
       if (block.mode === 'screen') {

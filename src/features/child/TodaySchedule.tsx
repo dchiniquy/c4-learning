@@ -4,13 +4,13 @@ import { isInteractive } from '../../activities/payloads.ts'
 import { useContent } from '../../content/context.ts'
 import { formatTime, isoWeekday, localDateString, planDay, templateForGrade } from '../../schedule/engine.ts'
 import { useApp } from '../../store/appStore.ts'
-import type { Child } from '../../store/types.ts'
+import type { Child, ScheduleCheck } from '../../store/types.ts'
 
 const WEEKDAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 export default function TodaySchedule({ child }: { child: Child }) {
   const content = useContent()
-  const loadChecks = useApp((s) => s.loadChecks)
+  const loadAllChecks = useApp((s) => s.loadAllChecks)
   const setBlockDone = useApp((s) => s.setBlockDone)
 
   const [now] = useState(() => new Date())
@@ -20,31 +20,30 @@ export default function TodaySchedule({ child }: { child: Child }) {
 
   // Check-offs are tagged with the child and date they were loaded for, so switching child never shows stale ticks.
   const scope = `${child.id}|${date}`
-  const [loaded, setLoaded] = useState<{ scope: string; keys: ReadonlySet<string> } | null>(null)
-  const doneKeys = loaded?.scope === scope ? loaded.keys : null
+  const [loaded, setLoaded] = useState<{ scope: string; checks: ScheduleCheck[] } | null>(null)
+  const checks = loaded?.scope === scope ? loaded.checks : null
   useEffect(() => {
     let cancelled = false
-    void loadChecks(child.id, date).then((checks) => {
-      if (!cancelled) setLoaded({ scope, keys: new Set(checks.map((c) => c.blockKey)) })
+    void loadAllChecks(child.id).then((all) => {
+      if (!cancelled) setLoaded({ scope, checks: all })
     })
     return () => {
       cancelled = true
     }
-  }, [loadChecks, child.id, date, scope])
+  }, [loadAllChecks, child.id, scope])
 
   const plan = useMemo(
-    () => (template && doneKeys ? planDay(content, template, weekday, doneKeys) : null),
-    [content, template, weekday, doneKeys],
+    () => (template && checks ? planDay(content, template, weekday, checks, date) : null),
+    [content, template, weekday, checks, date],
   )
 
-  async function toggle(key: string, done: boolean) {
+  async function toggle(key: string, done: boolean, lessonId?: string) {
     setLoaded((prev) => {
-      const next = new Set(prev?.keys)
-      if (done) next.add(key)
-      else next.delete(key)
-      return { scope, keys: next }
+      const rest = (prev?.checks ?? []).filter((c) => !(c.date === date && c.blockKey === key))
+      const next = done ? [...rest, { childId: child.id, date, blockKey: key, completedAt: Date.now(), ...(lessonId ? { lessonId } : {}) }] : rest
+      return { scope, checks: next }
     })
-    await setBlockDone(child.id, date, key, done)
+    await setBlockDone(child.id, date, key, done, lessonId)
   }
 
   if (!template) return <p>No schedule is set up for this level yet.</p>
@@ -64,10 +63,10 @@ export default function TodaySchedule({ child }: { child: Child }) {
             </label>
           </p>
           <ol className="schedule">
-            {plan.items.map(({ key, block, end, done, lesson }) => (
+            {plan.items.map(({ key, block, end, done, lesson, sequenceFinished }) => (
               <li key={key}>
                 <label className="schedule-row">
-                  <input type="checkbox" checked={done} onChange={(e) => void toggle(key, e.target.checked)} />
+                  <input type="checkbox" checked={done} onChange={(e) => void toggle(key, e.target.checked, lesson?.id)} />
                   <span>
                     <strong>{block.label}</strong>
                     <br />
@@ -82,6 +81,7 @@ export default function TodaySchedule({ child }: { child: Child }) {
                     </Link>
                   </p>
                 )}
+                {sequenceFinished && <p>You've finished all the lessons we have for this. New ones are coming!</p>}
                 {lesson && (
                   <details>
                     <summary>For the grown-up: {lesson.title}</summary>

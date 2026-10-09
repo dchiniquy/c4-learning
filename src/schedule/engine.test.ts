@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import type { Lesson, ScheduleTemplate } from '../content/schema.ts'
+import type { Lesson, ScheduleTemplate, Sequence } from '../content/schema.ts'
+import type { ScheduleCheck } from '../store/types.ts'
 import { blockKey, endTime, formatTime, isoWeekday, localDateString, planDay, templateForGrade } from './engine.ts'
 
 const lesson = {
@@ -16,6 +17,9 @@ const template: ScheduleTemplate = {
     { day: 2, start: '09:00', minutes: 10, subject: 'math', mode: 'offline', leadBy: 'parent', label: 'Tuesday' },
   ],
 }
+
+const DATE = '2026-10-12'
+const check = (key: string, date: string, lessonId?: string): ScheduleCheck => ({ childId: 'c', date, blockKey: key, completedAt: 1, ...(lessonId ? { lessonId } : {}) })
 
 describe('date helpers', () => {
   it('maps JS weekdays to ISO (Monday = 1, Sunday = 7)', () => {
@@ -40,7 +44,7 @@ describe('date helpers', () => {
 
 describe('planDay', () => {
   it('returns only that weekday, in time order, with lessons attached', () => {
-    const plan = planDay({ lessons: [lesson] }, template, 1, new Set())
+    const plan = planDay({ lessons: [lesson] }, template, 1, [], DATE)
     expect(plan.items.map((i) => i.block.label)).toEqual(['Early', 'Late app', 'Later app'])
     expect(plan.items[0].lesson?.id).toBe('lesson-a')
     expect(plan.items[1].lesson).toBeUndefined()
@@ -48,20 +52,69 @@ describe('planDay', () => {
   })
 
   it('totals screen time and counts only completed screen blocks', () => {
-    const done = new Set([blockKey(template, template.blocks[0]), blockKey(template, template.blocks[1])])
-    const { screen, items } = planDay({ lessons: [lesson] }, template, 1, done)
+    const done = [template.blocks[0], template.blocks[1]].map((b) => check(blockKey(template, b), DATE))
+    const { screen, items } = planDay({ lessons: [lesson] }, template, 1, done, DATE)
     expect(screen).toEqual({ planned: 30, completed: 20, budget: 40 })
     expect(items.map((i) => i.done)).toEqual([true, true, false])
   })
 
   it('is empty on days with no blocks', () => {
-    const plan = planDay({ lessons: [] }, template, 6, new Set())
+    const plan = planDay({ lessons: [] }, template, 6, [], DATE)
     expect(plan.items).toEqual([])
     expect(plan.screen.planned).toBe(0)
   })
 
   it('keys blocks by template, day and start time', () => {
     expect(blockKey(template, template.blocks[1])).toBe('t1:1:09:00')
+  })
+})
+
+describe('planDay with sequences', () => {
+  const mk = (id: string) => ({ ...lesson, id, title: id }) as Lesson
+  const lessons = [mk('l1'), mk('l2'), mk('l3')]
+  const seq: Sequence = { id: 'seq', grade: 'k', subject: 'math', name: 'S', lessonIds: ['l1', 'l2', 'l3'] }
+  const seqTemplate: ScheduleTemplate = {
+    id: 'st', grade: 'k', name: 'ST',
+    blocks: [
+      { day: 1, start: '09:00', minutes: 15, subject: 'math', mode: 'offline', leadBy: 'parent', label: 'A', sequenceId: 'seq' },
+      { day: 1, start: '10:00', minutes: 15, subject: 'math', mode: 'offline', leadBy: 'parent', label: 'B', sequenceId: 'seq' },
+      { day: 2, start: '09:00', minutes: 15, subject: 'math', mode: 'offline', leadBy: 'parent', label: 'A2', sequenceId: 'seq' },
+    ],
+  }
+  const A = blockKey(seqTemplate, seqTemplate.blocks[0])
+  const B = blockKey(seqTemplate, seqTemplate.blocks[1])
+  const run = (checks: ScheduleCheck[], day = 1, date = DATE) => planDay({ lessons, sequences: [seq] }, seqTemplate, day, checks, date).items
+
+  it('starts at the first lesson and gives later blocks the following ones', () => {
+    expect(run([]).map((i) => i.lesson?.id)).toEqual(['l1', 'l2'])
+  })
+
+  it('skips lessons finished on earlier days, however many days ago', () => {
+    expect(run([check(A, '2026-10-01', 'l1'), check(B, '2026-10-02', 'l2')]).map((i) => i.lesson?.id)).toEqual(['l3', undefined])
+  })
+
+  it("keeps showing today's ticked lesson instead of advancing past it", () => {
+    const items = run([check(A, DATE, 'l1')])
+    expect(items.map((i) => [i.lesson?.id, i.done])).toEqual([['l1', true], ['l2', false]])
+  })
+
+  it('does not hand the same lesson to two blocks even when the later one is ticked first', () => {
+    const items = run([check(B, DATE, 'l1')])
+    expect(items.map((i) => i.lesson?.id)).toEqual(['l2', 'l1'])
+  })
+
+  it('un-ticking returns a lesson to the pool', () => {
+    expect(run([]).map((i) => i.lesson?.id)).toEqual(['l1', 'l2'])
+  })
+
+  it('marks a block as finished when no lessons remain', () => {
+    const all = ['l1', 'l2', 'l3'].map((id) => check(`x:${id}`, '2026-10-01', id))
+    const items = run(all, 2, '2026-10-13')
+    expect(items[0]).toMatchObject({ lesson: undefined, sequenceFinished: true })
+  })
+
+  it('ignores checks without a lesson id when working out progress', () => {
+    expect(run([check(A, '2026-10-01')]).map((i) => i.lesson?.id)).toEqual(['l1', 'l2'])
   })
 })
 

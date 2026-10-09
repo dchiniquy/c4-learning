@@ -6,6 +6,7 @@ import {
   type ScheduleBlock,
   type ScheduleTemplate,
 } from '../content/schema.ts'
+import type { ScheduleCheck } from '../store/types.ts'
 
 /** Stable id for a block, used to record that it was done on a given date. */
 export const blockKey = (template: ScheduleTemplate, block: ScheduleBlock) => `${template.id}:${block.day}:${block.start}`
@@ -46,6 +47,8 @@ export type DayItem = {
   end: string
   done: boolean
   lesson?: Lesson
+  /** The block draws from a sequence and every lesson in it is already finished. */
+  sequenceFinished: boolean
 }
 
 export type DayPlan = {
@@ -53,20 +56,49 @@ export type DayPlan = {
   screen: { planned: number; completed: number; budget: number }
 }
 
-/** What a child's day looks like: blocks in time order, which are done, and screen-time totals. */
+/**
+ * What a child's day looks like: blocks in time order, which are done, which
+ * lesson each block shows, and screen-time totals.
+ *
+ * `checks` is every check-off the child has ever made. A block with a fixed
+ * lesson always shows it. A block that draws from a sequence shows the lesson
+ * it was ticked with today, or otherwise the first lesson in the sequence the
+ * child hasn't finished on an earlier day (and isn't already used elsewhere today).
+ */
 export function planDay(
-  content: Pick<ContentBundle, 'lessons'>,
+  content: Pick<ContentBundle, 'lessons'> & Partial<Pick<ContentBundle, 'sequences'>>,
   template: ScheduleTemplate,
   weekday: number,
-  doneKeys: ReadonlySet<string>,
+  checks: readonly ScheduleCheck[],
+  date: string,
 ): DayPlan {
   const lessons = new Map(content.lessons.map((l) => [l.id, l]))
+  const sequences = new Map((content.sequences ?? []).map((s) => [s.id, s]))
+
+  const todayChecks = new Map(checks.filter((c) => c.date === date).map((c) => [c.blockKey, c]))
+  const finishedEarlier = new Set(checks.filter((c) => c.date !== date && c.lessonId).map((c) => c.lessonId!))
+  const usedToday = new Set([...todayChecks.values()].flatMap((c) => (c.lessonId ? [c.lessonId] : [])))
+
   const items = template.blocks
     .filter((b) => b.day === weekday)
     .sort((a, b) => toMinutes(a.start) - toMinutes(b.start))
     .map<DayItem>((block) => {
       const key = blockKey(template, block)
-      return { key, block, end: endTime(block), done: doneKeys.has(key), lesson: block.lessonId ? lessons.get(block.lessonId) : undefined }
+      const check = todayChecks.get(key)
+      let lesson = block.lessonId ? lessons.get(block.lessonId) : undefined
+      let sequenceFinished = false
+
+      if (block.sequenceId) {
+        const ticked = check?.lessonId ? lessons.get(check.lessonId) : undefined
+        if (ticked) lesson = ticked
+        else {
+          const nextId = sequences.get(block.sequenceId)?.lessonIds.find((id) => !finishedEarlier.has(id) && !usedToday.has(id))
+          lesson = nextId ? lessons.get(nextId) : undefined
+          if (lesson) usedToday.add(lesson.id)
+          else sequenceFinished = true
+        }
+      }
+      return { key, block, end: endTime(block), done: !!check, lesson, sequenceFinished }
     })
 
   const screenItems = items.filter((i) => i.block.mode === 'screen')

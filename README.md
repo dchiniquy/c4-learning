@@ -32,9 +32,10 @@ npm run build
 
 Lessons, skills, standards and schedules are JSON files under `content/`, validated by Zod schemas in `src/content/schema.ts` plus cross-reference checks in `src/content/validate.ts`.
 
-- `standards/` published standards. Set `verified: true` only after checking the code and wording against `source`. Lessons that depend on an unverified standard fail validation.
+- `standards/` published standards (CCSS Math and Reading Foundations K-3, NGSS K-3, plus Texas Pre-K). Set `verified: true` only after checking the code and wording against `source`. Lessons that depend on an unverified standard fail validation.
 - `skills/` skills linked to standards. Progress is tracked per skill and reported by standard.
 - `lessons/` lessons with their activities. Offline, parent-led activities are first-class, with materials and parent prompts.
+- `sequences/` ordered lessons for a subject. A schedule block can point at a sequence and shows the first lesson the child hasn't finished, so lessons advance with progress, not the calendar. Blocks can also point at one fixed lesson (e.g. a repeatable game).
 - `schedules/` daily schedule templates per grade, checked against a per-grade screen-time budget.
 
 ## Privacy

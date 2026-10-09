@@ -1,0 +1,227 @@
+[
+  {
+    "id": "ccss-math-k-cc-a-1",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.A.1",
+    "description": "Count to 100 by ones and by tens.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-a-2",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.A.2",
+    "description": "Count forward beginning from a given number within the known sequence (instead of having to begin at 1).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-a-3",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.A.3",
+    "description": "Write numbers from 0 to 20. Represent a number of objects with a written numeral 0-20 (with 0 representing a count of no objects).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-b-4",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.B.4",
+    "description": "Understand the relationship between numbers and quantities; connect counting to cardinality.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-b-4-a",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.B.4.a",
+    "description": "When counting objects, say the number names in the standard order, pairing each object with one and only one number name and each number name with one and only one object.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-b-4-b",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.B.4.b",
+    "description": "Understand that the last number name said tells the number of objects counted. The number of objects is the same regardless of their arrangement or the order in which they were counted.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-b-4-c",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.B.4.c",
+    "description": "Understand that each successive number name refers to a quantity that is one larger.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-b-5",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.B.5",
+    "description": "Count to answer \"how many?\" questions about as many as 20 things arranged in a line, a rectangular array, or a circle, or as many as 10 things in a scattered configuration; given a number from 1-20, count out that many objects.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-c-6",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.C.6",
+    "description": "Identify whether the number of objects in one group is greater than, less than, or equal to the number of objects in another group, e.g., by using matching and counting strategies.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-cc-c-7",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.CC.C.7",
+    "description": "Compare two numbers between 1 and 10 presented as written numerals.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/CC/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-oa-a-1",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.OA.A.1",
+    "description": "Represent addition and subtraction with objects, fingers, mental images, drawings, sounds (e.g., claps), acting out situations, verbal explanations, expressions, or equations.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/OA/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-oa-a-2",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.OA.A.2",
+    "description": "Solve addition and subtraction word problems, and add and subtract within 10, e.g., by using objects or drawings to represent the problem.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/OA/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-oa-a-3",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.OA.A.3",
+    "description": "Decompose numbers less than or equal to 10 into pairs in more than one way, e.g., by using objects or drawings, and record each decomposition by a drawing or equation (e.g., 5 = 2 + 3 and 5 = 4 + 1).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/OA/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-oa-a-4",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.OA.A.4",
+    "description": "For any number from 1 to 9, find the number that makes 10 when added to the given number, e.g., by using objects or drawings, and record the answer with a drawing or equation.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/OA/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-oa-a-5",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.OA.A.5",
+    "description": "Fluently add and subtract within 5.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/OA/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-nbt-a-1",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.NBT.A.1",
+    "description": "Compose and decompose numbers from 11 to 19 into ten ones and some further ones, e.g., by using objects or drawings, and record each composition or decomposition by a drawing or equation (such as 18 = 10 + 8); understand that these numbers are composed of ten ones and one, two, three, four, five, six, seven, eight, or nine ones.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/NBT/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-md-a-1",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.MD.A.1",
+    "description": "Describe measurable attributes of objects, such as length or weight. Describe several measurable attributes of a single object.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/MD/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-md-a-2",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.MD.A.2",
+    "description": "Directly compare two objects with a measurable attribute in common, to see which object has \"more of\"/\"less of\" the attribute, and describe the difference.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/MD/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-md-b-3",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.MD.B.3",
+    "description": "Classify objects into given categories; count the numbers of objects in each category and sort the categories by count.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/MD/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-g-a-1",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.G.A.1",
+    "description": "Describe objects in the environment using names of shapes, and describe the relative positions of these objects using terms such as above, below, beside, in front of, behind, and next to.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/G/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-g-a-2",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.G.A.2",
+    "description": "Correctly name shapes regardless of their orientations or overall size.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/G/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-g-a-3",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.G.A.3",
+    "description": "Identify shapes as two-dimensional (lying in a plane, \"flat\") or three-dimensional (\"solid\").",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/G/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-g-b-4",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.G.B.4",
+    "description": "Analyze and compare two- and three-dimensional shapes, in different sizes and orientations, using informal language to describe their similarities, differences, parts (e.g., number of sides and vertices/\"corners\") and other attributes (e.g., having sides of equal length).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/G/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-g-b-5",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.G.B.5",
+    "description": "Model shapes in the world by building shapes from components (e.g., sticks and clay balls) and drawing shapes.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/G/",
+    "verified": true
+  },
+  {
+    "id": "ccss-math-k-g-b-6",
+    "framework": "ccss-math",
+    "code": "CCSS.Math.Content.K.G.B.6",
+    "description": "Compose simple shapes to form larger shapes. For example, \"Can you join these two triangles with full sides touching to make a rectangle\"?",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/Math/Content/K/G/",
+    "verified": true
+  }
+]

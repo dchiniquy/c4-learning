@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { LessonSchema, StandardSchema, type ContentBundle } from './schema'
+import { LessonSchema, ScheduleBlockSchema, StandardSchema, type ContentBundle } from './schema'
 import { validateContent } from './validate'
 
 // Synthetic fixtures for exercising the validator. Not real curriculum content.
@@ -16,7 +16,7 @@ const schedule = {
 
 const bundle = (over: Partial<ContentBundle> = {}): ContentBundle =>
   structuredClone({
-    standards: [standard], skills: [skill], lessons: [lesson], schedules: [schedule], ...over,
+    standards: [standard], skills: [skill], lessons: [lesson], sequences: [], schedules: [schedule], ...over,
   }) as unknown as ContentBundle
 
 describe('validateContent', () => {
@@ -25,7 +25,7 @@ describe('validateContent', () => {
   })
 
   it('accepts an empty bundle', () => {
-    expect(validateContent({ standards: [], skills: [], lessons: [], schedules: [] })).toEqual([])
+    expect(validateContent({ standards: [], skills: [], lessons: [], sequences: [], schedules: [] })).toEqual([])
   })
 
   it('flags duplicate ids and unknown references', () => {
@@ -110,6 +110,38 @@ describe('validateContent', () => {
     const errors = validateContent(b)
     expect(errors.some((e) => e.includes('overlaps'))).toBe(true)
     expect(errors.some((e) => e.includes('from grade 1'))).toBe(true)
+  })
+})
+
+describe('sequences', () => {
+  const seq = { id: 'seq-a', grade: '1', subject: 'math', name: 'Seq', lessonIds: ['lesson-a'] } as const
+
+  it('accepts a sequence of matching lessons used by a matching schedule', () => {
+    const b = bundle({ sequences: [structuredClone(seq) as never] })
+    delete (b.schedules[0].blocks[0] as { lessonId?: string }).lessonId
+    b.schedules[0].blocks[0].sequenceId = 'seq-a'
+    expect(validateContent(b)).toEqual([])
+  })
+
+  it('flags unknown lessons, grade or subject mismatches, and repeats', () => {
+    const b = bundle({ sequences: [{ ...structuredClone(seq), subject: 'literacy', lessonIds: ['lesson-a', 'lesson-a', 'nope'] } as never] })
+    const errors = validateContent(b)
+    expect(errors.some((e) => e.includes('unknown lesson "nope"'))).toBe(true)
+    expect(errors.some((e) => e.includes('includes "lesson-a"'))).toBe(true)
+    expect(errors.some((e) => e.includes('lists a lesson twice'))).toBe(true)
+  })
+
+  it('flags blocks that use an unknown sequence or one from another grade', () => {
+    const b = bundle({ sequences: [{ ...structuredClone(seq), grade: 'k' } as never] })
+    b.schedules[0].blocks[0].sequenceId = 'missing'
+    expect(validateContent(b).some((e) => e.includes('unknown sequence "missing"'))).toBe(true)
+    b.schedules[0].blocks[0].sequenceId = 'seq-a'
+    expect(validateContent(b).some((e) => e.includes('from grade k'))).toBe(true)
+  })
+
+  it('does not allow a block to have both a lesson and a sequence', () => {
+    const block = { ...schedule.blocks[0], sequenceId: 'seq-a' }
+    expect(ScheduleBlockSchema.safeParse(block).success).toBe(false)
   })
 })
 

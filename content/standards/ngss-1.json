@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ngss-1-ps4-1",
+    "framework": "ngss",
+    "code": "1-PS4-1",
+    "description": "Plan and conduct investigations to provide evidence that vibrating materials can make sound and that sound can make materials vibrate.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ps4-waves-and-their-applications-technologies-information-transfer",
+    "verified": true
+  },
+  {
+    "id": "ngss-1-ps4-2",
+    "framework": "ngss",
+    "code": "1-PS4-2",
+    "description": "Make observations to construct an evidence-based account that objects in darkness can be seen only when illuminated.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ps4-waves-and-their-applications-technologies-information-transfer",
+    "verified": true
+  },
+  {
+    "id": "ngss-1-ps4-3",
+    "framework": "ngss",
+    "code": "1-PS4-3",
+    "description": "Plan and conduct investigations to determine the effect of placing objects made with different materials in the path of a beam of light.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ps4-waves-and-their-applications-technologies-information-transfer",
+    "verified": true
+  },
+  {
+    "id": "ngss-1-ps4-4",
+    "framework": "ngss",
+    "code": "1-PS4-4",
+    "description": "Use tools and materials to design and build a device that uses light or sound to solve the problem of communicating over a distance.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ps4-waves-and-their-applications-technologies-information-transfer",
+    "verified": true
+  },
+  {
+    "id": "ngss-1-ls1-1",
+    "framework": "ngss",
+    "code": "1-LS1-1",
+    "description": "Use materials to design a solution to a human problem by mimicking how plants and/or animals use their external parts to help them survive, grow, and meet their needs.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ls1-molecules-organisms-structures-and-processes",
+    "verified": true
+  },
+  {
+    "id": "ngss-1-ls1-2",
+    "framework": "ngss",
+    "code": "1-LS1-2",
+    "description": "Read texts and use media to determine patterns in behavior of parents and offspring that help offspring survive.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ls1-molecules-organisms-structures-and-processes",
+    "verified": true
+  },
+  {
+    "id": "ngss-1-ls3-1",
+    "framework": "ngss",
+    "code": "1-LS3-1",
+    "description": "Make observations to construct an evidence-based account that young plants and animals are like, but not exactly like, their parents.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ls3-heredity-inheritance-and-variation-traits",
+    "verified": true
+  },
+  {
+    "id": "ngss-1-ess1-1",
+    "framework": "ngss",
+    "code": "1-ESS1-1",
+    "description": "Use observations of the sun, moon, and stars to describe patterns that can be predicted.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ess1-earths-place-universe",
+    "verified": true
+  },
+  {
+    "id": "ngss-1-ess1-2",
+    "framework": "ngss",
+    "code": "1-ESS1-2",
+    "description": "Make observations at different times of year to relate the amount of daylight to the time of year.",
+    "grade": "1",
+    "source": "https://www.nextgenscience.org/dci-arrangement/1-ess1-earths-place-universe",
+    "verified": true
+  }
+]

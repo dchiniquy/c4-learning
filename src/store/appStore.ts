@@ -37,7 +37,9 @@ export type AppState = {
   /** Marks an activity done and adds this play-through's attempts and time to any earlier totals. */
   recordActivity(input: ActivityRecordInput): Promise<void>
   loadChecks(childId: string, date: string): Promise<ScheduleCheck[]>
-  setBlockDone(childId: string, date: string, blockKey: string, done: boolean): Promise<void>
+  /** All check-offs for a child, across dates (used to work out which lesson comes next in a sequence). */
+  loadAllChecks(childId: string): Promise<ScheduleCheck[]>
+  setBlockDone(childId: string, date: string, blockKey: string, done: boolean, lessonId?: string): Promise<void>
   exportData(): Promise<ExportData>
   importData(data: ExportData): Promise<void>
 }
@@ -115,8 +117,10 @@ export function createAppStore(progress: ProgressStore) {
 
     loadChecks: (childId, date) => progress.getChecks(childId, date),
 
-    async setBlockDone(childId, date, blockKey, done) {
-      if (done) await progress.setCheck({ childId, date, blockKey, completedAt: Date.now() })
+    loadAllChecks: (childId) => progress.listChecks(childId),
+
+    async setBlockDone(childId, date, blockKey, done, lessonId) {
+      if (done) await progress.setCheck({ childId, date, blockKey, completedAt: Date.now(), ...(lessonId ? { lessonId } : {}) })
       else await progress.removeCheck(childId, date, blockKey)
     },
 

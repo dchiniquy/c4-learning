@@ -1,0 +1,155 @@
+[
+  {
+    "id": "ccss-ela-rf-k-1",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.1",
+    "description": "Demonstrate understanding of the organization and basic features of print.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-1-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.1.a",
+    "description": "Follow words from left to right, top to bottom, and page by page.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-1-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.1.b",
+    "description": "Recognize that spoken words are represented in written language by specific sequences of letters.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-1-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.1.c",
+    "description": "Understand that words are separated by spaces in print.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-1-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.1.d",
+    "description": "Recognize and name all upper- and lowercase letters of the alphabet.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-2",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.2",
+    "description": "Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-2-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.2.a",
+    "description": "Recognize and produce rhyming words.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-2-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.2.b",
+    "description": "Count, pronounce, blend, and segment syllables in spoken words.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-2-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.2.c",
+    "description": "Blend and segment onsets and rimes of single-syllable spoken words.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-2-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.2.d",
+    "description": "Isolate and pronounce the initial, medial vowel, and final sounds (phonemes) in three-phoneme (consonant-vowel-consonant, or CVC) words.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-2-e",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.2.e",
+    "description": "Add or substitute individual sounds (phonemes) in simple, one-syllable words to make new words.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-3",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.3",
+    "description": "Know and apply grade-level phonics and word analysis skills in decoding words.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-3-a",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.3.a",
+    "description": "Demonstrate basic knowledge of one-to-one letter-sound correspondences by producing the primary sound or many of the most frequent sounds for each consonant.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-3-b",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.3.b",
+    "description": "Associate the long and short sounds with the common spellings (graphemes) for the five major vowels.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-3-c",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.3.c",
+    "description": "Read common high-frequency words by sight (e.g., the, of, to, you, she, my, is, are, do, does).",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-3-d",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.3.d",
+    "description": "Distinguish between similarly spelled words by identifying the sounds of the letters that differ.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  },
+  {
+    "id": "ccss-ela-rf-k-4",
+    "framework": "ccss-ela",
+    "code": "CCSS.ELA-Literacy.RF.K.4",
+    "description": "Read emergent-reader texts with purpose and understanding.",
+    "grade": "k",
+    "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/",
+    "verified": true
+  }
+]
