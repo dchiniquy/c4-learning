@@ -19,3 +19,51 @@ main {
     transition-duration: 0.01ms !important;
   }
 }
+
+label {
+  display: block;
+  margin: 0.75rem 0;
+}
+
+input,
+select {
+  display: block;
+  margin-top: 0.25rem;
+  font: inherit;
+  padding: 0.5rem;
+  min-width: 12rem;
+}
+
+button {
+  font: inherit;
+  padding: 0.6rem 1rem;
+  min-height: 2.75rem;
+  cursor: pointer;
+}
+
+.profile-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+}
+
+.profile-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 9rem;
+  padding: 1.25rem;
+  border: 2px solid currentColor;
+  border-radius: 1rem;
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.4rem;
+}
+
+.avatar {
+  font-size: 3.5rem;
+  line-height: 1;
+}

@@ -14,7 +14,7 @@ Aligned to Common Core (ELA, Math), NGSS, C3 (social studies) and CASEL (SEL); p
 
 ## Status
 
-Early scaffold: Vite + React + TypeScript, content schema and validator, tests, CI. No curriculum content yet.
+Early build: learner profiles, a PIN-gated parent area, local progress storage with backup/restore, and the content schema and validator. No lessons or schedule screens yet.
 
 ## Develop
 
