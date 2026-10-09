@@ -1,0 +1,56 @@
+[
+  {
+    "id": "tx-prek-pk4-viii-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.VIII.A.1",
+    "description": "Child uses a variety of art materials for sensory experiences and exploration.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-viii-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.VIII.A.2",
+    "description": "Child uses art as a form of creative self-expression and representation.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-viii-a-3",
+    "framework": "tx-prek",
+    "code": "PK4.VIII.A.3",
+    "description": "Child demonstrates interest in and shows appreciation for the creative work of others.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-viii-b-1",
+    "framework": "tx-prek",
+    "code": "PK4.VIII.B.1",
+    "description": "Child participates in classroom music activities including singing, playing musical instruments, and moving to rhythms.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-viii-b-2",
+    "framework": "tx-prek",
+    "code": "PK4.VIII.B.2",
+    "description": "Child responds to different musical styles through movement and play.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-viii-c-1",
+    "framework": "tx-prek",
+    "code": "PK4.VIII.C.1",
+    "description": "Child creates or recreates stories, moods, or experiences through dramatic representations.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

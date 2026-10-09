@@ -1,0 +1,137 @@
+[
+  {
+    "id": "tx-prek-pk4-ii-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.II.A.1",
+    "description": "Child shows understanding by responding appropriately to what has been communicated by adults and peers.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.II.A.2",
+    "description": "Child shows understanding by following three-step verbal directions.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-b-1",
+    "framework": "tx-prek",
+    "code": "PK4.II.B.1",
+    "description": "Child uses language for multiple purposes.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-b-2",
+    "framework": "tx-prek",
+    "code": "PK4.II.B.2",
+    "description": "Child engages in conversations in appropriate ways, demonstrating knowledge of verbal and nonverbal conversational rules.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-b-3",
+    "framework": "tx-prek",
+    "code": "PK4.II.B.3",
+    "description": "Child provides appropriate information in various settings.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-b-4",
+    "framework": "tx-prek",
+    "code": "PK4.II.B.4",
+    "description": "Child matches language to social contexts.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-c-1",
+    "framework": "tx-prek",
+    "code": "PK4.II.C.1",
+    "description": "Child’s speech is understood by both familiar and unfamiliar adults and peers.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-c-2",
+    "framework": "tx-prek",
+    "code": "PK4.II.C.2",
+    "description": "Child demonstrates growing understanding of the intonation of language.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-d-1",
+    "framework": "tx-prek",
+    "code": "PK4.II.D.1",
+    "description": "Child understands (receptive) and uses (expressive) a wide variety of words to label, describe and make connections among objects, people, places, actions, and events.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-d-2",
+    "framework": "tx-prek",
+    "code": "PK4.II.D.2",
+    "description": "Child understands (receptive) and uses (expressive) the instructional language of the classroom.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-d-3",
+    "framework": "tx-prek",
+    "code": "PK4.II.D.3",
+    "description": "Child consistently understands (receptive) and uses (expressive) new vocabulary acquired through books, conversations, and play.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-e-1",
+    "framework": "tx-prek",
+    "code": "PK4.II.E.1",
+    "description": "Child typically uses complete sentences of four or more words with age-appropriate grammatical complexity, usually in standard word order.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-e-2",
+    "framework": "tx-prek",
+    "code": "PK4.II.E.2",
+    "description": "Child correctly uses regular and irregular plurals, regular past tense, personal and possessive pronouns, and subject-verb agreement.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-e-3",
+    "framework": "tx-prek",
+    "code": "PK4.II.E.3",
+    "description": "Child uses sentences that combine multiple phrases or ideas.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ii-e-4",
+    "framework": "tx-prek",
+    "code": "PK4.II.E.4",
+    "description": "Child uses sentences that provide many details, remains on topic, and clearly communicates intended meaning.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

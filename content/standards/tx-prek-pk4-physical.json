@@ -1,0 +1,65 @@
+[
+  {
+    "id": "tx-prek-pk4-ix-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.IX.A.1",
+    "description": "Child demonstrates coordination and balance in isolation.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ix-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.IX.A.2",
+    "description": "Child coordinates sequence of movements to perform tasks.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ix-b-1",
+    "framework": "tx-prek",
+    "code": "PK4.IX.B.1",
+    "description": "Child shows control of tasks that require small-muscle strength and control.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ix-b-2",
+    "framework": "tx-prek",
+    "code": "PK4.IX.B.2",
+    "description": "Child shows increasing control of tasks that require eye-hand coordination.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ix-c-1",
+    "framework": "tx-prek",
+    "code": "PK4.IX.C.1",
+    "description": "Child practices good habits of personal safety.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ix-c-2",
+    "framework": "tx-prek",
+    "code": "PK4.IX.C.2",
+    "description": "Child practices good habits of personal health and hygiene.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-ix-c-3",
+    "framework": "tx-prek",
+    "code": "PK4.IX.C.3",
+    "description": "Child identifies good habits of nutrition and exercise.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

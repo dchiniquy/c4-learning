@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tx-prek-pk4-iv-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.IV.A.1",
+    "description": "Child intentionally uses marks, letters, or symbols to record language and verbally shares meaning.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.IV.A.2",
+    "description": "Child independently draws and writes for many purposes to communicate ideas, using a variety of writing tools.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-b-1",
+    "framework": "tx-prek",
+    "code": "PK4.IV.B.1",
+    "description": "Child discusses and contributes ideas for drafts composed in whole/small group writing activities.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-b-2",
+    "framework": "tx-prek",
+    "code": "PK4.IV.B.2",
+    "description": "Child interacts and provides suggestions for revisions (add, take out, change order) and edits (conventions) in whole/small group writing activities.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-b-3",
+    "framework": "tx-prek",
+    "code": "PK4.IV.B.3",
+    "description": "Child shares and celebrates class-made and individual written products.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-c-1",
+    "framework": "tx-prek",
+    "code": "PK4.IV.C.1",
+    "description": "Child writes first name (or nickname) using legible letters in the proper sequence.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-c-2",
+    "framework": "tx-prek",
+    "code": "PK4.IV.C.2",
+    "description": "Child progresses from using scribbles and mock letters to forming letters and letter strings as a way to communicate.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-c-3",
+    "framework": "tx-prek",
+    "code": "PK4.IV.C.3",
+    "description": "Child begins to write familiar words using letter-sound correspondences, often using letters associated with beginning and/or ending sounds to write words.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-c-4",
+    "framework": "tx-prek",
+    "code": "PK4.IV.C.4",
+    "description": "Child uses appropriate directionality when writing (e.g., top to bottom, left to right).",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iv-c-5",
+    "framework": "tx-prek",
+    "code": "PK4.IV.C.5",
+    "description": "Child begins to experiment with punctuation when writing.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

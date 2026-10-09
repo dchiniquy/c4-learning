@@ -1,0 +1,110 @@
+[
+  {
+    "id": "tx-prek-pk4-i-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.I.A.1",
+    "description": "Child is aware of where own body is in space and respects personal boundaries.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.I.A.2",
+    "description": "Child shows self-awareness of physical attributes, personal preferences, and own abilities.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-a-3",
+    "framework": "tx-prek",
+    "code": "PK4.I.A.3",
+    "description": "Child shows reasonable opinion of his own abilities and limitations.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-a-4",
+    "framework": "tx-prek",
+    "code": "PK4.I.A.4",
+    "description": "Child shows initiative in trying new activities and demonstrates perseverance when attempting to overcome obstacles or challenges.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-c-1",
+    "framework": "tx-prek",
+    "code": "PK4.I.C.1",
+    "description": "Child uses effective verbal and nonverbal communication skills to build relationships with adults and peers.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-c-2",
+    "framework": "tx-prek",
+    "code": "PK4.I.C.2",
+    "description": "Child assumes various roles and responsibilities as part of the classroom community.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-c-3",
+    "framework": "tx-prek",
+    "code": "PK4.I.C.3",
+    "description": "Child shows competence in initiating social interactions.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-c-4",
+    "framework": "tx-prek",
+    "code": "PK4.I.C.4",
+    "description": "Child increasingly interacts with peers during cooperative play scenarios that share a common plan and goal.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-c-5",
+    "framework": "tx-prek",
+    "code": "PK4.I.C.5",
+    "description": "Child initiates problem-solving strategies when experiencing conflicts with others and seeks adult support when necessary.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-c-6",
+    "framework": "tx-prek",
+    "code": "PK4.I.C.6",
+    "description": "Child demonstrates empathy and caring for others.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-c-7",
+    "framework": "tx-prek",
+    "code": "PK4.I.C.7",
+    "description": "Child interacts with peers and has preferred friends.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-i-d-1",
+    "framework": "tx-prek",
+    "code": "PK4.I.D.1",
+    "description": "Child demonstrates an understanding that others have perspectives and feelings that are similar and/or different from her own.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

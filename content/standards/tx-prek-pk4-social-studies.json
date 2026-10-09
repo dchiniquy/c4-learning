@@ -1,0 +1,83 @@
+[
+  {
+    "id": "tx-prek-pk4-vii-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.VII.A.1",
+    "description": "Child identifies similarities and differences between himself, classmates, and other people through specific characteristics and cultural influences.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vii-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.VII.A.2",
+    "description": "Child identifies similarities and differences in characteristics of families.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vii-a-3",
+    "framework": "tx-prek",
+    "code": "PK4.VII.A.3",
+    "description": "Child connects his life to events, time, and routines.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vii-b-1",
+    "framework": "tx-prek",
+    "code": "PK4.VII.B.1",
+    "description": "Child demonstrates an understanding that all people need food, clothing, and shelter.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vii-b-2",
+    "framework": "tx-prek",
+    "code": "PK4.VII.B.2",
+    "description": "Child demonstrates an understanding of what it means to be a consumer.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vii-b-3",
+    "framework": "tx-prek",
+    "code": "PK4.VII.B.3",
+    "description": "Child discusses the roles and responsibilities of family, school, and community helpers.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vii-c-1",
+    "framework": "tx-prek",
+    "code": "PK4.VII.C.1",
+    "description": "Child identifies and creates common geographic features.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vii-c-2",
+    "framework": "tx-prek",
+    "code": "PK4.VII.C.2",
+    "description": "Child explores geography tools and resources.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vii-d-3",
+    "framework": "tx-prek",
+    "code": "PK4.VII.D.3",
+    "description": "The child engages in voting as a method for group decision-making.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tx-prek-pk4-iii-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.III.A.1",
+    "description": "Child engages in story-related pre-reading activities.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.III.A.2",
+    "description": "Child self-selects books and other written materials to engage in pre-reading behaviors.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-a-3",
+    "framework": "tx-prek",
+    "code": "PK4.III.A.3",
+    "description": "Child recognizes that all print carries meaning and serves as a means for communication.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-d-1",
+    "framework": "tx-prek",
+    "code": "PK4.III.D.1",
+    "description": "Child retells or re-enacts a story with a clear beginning, middle, and end.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-d-2",
+    "framework": "tx-prek",
+    "code": "PK4.III.D.2",
+    "description": "Child uses information learned from books by describing, relating, categorizing, or comparing and contrasting.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-d-3",
+    "framework": "tx-prek",
+    "code": "PK4.III.D.3",
+    "description": "Child asks and responds to questions relevant to the text read aloud.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-d-4",
+    "framework": "tx-prek",
+    "code": "PK4.III.D.4",
+    "description": "Child makes inferences and predictions about a text.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-e-1",
+    "framework": "tx-prek",
+    "code": "PK4.III.E.1",
+    "description": "Child can distinguish between elements of print including letters, words, and pictures.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-e-2",
+    "framework": "tx-prek",
+    "code": "PK4.III.E.2",
+    "description": "Child holds books right side up and demonstrates understanding of print directionality (e.g., knows where a book starts and ends, turns pages, points to words left to right, top to bottom, with correct sweeping).",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-iii-e-3",
+    "framework": "tx-prek",
+    "code": "PK4.III.E.3",
+    "description": "Child can identify some conventional features of print that communicate meaning including end punctuation and case.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

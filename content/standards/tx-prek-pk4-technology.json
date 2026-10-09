@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tx-prek-pk4-x-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.X.A.1",
+    "description": "Child opens and navigates through digital learning applications and programs, when appropriate.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-x-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.X.A.2",
+    "description": "Child uses and names a variety of digital tools that support and enhance learning.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-x-a-3",
+    "framework": "tx-prek",
+    "code": "PK4.X.A.3",
+    "description": "Child uses digital learning applications to contribute to class-made digital products that express own ideas, as appropriate.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-x-a-4",
+    "framework": "tx-prek",
+    "code": "PK4.X.A.4",
+    "description": "Child uses technology to access appropriate information, with adult assistance.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-x-a-5",
+    "framework": "tx-prek",
+    "code": "PK4.X.A.5",
+    "description": "Child practices safe behavior while using digital tools and resources.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

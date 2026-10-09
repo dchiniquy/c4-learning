@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tx-prek-pk4-v-d-1",
+    "framework": "tx-prek",
+    "code": "PK4.V.D.1",
+    "description": "Child recognizes and compares heights or lengths of people or objects.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-v-d-2",
+    "framework": "tx-prek",
+    "code": "PK4.V.D.2",
+    "description": "Child recognizes and compares capacity based on how much space exists within an object.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-v-d-3",
+    "framework": "tx-prek",
+    "code": "PK4.V.D.3",
+    "description": "Child recognizes and compares weights of objects.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-v-d-4",
+    "framework": "tx-prek",
+    "code": "PK4.V.D.4",
+    "description": "Child uses language to describe concepts associated with the passing of time within a day.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

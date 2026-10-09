@@ -1,0 +1,101 @@
+[
+  {
+    "id": "tx-prek-pk4-vi-a-1",
+    "framework": "tx-prek",
+    "code": "PK4.VI.A.1",
+    "description": "Child observes, investigates, describes, and discusses characteristics of common objects.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-a-2",
+    "framework": "tx-prek",
+    "code": "PK4.VI.A.2",
+    "description": "Child observes, investigates, describes, and discusses position and motion of objects.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-a-3",
+    "framework": "tx-prek",
+    "code": "PK4.VI.A.3",
+    "description": "Child uses simple scientific tools to learn about objects.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-a-4",
+    "framework": "tx-prek",
+    "code": "PK4.VI.A.4",
+    "description": "Child observes, investigates, describes, and discusses sources of energy including light, heat, and electricity.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-b-1",
+    "framework": "tx-prek",
+    "code": "PK4.VI.B.1",
+    "description": "Child observes, investigates, describes, and discusses the characteristics of organisms.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-b-2",
+    "framework": "tx-prek",
+    "code": "PK4.VI.B.2",
+    "description": "Child observes, describes, and discusses the life cycles of organisms.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-b-3",
+    "framework": "tx-prek",
+    "code": "PK4.VI.B.3",
+    "description": "Child observes, investigates, describes, and discusses the relationship of organisms in their environments.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-c-1",
+    "framework": "tx-prek",
+    "code": "PK4.VI.C.1",
+    "description": "Child observes, investigates, describes, and discusses earth materials, and their properties and uses.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-c-2",
+    "framework": "tx-prek",
+    "code": "PK4.VI.C.2",
+    "description": "Child identifies, observes, describes, and discusses objects in the sky.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-c-3",
+    "framework": "tx-prek",
+    "code": "PK4.VI.C.3",
+    "description": "Child observes and describes what happens during changes in the earth and sky.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  },
+  {
+    "id": "tx-prek-pk4-vi-c-4",
+    "framework": "tx-prek",
+    "code": "PK4.VI.C.4",
+    "description": "Child demonstrates an understanding of the importance of caring for our environment and our planet.",
+    "grade": "prek",
+    "source": "https://tea.texas.gov/sites/default/files/2022-texas-prekindergarten-guidelines-pk4-streamlined.pdf",
+    "verified": true
+  }
+]

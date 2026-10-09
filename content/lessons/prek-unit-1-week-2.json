@@ -1,0 +1,502 @@
+[
+  {
+    "id": "pk-w2-listening-walk",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Listening walk",
+    "version": 1,
+    "skillIds": [
+      "pk-describe"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-listening-walk-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Listening walk",
+        "minutes": 15,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Take a short walk inside or outside. Stop and be very quiet for a few moments, just listening.",
+          "Ask: \"What did you hear?\" Help them with describing words: loud, quiet, high, low, buzzing, tapping.",
+          "Make a sound yourself, such as tapping a cup or crinkling paper, and ask them to describe it.",
+          "Take turns: they make a sound with their eyes closed and you describe it."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-same-or-different",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Same or different?",
+    "version": 1,
+    "skillIds": [
+      "pk-same-different-sounds"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-same-or-different-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Same or different?",
+        "minutes": 15,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Say two words that sound almost the same, such as \"cat\" and \"cap.\" Ask: \"Are they the same word or different words?\"",
+          "Try pairs like bat/bat, pig/big, ship/sip, and sock/sock. Cover your mouth so they listen instead of watching your lips.",
+          "Let them make up pairs for you to judge.",
+          "Say a word wrong on purpose (\"sock\" for \"rock\") and let them catch the silly mistake."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-feel-the-letters",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Feel the letters",
+    "version": 1,
+    "skillIds": [
+      "pk-letter-names"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-feel-the-letters-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Feel the letters",
+        "minutes": 15,
+        "materials": [
+          "a tray or baking sheet",
+          "a thin layer of salt, sand, or cornmeal"
+        ],
+        "parentPrompts": [
+          "Spread the salt or cornmeal on the tray. Wash hands afterward, and keep it out of mouths and eyes.",
+          "Write a letter with your finger and ask: \"Do you know this letter?\" Name it together.",
+          "Let them trace over it with their finger, then try writing their own. Smooth the tray to start again.",
+          "Start with letters from their name, then add one or two new ones each time."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-silly-sound-sentences",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Silly sound sentences",
+    "version": 1,
+    "skillIds": [
+      "pk-first-sounds"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-silly-sound-sentences-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Silly sound sentences",
+        "minutes": 15,
+        "materials": [
+          "a few small objects that start with the same sound, such as sock, sun, and spoon"
+        ],
+        "parentPrompts": [
+          "Show the objects and say each one, stretching the first sound: \"sssock, sssun, sssspoon.\"",
+          "Ask: \"What sound do they all start with?\"",
+          "Make a silly sentence together: \"Sammy sees seven silly socks.\"",
+          "Let them pick a new sound and hunt for objects that start with it."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-senses-book",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Read about the five senses",
+    "version": 1,
+    "skillIds": [
+      "pk-listen-story"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-senses-book-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read about the five senses",
+        "minutes": 15,
+        "materials": [
+          "a picture book about the senses"
+        ],
+        "parentPrompts": [
+          "Read the book, pausing to point at pictures. Ask: \"What can we see here? What might it smell like?\"",
+          "Name the five senses together and tap the body part for each: eyes, ears, nose, tongue, hands.",
+          "Ask: \"Which sense do you like best? Why?\"",
+          "After the book, ask them to tell you something they learned."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-count-the-taps",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Count the taps",
+    "version": 1,
+    "skillIds": [
+      "pk-rote-count",
+      "pk-count-objects"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-count-the-taps-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count the taps",
+        "minutes": 20,
+        "materials": [
+          "a spoon and a pot, or a drum"
+        ],
+        "parentPrompts": [
+          "Count from 1 to 10 together while you tap the pot with each number.",
+          "Tap a few times while they close their eyes. Ask: \"How many taps did you hear?\" Tap again slowly so they can count.",
+          "Switch: they tap and you count. Sometimes make a mistake and let them catch it.",
+          "Try loud taps and soft taps. Count each kind separately."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-touch-box-sort",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Touch box sort",
+    "version": 1,
+    "skillIds": [
+      "pk-sort",
+      "pk-observe-objects"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-touch-box-sort-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Touch box sort",
+        "minutes": 20,
+        "materials": [
+          "a paper bag or box",
+          "a few objects that feel different, such as a cotton ball, sandpaper, a smooth stone, and a soft cloth"
+        ],
+        "parentPrompts": [
+          "Put one object in the bag. Ask them to reach in without looking and describe how it feels.",
+          "Reveal it and talk about it: \"Was it rough or smooth? Soft or hard?\"",
+          "Sort the objects into two groups, such as rough and smooth.",
+          "Ask: \"How are these alike? How are they different?\" Keep small objects out of mouths."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-numbers-6-to-10",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Numbers 6 to 10",
+    "version": 1,
+    "skillIds": [
+      "pk-numerals-10"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-numbers-6-to-10-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Numbers 6 to 10",
+        "minutes": 20,
+        "materials": [
+          "index cards with the numerals 6 to 10 written on them",
+          "small objects like blocks or large buttons"
+        ],
+        "parentPrompts": [
+          "Lay out the cards in order and say each number. Ask them to point to the number you say.",
+          "Hold up a card and have them build a group of that many objects. Count together to check.",
+          "Show a group and ask them to find the matching card.",
+          "Play \"what comes next?\" by pointing to 6, 7, 8 and pausing."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-more-or-fewer",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "More or fewer?",
+    "version": 1,
+    "skillIds": [
+      "pk-compare-sets"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-more-or-fewer-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "More or fewer?",
+        "minutes": 20,
+        "materials": [
+          "two plates",
+          "about 20 snack pieces such as banana slices or cereal rings"
+        ],
+        "parentPrompts": [
+          "Check for food allergies first. Skip hard or round foods that are a choking risk, like whole grapes or nuts.",
+          "Put a different number of snack pieces on each plate, using 10 or fewer. Ask: \"Which plate has more? Which has fewer?\"",
+          "Count each plate to check. Then line the pieces up in pairs to see which has extras.",
+          "Change the amounts and ask again. Let them eat the extras at the end."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-texture-patterns",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Patterns with textures",
+    "version": 1,
+    "skillIds": [
+      "pk-patterns"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-texture-patterns-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Patterns with textures",
+        "minutes": 20,
+        "materials": [
+          "two kinds of fabric or paper squares, such as felt and sandpaper"
+        ],
+        "parentPrompts": [
+          "Start a pattern: rough, smooth, rough, smooth. Ask: \"What comes next?\"",
+          "Let them continue the pattern and touch each piece as they go.",
+          "Try a new pattern: rough, rough, smooth, rough, rough, smooth.",
+          "Take turns making a pattern for each other to continue."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-texture-rubbings",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Texture rubbings",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-observe-objects"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-texture-rubbings-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Texture rubbings",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "peeled crayons",
+          "things with texture like leaves, coins, and a tile"
+        ],
+        "parentPrompts": [
+          "Place a leaf or coin under the paper and rub the side of a crayon across it until the shape appears.",
+          "Try different objects. Ask: \"What do you notice? Which pattern is bumpy?\"",
+          "Let them arrange their rubbings into a collage.",
+          "Ask them to describe their favorite texture."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-paint-to-music",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Paint to music",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-music-move"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-paint-to-music-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Paint to music",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "washable paint or crayons",
+          "music you can play"
+        ],
+        "parentPrompts": [
+          "Play a slow song and ask them to move the brush or crayon the way the music feels.",
+          "Switch to a fast song. Notice how the lines change.",
+          "Ask: \"What did the music make you want to draw?\"",
+          "Hang the artwork and let them tell you about it."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-scented-playdough",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Cinnamon playdough",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-observe-objects"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-scented-playdough-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Cinnamon playdough",
+        "minutes": 20,
+        "materials": [
+          "playdough",
+          "a little ground cinnamon"
+        ],
+        "parentPrompts": [
+          "Check for allergies first. This is for smelling and squishing, not for eating.",
+          "Knead a pinch of cinnamon into the playdough together. Ask: \"What do you smell?\"",
+          "Roll, pinch, and shape the dough. Describe how it feels.",
+          "Make something together: a snake, a ball, or a bowl."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-color-mixing",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Mix colors",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-observe-objects"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-color-mixing-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Mix colors",
+        "minutes": 20,
+        "materials": [
+          "washable paint in red, yellow, and blue",
+          "a paper plate",
+          "paper"
+        ],
+        "parentPrompts": [
+          "Put a small blob of two colors on the plate. Ask: \"What do you think will happen if we mix them?\"",
+          "Mix with a finger or brush and look at what appears. Try red and yellow, then blue and yellow.",
+          "Name the new colors together.",
+          "Paint a picture using the colors you made."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w2-draw-what-you-hear",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 2,
+    "title": "Draw what you hear",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-describe"
+    ],
+    "activities": [
+      {
+        "id": "pk-w2-draw-what-you-hear-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw what you hear",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons",
+          "a jar with a few dry beans or rice, taped shut"
+        ],
+        "parentPrompts": [
+          "Have your child close their eyes while you shake the sealed jar, tap a table, or crinkle paper.",
+          "Ask them to draw what the sound makes them think of.",
+          "Talk about it: \"Was it loud? Was it fast? What does it look like?\"",
+          "Switch: you draw what you hear while they make the sound."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

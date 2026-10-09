@@ -1,0 +1,499 @@
+[
+  {
+    "id": "pk-w4-sort-by-first-sound",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Sort by first sound",
+    "version": 1,
+    "skillIds": [
+      "pk-first-sounds"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-sort-by-first-sound-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Sort by first sound",
+        "minutes": 15,
+        "materials": [
+          "small objects or pictures that start with two different sounds, such as sock and moon"
+        ],
+        "parentPrompts": [
+          "Pick two sounds, such as /s/ and /m/. Put one object for each sound in separate spots to start.",
+          "Hold up an object, say its name, and stretch the first sound. Ask them to put it with the matching group.",
+          "Say the sound before each object: \"Does moon start with sss or mmm?\"",
+          "Let them find new objects around the house for each group."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-clap-helper-words",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Clap helper words",
+    "version": 1,
+    "skillIds": [
+      "pk-syllables",
+      "pk-helpers"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-clap-helper-words-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Clap helper words",
+        "minutes": 15,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Say each helper word and clap its parts: doc-tor (2), po-lice (2), fire-fight-er (3), teach-er (2), nurse (1).",
+          "Ask: \"How many claps for fire-fighter?\"",
+          "Ask what each helper does, and clap their names again.",
+          "Let them pick a helper for you to clap."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-alphabet-play",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Alphabet song and pointing",
+    "version": 1,
+    "skillIds": [
+      "pk-letter-names"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-alphabet-play-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Alphabet song and pointing",
+        "minutes": 15,
+        "materials": [
+          "an alphabet poster or chart"
+        ],
+        "parentPrompts": [
+          "Sing the alphabet song together while you point to each letter on the chart.",
+          "Slow down and stop at a letter. Ask: \"What letter is this?\"",
+          "Find the letters of their name on the chart and point to each one.",
+          "Pick one letter to look for today on signs, boxes, and books."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-helper-rhymes",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Rhymes with helper words",
+    "version": 1,
+    "skillIds": [
+      "pk-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-helper-rhymes-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Rhymes with helper words",
+        "minutes": 15,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Say a pair of rhymes: nurse and purse, mail and snail, truck and duck. Ask: \"Do they sound the same at the end?\"",
+          "Say three words and ask which one does not rhyme, like \"mail, snail, dog.\"",
+          "Make up silly rhymes for helper words: \"doctor, mocktor.\"",
+          "Take turns making up your own rhyming pairs."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-helpers-book",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Read about helpers",
+    "version": 1,
+    "skillIds": [
+      "pk-listen-story",
+      "pk-retell",
+      "pk-helpers"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-helpers-book-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read about helpers",
+        "minutes": 15,
+        "materials": [
+          "a picture book about community helpers"
+        ],
+        "parentPrompts": [
+          "Read the book together. Ask: \"Who is this helper? How do they help people?\"",
+          "After reading, ask them to retell the story: \"What happened first? Then what? How did it end?\"",
+          "Ask: \"Which helper would you like to be?\"",
+          "Talk about someone who helps your family, such as a neighbor or a teacher."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-my-day",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Morning, afternoon, night",
+    "version": 1,
+    "skillIds": [
+      "pk-time-words"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-my-day-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Morning, afternoon, night",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Draw or talk about three parts of the day: morning, afternoon, and night. Ask: \"What do we do in the morning?\"",
+          "Put pictures or drawings of daily activities in order: wake up, lunch, bath, bedtime.",
+          "Use time words: first, next, later, today, yesterday, tomorrow. Ask: \"What will we do tomorrow?\"",
+          "Ask: \"What happens before bed? What happens after breakfast?\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-longer-or-shorter",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Longer or shorter?",
+    "version": 1,
+    "skillIds": [
+      "pk-length"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-longer-or-shorter-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Longer or shorter?",
+        "minutes": 20,
+        "materials": [
+          "a spoon, a crayon, a shoe, a book, and other household objects"
+        ],
+        "parentPrompts": [
+          "Line up two objects with their ends together at the same starting line. Ask: \"Which is longer? Which is shorter?\"",
+          "Try different pairs. Ask them to predict first, then check.",
+          "Find something longer than a shoe and something shorter than a crayon.",
+          "Line up three objects from shortest to longest."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-which-holds-more",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Which holds more?",
+    "version": 1,
+    "skillIds": [
+      "pk-capacity"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-which-holds-more-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Which holds more?",
+        "minutes": 20,
+        "materials": [
+          "a tub or sink",
+          "a few cups and bowls of different sizes",
+          "water or dry rice"
+        ],
+        "parentPrompts": [
+          "Stay with your child during water play. Use a tub or a sink with just a little water, or use dry rice.",
+          "Fill a small cup and pour it into a big bowl. Ask: \"Does the bowl hold more or less than the cup?\"",
+          "Ask them to guess which container holds the most, then test it by pouring.",
+          "Line up the containers from holds-the-least to holds-the-most."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-heavy-or-light",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Heavy or light?",
+    "version": 1,
+    "skillIds": [
+      "pk-weight"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-heavy-or-light-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Heavy or light?",
+        "minutes": 20,
+        "materials": [
+          "a few objects of different weights, such as a book, a feather, a rock, and a sock"
+        ],
+        "parentPrompts": [
+          "Hold two objects, one in each hand, and ask: \"Which is heavier? Which is lighter?\"",
+          "Let them hold them and guess. Then compare with a homemade balance if you like: a hanger with a small bag on each end.",
+          "Predict first: \"Do you think the book is heavier than the sock?\"",
+          "Find something in the house that is heavy and something that is light."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-join-and-separate",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Join and take away",
+    "version": 1,
+    "skillIds": [
+      "pk-join-separate"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-join-and-separate-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Join and take away",
+        "minutes": 20,
+        "materials": [
+          "up to 5 small toys, such as toy cars"
+        ],
+        "parentPrompts": [
+          "Put 2 cars on the table. Add 1 more car and say: \"2 cars and 1 more car. How many cars now?\" Count to check.",
+          "Take one car away: \"I have 3 cars. One drives away. How many are left?\"",
+          "Tell a little story with each problem, like \"Two cars were parked. One more car came.\"",
+          "Stay with 5 or fewer, and let them move the toys themselves."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-my-day-in-pictures",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Draw my day",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-describe"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-my-day-in-pictures-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw my day",
+        "minutes": 20,
+        "materials": [
+          "a sheet of paper",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Fold the paper into three parts. Label them morning, afternoon, and night, or have your child help.",
+          "Ask them to draw what they do in each part of the day.",
+          "Ask them to tell you about each picture, and write what they say underneath.",
+          "Use the words first, next, and last as they talk."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-helper-hats",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Helper hats",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-helpers"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-helper-hats-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Helper hats",
+        "minutes": 20,
+        "materials": [
+          "construction paper",
+          "tape or stapler (adult use only)",
+          "crayons"
+        ],
+        "parentPrompts": [
+          "Make a paper hat, such as a firefighter helmet or a chef hat. An adult can do the taping or stapling.",
+          "Let them decorate it.",
+          "Put on the hat and pretend to be that helper. Ask: \"How do you help people?\"",
+          "Take turns, and be the person who needs help."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-build-a-town",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Build a town",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-build-a-town-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build a town",
+        "minutes": 20,
+        "materials": [
+          "boxes, blocks, and cardboard tubes",
+          "small toys"
+        ],
+        "parentPrompts": [
+          "Build a town together out of boxes and blocks: a school, a store, a fire station.",
+          "Ask: \"What places are in our town? Who works there?\"",
+          "Use toy cars and people for pretend play.",
+          "Let them describe their town to you like a tour guide."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-thank-you-card",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Thank-you card for a helper",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-helpers"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-thank-you-card-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Thank-you card for a helper",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons or markers"
+        ],
+        "parentPrompts": [
+          "Choose a helper to thank, such as a mail carrier, teacher, neighbor, or doctor.",
+          "Fold a paper in half. Let them draw a picture on the front.",
+          "Write the words they say inside: \"Thank you for helping.\" Let them write their name or a mark.",
+          "Deliver it together."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w4-make-a-shaker",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 4,
+    "title": "Make a shaker",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-music-move"
+    ],
+    "activities": [
+      {
+        "id": "pk-w4-make-a-shaker-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a shaker",
+        "minutes": 20,
+        "materials": [
+          "a small plastic bottle with a cap",
+          "a spoonful of rice",
+          "strong tape"
+        ],
+        "parentPrompts": [
+          "An adult puts a spoonful of rice in the bottle and tapes the cap on tightly. Keep it away from mouths, and check the tape.",
+          "Let them decorate the outside with markers or stickers.",
+          "Shake along to music: fast, slow, loud, and quiet.",
+          "Play stop and go: shake when the music plays, freeze when it stops."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]

@@ -64,7 +64,10 @@
   },
   {
     "prerequisites": [],
-    "standardIds": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-d-1",
+      "tx-prek-pk4-iii-d-3"
+    ],
     "id": "pk-listen-story",
     "subject": "literacy",
     "name": "Listen to a story, talk about it and retell it"
@@ -99,16 +102,217 @@
   },
   {
     "prerequisites": [],
-    "standardIds": [],
+    "standardIds": [
+      "tx-prek-pk4-viii-a-1",
+      "tx-prek-pk4-viii-a-2"
+    ],
     "id": "pk-create-art",
     "subject": "arts",
     "name": "Make art and talk about it"
   },
   {
     "prerequisites": [],
-    "standardIds": [],
+    "standardIds": [
+      "tx-prek-pk4-i-c-6",
+      "tx-prek-pk4-i-d-1"
+    ],
     "id": "pk-feelings",
     "subject": "sel",
     "name": "Name feelings and talk about what helps"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-b-2"
+    ],
+    "id": "pk-same-different-sounds",
+    "subject": "literacy",
+    "name": "Hear whether two words sound the same or different"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-c-1"
+    ],
+    "id": "pk-letter-names",
+    "subject": "literacy",
+    "name": "Recognize and name letters of the alphabet"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-ii-d-1",
+      "tx-prek-pk4-ii-d-3"
+    ],
+    "id": "pk-describe",
+    "subject": "literacy",
+    "name": "Use describing words and new vocabulary"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-b-1"
+    ],
+    "id": "pk-words-in-sentence",
+    "subject": "literacy",
+    "name": "Hear the separate words in a spoken sentence"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-b-3",
+      "tx-prek-pk4-iii-b-4"
+    ],
+    "id": "pk-compound-words",
+    "subject": "literacy",
+    "name": "Put words together and take them apart (compound words)"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-iii-d-1"
+    ],
+    "id": "pk-retell",
+    "subject": "literacy",
+    "name": "Retell a story with a beginning, middle and end"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-a-1"
+    ],
+    "id": "pk-rote-count",
+    "subject": "math",
+    "name": "Count in order from 1 to 30"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-a-5",
+      "tx-prek-pk4-v-a-6"
+    ],
+    "id": "pk-numerals-10",
+    "subject": "math",
+    "name": "Recognize numerals up to 10 and show that many"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-c-1",
+      "tx-prek-pk4-v-c-4"
+    ],
+    "id": "pk-shapes",
+    "subject": "math",
+    "name": "Name common shapes, however they are turned"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-c-2"
+    ],
+    "id": "pk-build-shapes",
+    "subject": "math",
+    "name": "Make shapes and structures from materials"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-c-3"
+    ],
+    "id": "pk-position-words",
+    "subject": "math",
+    "name": "Use position words (on, under, next to, behind)"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-e-2"
+    ],
+    "id": "pk-graph",
+    "subject": "math",
+    "name": "Collect information and show it in a simple graph"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-d-4"
+    ],
+    "id": "pk-time-words",
+    "subject": "math",
+    "name": "Talk about the parts of a day (morning, afternoon, night)"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-d-1"
+    ],
+    "id": "pk-length",
+    "subject": "math",
+    "name": "Compare lengths and heights"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-d-2"
+    ],
+    "id": "pk-capacity",
+    "subject": "math",
+    "name": "Compare how much containers hold"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-d-3"
+    ],
+    "id": "pk-weight",
+    "subject": "math",
+    "name": "Compare which things are heavier or lighter"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-v-b-1",
+      "tx-prek-pk4-v-b-2"
+    ],
+    "id": "pk-join-separate",
+    "subject": "math",
+    "name": "Join and separate small groups (up to 5)"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-vi-a-1"
+    ],
+    "id": "pk-observe-objects",
+    "subject": "science",
+    "name": "Observe and describe how objects look, feel and sound"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-viii-b-1",
+      "tx-prek-pk4-viii-b-2"
+    ],
+    "id": "pk-music-move",
+    "subject": "arts",
+    "name": "Make music and move to rhythm"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-vii-a-2"
+    ],
+    "id": "pk-families",
+    "subject": "social-studies",
+    "name": "Notice how families are alike and different"
+  },
+  {
+    "prerequisites": [],
+    "standardIds": [
+      "tx-prek-pk4-vii-b-3"
+    ],
+    "id": "pk-helpers",
+    "subject": "social-studies",
+    "name": "Talk about the helpers in our community"
   }
 ]

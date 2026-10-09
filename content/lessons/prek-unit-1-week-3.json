@@ -1,0 +1,500 @@
+[
+  {
+    "id": "pk-w3-count-the-words",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Count the words",
+    "version": 1,
+    "skillIds": [
+      "pk-words-in-sentence"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-count-the-words-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count the words",
+        "minutes": 15,
+        "materials": [
+          "blocks or counters"
+        ],
+        "parentPrompts": [
+          "Say a short sentence, like \"I love my family.\" Say it again slowly and put down one block for each word.",
+          "Count the blocks together. Ask: \"How many words did we say?\"",
+          "Let them make up a sentence about home. Say it back, one word at a time, and place the blocks.",
+          "Try a longer sentence and see if they notice it has more blocks."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-put-words-together",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Put two words together",
+    "version": 1,
+    "skillIds": [
+      "pk-compound-words"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-put-words-together-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Put two words together",
+        "minutes": 15,
+        "materials": [
+          "pictures or objects for words like bedroom, cupcake, sunflower, toothbrush"
+        ],
+        "parentPrompts": [
+          "Show a picture of a bed and a room. Say: \"bed... room. Put them together: bedroom!\"",
+          "Try cup + cake, sun + flower, tooth + brush.",
+          "Take one part away: \"Say bedroom. Now say it without bed.\" Use pictures or hand signals to help.",
+          "Look for compound words around the house and say them in two parts."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-family-letters",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Letters in family names",
+    "version": 1,
+    "skillIds": [
+      "pk-letter-names",
+      "pk-first-sounds"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-family-letters-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Letters in family names",
+        "minutes": 15,
+        "materials": [
+          "index cards",
+          "a marker"
+        ],
+        "parentPrompts": [
+          "Write the name of each family member or pet on a card, in big letters.",
+          "Point to the first letter of each name and say its sound. Ask: \"What is the first letter in Grandma?\"",
+          "Find objects around the house that begin with the same sound as each name.",
+          "Ask: \"Whose name starts like yours?\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-rhymes-at-home",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Rhymes around the house",
+    "version": 1,
+    "skillIds": [
+      "pk-rhyme"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-rhymes-at-home-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Rhymes around the house",
+        "minutes": 15,
+        "materials": [
+          "a few household objects like a cup, a bed, a mug, and a chair"
+        ],
+        "parentPrompts": [
+          "Hold up an object and say its name. Ask: \"What rhymes with cup?\" Accept silly words too: \"pup, tup, lup.\"",
+          "Try bed/red, mug/hug, chair/bear. Notice the matching end sounds.",
+          "Say three words and ask which one does not rhyme, like \"bed, red, dog.\"",
+          "Take turns making up rhymes for things in the room."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-families-book",
+    "grade": "prek",
+    "subject": "literacy",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Read about families",
+    "version": 1,
+    "skillIds": [
+      "pk-listen-story",
+      "pk-families"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-families-book-1",
+        "type": "read-aloud",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Read about families",
+        "minutes": 15,
+        "materials": [
+          "a picture book about families or homes"
+        ],
+        "parentPrompts": [
+          "Read the book together. Look for the different people and homes in the pictures.",
+          "Ask: \"Who lives in this family? How is this family like ours? How is it different?\"",
+          "Remind them that families come in many shapes and sizes, and all are good.",
+          "Ask them to tell you who is in their family and what they like to do together."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-count-at-home",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Count things at home",
+    "version": 1,
+    "skillIds": [
+      "pk-count-objects"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-count-at-home-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Count things at home",
+        "minutes": 20,
+        "materials": [
+          "no materials needed"
+        ],
+        "parentPrompts": [
+          "Walk through a room and count things together: chairs, windows, doors, pillows. Keep it to 10 or fewer.",
+          "Touch each thing once as you count. Ask: \"How many?\" and say the last number again.",
+          "Let them pick something to count and tell you how many.",
+          "Make it a game: \"Can you find 4 things that are red?\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-shape-hunt",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Shape hunt",
+    "version": 1,
+    "skillIds": [
+      "pk-shapes"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-shape-hunt-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Shape hunt",
+        "minutes": 20,
+        "materials": [
+          "paper and crayons, optional"
+        ],
+        "parentPrompts": [
+          "Name the shapes first: circle, square, triangle, rectangle. Draw one of each.",
+          "Walk around the house looking for those shapes in doors, plates, windows, and books.",
+          "Ask: \"What shape is this?\" Turn an object upside down or sideways and ask again. A triangle is still a triangle.",
+          "Draw the shapes you found on a list."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-build-a-shape-house",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Build a shape house",
+    "version": 1,
+    "skillIds": [
+      "pk-build-shapes"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-build-a-shape-house-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Build a shape house",
+        "minutes": 20,
+        "materials": [
+          "blocks, or paper shapes cut from construction paper",
+          "glue stick if using paper"
+        ],
+        "parentPrompts": [
+          "Build a house with blocks, or glue paper shapes onto a page: a square for the house, a triangle for the roof.",
+          "Name each shape as you place it. Ask: \"What shape should the door be?\"",
+          "Try making a different building: a tall tower or a long wall.",
+          "Ask them to tell you what each shape is for."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-where-is-it",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Where is it?",
+    "version": 1,
+    "skillIds": [
+      "pk-position-words"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-where-is-it-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Where is it?",
+        "minutes": 20,
+        "materials": [
+          "a small toy",
+          "a box or bowl"
+        ],
+        "parentPrompts": [
+          "Show the toy and place it on, under, next to, and behind the box. Say each position word as you go.",
+          "Hide the toy and give clues: \"It is under something soft.\" Let them look.",
+          "Switch: they hide the toy and give you clues using position words.",
+          "Ask: \"Where is the toy now?\" and have them answer in a sentence."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-favorite-fruit-graph",
+    "grade": "prek",
+    "subject": "math",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Favorite fruit graph",
+    "version": 1,
+    "skillIds": [
+      "pk-graph"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-favorite-fruit-graph-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Favorite fruit graph",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons or stickers",
+          "a ruler or straight edge, optional"
+        ],
+        "parentPrompts": [
+          "Draw three columns on the paper with a picture of an apple, a banana, and an orange at the top.",
+          "Ask each family member (or stuffed animal) which fruit they like best, and let your child add a sticker or drawing in that column.",
+          "Count each column. Ask: \"Which has the most? Which has the fewest?\"",
+          "Ask what you could do with this information, like buying more of the favorite."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-draw-my-home",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Draw my home",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-draw-my-home-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Draw my home",
+        "minutes": 20,
+        "materials": [
+          "paper",
+          "crayons or markers"
+        ],
+        "parentPrompts": [
+          "Ask them to draw the outside of their home, or any place they like to be.",
+          "Add details together: \"What else is at your house? Who is inside?\"",
+          "Ask them to tell you about their drawing, and write a sentence they say at the bottom.",
+          "Hang it up for everyone to see."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-box-house",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Cardboard box house",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-build-shapes"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-box-house-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Cardboard box house",
+        "minutes": 20,
+        "materials": [
+          "a cardboard box",
+          "crayons, markers, or paint",
+          "tape"
+        ],
+        "parentPrompts": [
+          "An adult should cut a door and windows. Little hands can decorate with crayons or paint.",
+          "Ask: \"What rooms does our home have? What goes in each room?\"",
+          "Use it for pretend play with toy people or animals.",
+          "Talk about how people make a place feel like home."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-bag-puppets",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Family paper bag puppets",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-bag-puppets-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Family paper bag puppets",
+        "minutes": 20,
+        "materials": [
+          "paper lunch bags",
+          "crayons or markers",
+          "glue",
+          "paper scraps"
+        ],
+        "parentPrompts": [
+          "Decorate a paper bag as a person or pet, with a face, hair, and clothes.",
+          "Make one for each member of your family, or just a few.",
+          "Put on a little show: \"Let the puppets say hello.\"",
+          "Ask: \"What does this puppet like to do? What does it say?\""
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-playdough-dinner",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Playdough dinner",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-playdough-dinner-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Playdough dinner",
+        "minutes": 20,
+        "materials": [
+          "playdough",
+          "a plate and a spoon for pretend play"
+        ],
+        "parentPrompts": [
+          "Roll, pinch, and flatten playdough to make pretend food: a pizza, noodles, a cake.",
+          "Set the table for your family and pretend to serve a meal.",
+          "Ask: \"What is your favorite food at home?\"",
+          "Count the pieces of food on each plate."
+        ],
+        "payload": {}
+      }
+    ]
+  },
+  {
+    "id": "pk-w3-door-sign",
+    "grade": "prek",
+    "subject": "arts",
+    "unit": "pk-unit-1",
+    "week": 3,
+    "title": "Make a sign for my room",
+    "version": 1,
+    "skillIds": [
+      "pk-create-art",
+      "pk-name-letters"
+    ],
+    "activities": [
+      {
+        "id": "pk-w3-door-sign-1",
+        "type": "offline-task",
+        "mode": "offline",
+        "leadBy": "parent",
+        "title": "Make a sign for my room",
+        "minutes": 20,
+        "materials": [
+          "a sheet of cardstock or paper",
+          "markers",
+          "stickers"
+        ],
+        "parentPrompts": [
+          "Write their name in big letters on the sign, or help them write it themselves.",
+          "Point to each letter and say it. Let them decorate around the name.",
+          "Hang it on their door or wall.",
+          "Ask them to tell you why they like their name."
+        ],
+        "payload": {}
+      }
+    ]
+  }
+]
